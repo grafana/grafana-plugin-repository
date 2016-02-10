@@ -2,7 +2,7 @@
   "version": "1.2.2",
   "plugins": [
     {
-      "id": "app-plugin-example",
+      "id": "app-example",
       "category": "panel",
       "url": "https://github.com/grafana/app-plugin-example",
       "commit": "3c28f65ac6fb7f1e234b0364b97081d836495439",
