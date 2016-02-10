@@ -1,0 +1,1 @@
+# grafana-plugin-repository
