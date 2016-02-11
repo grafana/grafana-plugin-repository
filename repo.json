@@ -3,35 +3,35 @@
   "plugins": [
     {
       "id": "app-example",
-      "category": "panel",
+      "type": "app",
       "url": "https://github.com/grafana/app-plugin-example",
       "commit": "3c28f65ac6fb7f1e234b0364b97081d836495439",
       "version": "1.2.3"
     },
     {
       "id": "panel-plugin-piechart",
-      "category": "panel",
+      "type": "panel",
       "url": "https://github.com/grafana/panel-plugin-piechart",
       "commit": "321b9d978c74b6d7c54690c2f64da70211190a5b",
       "version": "0.9.1"
     },
     {
       "id": "datasource-plugin-genericdatasource",
-      "category": "datasource",
+      "type": "datasource",
       "url": "https://github.com/grafana/datasource-plugin-genericdatasource",
       "commit": "f3506287d3474b46959eea03d234b7cb2bde6c0a",
       "version": "0.1.1"
     },
     {
       "id": "datasource-plugin-kairosdb",
-      "category": "datasource",
+      "type": "datasource",
       "url": "https://github.com/grafana/datasource-plugin-kairosdb",
       "commit": "cc4a3965ef5d3eb1ae0ee4f93e9e78ec7db69e64",
       "version": "1.0.1"
     },
     {
       "id": "datasource-plugin-influxdb-08",
-      "category": "datasource",
+      "type": "datasource",
       "url": "https://github.com/grafana/datasource-plugin-influxdb-08",
       "commit": "520767158616d082e9e884bf520a11d48a9aa533",
       "version": "0.0.1"
