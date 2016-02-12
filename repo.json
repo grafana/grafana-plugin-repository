@@ -30,7 +30,7 @@
           "version": "0.9.1",
           "commit": "3c28f65ac6fb7f1e234b0364b97081d836495439",
           "url": "https://github.com/grafana/app-plugin-example"
-        },
+        }
       ]
     },
     {
