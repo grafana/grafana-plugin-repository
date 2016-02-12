@@ -3,7 +3,7 @@
   "plugins": [
     {
       "id": "app-example",
-      "category": "app",
+      "type": "app",
       "url": "https://github.com/grafana/app-plugin-example",
       "versions": [
         {
@@ -35,7 +35,7 @@
     },
     {
       "id": "panel-plugin-piechart",
-      "category": "panel",
+      "type": "panel",
       "url": "https://github.com/grafana/panel-plugin-piechart",
       "versions": [
         {
@@ -47,7 +47,7 @@
     },
     {
       "id": "datasource-plugin-genericdatasource",
-      "category": "datasource",
+      "type": "datasource",
       "url": "https://github.com/grafana/datasource-plugin-genericdatasource",
       "versions": [
         {
@@ -59,7 +59,7 @@
     },
     {
       "id": "datasource-plugin-kairosdb",
-      "category": "datasource",
+      "type": "datasource",
       "url": "https://github.com/grafana/datasource-plugin-kairosdb",
       "versions": [
         {
@@ -71,7 +71,7 @@
     },
     {
       "id": "datasource-plugin-influxdb-08",
-      "category": "datasource",
+      "type": "datasource",
       "url": "https://github.com/grafana/datasource-plugin-influxdb-08",
       "versions": [
         {
