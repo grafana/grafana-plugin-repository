@@ -73,8 +73,6 @@
       "id": "datasource-plugin-influxdb-08",
       "category": "datasource",
       "url": "https://github.com/grafana/datasource-plugin-influxdb-08",
-      "commit": "520767158616d082e9e884bf520a11d48a9aa533",
-      "version": "0.0.1",
       "versions": [
         {
           "version": "0.0.1",
