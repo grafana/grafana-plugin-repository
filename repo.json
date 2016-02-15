@@ -87,6 +87,7 @@
       "versions": [
         {
           "version": "0.0.1",
+          "commit": "d3c799bc2542679c1a90ae73897427ce115d8d75",
           "url": "https://github.com/mattttt/app-kentik"
         }
       ]
