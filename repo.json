@@ -50,6 +50,11 @@
       "url": "https://github.com/grafana/datasource-plugin-genericdatasource",
       "versions": [
         {
+          "version": "1.0.0",
+          "commit": "d3a4e86a285d93cdb1c123bfb293313a5131f821",
+          "url": "https://github.com/grafana/datasource-plugin-genericdatasource"
+        },
+        {
           "version": "0.1.1",
           "commit": "f3506287d3474b46959eea03d234b7cb2bde6c0a",
           "url": "https://github.com/grafana/datasource-plugin-genericdatasource"
@@ -96,6 +101,6 @@
           "url": "https://github.com/mattttt/app-kentik"
         }
       ]
-    }    
+    }
   ]
 }
