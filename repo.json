@@ -51,7 +51,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "d3a4e86a285d93cdb1c123bfb293313a5131f821",
+          "commit": "19daaeeaace9db13eab781fb72e843e803117ff2",
           "url": "https://github.com/grafana/datasource-plugin-genericdatasource"
         },
         {
