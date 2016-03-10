@@ -32,40 +32,40 @@
     {
       "id": "kairosdb-datasource",
       "type": "datasource",
-      "url": "https://github.com/grafana/datasource-plugin-kairosdb",
+      "url": "https://github.com/grafana/kairosdb-datasource",
       "versions": [
         {
           "version": "1.0.0",
           "commit": "05720df07fe1b8fa46bf1c1f871a3a49e425fb6e",
-          "url": "https://github.com/grafana/datasource-plugin-kairosdb"
+          "url": "https://github.com/grafana/kairosdb-datasource"
         },
         {
           "version": "0.9.0",
           "commit": "ba294455d646e31979b832932c789636d6bba4aa",
-          "url": "https://github.com/grafana/datasource-plugin-kairosdb"
+          "url": "https://github.com/grafana/kairosdb-datasource"
         }
       ]
     },
     {
       "id": "influxdb-08-datasource",
       "type": "datasource",
-      "url": "https://github.com/grafana/datasource-plugin-influxdb-08",
+      "url": "https://github.com/grafana/influxdb-08-datasource",
       
       "versions": [
         {
           "version": "1.0.0",
           "commit": "fb4e477130bf291f8b6cbc563749a6bc9dd71292",
-          "url": "https://github.com/grafana/datasource-plugin-influxdb-08"
+          "url": "https://github.com/grafana/influxdb-08-datasource"
         },
         {
           "version": "0.9.0",
           "commit": "7015e92b32301408e43e39070ad2914211f40b6b",
-          "url": "https://github.com/grafana/datasource-plugin-influxdb-08"
+          "url": "https://github.com/grafana/influxdb-08-datasource"
         },
         {
           "version": "0.0.1",
           "commit": "520767158616d082e9e884bf520a11d48a9aa533",
-          "url": "https://github.com/grafana/datasource-plugin-influxdb-08"
+          "url": "https://github.com/grafana/influxdb-08-datasource"
         }
       ]
     },
