@@ -1,14 +1,14 @@
 {
   "plugins": [
     {
-      "id": "app-example",
+      "id": "example-app",
       "type": "app",
-      "url": "https://github.com/grafana/app-plugin-example",
+      "url": "https://github.com/grafana/example-app",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "05f87e5d19a382b95bbbb3090b50e19be3a0965f",
-          "url": "https://github.com/grafana/app-plugin-example"
+          "commit": "2ab221f9e3392c0adc360f641fe82962d8a7231b",
+          "url": "https://github.com/grafana/example-app"
         }
       ]
     },
@@ -23,7 +23,7 @@
           "url": "https://github.com/grafana/piechart-panel"
         },
         {
-        "version": "0.9.1",
+        "version": "0.9.0",
         "commit": "321b9d978c74b6d7c54690c2f64da70211190a5b",
         "url": "https://github.com/grafana/piechart-panel"
         }
@@ -35,8 +35,13 @@
       "url": "https://github.com/grafana/datasource-plugin-kairosdb",
       "versions": [
         {
+          "version": "1.0.0",
+          "commit": "05720df07fe1b8fa46bf1c1f871a3a49e425fb6e",
+          "url": "https://github.com/grafana/datasource-plugin-kairosdb"
+        },
+        {
           "version": "0.9.0",
-          "commit": "8df83f59d449ca44bd25113eced28c2aac343ae7",
+          "commit": "ba294455d646e31979b832932c789636d6bba4aa",
           "url": "https://github.com/grafana/datasource-plugin-kairosdb"
         }
       ]
@@ -48,8 +53,13 @@
       
       "versions": [
         {
+          "version": "1.0.0",
+          "commit": "fb4e477130bf291f8b6cbc563749a6bc9dd71292",
+          "url": "https://github.com/grafana/datasource-plugin-influxdb-08"
+        },
+        {
           "version": "0.9.0",
-          "commit": "f2dcf3f155c1d271e7da231c4714214dede0f6a7",
+          "commit": "7015e92b32301408e43e39070ad2914211f40b6b",
           "url": "https://github.com/grafana/datasource-plugin-influxdb-08"
         },
         {
