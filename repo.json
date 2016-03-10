@@ -6,78 +6,52 @@
       "url": "https://github.com/grafana/app-plugin-example",
       "versions": [
         {
-          "version": "1.2.3",
-          "commit": "3c28f65ac6fb7f1e234b0364b97081d836495439",
-          "url": "https://github.com/grafana/app-plugin-example"
-        },
-        {
-          "version": "1.2.0",
-          "commit": "3c28f65ac6fb7f1e234b0364b97081d836495439",
-          "url": "https://github.com/grafana/app-plugin-example"
-        },
-        {
-          "version": "1.1.5",
-          "commit": "3c28f65ac6fb7f1e234b0364b97081d836495439",
-          "url": "https://github.com/grafana/app-plugin-example"
-        },
-        {
           "version": "1.0.0",
-          "commit": "3c28f65ac6fb7f1e234b0364b97081d836495439",
-          "url": "https://github.com/grafana/app-plugin-example"
-        },
-        {
-          "version": "0.9.1",
-          "commit": "3c28f65ac6fb7f1e234b0364b97081d836495439",
+          "commit": "05f87e5d19a382b95bbbb3090b50e19be3a0965f",
           "url": "https://github.com/grafana/app-plugin-example"
         }
       ]
     },
     {
-      "id": "panel-plugin-piechart",
+      "id": "piechart-panel",
       "type": "panel",
-      "url": "https://github.com/grafana/panel-plugin-piechart",
-      "versions": [
-        {
-          "version": "0.9.1",
-          "commit": "321b9d978c74b6d7c54690c2f64da70211190a5b",
-          "url": "https://github.com/grafana/panel-plugin-piechart"
-        }
-      ]
-    },
-    {
-      "id": "datasource-plugin-genericdatasource",
-      "type": "datasource",
-      "url": "https://github.com/grafana/datasource-plugin-genericdatasource",
+      "url": "https://github.com/grafana/piechart-panel",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "19daaeeaace9db13eab781fb72e843e803117ff2",
-          "url": "https://github.com/grafana/datasource-plugin-genericdatasource"
+          "commit": "5f88d564ca24b754e8ce452a6b0c4b1f6faa92df",
+          "url": "https://github.com/grafana/piechart-panel"
         },
         {
-          "version": "0.1.1",
-          "commit": "f3506287d3474b46959eea03d234b7cb2bde6c0a",
-          "url": "https://github.com/grafana/datasource-plugin-genericdatasource"
+        "version": "0.9.1",
+        "commit": "321b9d978c74b6d7c54690c2f64da70211190a5b",
+        "url": "https://github.com/grafana/piechart-panel"
         }
       ]
     },
     {
-      "id": "datasource-plugin-kairosdb",
+      "id": "kairosdb-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/datasource-plugin-kairosdb",
       "versions": [
         {
-          "version": "1.0.1",
-          "commit": "cc4a3965ef5d3eb1ae0ee4f93e9e78ec7db69e64",
+          "version": "0.9.0",
+          "commit": "8df83f59d449ca44bd25113eced28c2aac343ae7",
           "url": "https://github.com/grafana/datasource-plugin-kairosdb"
         }
       ]
     },
     {
-      "id": "datasource-plugin-influxdb-08",
+      "id": "influxdb-08-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/datasource-plugin-influxdb-08",
+      
       "versions": [
+        {
+          "version": "0.9.0",
+          "commit": "f2dcf3f155c1d271e7da231c4714214dede0f6a7",
+          "url": "https://github.com/grafana/datasource-plugin-influxdb-08"
+        },
         {
           "version": "0.0.1",
           "commit": "520767158616d082e9e884bf520a11d48a9aa533",
@@ -101,6 +75,29 @@
           "url": "https://github.com/mattttt/app-kentik"
         }
       ]
+    },
+    {
+      "id": "simple-json-datasource",
+      "type": "datasource",
+      "url": "https://github.com/grafana/simple-json-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "dca150324906a52076faf059a2ce0fc3bf2327fc",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
+        {
+          "version": "0.9.0",
+          "commit": "b78720f6e00c115203d8f4c0e81ccd3c16001f94",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
+        {
+          "version": "0.1.1",
+          "commit": "f3506287d3474b46959eea03d234b7cb2bde6c0a",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        }
+      ]
     }
+    
   ]
 }
