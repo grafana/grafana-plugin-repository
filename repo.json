@@ -19,7 +19,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "293a57ce946abe75fe5d29a9c96cdf31d0ecbaa2",
+          "commit": "fd87ffbf099be5d480a8fcd9061a1baadca2a748",
           "url": "https://github.com/grafana/piechart-panel"
         },
         {
@@ -50,7 +50,7 @@
       "id": "influxdb-08-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/influxdb-08-datasource",
-      
+
       "versions": [
         {
           "version": "1.0.0",
@@ -120,6 +120,5 @@
         }
       ]
     }
-    
   ]
 }
