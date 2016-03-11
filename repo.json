@@ -107,6 +107,18 @@
           "url": "https://github.com/grafana/simple-json-datasource"
         }
       ]
+    },
+    {
+      "id": "worldping-app",
+      "type": "app",
+      "url": "https://github.com/raintank/worldping-app",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "851416772cf435c9ea7294b37e5752c9317fcbd8",
+          "url": "https://github.com/raintank/worldping-app"
+        }
+      ]
     }
     
   ]
