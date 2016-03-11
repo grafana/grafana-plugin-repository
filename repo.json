@@ -7,7 +7,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "2ab221f9e3392c0adc360f641fe82962d8a7231b",
+          "commit": "9a5c95b7f63ab2000ab4d07465a3375cf8ed4145",
           "url": "https://github.com/grafana/example-app"
         }
       ]
@@ -19,7 +19,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "54461c245bb2b73d130f9541650f838e253e3586",
+          "commit": "293a57ce946abe75fe5d29a9c96cdf31d0ecbaa2",
           "url": "https://github.com/grafana/piechart-panel"
         },
         {
@@ -36,7 +36,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "05720df07fe1b8fa46bf1c1f871a3a49e425fb6e",
+          "commit": "f1255dd1657c5b0b9d250016b7340d70acb28235",
           "url": "https://github.com/grafana/kairosdb-datasource"
         },
         {
@@ -54,7 +54,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "fb4e477130bf291f8b6cbc563749a6bc9dd71292",
+          "commit": "057a2762eb54c8d87e7c3487b7ab9a4aaff5e7ec",
           "url": "https://github.com/grafana/influxdb-08-datasource"
         },
         {
@@ -93,7 +93,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "dca150324906a52076faf059a2ce0fc3bf2327fc",
+          "commit": "1cca26c2824b57ece7d0dd1f7b64da7171be1ee4",
           "url": "https://github.com/grafana/simple-json-datasource"
         },
         {
