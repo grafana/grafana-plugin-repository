@@ -7,7 +7,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "9a5c95b7f63ab2000ab4d07465a3375cf8ed4145",
+          "commit": "90a70cbfbe1b93af13ac3c0c8a1c89b7d86c5fd1",
           "url": "https://github.com/grafana/example-app"
         }
       ]
@@ -19,7 +19,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "fd87ffbf099be5d480a8fcd9061a1baadca2a748",
+          "commit": "b47404b7361195d0db52598e3b282f2590b065e5",
           "url": "https://github.com/grafana/piechart-panel"
         },
         {
@@ -36,7 +36,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "f1255dd1657c5b0b9d250016b7340d70acb28235",
+          "commit": "c62f66a8cb0c30693a10ad036b76d0ba12150593",
           "url": "https://github.com/grafana/kairosdb-datasource"
         },
         {
@@ -54,7 +54,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "057a2762eb54c8d87e7c3487b7ab9a4aaff5e7ec",
+          "commit": "cc45ba923305304e7d2611e31e631cd27f3f39bb",
           "url": "https://github.com/grafana/influxdb-08-datasource"
         },
         {
@@ -93,7 +93,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "1cca26c2824b57ece7d0dd1f7b64da7171be1ee4",
+          "commit": "5d5a87dfde0ac5d8494f3f2bd91be08665d84bce",
           "url": "https://github.com/grafana/simple-json-datasource"
         },
         {
@@ -115,7 +115,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "851416772cf435c9ea7294b37e5752c9317fcbd8",
+          "commit": "dbdf99168276c817e05489a3c892820811eb706f",
           "url": "https://github.com/raintank/worldping-app"
         }
       ]
