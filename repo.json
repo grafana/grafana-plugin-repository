@@ -7,7 +7,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "90a70cbfbe1b93af13ac3c0c8a1c89b7d86c5fd1",
+          "commit": "b098264b3ee6343d7e6364ed52b2d1b48b88d504",
           "url": "https://github.com/grafana/example-app"
         }
       ]
