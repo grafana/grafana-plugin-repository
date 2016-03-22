@@ -19,7 +19,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "b47404b7361195d0db52598e3b282f2590b065e5",
+          "commit": "b9d18554bf6fa6e5c6a24981f054dd4f81fbe585",
           "url": "https://github.com/grafana/piechart-panel"
         },
         {
