@@ -82,18 +82,6 @@
       ]
     },
     {
-      "id": "app-kentik",
-      "type": "app",
-      "url": "https://github.com/mattttt/app-kentik",
-      "versions": [
-        {
-          "version": "0.0.2",
-          "commit": "6fefb9fe502dde292815e1bfd500e51f41b17eb6",
-          "url": "https://github.com/mattttt/app-kentik"
-        }
-      ]
-    },
-    {
       "id": "simple-json-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/simple-json-datasource",
