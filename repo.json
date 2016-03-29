@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "grafana-clock-panel",
+      "type": "panel",
+      "url": "https://github.com/grafana/clock-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "e811605ac60374cf105c6e9da43624b1bee1d090",
+          "url": "https://github.com/grafana/clock-panel"
+        }
+      ]
+    },
+    {
       "id": "example-app",
       "type": "app",
       "url": "https://github.com/grafana/example-app",
