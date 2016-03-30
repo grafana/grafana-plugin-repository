@@ -66,7 +66,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "7b2c6a04f523d7e014b389b485cc4be8850d9758",
+          "commit": "9b9ff88ab2e715f2879abad24187a4c29e8303dc",
           "url": "https://github.com/grafana/influxdb-08-datasource"
         },
         {
