@@ -104,13 +104,13 @@
       ]
     },
     {
-      "id": "worldping-app",
+      "id": "raintank-worldping-app",
       "type": "app",
       "url": "https://github.com/raintank/worldping-app",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "2e29dad88162ae9c778505cac7d9590d998dd44d",
+          "commit": "bd263eaef3befc837c327565ab68c9c6b661eca2",
           "url": "https://github.com/raintank/worldping-app"
         }
       ]
