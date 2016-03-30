@@ -13,25 +13,25 @@
       ]
     },
     {
-      "id": "example-app",
+      "id": "grafana-example-app",
       "type": "app",
       "url": "https://github.com/grafana/example-app",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "b098264b3ee6343d7e6364ed52b2d1b48b88d504",
+          "commit": "32ab434ca0a130804e5df30586d5cfe0d03e72ec",
           "url": "https://github.com/grafana/example-app"
         }
       ]
     },
     {
-      "id": "piechart-panel",
+      "id": "grafana-piechart-panel",
       "type": "panel",
       "url": "https://github.com/grafana/piechart-panel",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "b9d18554bf6fa6e5c6a24981f054dd4f81fbe585",
+          "commit": "19e0734f1eb2aaabbcc8edcea7de776174c4976c",
           "url": "https://github.com/grafana/piechart-panel"
         },
         {
@@ -42,13 +42,13 @@
       ]
     },
     {
-      "id": "kairosdb-datasource",
+      "id": "grafana-kairosdb-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/kairosdb-datasource",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "c62f66a8cb0c30693a10ad036b76d0ba12150593",
+          "commit": "d9e3dc395732f2afd55099bc760637c8ba96153f",
           "url": "https://github.com/grafana/kairosdb-datasource"
         },
         {
@@ -59,14 +59,14 @@
       ]
     },
     {
-      "id": "influxdb-08-datasource",
+      "id": "grafana-influxdb-08-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/influxdb-08-datasource",
 
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "cc45ba923305304e7d2611e31e631cd27f3f39bb",
+          "commit": "7b2c6a04f523d7e014b389b485cc4be8850d9758",
           "url": "https://github.com/grafana/influxdb-08-datasource"
         },
         {
@@ -82,13 +82,13 @@
       ]
     },
     {
-      "id": "simple-json-datasource",
+      "id": "grafana-simple-json-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/simple-json-datasource",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "5d5a87dfde0ac5d8494f3f2bd91be08665d84bce",
+          "commit": "655efceb80bd4f653650da94002bd7cf9d61bd4e",
           "url": "https://github.com/grafana/simple-json-datasource"
         },
         {
