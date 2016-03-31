@@ -7,7 +7,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "e40284dbd97431858bc850db260dc5c846ff818f",
+          "commit": "21b57d5435cf4791fd16e534001220036f303d83",
           "url": "https://github.com/grafana/clock-panel"
         }
       ]
@@ -19,7 +19,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "90a3f934751aba92824729d986b074ee7a447236",
+          "commit": "ded70ca13975edfae792d31ccbcca5f1a78357c8",
           "url": "https://github.com/grafana/example-app"
         }
       ]
@@ -48,7 +48,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "d9e3dc395732f2afd55099bc760637c8ba96153f",
+          "commit": "cb93046dcc381fee53a857af1139aab78fe014ed",
           "url": "https://github.com/grafana/kairosdb-datasource"
         },
         {
@@ -66,7 +66,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "9b9ff88ab2e715f2879abad24187a4c29e8303dc",
+          "commit": "7f48ee83f42383a9219e95d1e6c4286a4bb698be",
           "url": "https://github.com/grafana/influxdb-08-datasource"
         },
         {
@@ -88,7 +88,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "655efceb80bd4f653650da94002bd7cf9d61bd4e",
+          "commit": "de2974d435c8f393ce69d385ccc8c52928fddfe5",
           "url": "https://github.com/grafana/simple-json-datasource"
         },
         {
@@ -110,7 +110,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "bd263eaef3befc837c327565ab68c9c6b661eca2",
+          "commit": "2cfdd03c6bb56e928a2cbded766b858814eb4f7a",
           "url": "https://github.com/raintank/worldping-app"
         }
       ]
@@ -122,7 +122,7 @@
       "versions": [
         {
           "version": "0.0.2",
-          "commit": "28288f4ca080b47bfa2d0149ff00cde4a45ed791",
+          "commit": "4a47270c1f46a9128eccfaa0f62466f3273d9bbf",
           "url": "https://github.com/raintank/snap-app"
         }
       ]
