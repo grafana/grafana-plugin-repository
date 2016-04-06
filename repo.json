@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "alexanderzobnin-zabbix-app",
+      "type": "app",
+      "url": "https://github.com/alexanderzobnin/grafana-zabbix-app",
+      "versions": [
+        {
+          "version": "3.0.0-beta3",
+          "commit": "751591bdc5f689a3ecb1296963675df538aead8f",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix-app"
+        }
+      ]
+    },
+    {
       "id": "grafana-clock-panel",
       "type": "panel",
       "url": "https://github.com/grafana/clock-panel",
