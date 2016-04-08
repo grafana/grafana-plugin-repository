@@ -110,7 +110,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "de2974d435c8f393ce69d385ccc8c52928fddfe5",
+          "commit": "dabb0609a4afff78672f47b606ec9195fcba999d",
           "url": "https://github.com/grafana/simple-json-datasource"
         },
         {
@@ -122,23 +122,6 @@
           "version": "0.1.1",
           "commit": "f3506287d3474b46959eea03d234b7cb2bde6c0a",
           "url": "https://github.com/grafana/simple-json-datasource"
-        }
-      ]
-    },
-    {
-      "id": "raintank-worldping-app",
-      "type": "app",
-      "url": "https://github.com/raintank/worldping-app",
-      "versions": [
-        {
-          "version": "1.0.2",
-          "commit": "e75a4c70eb35b7d203b58a312510b60716e34e25",
-          "url": "https://github.com/raintank/worldping-app"
-        },
-        {
-          "version": "1.0.1",
-          "commit": "8d5c861837ff1fdc9e02958d15ee2669d4c62c1c",
-          "url": "https://github.com/raintank/worldping-app"
         }
       ]
     },
