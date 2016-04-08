@@ -18,6 +18,11 @@
       "url": "https://github.com/grafana/clock-panel",
       "versions": [
         {
+          "version": "0.0.3",
+          "commit": "518496b45e4b740ec052418d24bd1d1032c0b732",
+          "url": "https://github.com/grafana/clock-panel"
+        },
+        {
           "version": "0.0.2",
           "commit": "0a40148489cd58245302db714638be99f0439eed",
           "url": "https://github.com/grafana/clock-panel"
