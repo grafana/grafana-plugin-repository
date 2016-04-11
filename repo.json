@@ -173,6 +173,18 @@
           "url": "https://github.com/raintank/snap-app"
         }
       ]
+    },
+    {
+      "id": "udoprog-heroic-datasource",
+      "type": "datasource",
+      "url": "https://github.com/udoprog/udoprog-heroic-datasource",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "4c922cee6d8127c87bd0f4b7e1e4c4fa22ff2c91",
+          "url": "https://github.com/udoprog/udoprog-heroic-datasource"
+        }
+      ]
     }
   ]
 }
