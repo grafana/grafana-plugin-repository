@@ -136,6 +136,28 @@
       ]
     },
     {
+    "id": "raintank-worldping-app",
+      "type": "app",
+      "url": "https://github.com/raintank/worldping-app",
+      "versions": [
+        {		
+          "version": "1.0.3",
+          "commit": "6e0553b5802bfcac0a46ebdc7b34c53da6442bca",
+          "url": "https://github.com/raintank/worldping-app"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "e75a4c70eb35b7d203b58a312510b60716e34e25",
+          "url": "https://github.com/raintank/worldping-app"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "8d5c861837ff1fdc9e02958d15ee2669d4c62c1c",
+          "url": "https://github.com/raintank/worldping-app"
+        }
+      ]
+    },
+    {
       "id": "raintank-snap-app",
       "type": "app",
       "url": "https://github.com/raintank/snap-app",
