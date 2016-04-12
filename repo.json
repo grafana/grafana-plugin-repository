@@ -173,18 +173,6 @@
           "url": "https://github.com/raintank/snap-app"
         }
       ]
-    },
-    {
-      "id": "spotify-heroic-datasource",
-      "type": "datasource",
-      "url": "https://github.com/udoprog/spotify-heroic-datasource",
-      "versions": [
-        {
-          "version": "0.0.1",
-          "commit": "275cea11e7c3178646ae7427a3b769462adf5627",
-          "url": "https://github.com/udoprog/spotify-heroic-datasource"
-        }
-      ]
     }
   ]
 }
