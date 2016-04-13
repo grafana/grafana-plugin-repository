@@ -29,7 +29,7 @@
       "versions": [
         {
           "version": "0.0.5",
-          "commit": "cc8b344723e9f92ce5c46be5b0f96ef2d3f6c09b",
+          "commit": "0905e4aa4991b5af9e6c3738fe7771c8f02a2362",
           "url": "https://github.com/grafana/clock-panel"
         },
         {
