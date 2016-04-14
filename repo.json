@@ -7,7 +7,7 @@
       "versions": [
         {
           "version": "3.0.0-beta7",
-          "commit": "a09fb3030e7aaad23a2975d6c914d03ab9f0035f",
+          "commit": "23e5e9e17d4b282fdb71d9f0ce54bdd4c18006c9",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix-app"
         },
         {
