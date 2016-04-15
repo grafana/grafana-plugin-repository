@@ -151,6 +151,18 @@
       ]
     },
     {
+      "id": "opennms-datasource",
+      "type": "datasource",
+      "url": "https://github.com/OpenNMS/grafana-opennms-datasource",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "commit": "c089ce7c2117f709ef4c944a332776dd290055af",
+          "url": "https://github.com/OpenNMS/grafana-opennms-datasource"
+        }
+      ]
+    },
+    {
     "id": "raintank-worldping-app",
       "type": "app",
       "url": "https://github.com/raintank/worldping-app",
