@@ -109,8 +109,12 @@
       "id": "grafana-influxdb-08-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/influxdb-08-datasource",
-
       "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "cab7095b1f512463e4df1277c2c184c49500a4ca",
+          "url": "https://github.com/grafana/influxdb-08-datasource"
+        },
         {
           "version": "1.0.0",
           "commit": "7f48ee83f42383a9219e95d1e6c4286a4bb698be",
@@ -167,22 +171,22 @@
       "type": "app",
       "url": "https://github.com/raintank/worldping-app",
       "versions": [
-        {		
+        {
           "version": "1.0.6",
           "commit": "003e38284168f877da459042ae1d2f40dc1fdaa2",
           "url": "https://github.com/raintank/worldping-app"
         },
-        {		
+        {
           "version": "1.0.5",
           "commit": "ef55d21f886ffb31b9888b36c15389c43512f864",
           "url": "https://github.com/raintank/worldping-app"
         },
-        {		
+        {
           "version": "1.0.4",
           "commit": "3e1070d33998c20314ce58ef9110f16b869b311a",
           "url": "https://github.com/raintank/worldping-app"
         },
-        {		
+        {
           "version": "1.0.3",
           "commit": "6e0553b5802bfcac0a46ebdc7b34c53da6442bca",
           "url": "https://github.com/raintank/worldping-app"
