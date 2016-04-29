@@ -94,6 +94,11 @@
       "url": "https://github.com/grafana/kairosdb-datasource",
       "versions": [
         {
+          "version": "1.0.1",
+          "commit": "71f3372dddc270d5793bf9e9fcd6d6acfd8a0013",
+          "url": "https://github.com/grafana/kairosdb-datasource"
+        },
+        {
           "version": "1.0.0",
           "commit": "cb93046dcc381fee53a857af1139aab78fe014ed",
           "url": "https://github.com/grafana/kairosdb-datasource"
@@ -110,6 +115,11 @@
       "type": "datasource",
       "url": "https://github.com/grafana/influxdb-08-datasource",
       "versions": [
+         {
+          "version": "1.0.2",
+          "commit": "94499ae1267b91109cbf600d58a88ab6f57baf14",
+          "url": "https://github.com/grafana/influxdb-08-datasource"
+        },
         {
           "version": "1.0.1",
           "commit": "cab7095b1f512463e4df1277c2c184c49500a4ca",
