@@ -246,6 +246,18 @@
           "url": "https://github.com/udoprog/udoprog-heroic-datasource"
         }
       ]
+    },
+    {
+      "id": "fastweb-openfalcon-datasource",
+      "type": "datasource",
+      "url": "https://github.com/open-falcon/grafana-openfalcon-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "795af2363a0443014906c35615d25e7ef2dd44a6",
+          "url": "https://github.com/open-falcon/grafana-openfalcon-datasource"
+        }
+      ]
     }
   ]
 }
