@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "grafana-worldmap-panel",
+      "type": "panel",
+      "url": "https://github.com/grafana/worldmap-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "138e3de26e8e947124ce8760ee21bead7156c5ae",
+          "url": "https://github.com/grafana/worldmap-panel"
+        }
+      ]
+    },
+    {
       "id": "alexanderzobnin-zabbix-app",
       "type": "app",
       "url": "https://github.com/alexanderzobnin/grafana-zabbix-app",
@@ -73,7 +85,7 @@
           "version": "1.0.1",
           "commit": "30c060fa52b283852d8ff21f60e0bd07f71286bc",
           "url": "https://github.com/grafana/example-app"
-        },        
+        },
         {
           "version": "1.0.0",
           "commit": "ded70ca13975edfae792d31ccbcca5f1a78357c8",
