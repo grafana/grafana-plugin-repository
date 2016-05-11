@@ -175,6 +175,11 @@
       "url": "https://github.com/grafana/simple-json-datasource",
       "versions": [
         {
+          "version": "1.0.2",
+          "commit": "6b3535e22ed0937a967564f58673fc8d525e9ee0",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
+        {
           "version": "1.0.1",
           "commit": "59dbd96f5271d5c57404d1e2f1e7c4c5720c8f27",
           "url": "https://github.com/grafana/simple-json-datasource"
