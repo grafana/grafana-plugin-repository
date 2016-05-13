@@ -99,6 +99,11 @@
       "url": "https://github.com/grafana/piechart-panel",
       "versions": [
         {
+          "version": "1.1.1",
+          "commit": "52fc72460d69f8c2a204cc30d27e96d69b219b56",
+          "url": "https://github.com/grafana/piechart-panel"
+        },
+        {
           "version": "1.0.1",
           "commit": "5edbfbd366ae3228c103fadd72649f30c6a5f658",
           "url": "https://github.com/grafana/piechart-panel"
