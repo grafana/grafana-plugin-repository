@@ -6,6 +6,11 @@
       "url": "https://github.com/grafana/worldmap-panel",
       "versions": [
         {
+          "version": "0.0.5",
+          "commit": "c69a3b096b908b6a31da29b2dd968daf778955a4",
+          "url": "https://github.com/grafana/worldmap-panel"
+        },
+        {
           "version": "0.0.4",
           "commit": "1957f3a84d4907dc2a3edcb964884fc73d19358b",
           "url": "https://github.com/grafana/worldmap-panel"
