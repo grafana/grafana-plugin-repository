@@ -355,6 +355,18 @@
           "url": "https://github.com/open-falcon/grafana-openfalcon-datasource"
         }
       ]
+    },
+    {
+      "id": "percona-percona-app",
+      "type": "app",
+      "url": "https://github.com/percona/grafana-app",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "8264b8e75eb16fe8a93f6d35c824f3f1a2bd46d5",
+          "url": "https://github.com/percona/grafana-app"
+        }
+      ]
     }
   ]
 }
