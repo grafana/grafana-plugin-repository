@@ -372,6 +372,18 @@
           "url": "https://github.com/percona/grafana-app"
         }
       ]
+    },
+    {
+      "id": "stagemonitor-grafana-elasticsearch",
+      "type": "app",
+      "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch",
+      "versions": [
+        {
+          "version": "0.26.0",
+          "commit": "",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        }
+      ]
     }
   ]
 }
