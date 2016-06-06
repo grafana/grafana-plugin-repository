@@ -374,7 +374,7 @@
       ]
     },
     {
-      "id": "stagemonitor-grafana-elasticsearch",
+      "id": "stagemonitor-elasticsearch-app",
       "type": "app",
       "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch",
       "versions": [
