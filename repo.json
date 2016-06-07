@@ -377,6 +377,18 @@
           "url": "https://github.com/percona/grafana-app"
         }
       ]
+    },
+    {
+      "id": "upwork-atlas-datasource",
+      "type": "datasource",
+      "url": "https://github.com/upwork/grafana-atlas-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "088e52d0df2b2874a2d4bde1dc02ebb087fdcda3",
+          "url": "https://github.com/upwork/grafana-atlas-datasource"
+        }
+      ]
     }
   ]
 }
