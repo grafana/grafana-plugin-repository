@@ -374,13 +374,13 @@
       ]
     },
     {
-      "id": "atlas-datasource",
+      "id": "upwork-atlas-datasource",
       "type": "datasource",
       "url": "https://github.com/upwork/grafana-atlas-datasource",
       "versions": [
         {
-          "version": "1.0.1",
-          "commit": "a8f2ff5a8072d7aad5286271f431ec4fdfe54159",
+          "version": "1.0.0",
+          "commit": "088e52d0df2b2874a2d4bde1dc02ebb087fdcda3",
           "url": "https://github.com/upwork/grafana-atlas-datasource"
         }
       ]
