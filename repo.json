@@ -380,7 +380,7 @@
       "versions": [
         {
           "version": "0.26.0",
-          "commit": "",
+          "commit": "f05cb00ff8b2f2a77b2a570a4d9f6c54bd0099f1",
           "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
         }
       ]
