@@ -419,6 +419,18 @@
           "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
         }
       ]
+    },
+    {
+      "id": "ns1-app",
+      "type": "app",
+      "url": "https://github.com/raintank/ns1-app",
+      "versions": [
+        {
+          "version": "0.0.5",
+          "commit": "59aa85f5bd3adba5cd62b63ad5d864f748e370a1",
+          "url": "https://github.com/raintank/ns1-app"
+        }
+      ]
     }
   ]
 }
