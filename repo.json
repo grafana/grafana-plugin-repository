@@ -431,6 +431,30 @@
           "url": "https://github.com/raintank/ns1-app"
         }
       ]
+    },
+    {
+      "id": "mtanda-histogram-panel",
+      "type": "panel",
+      "url": "https://github.com/mtanda/grafana-histogram-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "db5e235771e754b1e5a68acf1204621cc738ee80",
+          "url": "https://github.com/mtanda/grafana-histogram-panel"
+        }
+      ]
+    },
+    {
+      "id": "mtanda-heatmap-epoch-panel",
+      "type": "panel",
+      "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "713ef26ec3a3525e89e6ec8e383c068614e75179",
+          "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
+        }
+      ]
     }
   ]
 }
