@@ -1,3 +1,4 @@
+
 {
   "plugins": [
     {
@@ -453,6 +454,18 @@
           "version": "0.1.0",
           "commit": "713ef26ec3a3525e89e6ec8e383c068614e75179",
           "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
+        }
+      ]
+    },
+    {
+      "id": "ambari-metrics-grafana",
+      "type": "datasource",
+      "url": "https://github.com/prajwalrao/ambari-metrics-grafana",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "f626cdf11e7a5db0d67c2ca2c59ddcc949c37351",
+          "url": "https://github.com/prajwalrao/ambari-metrics-grafana"
         }
       ]
     }
