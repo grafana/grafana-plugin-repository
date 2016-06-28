@@ -460,6 +460,18 @@
           "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
         }
       ]
+    },
+    {
+      "id": "voxter-app",
+      "type": "app",
+      "url": "https://github.com/raintank/voxter-app",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "a6e0068d93b52d4682853211822d3c71195e2761",
+          "url": "https://github.com/raintank/voxter-app"
+        }
+      ]
     }
   ]
 }
