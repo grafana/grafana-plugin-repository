@@ -489,6 +489,23 @@
           "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource"
         }
       ]
+    },
+    {
+      "id": "ambari-metrics-grafana",
+      "type": "datasource",
+      "url": "https://github.com/prajwalrao/ambari-metrics-grafana",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "3b3c2731d65e1c7d91e9bf8de5d190637a84fb85",
+          "url": "https://github.com/prajwalrao/ambari-metrics-grafana"
+        },
+        {
+          "version": "1.0.0",
+          "commit": "f626cdf11e7a5db0d67c2ca2c59ddcc949c37351",
+          "url": "https://github.com/prajwalrao/ambari-metrics-grafana"
+        }
+      ]
     }
   ]
 }
