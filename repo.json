@@ -491,18 +491,13 @@
       ]
     },
     {
-      "id": "ambari-metrics-grafana",
+      "id": "praj-ams-datasource",
       "type": "datasource",
       "url": "https://github.com/prajwalrao/ambari-metrics-grafana",
       "versions": [
         {
           "version": "1.0.1",
-          "commit": "3b3c2731d65e1c7d91e9bf8de5d190637a84fb85",
-          "url": "https://github.com/prajwalrao/ambari-metrics-grafana"
-        },
-        {
-          "version": "1.0.0",
-          "commit": "f626cdf11e7a5db0d67c2ca2c59ddcc949c37351",
+          "commit": "87ce0f2ada8949266755e4e93c42ae7365a414fc",
           "url": "https://github.com/prajwalrao/ambari-metrics-grafana"
         }
       ]
