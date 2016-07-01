@@ -497,7 +497,7 @@
       "versions": [
         {
           "version": "1.0.1",
-          "commit": "87ce0f2ada8949266755e4e93c42ae7365a414fc",
+          "commit": "2feac1f964fd08c48f12d8973c5a9ae49e46d154",
           "url": "https://github.com/prajwalrao/ambari-metrics-grafana"
         }
       ]
