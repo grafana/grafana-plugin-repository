@@ -475,6 +475,31 @@
       "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel",
       "versions": [
         {
+          "version": "0.1.7",
+          "commit": "e1ec956e86e55d9a3d06554df03641773c146fa9",
+          "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
+        },
+        {
+          "version": "0.1.6",
+          "commit": "84d37548d8b3e1a1ba73bafe28059395c2eac68d",
+          "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
+        },
+        {
+          "version": "0.1.5",
+          "commit": "8ee7d63b71f10700c2bbda508c2411b68f06fe29",
+          "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
+        },
+        {
+          "version": "0.1.4",
+          "commit": "caea4c023586702c56419c15e1798a211cd35caf",
+          "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
+        },
+        {
+          "version": "0.1.3",
+          "commit": "6144fac8205a709c1d406c90e21f84e6a8f30254",
+          "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
+        },
+        {
           "version": "0.1.2",
           "commit": "f1a15ae5bdcea5ad6c26ed6b663171b0937c3207",
           "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
