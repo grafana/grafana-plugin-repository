@@ -526,6 +526,18 @@
           "url": "https://github.com/prajwalrao/ambari-metrics-grafana"
         }
       ]
+    },
+    {
+      "id": "grafana-druid-datasource",
+      "type": "datasource",
+      "url": "https://github.com/grafana-druid-plugin/druidplugin",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "c17e4ae90babd06c74fb5ea30b973dcd167f3952",
+          "url": "https://github.com/grafana-druid-plugin/druidplugin"
+        }
+      ]
     }
   ]
 }
