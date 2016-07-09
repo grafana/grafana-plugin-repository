@@ -528,13 +528,13 @@
       ]
     },
     {
-      "id": "druid",
+      "id": "abhisant-druid-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana-druid-plugin/druidplugin",
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "3affdcc411f96c13f8831f5e724ccc24c06e1f2c",
+          "commit": "988dfec4f2a208607526d3b25f350f712049f727",
           "url": "https://github.com/grafana-druid-plugin/druidplugin"
         }
       ]
