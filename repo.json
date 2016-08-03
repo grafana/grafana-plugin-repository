@@ -534,7 +534,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "2395d13961fc6c9755073574f62ba47d4a099c46",
+          "commit": "b0395aea1efa7e390319736422ba584c6d5cd74d",
           "url": "https://github.com/grafana-druid-plugin/druidplugin"
         }
       ]
