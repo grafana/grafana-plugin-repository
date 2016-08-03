@@ -327,7 +327,7 @@
           "version": "1.0.10",
           "commit": "a1169c9f0f992b6a5e0e774e6daf79403edbf0c3",
           "url": "https://github.com/raintank/worldping-app"
-        },        
+        },
         {
           "version": "1.0.9",
           "commit": "beaec55b8b934e2abd036b479d92ac6ccce1fa74",
@@ -461,12 +461,12 @@
           "version": "0.1.2",
           "commit": "5d2c2dd32d0c90733eba83fa86971e123a256a05",
           "url": "https://github.com/mtanda/grafana-histogram-panel"
-        }
+        },
         {
           "version": "0.1.1",
           "commit": "47142fac2cd49f4b62c9d603cbf3cf16a9847539",
           "url": "https://github.com/mtanda/grafana-histogram-panel"
-        }
+        },
         {
           "version": "0.1.0",
           "commit": "db5e235771e754b1e5a68acf1204621cc738ee80",
