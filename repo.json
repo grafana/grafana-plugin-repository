@@ -458,6 +458,11 @@
       "url": "https://github.com/mtanda/grafana-histogram-panel",
       "versions": [
         {
+          "version": "0.1.5",
+          "commit": "df2e04295d16b86956396ddb6817ba5b1733f900",
+          "url": "https://github.com/mtanda/grafana-histogram-panel"
+        },
+        {
           "version": "0.1.4",
           "commit": "91f9966481af70ecaed0337c12aa24655ba3ddfb",
           "url": "https://github.com/mtanda/grafana-histogram-panel"
