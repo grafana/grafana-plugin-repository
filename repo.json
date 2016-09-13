@@ -500,6 +500,11 @@
       "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel",
       "versions": [
         {
+          "version": "0.1.7",
+          "commit": "e1ec956e86e55d9a3d06554df03641773c146fa9",
+          "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
+        },
+        {
           "version": "0.1.2",
           "commit": "f1a15ae5bdcea5ad6c26ed6b663171b0937c3207",
           "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
