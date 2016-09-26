@@ -83,6 +83,11 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix-app",
       "versions": [
         {
+          "version": "3.1.0",
+          "commit": "169af8343d35f4ee253230dec25d057a2c1097a6",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix-app"
+        },
+        {
           "version": "3.0.0",
           "commit": "be901a99d2de42c8ed3f8b610a72ba57367922c3",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix-app"
