@@ -596,15 +596,15 @@
     },
     {
       "id": "grafana-diagram",
-	  "type": "panel",
-	  "url": "https://github.com/jdbranham/grafana-diagram",
-	  "versions": [
-	    {
-	      "version": "1.0.1",
-	      "commit": "595def4b4b9e67e28ff12a31b57d8346bad76681",
-	      "url": "https://github.com/jdbranham/grafana-diagram"
-	    }
-	  ]
-	}
+      "type": "panel",
+      "url": "https://github.com/jdbranham/grafana-diagram",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "595def4b4b9e67e28ff12a31b57d8346bad76681",
+          "url": "https://github.com/jdbranham/grafana-diagram"
+        }
+      ]
+    }
   ]
 }
