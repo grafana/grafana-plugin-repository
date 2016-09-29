@@ -593,6 +593,18 @@
           "url": "https://github.com/grafana-druid-plugin/druidplugin"
         }
       ]
+    },
+    {
+      "id": "grafana-openhistorian-datasource",
+      "type": "datasource",
+      "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana",
+      "versions": [
+         {
+          "version": "1.0.0",
+          "commit": "41982cca2950e3a375966a6a1208f45b7457df24",
+          "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana"
+        }
+      ]
     }
   ]
 }
