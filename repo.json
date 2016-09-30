@@ -615,6 +615,18 @@
           "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana"
         }
       ]
+    },
+    {
+      "id": "grafana-diagram",
+      "type": "panel",
+      "url": "https://github.com/jdbranham/grafana-diagram",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "commit": "d986f16dbbfb2426244b2cfef2ba2119b9ff16f9",
+          "url": "https://github.com/jdbranham/grafana-diagram"
+        }
+      ]
     }
   ]
 }
