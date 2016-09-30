@@ -604,9 +604,14 @@
       "type": "datasource",
       "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana",
       "versions": [
-         {
+        {
           "version": "1.0.0",
           "commit": "e53d977f75edebff0684f475785f778cd94b2961",
+          "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "471a73bd1156dabf169a1b0cf7c75334561c5c5a",
           "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana"
         }
       ]
