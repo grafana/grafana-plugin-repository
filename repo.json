@@ -617,7 +617,7 @@
       ]
     },
     {
-      "id": "jdbranham-grafana-diagram",
+      "id": "jdbranham-diagram-panel",
       "type": "panel",
       "url": "https://github.com/jdbranham/grafana-diagram",
       "versions": [
