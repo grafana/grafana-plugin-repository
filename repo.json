@@ -632,6 +632,18 @@
           "url": "https://github.com/jdbranham/grafana-diagram"
         }
       ]
+    },
+    {
+      "id": "briangann-gauge-panel",
+      "type": "panel",
+      "url": "https://github.com/briangann/grafana-gauge-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "42f1637cdf3c4cdc6121a4652149dc6670af549b",
+          "url": "https://github.com/briangann/grafana-gauge-panel"
+        }
+      ]
     }
   ]
 }
