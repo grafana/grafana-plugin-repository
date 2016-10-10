@@ -19,10 +19,10 @@ this repository contains a json file linking to all supported grafana plugins
 | id | uniqe name of the plugin. Should not contain whitespaces |
 | type | panel/datasource/app |
 | name | Human readable name of the plugin |
-| info.description | Description of plugin. Used for searching grafana net lugins |
+| info.description | Description of plugin. Used for searching grafana net plugins |
 | info.author | |
 | info.keywords | plugin keywords. Used for search on grafana net|
 | info.logos | link to project logos |
 | info.version | project version of this commit. Must be semver |
-| depedencies.grafanaVersion | Required grafana backend version for this plugin |
-| depedencies.plugins | required plugins for this plugin. |
+| dependencies.grafanaVersion | Required grafana backend version for this plugin |
+| dependencies.plugins | required plugins for this plugin. |

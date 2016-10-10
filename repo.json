@@ -189,6 +189,11 @@
       "url": "https://github.com/grafana/piechart-panel",
       "versions": [
         {
+          "version": "1.1.4",
+          "commit": "ce2ede82f4330b85b719e6bb2f061ad9fb323bc8",
+          "url": "https://github.com/grafana/piechart-panel"
+        },
+        {
           "version": "1.1.1",
           "commit": "52fc72460d69f8c2a204cc30d27e96d69b219b56",
           "url": "https://github.com/grafana/piechart-panel"
@@ -595,7 +600,24 @@
       ]
     },
     {
-      "id": "grafana-diagram",
+      "id": "gridprotectionalliance-openhistorian-datasource",
+      "type": "datasource",
+      "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "e53d977f75edebff0684f475785f778cd94b2961",
+          "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "471a73bd1156dabf169a1b0cf7c75334561c5c5a",
+          "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana"
+        }
+      ]
+    },
+    {
+      "id": "jdbranham-diagram-panel",
       "type": "panel",
       "url": "https://github.com/jdbranham/grafana-diagram",
       "versions": [
@@ -613,6 +635,18 @@
           "version": "1.2.1",
           "commit": "d34802a346a1c462a9315e03b95341dc5d5b5f90",
           "url": "https://github.com/jdbranham/grafana-diagram"
+        }
+      ]
+    },
+    {
+      "id": "briangann-gauge-panel",
+      "type": "panel",
+      "url": "https://github.com/briangann/grafana-gauge-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "42f1637cdf3c4cdc6121a4652149dc6670af549b",
+          "url": "https://github.com/briangann/grafana-gauge-panel"
         }
       ]
     }
