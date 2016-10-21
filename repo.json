@@ -681,6 +681,18 @@
           "url": "https://github.com/foursquare/datasource-plugin-clouderamanager"
         }
       ]
+    },
+    {
+      "id": "crate-datasource",
+      "type": "datasource",
+      "url": "https://github.com/raintank/crate-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "d073b6c552d75b83640faafe897c1de507d7216a",
+          "url": "https://github.com/raintank/crate-datasource"
+        }
+      ]
     }
   ]
 }
