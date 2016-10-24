@@ -6,6 +6,11 @@
       "url": "https://github.com/grafana/worldmap-panel",
       "versions": [
         {
+          "version": "0.0.15",
+          "commit": "5ec2e728fa4a4d40a1ca067dc9e5df95aae87002",
+          "url": "https://github.com/grafana/worldmap-panel"
+        },
+        {
           "version": "0.0.14",
           "commit": "13ab21a76ad832619ceaa4d9c34a6582653b94e7",
           "url": "https://github.com/grafana/worldmap-panel"
@@ -483,6 +488,11 @@
       "url": "https://github.com/mtanda/grafana-histogram-panel",
       "versions": [
         {
+          "version": "0.1.6",
+          "commit": "f10d58bfe5bd8783be388160c2f2edc4f933c26c",
+          "url": "https://github.com/mtanda/grafana-histogram-panel"
+        },
+        {
           "version": "0.1.5",
           "commit": "df2e04295d16b86956396ddb6817ba5b1733f900",
           "url": "https://github.com/mtanda/grafana-histogram-panel"
@@ -657,6 +667,30 @@
           "version": "0.0.1",
           "commit": "42f1637cdf3c4cdc6121a4652149dc6670af549b",
           "url": "https://github.com/briangann/grafana-gauge-panel"
+        }
+      ]
+    },
+    {
+      "id": "foursquare-clouderamanager-datasource",
+      "type": "datasource",
+      "url": "https://github.com/foursquare/datasource-plugin-clouderamanager",
+      "versions": [
+        {
+          "version": "0.9.2",
+          "commit": "9ac3d25d8298b30e41f8c2daf08fb8b77be07f83",
+          "url": "https://github.com/foursquare/datasource-plugin-clouderamanager"
+        }
+      ]
+    },
+    {
+      "id": "crate-datasource",
+      "type": "datasource",
+      "url": "https://github.com/raintank/crate-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "d073b6c552d75b83640faafe897c1de507d7216a",
+          "url": "https://github.com/raintank/crate-datasource"
         }
       ]
     }
