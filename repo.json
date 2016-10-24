@@ -665,7 +665,7 @@
       "versions": [
         {
           "version": "0.1.0",
-          "commit": "3990f26656b0727af437a374afe7a66118e2a1f7",
+          "commit": "81f12c0b70b3f46be000697d6edbf1f4b6972481",
           "url": "https://github.com/savantly-net/grafana-heatmap"
         }
       ]
