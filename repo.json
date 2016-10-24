@@ -659,6 +659,18 @@
       ]
     },
     {
+      "id": "savantly-heatmap-panel",
+      "type": "panel",
+      "url": "https://github.com/savantly-net/grafana-heatmap",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "81f12c0b70b3f46be000697d6edbf1f4b6972481",
+          "url": "https://github.com/savantly-net/grafana-heatmap"
+        }
+      ]
+    },
+    {
       "id": "briangann-gauge-panel",
       "type": "panel",
       "url": "https://github.com/briangann/grafana-gauge-panel",
