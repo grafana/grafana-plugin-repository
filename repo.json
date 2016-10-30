@@ -280,6 +280,16 @@
       "url": "https://github.com/grafana/simple-json-datasource",
       "versions": [
         {
+          "version": "1.2.3",
+          "commit": "decfb3f1d4d79f091d3e1831631a45f6a5e63000",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
+        {
+          "version": "1.2.2",
+          "commit": "a938c8985290546c94af26ba2ba8a6d4c054b900",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
+        {
           "version": "1.1.2",
           "commit": "1f048a9f1e977982ac9e436ae149d9ccd1f2a416",
           "url": "https://github.com/grafana/simple-json-datasource"
