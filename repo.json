@@ -6,6 +6,11 @@
       "url": "https://github.com/grafana/worldmap-panel",
       "versions": [
         {
+          "version": "0.0.15",
+          "commit": "5ec2e728fa4a4d40a1ca067dc9e5df95aae87002",
+          "url": "https://github.com/grafana/worldmap-panel"
+        },
+        {
           "version": "0.0.14",
           "commit": "13ab21a76ad832619ceaa4d9c34a6582653b94e7",
           "url": "https://github.com/grafana/worldmap-panel"
@@ -275,6 +280,16 @@
       "url": "https://github.com/grafana/simple-json-datasource",
       "versions": [
         {
+          "version": "1.2.3",
+          "commit": "decfb3f1d4d79f091d3e1831631a45f6a5e63000",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
+        {
+          "version": "1.2.2",
+          "commit": "a938c8985290546c94af26ba2ba8a6d4c054b900",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
+        {
           "version": "1.1.2",
           "commit": "1f048a9f1e977982ac9e436ae149d9ccd1f2a416",
           "url": "https://github.com/grafana/simple-json-datasource"
@@ -483,6 +498,11 @@
       "url": "https://github.com/mtanda/grafana-histogram-panel",
       "versions": [
         {
+          "version": "0.1.6",
+          "commit": "f10d58bfe5bd8783be388160c2f2edc4f933c26c",
+          "url": "https://github.com/mtanda/grafana-histogram-panel"
+        },
+        {
           "version": "0.1.5",
           "commit": "df2e04295d16b86956396ddb6817ba5b1733f900",
           "url": "https://github.com/mtanda/grafana-histogram-panel"
@@ -613,6 +633,86 @@
           "version": "1.0.1",
           "commit": "471a73bd1156dabf169a1b0cf7c75334561c5c5a",
           "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana"
+        }
+      ]
+    },
+    {
+      "id": "jdbranham-diagram-panel",
+      "type": "panel",
+      "url": "https://github.com/jdbranham/grafana-diagram",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "commit": "d986f16dbbfb2426244b2cfef2ba2119b9ff16f9",
+          "url": "https://github.com/jdbranham/grafana-diagram"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "78e94d98455279638e456c7afae4b11766553a93",
+          "url": "https://github.com/jdbranham/grafana-diagram"
+        },
+        {
+          "version": "1.2.1",
+          "commit": "d34802a346a1c462a9315e03b95341dc5d5b5f90",
+          "url": "https://github.com/jdbranham/grafana-diagram"
+        },
+        {
+          "version": "1.2.2",
+          "commit": "a0a092d1376711e573f4b1d51562ef1261c29821",
+          "url": "https://github.com/jdbranham/grafana-diagram"
+        },
+        {
+          "version": "1.3.0",
+          "commit": "435e02ac68013e8f8b82ef8e60d7891edffd21be",
+          "url": "https://github.com/jdbranham/grafana-diagram"
+        }
+      ]
+    },
+    {
+      "id": "savantly-heatmap-panel",
+      "type": "panel",
+      "url": "https://github.com/savantly-net/grafana-heatmap",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "81f12c0b70b3f46be000697d6edbf1f4b6972481",
+          "url": "https://github.com/savantly-net/grafana-heatmap"
+        }
+      ]
+    },
+    {
+      "id": "briangann-gauge-panel",
+      "type": "panel",
+      "url": "https://github.com/briangann/grafana-gauge-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "42f1637cdf3c4cdc6121a4652149dc6670af549b",
+          "url": "https://github.com/briangann/grafana-gauge-panel"
+        }
+      ]
+    },
+    {
+      "id": "foursquare-clouderamanager-datasource",
+      "type": "datasource",
+      "url": "https://github.com/foursquare/datasource-plugin-clouderamanager",
+      "versions": [
+        {
+          "version": "0.9.2",
+          "commit": "9ac3d25d8298b30e41f8c2daf08fb8b77be07f83",
+          "url": "https://github.com/foursquare/datasource-plugin-clouderamanager"
+        }
+      ]
+    },
+    {
+      "id": "crate-datasource",
+      "type": "datasource",
+      "url": "https://github.com/raintank/crate-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "d073b6c552d75b83640faafe897c1de507d7216a",
+          "url": "https://github.com/raintank/crate-datasource"
         }
       ]
     }
