@@ -637,14 +637,14 @@
       ]
     },
     {
-      "id": "gridprotectionalliance-osipi-datasource",
+      "id": "gridprotectionalliance-osisoftpi-datasource",
       "type": "datasource",
-      "url": "https://github.com/GridProtectionAlliance/osipi-grafana",
+      "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "96100a916f9fe746b52f43518b25eb9281abe90e",
-          "url": "https://github.com/GridProtectionAlliance/osipi-grafana"
+          "commit": "44a2f3ed05398fc2b9283dd89eba7887136ff0da",
+          "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
         }
       ]
     },
