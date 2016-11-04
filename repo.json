@@ -643,7 +643,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "44a2f3ed05398fc2b9283dd89eba7887136ff0da",
+          "commit": "d28e37328e27c1c9cb7a3cacf9b8df2071cf74eb",
           "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
         }
       ]
