@@ -705,6 +705,18 @@
       ]
     },
     {
+      "id": "hawkular-datasource",
+      "type": "datasource",
+      "url": "https://github.com/hawkular/hawkular-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.5",
+          "commit": "714bcbb42dfad8adfed2931dc38fc1c504f49dfd",
+          "url": "https://github.com/hawkular/hawkular-grafana-datasource"
+        }
+      ]
+    },
+    {
       "id": "crate-datasource",
       "type": "datasource",
       "url": "https://github.com/raintank/crate-datasource",
