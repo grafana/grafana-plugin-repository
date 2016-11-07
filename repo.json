@@ -727,6 +727,18 @@
           "url": "https://github.com/raintank/crate-datasource"
         }
       ]
+    },
+    {
+      "id": "digiapulssi-breadcrumb-panel",
+      "type": "panel",
+      "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "1d012f9798910bb1780e9124e0b33236a02e7ea0",
+          "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
+        }
+      ]
     }
   ]
 }
