@@ -280,6 +280,16 @@
       "url": "https://github.com/grafana/simple-json-datasource",
       "versions": [
         {
+          "version": "1.2.3",
+          "commit": "decfb3f1d4d79f091d3e1831631a45f6a5e63000",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
+        {
+          "version": "1.2.2",
+          "commit": "a938c8985290546c94af26ba2ba8a6d4c054b900",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
+        {
           "version": "1.1.2",
           "commit": "1f048a9f1e977982ac9e436ae149d9ccd1f2a416",
           "url": "https://github.com/grafana/simple-json-datasource"
@@ -695,6 +705,18 @@
       ]
     },
     {
+      "id": "hawkular-datasource",
+      "type": "datasource",
+      "url": "https://github.com/hawkular/hawkular-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.5",
+          "commit": "714bcbb42dfad8adfed2931dc38fc1c504f49dfd",
+          "url": "https://github.com/hawkular/hawkular-grafana-datasource"
+        }
+      ]
+    },
+    {
       "id": "crate-datasource",
       "type": "datasource",
       "url": "https://github.com/raintank/crate-datasource",
@@ -703,6 +725,18 @@
           "version": "0.1.0",
           "commit": "d073b6c552d75b83640faafe897c1de507d7216a",
           "url": "https://github.com/raintank/crate-datasource"
+        }
+      ]
+    },
+    {
+      "id": "digiapulssi-breadcrumb-panel",
+      "type": "panel",
+      "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "1d012f9798910bb1780e9124e0b33236a02e7ea0",
+          "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
         }
       ]
     }
