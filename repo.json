@@ -778,6 +778,18 @@
           "url": "https://github.com/ryantxu/ajax-panel"
         }
       ]
+    },
+    {
+      "id": "neocat-cal-heatmap-panel",
+      "type": "panel",
+      "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel",
+      "versions": [
+        {
+          "version": "0.0.2",
+          "commit": "edff2df73d699edb27f9bb3ec1f53a22fe4fc04d",
+          "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel"
+        }
+      ]
     }
   ]
 }
