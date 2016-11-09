@@ -647,6 +647,18 @@
       ]
     },
     {
+      "id": "gridprotectionalliance-osisoftpi-datasource",
+      "type": "datasource",
+      "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "7470519f0efd3707d318191ecf654c7ab127f6bb",
+          "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
+        }
+      ]
+    },
+    {
       "id": "jdbranham-diagram-panel",
       "type": "panel",
       "url": "https://github.com/jdbranham/grafana-diagram",
