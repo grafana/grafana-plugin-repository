@@ -744,6 +744,18 @@
           "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
         }
       ]
+    },
+    {
+      "id": "ryantxu-ajax-panel",
+      "type": "panel",
+      "url": "https://github.com/ryantxu/ajax-panel",
+      "versions": [
+        {
+          "version": "0.0.2",
+          "commit": "5739ad29f9f191605fff7149ecfc52385de92b88",
+          "url": "https://github.com/ryantxu/ajax-panel"
+        }
+      ]
     }
   ]
 }
