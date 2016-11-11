@@ -735,7 +735,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "75e6c85c5843e6b28f0ba728aa1019fe0679a15a",
+          "commit": "f663b12975a04e88ad2c1b0b88108343a1b820e4",
           "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
         }
       ]
