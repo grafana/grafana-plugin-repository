@@ -790,6 +790,18 @@
           "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel"
         }
       ]
+    },
+    {
+      "id": "grafana-monitoring-art",
+      "type": "datasource",
+      "url": "https://github.com/monitoringartist/grafana-monitoring-art",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "9969ab9c97537f28ce86baae6f5ff1aa689a0b28",
+          "url": "https://github.com/monitoringartist/grafana-monitoring-art"
+        }
+      ]
     }
   ]
 }
