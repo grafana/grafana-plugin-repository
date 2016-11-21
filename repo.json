@@ -6,6 +6,11 @@
       "url": "https://github.com/grafana/worldmap-panel",
       "versions": [
         {
+          "version": "0.0.16",
+          "commit": "237a6a8c23ec5c7139b790af569c08962cd60580",
+          "url": "https://github.com/grafana/worldmap-panel"
+        },
+        {
           "version": "0.0.15",
           "commit": "5ec2e728fa4a4d40a1ca067dc9e5df95aae87002",
           "url": "https://github.com/grafana/worldmap-panel"
@@ -87,6 +92,11 @@
       "type": "app",
       "url": "https://github.com/alexanderzobnin/grafana-zabbix-app",
       "versions": [
+        {
+          "version": "3.1.2",
+          "commit": "91a66a3c84e5b0df005f524b74dd710d18db792c",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix-app"
+        },
         {
           "version": "3.1.1",
           "commit": "1a3a187016dd013b87757b99b2e34628a874562d",
@@ -637,6 +647,18 @@
       ]
     },
     {
+      "id": "gridprotectionalliance-osisoftpi-datasource",
+      "type": "datasource",
+      "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "7470519f0efd3707d318191ecf654c7ab127f6bb",
+          "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
+        }
+      ]
+    },
+    {
       "id": "jdbranham-diagram-panel",
       "type": "panel",
       "url": "https://github.com/jdbranham/grafana-diagram",
@@ -740,8 +762,32 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "1d012f9798910bb1780e9124e0b33236a02e7ea0",
+          "commit": "00f6ec2c408df57f9d3d02aeeb4e3ac98081a575",
           "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
+        }
+      ]
+    },
+    {
+      "id": "ryantxu-ajax-panel",
+      "type": "panel",
+      "url": "https://github.com/ryantxu/ajax-panel",
+      "versions": [
+        {
+          "version": "0.0.2",
+          "commit": "5739ad29f9f191605fff7149ecfc52385de92b88",
+          "url": "https://github.com/ryantxu/ajax-panel"
+        }
+      ]
+    },
+    {
+      "id": "neocat-cal-heatmap-panel",
+      "type": "panel",
+      "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel",
+      "versions": [
+        {
+          "version": "0.0.2",
+          "commit": "edff2df73d699edb27f9bb3ec1f53a22fe4fc04d",
+          "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel"
         }
       ]
     }
