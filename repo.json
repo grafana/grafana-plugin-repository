@@ -795,6 +795,18 @@
           "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel"
         }
       ]
+    },
+    {
+      "id": "vonage-status-panel",
+      "type": "panel",
+      "url": "https://github.com/Vonage/Grafana_Status_panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "fe596b66cf371ad17cd72bd1d69c90bda1d56b6e",
+          "url": "https://github.com/Vonage/Grafana_Status_panel"
+        }
+      ]
     }
   ]
 }
