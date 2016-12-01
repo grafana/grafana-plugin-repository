@@ -795,6 +795,18 @@
           "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel"
         }
       ]
+    },
+    {
+      "id": "grafana-belugacdn-app",
+      "type": "app",
+      "url": "https://github.com/belugacdn/grafana-belugacdn-app",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "979b635b7450a4f6ea55062766792dcb50c72abd",
+          "url": "https://github.com/belugacdn/grafana-belugacdn-app"
+        }
+      ]
     }
   ]
 }
