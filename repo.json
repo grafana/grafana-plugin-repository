@@ -807,6 +807,18 @@
           "url": "https://github.com/belugacdn/grafana-belugacdn-app"
         }
       ]
+    },
+    {
+      "id": "kentik-app",
+      "type": "app",
+      "url": "https://github.com/raintank/kentik-app",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "commit": "4a0d73ff89f6a6ba04f1d124d50c8df68b8fa6cd",
+          "url": "https://github.com/raintank/kentik-app"
+        }
+      ]
     }
   ]
 }
