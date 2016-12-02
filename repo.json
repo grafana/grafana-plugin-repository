@@ -7,7 +7,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "6e00a505db0fbd422cab1747e442616cdf2575b8",
+          "commit": "f29268339fc55d7fcdbcc246de9455766d6215d8",
           "url": "https://github.com/BTplc/grafana-trend-box"
         }
       ]
@@ -19,7 +19,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "87ec15cca2fdb188544db50f3bf522037bed45d6",
+          "commit": "f896513f98d322d22d366f03fff460f3fb6bff4f",
           "url": "https://github.com/BTplc/grafana-trend-dot"
         }
       ]
@@ -31,7 +31,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "108dff1051ad1e82dd7f1f5ec0bd360742b4d405",
+          "commit": "46f24abe61866828d335d055252528875e65e6cb",
           "url": "https://github.com/BTplc/grafana-alarm-box"
         }
       ]
@@ -43,7 +43,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "3f7abb69c712201b8e2866aeddf43334df8335a6",
+          "commit": "0b08db007aa2e8a06fbce1f8ae3e4429e83a08c1",
           "url": "https://github.com/BTplc/grafana-peak-report"
         }
       ]
