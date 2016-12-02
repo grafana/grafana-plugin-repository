@@ -1,6 +1,54 @@
 {
   "plugins": [
     {
+      "id": "btplc-trend-box-panel",
+      "type": "panel",
+      "url": "https://github.com/BTplc/grafana-trend-box",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "6e00a505db0fbd422cab1747e442616cdf2575b8",
+          "url": "https://github.com/BTplc/grafana-trend-box"
+        }
+      ]
+    },
+    {
+      "id": "btplc-trend-dot-panel",
+      "type": "panel",
+      "url": "https://github.com/BTplc/grafana-trend-dot",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "87ec15cca2fdb188544db50f3bf522037bed45d6",
+          "url": "https://github.com/BTplc/grafana-trend-dot"
+        }
+      ]
+    },
+    {
+      "id": "btplc-alarm-box-panel",
+      "type": "panel",
+      "url": "https://github.com/BTplc/grafana-alarm-box",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "108dff1051ad1e82dd7f1f5ec0bd360742b4d405",
+          "url": "https://github.com/BTplc/grafana-alarm-box"
+        }
+      ]
+    },
+    {
+      "id": "btplc-peak-report-panel",
+      "type": "panel",
+      "url": "https://github.com/BTplc/grafana-peak-report",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "3f7abb69c712201b8e2866aeddf43334df8335a6",
+          "url": "https://github.com/BTplc/grafana-peak-report"
+        }
+      ]
+    },
+    {
       "id": "grafana-worldmap-panel",
       "type": "panel",
       "url": "https://github.com/grafana/worldmap-panel",
