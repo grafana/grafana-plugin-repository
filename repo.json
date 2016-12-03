@@ -1,6 +1,54 @@
 {
   "plugins": [
     {
+      "id": "btplc-trend-box-panel",
+      "type": "panel",
+      "url": "https://github.com/BTplc/grafana-trend-box",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "f29268339fc55d7fcdbcc246de9455766d6215d8",
+          "url": "https://github.com/BTplc/grafana-trend-box"
+        }
+      ]
+    },
+    {
+      "id": "btplc-trend-dot-panel",
+      "type": "panel",
+      "url": "https://github.com/BTplc/grafana-trend-dot",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "f896513f98d322d22d366f03fff460f3fb6bff4f",
+          "url": "https://github.com/BTplc/grafana-trend-dot"
+        }
+      ]
+    },
+    {
+      "id": "btplc-alarm-box-panel",
+      "type": "panel",
+      "url": "https://github.com/BTplc/grafana-alarm-box",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "46f24abe61866828d335d055252528875e65e6cb",
+          "url": "https://github.com/BTplc/grafana-alarm-box"
+        }
+      ]
+    },
+    {
+      "id": "btplc-peak-report-panel",
+      "type": "panel",
+      "url": "https://github.com/BTplc/grafana-peak-report",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "0b08db007aa2e8a06fbce1f8ae3e4429e83a08c1",
+          "url": "https://github.com/BTplc/grafana-peak-report"
+        }
+      ]
+    },
+    {
       "id": "grafana-worldmap-panel",
       "type": "panel",
       "url": "https://github.com/grafana/worldmap-panel",
@@ -351,6 +399,11 @@
       "type": "datasource",
       "url": "https://github.com/OpenNMS/grafana-opennms-datasource",
       "versions": [
+        {
+          "version": "2.0.2",
+          "commit": "88c1d386f26006f702d18f3d22bdef554d56b180",
+          "url": "https://github.com/OpenNMS/grafana-opennms-datasource"
+        },
         {
           "version": "2.0.1",
           "commit": "46eb41d0a2867f8e5ecf103512927807e0e47616",
@@ -793,6 +846,30 @@
           "version": "0.0.2",
           "commit": "edff2df73d699edb27f9bb3ec1f53a22fe4fc04d",
           "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel"
+        }
+      ]
+    },
+    {
+      "id": "grafana-belugacdn-app",
+      "type": "app",
+      "url": "https://github.com/belugacdn/grafana-belugacdn-app",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "commit": "59022c2aa28c7bbcee1d7fca19fedebf786d18bd",
+          "url": "https://github.com/belugacdn/grafana-belugacdn-app"
+        }
+      ]
+    },
+    {
+      "id": "kentik-app",
+      "type": "app",
+      "url": "https://github.com/raintank/kentik-app",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "commit": "4a0d73ff89f6a6ba04f1d124d50c8df68b8fa6cd",
+          "url": "https://github.com/raintank/kentik-app"
         }
       ]
     },
