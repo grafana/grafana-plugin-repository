@@ -860,7 +860,7 @@
       ]
     },
     {
-      "id": "grafana-belugacdn-app",
+      "id": "belugacdn-app",
       "type": "app",
       "url": "https://github.com/belugacdn/grafana-belugacdn-app",
       "versions": [
