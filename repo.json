@@ -892,6 +892,18 @@
           "url": "https://github.com/raintank/kentik-app"
         }
       ]
+    },
+    {
+     "id": "grafana-monitoring-art",
+      "type": "datasource",
+      "url": "https://github.com/monitoringartist/grafana-monitoring-art",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "0bfec1e2940b640f8840aa3faa0efd00611cea54",
+          "url": "https://github.com/monitoringartist/grafana-monitoring-art"
+        }
+      ]
     }
   ]
 }
