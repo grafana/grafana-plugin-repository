@@ -860,13 +860,13 @@
       ]
     },
     {
-      "id": "grafana-belugacdn-app",
+      "id": "belugacdn-app",
       "type": "app",
       "url": "https://github.com/belugacdn/grafana-belugacdn-app",
       "versions": [
         {
-          "version": "1.0.0",
-          "commit": "979b635b7450a4f6ea55062766792dcb50c72abd",
+          "version": "1.2.0",
+          "commit": "ba2f5f8c1d285ee3fc2ae750a37f71d4a56a9e97",
           "url": "https://github.com/belugacdn/grafana-belugacdn-app"
         },
         {
@@ -875,8 +875,8 @@
           "url": "https://github.com/belugacdn/grafana-belugacdn-app"
         },
         {
-          "version": "1.1.1",
-          "commit": "6cb4392e6877584b17642445bc392f9bb7117ddb",
+          "version": "1.0.0",
+          "commit": "979b635b7450a4f6ea55062766792dcb50c72abd",
           "url": "https://github.com/belugacdn/grafana-belugacdn-app"
         }
       ]
