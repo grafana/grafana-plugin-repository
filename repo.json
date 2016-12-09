@@ -865,8 +865,8 @@
       "url": "https://github.com/belugacdn/grafana-belugacdn-app",
       "versions": [
         {
-          "version": "1.1.0",
-          "commit": "59022c2aa28c7bbcee1d7fca19fedebf786d18bd",
+          "version": "1.1.1",
+          "commit": "6cb4392e6877584b17642445bc392f9bb7117ddb",
           "url": "https://github.com/belugacdn/grafana-belugacdn-app"
         }
       ]
