@@ -783,6 +783,18 @@
       ]
     },
     {
+      "id": "briangann-datatable-panel",
+      "type": "panel",
+      "url": "https://github.com/briangann/grafana-datatable-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "c4d3b04b52b1018ca000e4f34db6d008fc02c79c",
+          "url": "https://github.com/briangann/grafana-datatable-panel"
+        }
+      ]
+    },
+    {
       "id": "foursquare-clouderamanager-datasource",
       "type": "datasource",
       "url": "https://github.com/foursquare/datasource-plugin-clouderamanager",
