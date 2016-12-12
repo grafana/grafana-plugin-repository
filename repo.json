@@ -422,6 +422,11 @@
       "url": "https://github.com/raintank/worldping-app",
       "versions": [
         {
+          "version": "1.2.0",
+          "commit": "873ab888cd3ec2a4e037ea80452d0793dacdd3fb",
+          "url": "https://github.com/raintank/worldping-app"
+        },
+        {
           "version": "1.1.0",
           "commit": "f63f2aac0ac28c2061687da2d375c25f6c04def9",
           "url": "https://github.com/raintank/worldping-app"
@@ -745,6 +750,11 @@
           "version": "1.3.1",
           "commit": "34f8d408b6fb1c1d674286a791eb87424b3289b7",
           "url": "https://github.com/jdbranham/grafana-diagram"
+        },
+        {
+          "version": "1.4.0",
+          "commit": "6fd89610180f8fa91366a8ab7c5867612c2cb80c",
+          "url": "https://github.com/jdbranham/grafana-diagram"
         }
       ]
     },
@@ -850,13 +860,23 @@
       ]
     },
     {
-      "id": "grafana-belugacdn-app",
+      "id": "belugacdn-app",
       "type": "app",
       "url": "https://github.com/belugacdn/grafana-belugacdn-app",
       "versions": [
         {
+          "version": "1.2.0",
+          "commit": "ba2f5f8c1d285ee3fc2ae750a37f71d4a56a9e97",
+          "url": "https://github.com/belugacdn/grafana-belugacdn-app"
+        },
+        {
           "version": "1.1.0",
           "commit": "59022c2aa28c7bbcee1d7fca19fedebf786d18bd",
+          "url": "https://github.com/belugacdn/grafana-belugacdn-app"
+        },
+        {
+          "version": "1.0.0",
+          "commit": "979b635b7450a4f6ea55062766792dcb50c72abd",
           "url": "https://github.com/belugacdn/grafana-belugacdn-app"
         }
       ]
@@ -870,6 +890,18 @@
           "version": "1.1.0",
           "commit": "4a0d73ff89f6a6ba04f1d124d50c8df68b8fa6cd",
           "url": "https://github.com/raintank/kentik-app"
+        }
+      ]
+    },
+    {
+     "id": "grafana-monitoring-art",
+      "type": "datasource",
+      "url": "https://github.com/monitoringartist/grafana-monitoring-art",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "0bfec1e2940b640f8840aa3faa0efd00611cea54",
+          "url": "https://github.com/monitoringartist/grafana-monitoring-art"
         }
       ]
     },
