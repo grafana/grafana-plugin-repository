@@ -900,7 +900,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "0bfec1e2940b640f8840aa3faa0efd00611cea54",
+          "commit": "312b2aacac0925efee1ff18a47f89fc0995cfbd0",
           "url": "https://github.com/monitoringartist/grafana-monitoring-art"
         }
       ]
