@@ -789,7 +789,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "c4d3b04b52b1018ca000e4f34db6d008fc02c79c",
+          "commit": "6b0ab7bdbfdecac403cc5b8bdf23f692be109c7a",
           "url": "https://github.com/briangann/grafana-datatable-panel"
         }
       ]
