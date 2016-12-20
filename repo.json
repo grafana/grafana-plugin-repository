@@ -883,6 +883,11 @@
           "version": "0.0.2",
           "commit": "edff2df73d699edb27f9bb3ec1f53a22fe4fc04d",
           "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "d7d3579a99d48f8bec8dcf63c2207ec9045aef58",
+          "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel"
         }
       ]
     },
