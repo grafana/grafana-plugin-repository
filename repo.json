@@ -954,7 +954,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "b1573ac0c238ddbb170a0f55af76dc62fb90d550",
+          "commit": "78c1d8b667c299d60fd65842d0604a06da74333c",
           "url": "https://github.com/Vonage/Grafana_Status_panel"
         }
       ]
