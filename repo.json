@@ -405,6 +405,11 @@
       "url": "https://github.com/OpenNMS/grafana-opennms-datasource",
       "versions": [
         {
+          "version": "2.1.0",
+          "commit": "23866f0d3fee26d084bd54e7333f21ae00b98d63",
+          "url": "https://github.com/OpenNMS/grafana-opennms-datasource"
+        },
+        {
           "version": "2.0.2",
           "commit": "88c1d386f26006f702d18f3d22bdef554d56b180",
           "url": "https://github.com/OpenNMS/grafana-opennms-datasource"
