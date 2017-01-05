@@ -343,6 +343,11 @@
       "url": "https://github.com/grafana/simple-json-datasource",
       "versions": [
         {
+          "version": "1.2.4",
+          "commit": "205cf4cfbce95cd455da97c7972b64538cc80ab3",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
+        {
           "version": "1.2.3",
           "commit": "decfb3f1d4d79f091d3e1831631a45f6a5e63000",
           "url": "https://github.com/grafana/simple-json-datasource"
