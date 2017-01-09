@@ -939,6 +939,11 @@
       "url": "https://github.com/raintank/kentik-app",
       "versions": [
         {
+          "version": "1.2.0",
+          "commit": "5e717b85d0e1b0f5466ba4a33ab5a47402ed5802",
+          "url": "https://github.com/raintank/kentik-app"
+        },
+        {
           "version": "1.1.0",
           "commit": "4a0d73ff89f6a6ba04f1d124d50c8df68b8fa6cd",
           "url": "https://github.com/raintank/kentik-app"
