@@ -509,6 +509,11 @@
       "url": "https://github.com/raintank/snap-app",
       "versions": [
         {
+          "version": "0.0.5",
+          "commit": "5fb47b4fa64daf4708d17963eb32f8cb9f515e3e",
+          "url": "https://github.com/raintank/snap-app"
+        },
+        {
           "version": "0.0.4",
           "commit": "221999e959c09283f6361031bc8b5ee5a818c0b7",
           "url": "https://github.com/raintank/snap-app"
