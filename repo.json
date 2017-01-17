@@ -978,6 +978,18 @@
           "url": "https://github.com/Vonage/Grafana_Status_panel"
         }
       ]
+    },
+    {
+     "id": "raintank-kubernetes-app",
+      "type": "datasource",
+      "url": "https://github.com/raintank/kubernetes-app",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "d7acbdaffb19d8a854e7d56a3cd3f70d0c64c2d6",
+          "url": "https://github.com/raintank/kubernetes-app"
+        }
+      ]
     }
   ]
 }
