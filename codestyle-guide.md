@@ -49,3 +49,42 @@ Directories:
 - `dist/` contains built content.
 
 ## Code Style
+### ES6 features
+1. Prefer to use `let` instead `var` ([Exploring ES6](http://exploringjs.com/es6/ch_core-features.html#_from-var-to-letconst))
+2. Use arrow functions, which don’t shadow `this` ([Exploring ES6](http://exploringjs.com/es6/ch_core-features.html#_from-function-expressions-to-arrow-functions)):
+  ```js
+  testDatasource() {
+    return this.getServerStatus()
+    .then(status => {
+      return this.doSomething(status);
+    })
+  }
+
+  better than
+
+  testDatasource() {
+    var self = this;
+    return this.getServerStatus()
+    .then(function(status) {
+      return self.doSomething(status);
+    })
+  }
+  ```
+3. Use native _Promise_ object:
+  ```js
+  metricFindQuery(query) {
+    if (!query) {
+      return Promise.resolve([]);
+    }
+  }
+
+  better than
+
+  metricFindQuery(query) {
+    if (!query) {
+      return this.$q.when([]);
+    }
+  }
+  ```
+4. Native JS array methods instead lodash.  
+  ??? Should we use `array.map()` or `_.map(array)` when it possible?
