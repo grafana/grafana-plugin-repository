@@ -981,13 +981,25 @@
     },
     {
      "id": "raintank-kubernetes-app",
-      "type": "datasource",
+      "type": "app",
       "url": "https://github.com/raintank/kubernetes-app",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "d7acbdaffb19d8a854e7d56a3cd3f70d0c64c2d6",
           "url": "https://github.com/raintank/kubernetes-app"
+        }
+      ]
+    },
+    {
+     "id": "monasca-datasource",
+      "type": "datasource",
+      "url": "https://github.com/openstack/monasca-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "95f11b545b538244452bb9aefc0ed17ef841a89e",
+          "url": "https://github.com/openstack/monasca-grafana-datasource"
         }
       ]
     }
