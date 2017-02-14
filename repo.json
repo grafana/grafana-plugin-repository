@@ -915,6 +915,18 @@
       ]
     },
     {
+      "id": "natel-influx-admin",
+      "type": "panel",
+      "url": "https://github.com/NatelEnergy/grafana-influx-admin",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "74299afadce9e4dffe77a860c59cdf1a21709694",
+          "url": "https://github.com/NatelEnergy/grafana-influx-admin"
+        }
+      ]
+    },
+    {
       "id": "neocat-cal-heatmap-panel",
       "type": "panel",
       "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel",
