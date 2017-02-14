@@ -915,13 +915,13 @@
       ]
     },
     {
-      "id": "natel-influx-admin",
+      "id": "natel-influx-admin-panel",
       "type": "panel",
       "url": "https://github.com/NatelEnergy/grafana-influx-admin",
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "74299afadce9e4dffe77a860c59cdf1a21709694",
+          "commit": "49291c61630aedb01f5d5ae3284dba6c1bc9d332",
           "url": "https://github.com/NatelEnergy/grafana-influx-admin"
         }
       ]
