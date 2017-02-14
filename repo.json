@@ -1022,6 +1022,18 @@
           "url": "https://github.com/openstack/monasca-grafana-datasource"
         }
       ]
+    },
+    {
+     "id": "cloudflare-app",
+      "type": "app",
+      "url": "https://github.com/cloudflare/cloudflare-grafana-app",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "commit": "b34345a767db3bc1d139d7afb171feba1f21d31f",
+          "url": "https://github.com/cloudflare/cloudflare-grafana-app"
+        }
+      ]
     }
   ]
 }
