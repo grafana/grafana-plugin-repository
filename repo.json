@@ -1022,6 +1022,18 @@
           "url": "https://github.com/openstack/monasca-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "clickhouse-grafana",
+      "type": "datasource",
+      "url": "https://github.com/Vertamedia/clickhouse-grafana",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "d55f7a36e40642be64879740e719409a3742488c",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        }
+      ]
     }
   ]
 }
