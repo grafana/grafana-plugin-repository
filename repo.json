@@ -716,6 +716,16 @@
       "url": "https://github.com/grafana-druid-plugin/druidplugin",
       "versions": [
         {
+          "version": "0.0.4",
+          "commit": "a38c792489bfdbf0074436811314eae47dc4264a",
+          "url": "https://github.com/grafana-druid-plugin/druidplugin"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "d0b59f4b6fa9c3d21408fd0a29e8c553f4404336",
+          "url": "https://github.com/grafana-druid-plugin/druidplugin"
+        },
+        {
           "version": "0.0.2",
           "commit": "5ef5398c14fb368ab3abfeb58c092cea4af358b9",
           "url": "https://github.com/grafana-druid-plugin/druidplugin"
