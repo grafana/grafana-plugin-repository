@@ -1,6 +1,36 @@
 # grafana-plugin-repository
 
-this repository contains a json file linking to all supported grafana plugins
+This repository contains a json file linking to all supported grafana plugins. To submit a plugin to be published on Grafana.net, add your plugin to the repo.json file below.
+
+When submitting a plugin we need the following:
+
+- plugin id
+- type (panel|datasource|app)
+- version
+- git commit hash
+- url to github repo
+
+Here is an example snippet:
+```json
+ {
+    "id": "alexanderzobnin-zabbix-app",
+    "type": "app",
+    "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+    "versions": [
+      {
+        "version": "3.2.1",
+        "commit": "ad6614eacd2b94eedbd0671b1d1a0f2002ade056",
+        "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+      },
+      ...
+```
+## Developing a Plugin
+
+The Developing Plugins section in Grafana docs contains several articles about plugins. Start with these:
+
+- [Development Guide](http://docs.grafana.org/plugins/developing/development/)
+- [Code Styleguide](http://docs.grafana.org/plugins/developing/code-styleguide/)
+
 
 # repo.json
 
@@ -8,7 +38,7 @@ this repository contains a json file linking to all supported grafana plugins
 | ------------- |-------------|
 | plugins | An array of plugins hosted by grafana net |
 | type | What kind of plugin panel/datasource/app |
-| url | Link to the projects website. Perhaps this should be removed? |
+| url | Link to the projects website. |
 | version | Available versions of the plugin. Linking to an github page and exact commit |
 
 
@@ -19,10 +49,10 @@ this repository contains a json file linking to all supported grafana plugins
 | id | uniqe name of the plugin. Should not contain whitespaces |
 | type | panel/datasource/app |
 | name | Human readable name of the plugin |
-| info.description | Description of plugin. Used for searching grafana net lugins |
+| info.description | Description of plugin. Used for searching grafana net plugins |
 | info.author | |
 | info.keywords | plugin keywords. Used for search on grafana net|
 | info.logos | link to project logos |
 | info.version | project version of this commit. Must be semver |
-| depedencies.grafanaVersion | Required grafana backend version for this plugin |
-| depedencies.plugins | required plugins for this plugin. |
+| dependencies.grafanaVersion | Required grafana backend version for this plugin |
+| dependencies.plugins | required plugins for this plugin. |
