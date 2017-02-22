@@ -717,13 +717,13 @@
       "versions": [
         {
           "version": "0.0.4",
-          "commit": "a38c792489bfdbf0074436811314eae47dc4264a",
+          "commit": "84d7ae669c4585079041e31600e34c6eda829389",
           "url": "https://github.com/grafana-druid-plugin/druidplugin"
         },
         {
           "version": "0.0.3",
-          "commit": "d0b59f4b6fa9c3d21408fd0a29e8c553f4404336",
-          "url": "https://github.com/grafana-druid-plugin/druidplugin"
+          "commit": "e7db162c9fc3d687663de64640284ec3383ce9ac",
+          "url": "https://github.com/grafana-druid-plugin/druidplugin/tree/grafana-3.x.x"
         },
         {
           "version": "0.0.2",
