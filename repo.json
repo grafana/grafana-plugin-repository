@@ -1024,13 +1024,13 @@
       ]
     },
     {
-      "id": "clickhouse-grafana",
+      "id": "vertamedia-clickhouse-datasource",
       "type": "datasource",
       "url": "https://github.com/Vertamedia/clickhouse-grafana",
       "versions": [
         {
-          "version": "1.0.0",
-          "commit": "d55f7a36e40642be64879740e719409a3742488c",
+          "version": "0.0.1",
+          "commit": "103264210c1547d4182c79f2dfadecb442d75fcf",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
