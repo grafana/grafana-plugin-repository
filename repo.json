@@ -1044,6 +1044,18 @@
           "url": "https://github.com/cloudflare/cloudflare-grafana-app"
         }
       ]
+    },
+    {
+      "id": "axibase-datasource",
+      "type": "datasource",
+      "url": "https://github.com/axibase/grafana-data-source",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "a9072a78edcc70bfee472ffc35aa0bbdf69c3060",
+          "url": "https://github.com/axibase/grafana-data-source"
+        }
+      ]
     }
   ]
 }
