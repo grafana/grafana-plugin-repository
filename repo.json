@@ -299,6 +299,11 @@
       "url": "https://github.com/grafana/kairosdb-datasource",
       "versions": [
         {
+          "version": "2.0.1",
+          "commit": "117c827f3bc35407b33db5b6d9be816964b798cc",
+          "url": "https://github.com/grafana/kairosdb-datasource"
+        },
+        {
           "version": "1.0.1",
           "commit": "71f3372dddc270d5793bf9e9fcd6d6acfd8a0013",
           "url": "https://github.com/grafana/kairosdb-datasource"
