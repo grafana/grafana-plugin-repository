@@ -716,6 +716,16 @@
       "url": "https://github.com/grafana-druid-plugin/druidplugin",
       "versions": [
         {
+          "version": "0.0.4",
+          "commit": "84d7ae669c4585079041e31600e34c6eda829389",
+          "url": "https://github.com/grafana-druid-plugin/druidplugin"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "e7db162c9fc3d687663de64640284ec3383ce9ac",
+          "url": "https://github.com/grafana-druid-plugin/druidplugin/tree/grafana-3.x.x"
+        },
+        {
           "version": "0.0.2",
           "commit": "5ef5398c14fb368ab3abfeb58c092cea4af358b9",
           "url": "https://github.com/grafana-druid-plugin/druidplugin"
@@ -971,6 +981,16 @@
       "url": "https://github.com/raintank/kentik-app",
       "versions": [
         {
+          "version": "1.2.2",
+          "commit": "b1b9de5ce50bacff0ff275d1a53cacfe54e273d1",
+          "url": "https://github.com/raintank/kentik-app"
+        },
+        {
+          "version": "1.2.1",
+          "commit": "6859dbf290254c656cec2573da2382186d5ff357",
+          "url": "https://github.com/raintank/kentik-app"
+        },
+        {
           "version": "1.2.0",
           "commit": "5e717b85d0e1b0f5466ba4a33ab5a47402ed5802",
           "url": "https://github.com/raintank/kentik-app"
@@ -1032,6 +1052,18 @@
           "version": "1.0.0",
           "commit": "95f11b545b538244452bb9aefc0ed17ef841a89e",
           "url": "https://github.com/openstack/monasca-grafana-datasource"
+        }
+      ]
+    },
+    {
+     "id": "cloudflare-app",
+      "type": "app",
+      "url": "https://github.com/cloudflare/cloudflare-grafana-app",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "commit": "8f2c7f6d3e543260f190c1a696ef288ffaf80086",
+          "url": "https://github.com/cloudflare/cloudflare-grafana-app"
         }
       ]
     }
