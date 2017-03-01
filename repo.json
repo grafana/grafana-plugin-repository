@@ -1054,6 +1054,18 @@
           "url": "https://github.com/cloudflare/cloudflare-grafana-app"
         }
       ]
+    },
+    {
+      "id": "satellogic-3d-globe-panel",
+      "type": "panel",
+      "url": "https://github.com/satellogic/grafana-3d-globe-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "0930ebe33a023b71d0a55c9be29566b6fe8e231d",
+          "url": "https://github.com/satellogic/grafana-3d-globe-panel"
+        }
+      ]
     }
   ]
 }
