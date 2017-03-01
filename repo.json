@@ -925,6 +925,18 @@
       ]
     },
     {
+      "id": "natel-plotly-panel",
+      "type": "panel",
+      "url": "https://github.com/NatelEnergy/grafana-plotly-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "187e7b5743f0dceb1034b03eaac62989af50d0c0",
+          "url": "https://github.com/NatelEnergy/grafana-plotly-panel"
+        }
+      ]
+    },
+    {
       "id": "neocat-cal-heatmap-panel",
       "type": "panel",
       "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel",
