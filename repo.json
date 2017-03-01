@@ -1139,6 +1139,18 @@
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
+    },
+    {
+      "id": "bessler-pictureit-panel",
+      "type": "panel",
+      "url": "https://github.com/vbessler/grafana-pictureit",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "b62fe2bc681c786e637d3621658fbe6ac6e955ca",
+          "url": "https://github.com/vbessler/grafana-pictureit"
+        }
+      ]
     }
   ]
 }
