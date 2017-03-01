@@ -925,6 +925,18 @@
       ]
     },
     {
+      "id": "natel-discrete-panel",
+      "type": "panel",
+      "url": "https://github.com/NatelEnergy/grafana-discrete-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "d729bd3b0cc71e4de1aab934065c72931fd4487e",
+          "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
+        }
+      ]
+    },
+    {
       "id": "neocat-cal-heatmap-panel",
       "type": "panel",
       "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel",
