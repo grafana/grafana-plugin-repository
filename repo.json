@@ -889,13 +889,18 @@
       "url": "https://github.com/raintank/crate-datasource",
       "versions": [
         {
-          "version": "0.1.0",
-          "commit": "d073b6c552d75b83640faafe897c1de507d7216a",
+          "version": "0.3.0",
+          "commit": "08c43ed5b015322a18d32c52c3d70b6af874b2ea",
           "url": "https://github.com/raintank/crate-datasource"
         },
         {
           "version": "0.2.0",
           "commit": "3a94f7cf4a12b2b762082a13c46a00cb44fcfef7",
+          "url": "https://github.com/raintank/crate-datasource"
+        },
+        {
+          "version": "0.1.0",
+          "commit": "d073b6c552d75b83640faafe897c1de507d7216a",
           "url": "https://github.com/raintank/crate-datasource"
         }
       ]
