@@ -827,7 +827,7 @@
       "versions": [
         {
           "version": "0.0.3",
-          "commit": "f969574179727eea85404cfb48687ff1e58a7711",
+          "commit": "b12952157242d7f7fa4c8f623128d3e7581019c3",
           "url": "https://github.com/briangann/grafana-gauge-panel"
         },
         {
