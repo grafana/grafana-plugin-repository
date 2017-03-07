@@ -826,6 +826,11 @@
       "url": "https://github.com/briangann/grafana-gauge-panel",
       "versions": [
         {
+          "version": "0.0.3",
+          "commit": "f969574179727eea85404cfb48687ff1e58a7711",
+          "url": "https://github.com/briangann/grafana-gauge-panel"
+        },
+        {
           "version": "0.0.2",
           "commit": "abf3e0249f4d177bc60bfac363c10e83fa2348c0",
           "url": "https://github.com/briangann/grafana-gauge-panel"
