@@ -1200,6 +1200,18 @@
           "url": "https://github.com/digiapulssi/grafana-organisations-panel"
         }
       ]
+    },
+    {
+      "id": "mtanda-google-calendar-datasource",
+      "type": "datasource",
+      "url": "https://github.com/mtanda/grafana-google-calendar-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "a796729cc71e7a58b290b44623f6d5f7909cbe36",
+          "url": "https://github.com/mtanda/grafana-google-calendar-datasource"
+        }
+      ]
     }
   ]
 }
