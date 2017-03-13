@@ -1166,6 +1166,18 @@
           "url": "https://github.com/vbessler/grafana-pictureit"
         }
       ]
+    },
+    {
+      "id": "sni-pnp-datasource",
+      "type": "datasource",
+      "url": "https://github.com/sni/grafana-pnp-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "24edd14016aee9295348d57bb083bb41bf9e24c7",
+          "url": "https://github.com/sni/grafana-pnp-datasource"
+        }
+      ]
     }
   ]
 }
