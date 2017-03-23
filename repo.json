@@ -1188,6 +1188,18 @@
           "url": "https://github.com/sni/grafana-pnp-datasource"
         }
       ]
+    },
+    {
+      "id": "digiapulssi-organisations-panel",
+      "type": "panel",
+      "url": "https://github.com/digiapulssi/grafana-organisations-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "a76b22cd2af1b78a5ba0200d4b3bd495852fbc9a",
+          "url": "https://github.com/digiapulssi/grafana-organisations-panel"
+        }
+      ]
     }
   ]
 }
