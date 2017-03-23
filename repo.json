@@ -1188,6 +1188,18 @@
           "url": "https://github.com/sni/grafana-pnp-datasource"
         }
       ]
+    },
+    {
+      "id": "mtanda-google-calendar-datasource",
+      "type": "datasource",
+      "url": "https://github.com/mtanda/grafana-google-calendar-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "490219a3d64de5d42c6d8a0e209e2477c3033b92",
+          "url": "https://github.com/mtanda/grafana-google-calendar-datasource"
+        }
+      ]
     }
   ]
 }
