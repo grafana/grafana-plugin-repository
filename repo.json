@@ -945,6 +945,11 @@
       "url": "https://github.com/NatelEnergy/grafana-plotly-panel",
       "versions": [
         {
+          "version": "0.0.2",
+          "commit": "51d97b9db60db4ae6c2f38bd5ef5e2c3f79d2719",
+          "url": "https://github.com/NatelEnergy/grafana-plotly-panel"
+        },
+        {
           "version": "0.0.1",
           "commit": "187e7b5743f0dceb1034b03eaac62989af50d0c0",
           "url": "https://github.com/NatelEnergy/grafana-plotly-panel"
@@ -957,6 +962,11 @@
       "url": "https://github.com/NatelEnergy/grafana-discrete-panel",
       "versions": [
         {
+          "version": "0.0.2",
+          "commit": "6d963171005734b0392525854576bd21c5ca1661",
+          "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
+        },
+        {
           "version": "0.0.1",
           "commit": "d729bd3b0cc71e4de1aab934065c72931fd4487e",
           "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
@@ -968,6 +978,11 @@
       "type": "panel",
       "url": "https://github.com/NatelEnergy/grafana-influx-admin",
       "versions": [
+        {
+          "version": "0.0.2",
+          "commit": "cd8afbba7a48674a8ddc86567aa2f08388b76150",
+          "url": "https://github.com/NatelEnergy/grafana-influx-admin"
+        },
         {
           "version": "0.0.1",
           "commit": "f24a520b8fbc92aa18982dd990e54a1c7c966aad",
