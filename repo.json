@@ -9,6 +9,11 @@
           "version": "0.0.1",
           "commit": "f29268339fc55d7fcdbcc246de9455766d6215d8",
           "url": "https://github.com/BTplc/grafana-trend-box"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "b5d087b8741334d85604206f9aaa2ca3d31fec79",
+          "url": "https://github.com/BTplc/grafana-trend-box"
         }
       ]
     },
@@ -20,6 +25,11 @@
         {
           "version": "0.0.1",
           "commit": "f896513f98d322d22d366f03fff460f3fb6bff4f",
+          "url": "https://github.com/BTplc/grafana-trend-dot"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "d797eccb8dd5c2967c790c7a939b4e007cd05e11",
           "url": "https://github.com/BTplc/grafana-trend-dot"
         }
       ]
@@ -33,6 +43,11 @@
           "version": "0.0.1",
           "commit": "46f24abe61866828d335d055252528875e65e6cb",
           "url": "https://github.com/BTplc/grafana-alarm-box"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "fc29dbca86f6ae88dd9f362d522781d5c3bc1ff4",
+          "url": "https://github.com/BTplc/grafana-alarm-box"
         }
       ]
     },
@@ -44,6 +59,11 @@
         {
           "version": "0.0.1",
           "commit": "0b08db007aa2e8a06fbce1f8ae3e4429e83a08c1",
+          "url": "https://github.com/BTplc/grafana-peak-report"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "e67bf6561e6a241a4965c955f95f9e11bfc05552",
           "url": "https://github.com/BTplc/grafana-peak-report"
         }
       ]
