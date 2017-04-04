@@ -1247,6 +1247,18 @@
           "url": "https://github.com/mtanda/grafana-google-calendar-datasource"
         }
       ]
+    },
+    {
+      "id": "novalabs-annotations-panel",
+      "type": "panel",
+      "url": "https://github.com/novalabs/grafana-annotations-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "4173c7b4e3505005e643f686d091b3b5e58e78b2",
+          "url": "https://github.com/novalabs/grafana-annotations-panel"
+        }
+      ]
     }
   ]
 }
