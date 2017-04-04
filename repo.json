@@ -1255,7 +1255,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "4173c7b4e3505005e643f686d091b3b5e58e78b2",
+          "commit": "c8f6d15e183602b9f5b161e609f84021502280d3",
           "url": "https://github.com/novalabs/grafana-annotations-panel"
         }
       ]
