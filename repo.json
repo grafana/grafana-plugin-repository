@@ -914,6 +914,11 @@
       "url": "https://github.com/raintank/crate-datasource",
       "versions": [
         {
+          "version": "0.5.1",
+          "commit": "81e4a2e9b7e0c000133de8533d2a14d01fd216e2",
+          "url": "https://github.com/raintank/crate-datasource"
+        },
+        {
           "version": "0.5.0",
           "commit": "4a7d21c4583a72c5258e2d4e00d29813706e7c65",
           "url": "https://github.com/raintank/crate-datasource"
