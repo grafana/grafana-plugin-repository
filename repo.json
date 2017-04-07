@@ -1252,6 +1252,18 @@
           "url": "https://github.com/mtanda/grafana-google-calendar-datasource"
         }
       ]
+    },
+    {
+      "id": "adremsoft-netcrunch-app",
+      "type": "app",
+      "url": "https://github.com/adremsoft/grafana-netcrunch-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "4bec24aa83899fa4009bb973c9d6faf0543d85a5",
+          "url": "https://github.com/adremsoft/grafana-netcrunch-plugin"
+        }
+      ]
     }
   ]
 }
