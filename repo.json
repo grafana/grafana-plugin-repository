@@ -914,6 +914,11 @@
       "url": "https://github.com/raintank/crate-datasource",
       "versions": [
         {
+          "version": "0.5.1",
+          "commit": "81e4a2e9b7e0c000133de8533d2a14d01fd216e2",
+          "url": "https://github.com/raintank/crate-datasource"
+        },
+        {
           "version": "0.5.0",
           "commit": "4a7d21c4583a72c5258e2d4e00d29813706e7c65",
           "url": "https://github.com/raintank/crate-datasource"
@@ -1099,6 +1104,11 @@
       "url": "https://github.com/Vonage/Grafana_Status_panel",
       "versions": [
         {
+          "version": "1.0.3",
+          "commit": "d069f0aac8915c92968c94d3c34498a78e78e355",
+          "url": "https://github.com/Vonage/Grafana_Status_panel"
+        },
+        {
           "version": "1.0.2",
           "commit": "24289f88e09fd866b44c41344a43c6d6aa6c7374",
           "url": "https://github.com/Vonage/Grafana_Status_panel"
@@ -1257,6 +1267,18 @@
           "version": "0.0.1",
           "commit": "c8f6d15e183602b9f5b161e609f84021502280d3",
           "url": "https://github.com/novalabs/grafana-annotations-panel"
+        }
+      ]
+    },
+    {
+      "id": "adremsoft-netcrunch-app",
+      "type": "app",
+      "url": "https://github.com/adremsoft/grafana-netcrunch-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "4bec24aa83899fa4009bb973c9d6faf0543d85a5",
+          "url": "https://github.com/adremsoft/grafana-netcrunch-plugin"
         }
       ]
     }
