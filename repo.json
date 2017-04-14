@@ -467,6 +467,11 @@
       "url": "https://github.com/raintank/worldping-app",
       "versions": [
         {
+          "version": "1.2.3",
+          "commit": "e1656592b549557e3bfbf096c15c73388b3c812c",
+          "url": "https://github.com/raintank/worldping-app"
+        },
+        {
           "version": "1.2.2",
           "commit": "7d9d8a082b3f886a2ecc7754f820c15ceb84a777",
           "url": "https://github.com/raintank/worldping-app"
