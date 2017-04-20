@@ -985,6 +985,11 @@
       "url": "https://github.com/NatelEnergy/grafana-plotly-panel",
       "versions": [
         {
+          "version": "0.0.3",
+          "commit": "371cbf41006a534a671a9582a3e24ce3cf29d9b1",
+          "url": "https://github.com/NatelEnergy/grafana-plotly-panel"
+        },
+        {
           "version": "0.0.2",
           "commit": "68947cf1d73b7bcceceebaf795c60a7b76eaec87",
           "url": "https://github.com/NatelEnergy/grafana-plotly-panel"
@@ -1001,6 +1006,11 @@
       "type": "panel",
       "url": "https://github.com/NatelEnergy/grafana-discrete-panel",
       "versions": [
+        {
+          "version": "0.0.4",
+          "commit": "39a4eb44ab7f8d082478050058ead371a12aa5e2",
+          "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
+        },
         {
           "version": "0.0.3",
           "commit": "91be5c8cc445cbb1c6d113f27712c9ada6081de2",
