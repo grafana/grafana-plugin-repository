@@ -1309,6 +1309,18 @@
           "url": "https://github.com/adremsoft/grafana-netcrunch-plugin"
         }
       ]
+    },
+    {
+      "id": "netxms-grafana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/netxms/grafana",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "e9508af88d39473ee76745cd9cea65e6947368e6",
+          "url": "https://github.com/netxms/grafana"
+        }
+      ]
     }
   ]
 }
