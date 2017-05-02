@@ -1311,13 +1311,13 @@
       ]
     },
     {
-      "id": "netxms-grafana-datasource",
+      "id": "radensolutions-netxms-datasource",
       "type": "datasource",
       "url": "https://github.com/netxms/grafana",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "e9508af88d39473ee76745cd9cea65e6947368e6",
+          "commit": "38eb1eb1999449ad77a467172218793bc6b6bebe",
           "url": "https://github.com/netxms/grafana"
         }
       ]
