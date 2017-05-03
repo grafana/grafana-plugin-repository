@@ -1321,6 +1321,19 @@
           "url": "https://github.com/netxms/grafana"
         }
       ]
+    },
+    {
+      "id": "projectfifo-dalmatinerdb-datasource",
+      "type": "datasource",
+      "url": "https://github.com/dalmatinerdb/dalmatinerdb-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "b11d928358821eb6e7860d8825d8dfefa0287cea",
+          "url": "https://github.com/dalmatinerdb/dalmatinerdb-datasource"
+        }
+      ]
     }
+
   ]
 }
