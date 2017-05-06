@@ -1046,6 +1046,18 @@
       ]
     },
     {
+      "id": "natel-usgs-datasource",
+      "type": "datasource",
+      "url": "https://github.com/NatelEnergy/grafana-usgs-waterservices",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "c33b418083ab54c8e0caacb1d09d300195dbe9e1",
+          "url": "https://github.com/NatelEnergy/grafana-usgs-waterservices"
+        }
+      ]
+    },
+    {
       "id": "neocat-cal-heatmap-panel",
       "type": "panel",
       "url": "https://github.com/NeoCat/grafana-cal-heatmap-panel",
