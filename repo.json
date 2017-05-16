@@ -1264,6 +1264,18 @@
       ]
     },
     {
+      "id": "novalabs-annotations-panel",
+      "type": "panel",
+      "url": "https://github.com/novalabs/grafana-annotations-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "2c71cc3649ce3db85fd1f9e40c2048bae290bdbb",
+          "url": "https://github.com/novalabs/grafana-annotations-panel"
+        }
+      ]
+    },
+    {
       "id": "adremsoft-netcrunch-app",
       "type": "app",
       "url": "https://github.com/adremsoft/grafana-netcrunch-plugin",
