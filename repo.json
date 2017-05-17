@@ -161,6 +161,11 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.4.0",
+          "commit": "14a7fd4a8c2fba63501db49978407b8ac7fb6ffb",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.3.0",
           "commit": "eca809679deabb23925c558d97485ff73dfecd18",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
