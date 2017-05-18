@@ -48,6 +48,11 @@
           "version": "0.0.3",
           "commit": "fc29dbca86f6ae88dd9f362d522781d5c3bc1ff4",
           "url": "https://github.com/BTplc/grafana-alarm-box"
+        },
+        {
+          "version": "0.1.0",
+          "commit": "e87cbdee2f1628037099b52cb303e10174b680c7",
+          "url": "https://github.com/BTplc/grafana-alarm-box"
         }
       ]
     },
