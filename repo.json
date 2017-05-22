@@ -1323,13 +1323,13 @@
       ]
     },
     {
-      "id": "projectfifo-dalmatinerdb-datasource",
+      "id": "dalmatinerdb-datasource",
       "type": "datasource",
       "url": "https://github.com/dalmatinerdb/dalmatinerdb-datasource",
       "versions": [
         {
-          "version": "1.0.0",
-          "commit": "b11d928358821eb6e7860d8825d8dfefa0287cea",
+          "version": "1.0.1",
+          "commit": "16fe43b1c67933728e3ceca253b2746976bbe4ff",
           "url": "https://github.com/dalmatinerdb/dalmatinerdb-datasource"
         }
       ]
