@@ -1328,8 +1328,8 @@
       "url": "https://github.com/dalmatinerdb/dalmatinerdb-datasource",
       "versions": [
         {
-          "version": "1.0.3",
-          "commit": "417d4303219e064b77ebc34899d4fcc2b172d538",
+          "version": "1.0.4",
+          "commit": "c52d1e53209582f14132aeab8e334b2c6c1a4883",
           "url": "https://github.com/dalmatinerdb/dalmatinerdb-datasource"
         }
       ]
