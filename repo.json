@@ -1318,6 +1318,19 @@
           "url": "https://github.com/netxms/grafana"
         }
       ]
+    },
+    {
+      "id": "dalmatinerdb-datasource",
+      "type": "datasource",
+      "url": "https://github.com/dalmatinerdb/dalmatinerdb-datasource",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "commit": "c52d1e53209582f14132aeab8e334b2c6c1a4883",
+          "url": "https://github.com/dalmatinerdb/dalmatinerdb-datasource"
+        }
+      ]
     }
+
   ]
 }
