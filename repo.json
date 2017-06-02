@@ -1301,6 +1301,18 @@
       ]
     },
     {
+      "id": "ginkgobioworks-grafana-logstream",
+      "type": "panel",
+      "url": "https://github.com/ginkgobioworks/grafana-logstream",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "09a8f4448326dc89501c7ef5664d94abbeaf92ae",
+          "url": "https://github.com/ginkgobioworks/grafana-logstream"
+        }
+      ]
+    },
+    {
       "id": "adremsoft-netcrunch-app",
       "type": "app",
       "url": "https://github.com/adremsoft/grafana-netcrunch-plugin",
