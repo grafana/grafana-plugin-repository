@@ -820,7 +820,7 @@
         },
         {
           "version": "0.2.0",
-          "commit": "607ea763b41eb40635cdab7a60b7867367a098b4",
+          "commit": "d2244abb0e46f5b31a5818a3bec5c1101075e1c8",
           "url": "https://github.com/savantly-net/grafana-heatmap"
         }
       ]
