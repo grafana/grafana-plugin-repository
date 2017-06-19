@@ -35,6 +35,18 @@
       ]
     },
     {
+      "id": "btplc-status-dot-panel",
+      "type": "panel",
+      "url": "https://github.com/BTplc/grafana-status-dot",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "c493f4924a5649cee42a2015231d2689ea73943a",
+          "url": "https://github.com/BTplc/grafana-status-dot"
+        }
+      ]
+    },
+    {
       "id": "btplc-alarm-box-panel",
       "type": "panel",
       "url": "https://github.com/BTplc/grafana-alarm-box",
@@ -52,6 +64,11 @@
         {
           "version": "0.1.0",
           "commit": "e87cbdee2f1628037099b52cb303e10174b680c7",
+          "url": "https://github.com/BTplc/grafana-alarm-box"
+        },
+        {
+          "version": "0.1.1",
+          "commit": "faf540af64689b39d2b879d6c03023800f2ac1dd",
           "url": "https://github.com/BTplc/grafana-alarm-box"
         }
       ]
