@@ -1301,13 +1301,13 @@
       ]
     },
     {
-      "id": "ginkgobioworks-grafana-logstream",
+      "id": "ginkgobioworks-logstream-panel",
       "type": "panel",
       "url": "https://github.com/ginkgobioworks/grafana-logstream",
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "09a8f4448326dc89501c7ef5664d94abbeaf92ae",
+          "commit": "83420b256e5aa39807dffdebeef132a37b75a1f5",
           "url": "https://github.com/ginkgobioworks/grafana-logstream"
         }
       ]
