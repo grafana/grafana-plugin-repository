@@ -1340,7 +1340,18 @@
           "url": "https://github.com/dalmatinerdb/dalmatinerdb-datasource"
         }
       ]
+    },
+    {
+      "id": "gnocchixyz-gnocchi-datasource",
+      "type": "datasource",
+      "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "commit": "ab9f8e68b46829828cac12aa7469297d1621b477",
+          "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource"
+        }
+      ]
     }
-
   ]
 }
