@@ -1352,6 +1352,18 @@
           "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource"
         }
       ]
+    },
+    {
+      "id": "petrslavotinek-carpetplot-panel",
+      "type": "panel",
+      "url": "https://github.com/petrslavotinek/grafana-carpetplot",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "147e1709378dfa99be0f515e5822c8990ed7b779",
+          "url": "https://github.com/petrslavotinek/grafana-carpetplot"
+        }
+      ]
     }
   ]
 }
