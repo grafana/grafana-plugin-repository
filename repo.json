@@ -987,6 +987,11 @@
       "url": "https://github.com/NatelEnergy/grafana-discrete-panel",
       "versions": [
         {
+          "version": "0.0.5",
+          "commit": "10d9ec42ecee32d9b4a35385be5c89410176ea8d",
+          "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
+        },
+        {
           "version": "0.0.4",
           "commit": "39a4eb44ab7f8d082478050058ead371a12aa5e2",
           "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
