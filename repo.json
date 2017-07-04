@@ -1391,6 +1391,18 @@
           "url": "https://github.com/petrslavotinek/grafana-carpetplot"
         }
       ]
-    }
+    },
+    {
+      "id": "jether-html-panel",
+      "type": "panel",
+      "url": "https://github.com/jether-energy/grafana-html-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "44a83d83ddb5e276e6727958e1d3a9b8fa36aced",
+          "url": "https://github.com/jether-energy/grafana-html-panel"
+        }
+      ]
+    },
   ]
 }
