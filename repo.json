@@ -1391,6 +1391,18 @@
           "url": "https://github.com/petrslavotinek/grafana-carpetplot"
         }
       ]
+    },
+    {
+      "id": "michaeldmoore-annunciator-panel",
+      "type": "panel",
+      "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "41d300f69d09d44994cb21207ef53e0c188e109a",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
+        }
+      ]
     }
   ]
 }
