@@ -1396,6 +1396,18 @@
           "url": "https://github.com/petrslavotinek/grafana-carpetplot"
         }
       ]
+    },
+    {
+      "id": "bubblechart-panel",
+      "type": "panel",
+      "url": "https://github.com/digrich/bubblechart-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "4882d57ab74b1eec94cddcbaeeef12e2cdcc47fd",
+          "url": "https://github.com/digrich/bubblechart-panel"
+        }
+      ]
     }
   ]
 }
