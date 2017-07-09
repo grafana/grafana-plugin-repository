@@ -1408,6 +1408,17 @@
           "url": "https://github.com/ayoungprogrammer/grafana-finance"
         }
       ]
-    }
+    },
+    {
+      "id": "glpi_app_grafana",
+      "type": "app",
+      "url": "https://github.com/ddurieux/glpi_app_grafana/",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "041ee2c50767d434c8a78f4b2e5c372b1b4d6c2a",
+          "url": "https://github.com/ddurieux/glpi_app_grafana/"
+        },
+     }    
   ]
 }
