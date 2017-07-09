@@ -1398,7 +1398,7 @@
       ]
     },
     {
-      "id": "bubblechart-panel",
+      "id": "digrich-bubblechart-panel",
       "type": "panel",
       "url": "https://github.com/digrich/bubblechart-panel",
       "versions": [
