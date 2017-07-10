@@ -1413,6 +1413,18 @@
           "url": "https://github.com/ayoungprogrammer/grafana-finance"
         }
       ]
+    },
+    {
+      "id": "digrich-bubblechart-panel",
+      "type": "panel",
+      "url": "https://github.com/digrich/bubblechart-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "b8194655f84ab3a3528244fdcebd75f7c86cab4e",
+          "url": "https://github.com/digrich/bubblechart-panel"
+        }
+      ]
     }
   ]
 }
