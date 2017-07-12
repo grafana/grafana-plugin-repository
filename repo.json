@@ -1399,7 +1399,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "44a83d83ddb5e276e6727958e1d3a9b8fa36aced",
+          "commit": "3f5cbd6a6388c195419a0379cf2ec2d4104ff066",
           "url": "https://github.com/jether-energy/grafana-html-panel"
         }
       ]
