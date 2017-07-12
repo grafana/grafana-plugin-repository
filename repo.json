@@ -183,6 +183,16 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.5.1",
+          "commit": "411efc57840b17466def4e039f6686230327b3a0",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.5.0",
+          "commit": "309f6fd275ace9613a01ffb47a50ff2fdd5945f1",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.4.0",
           "commit": "14a7fd4a8c2fba63501db49978407b8ac7fb6ffb",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
@@ -1404,5 +1414,29 @@
         }
       ]
     },
+    {
+      "id": "ayoungprogrammer-finance-datasource",
+      "type": "datasource",
+      "url": "https://github.com/ayoungprogrammer/grafana-finance",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "8d2784acdb6fd68a4f20685db7034aacf29ff97d",
+          "url": "https://github.com/ayoungprogrammer/grafana-finance"
+        }
+      ]
+    },
+    {
+      "id": "digrich-bubblechart-panel",
+      "type": "panel",
+      "url": "https://github.com/digrich/bubblechart-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "b8194655f84ab3a3528244fdcebd75f7c86cab4e",
+          "url": "https://github.com/digrich/bubblechart-panel"
+        }
+      ]
+    }
   ]
 }
