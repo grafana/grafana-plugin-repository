@@ -183,6 +183,11 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.5.1",
+          "commit": "411efc57840b17466def4e039f6686230327b3a0",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.5.0",
           "commit": "309f6fd275ace9613a01ffb47a50ff2fdd5945f1",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
@@ -1416,9 +1421,22 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "041ee2c50767d434c8a78f4b2e5c372b1b4d6c2a",
+          "commit": "4929872cef5510b96459d220aca0867e696a58f6",
           "url": "https://github.com/ddurieux/glpi_app_grafana/"
-        },
-     }    
+        }
+      ]
+    },
+    {
+      "id": "digrich-bubblechart-panel",
+      "type": "panel",
+      "url": "https://github.com/digrich/bubblechart-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "b8194655f84ab3a3528244fdcebd75f7c86cab4e",
+          "url": "https://github.com/digrich/bubblechart-panel"
+        }
+      ]
+    }
   ]
 }
