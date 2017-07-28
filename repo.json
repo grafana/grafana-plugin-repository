@@ -1430,6 +1430,18 @@
       ]
     },
     {
+      "id": "glpi_app_grafana",
+      "type": "app",
+      "url": "https://github.com/ddurieux/glpi_app_grafana/",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "4929872cef5510b96459d220aca0867e696a58f6",
+          "url": "https://github.com/ddurieux/glpi_app_grafana/"
+        }
+      ]
+    },
+    {
       "id": "digrich-bubblechart-panel",
       "type": "panel",
       "url": "https://github.com/digrich/bubblechart-panel",
