@@ -1440,6 +1440,18 @@
           "url": "https://github.com/digrich/bubblechart-panel"
         }
       ]
+    },
+    {
+      "id": "michaeldmoore-annunciator-panel",
+      "type": "panel",
+      "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "542707e504b1461bb6fb70b86c8a637f93724181",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
+        }
+      ]
     }
   ]
 }
