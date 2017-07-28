@@ -1430,7 +1430,7 @@
       ]
     },
     {
-      "id": "glpi_app_grafana",
+      "id": "ddurieux-glpi-app",
       "type": "app",
       "url": "https://github.com/ddurieux/glpi_app_grafana/",
       "versions": [
