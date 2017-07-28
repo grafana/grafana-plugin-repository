@@ -937,6 +937,11 @@
           "version": "1.0.8",
           "commit": "ab753cee37b350d31b690586cd42ddf20edab5e7",
           "url": "https://github.com/hawkular/hawkular-grafana-datasource"
+        },
+        {
+          "version": "1.0.10",
+          "commit": "32ba7bf889a8e36fa292ccbec7c13aee33d48b3f",
+          "url": "https://github.com/hawkular/hawkular-grafana-datasource"
         }
       ]
     },
