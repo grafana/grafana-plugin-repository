@@ -1418,6 +1418,18 @@
       ]
     },
     {
+      "id": "jether-html-panel",
+      "type": "panel",
+      "url": "https://github.com/jether-energy/grafana-html-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "3f5cbd6a6388c195419a0379cf2ec2d4104ff066",
+          "url": "https://github.com/jether-energy/grafana-html-panel"
+        }
+      ]
+    },
+    {
       "id": "ayoungprogrammer-finance-datasource",
       "type": "datasource",
       "url": "https://github.com/ayoungprogrammer/grafana-finance",
