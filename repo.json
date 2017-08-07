@@ -415,6 +415,18 @@
       ]
     },
     {
+      "id": "grafana-appdynamics-datasource",
+      "type": "datasource",
+      "url": "https://github.com/dlopes7/appdynamics-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "db0e1bab2c0c33375f60ebdd7291fd2010cc5705",
+          "url": "https://github.com/dlopes7/appdynamics-grafana-datasource"
+        }
+      ]
+    },
+    {
       "id": "grafana-simple-json-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/simple-json-datasource",
