@@ -1476,6 +1476,18 @@
           "url": "https://github.com/neuralfraud/grafana-prtg"
         }
       ]
-    }
+    },
+    {
+      "id": "skydive-datasource",
+      "type": "datasource",
+      "url": "https://github.com/skydive-project/skydive-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "1705986d611e95a2af0e6350b8a050a7a29c2a40",
+          "url": "https://github.com/skydive-project/skydive-grafana-datasource"
+        }
+      ]
+    },
   ]
 }
