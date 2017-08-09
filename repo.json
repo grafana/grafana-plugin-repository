@@ -2038,6 +2038,18 @@
           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "mtanda-google-stackdriver-datasource",
+      "type": "datasource",
+      "url": "https://github.com/mtanda/grafana-google-stackdriver-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "c134e257ee02b2594607f39f989f910d446c0963",
+          "url": "https://github.com/mtanda/grafana-google-stackdriver-datasource"
+        }
+      ]
     }
   ]
 }
