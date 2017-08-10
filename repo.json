@@ -1307,7 +1307,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "83420b256e5aa39807dffdebeef132a37b75a1f5",
+          "commit": "8455536a1712b0887a2ab1815bb6716eb29529d1",
           "url": "https://github.com/ginkgobioworks/grafana-logstream"
         }
       ]
