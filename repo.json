@@ -420,8 +420,8 @@
       "url": "https://github.com/dlopes7/appdynamics-grafana-datasource",
       "versions": [
         {
-          "version": "1.0.0",
-          "commit": "d85003813b06cf7f8cc9fd6dcffeb774ccb0ce40",
+          "version": "1.0.1",
+          "commit": "4495815872415a5565faab06a233eeca277b5269",
           "url": "https://github.com/dlopes7/appdynamics-grafana-datasource"
         }
       ]
