@@ -1476,6 +1476,18 @@
           "url": "https://github.com/neuralfraud/grafana-prtg"
         }
       ]
+    },
+    {
+      "id": "ibm-apm-datasource",
+      "type": "datasource",
+      "url": "https://github.com/rafal-szypulka/grafana-ibm-apm",
+      "versions": [
+        {
+          "version": "0.4",
+          "commit": "655b29a739a4f45a3e74189948333c14ee1b4b34",
+          "url": "https://github.com/rafal-szypulka/grafana-ibm-apm"
+        }
+      ]
     }
   ]
 }
