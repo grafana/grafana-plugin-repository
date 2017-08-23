@@ -873,6 +873,11 @@
       "url": "https://github.com/briangann/grafana-gauge-panel",
       "versions": [
         {
+          "version": "0.0.4",
+          "commit": "976e74d24afe865554be33bb85f4f2764d3184f9",
+          "url": "https://github.com/briangann/grafana-gauge-panel"
+        },
+        {
           "version": "0.0.3",
           "commit": "b12952157242d7f7fa4c8f623128d3e7581019c3",
           "url": "https://github.com/briangann/grafana-gauge-panel"
@@ -894,6 +899,11 @@
       "type": "panel",
       "url": "https://github.com/briangann/grafana-datatable-panel",
       "versions": [
+        {
+          "version": "0.0.3",
+          "commit": "6046f38006ba6bb06cf8188a6ac81c295c37e46c",
+          "url": "https://github.com/briangann/grafana-datatable-panel"
+        },
         {
           "version": "0.0.1",
           "commit": "6b0ab7bdbfdecac403cc5b8bdf23f692be109c7a",
