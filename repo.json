@@ -1498,6 +1498,18 @@
       ]
     },
     {
+      "id": "skydive-datasource",
+      "type": "datasource",
+      "url": "https://github.com/skydive-project/skydive-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "d490fe95ba6903d0b0fb3957812522fe35503408",
+          "url": "https://github.com/skydive-project/skydive-grafana-datasource"
+        }
+      ]
+    },
+    {
       "id": "ibm-apm-datasource",
       "type": "datasource",
       "url": "https://github.com/rafal-szypulka/grafana-ibm-apm",
