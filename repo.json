@@ -1432,7 +1432,7 @@
       "versions": [
         {
           "version": "0.0.3",
-          "commit": "6273628f4730f5215451506544b5dda0cdcd14da",
+          "commit": "587144a5627ebbbbe9bb9e4641c259dc8056f361",
           "url": "https://github.com/petrslavotinek/grafana-carpetplot"
         },
         {
