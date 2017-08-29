@@ -361,6 +361,18 @@
       ]
     },
     {
+      "id": "sidewinder-datasource",
+      "type": "datasource",
+      "url": "https://github.com/srotya/sidewinder-grafana/",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "0edb6374cc3ab128b6b9994a9f76a8c32109fd95",
+          "url": "https://github.com/srotya/sidewinder-grafana/"
+        }
+      ]
+    },
+    {
       "id": "grafana-kairosdb-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/kairosdb-datasource",
