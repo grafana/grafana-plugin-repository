@@ -1537,6 +1537,18 @@
           "url": "https://github.com/rafal-szypulka/grafana-ibm-apm"
         }
       ]
+    },
+    {
+      "id": "citilogics-geoloop-panel",
+      "type": "panel",
+      "url": "https://github.com/citilogics/citilogics-geoloop-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "a92575bb38c9c062d9545c351769492499cdbb53",
+          "url": "https://github.com/CitiLogics/citilogics-geoloop-panel"
+        }
+      ]
     }
   ]
 }
