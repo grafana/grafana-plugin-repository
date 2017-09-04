@@ -183,6 +183,26 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.6.1",
+          "commit": "4c39fec00754dac434b85ca81ca1f589a58c223b",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.6.0",
+          "commit": "ec272770bb69056df979b7b4b17c18b153ca3c81",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.5.1",
+          "commit": "411efc57840b17466def4e039f6686230327b3a0",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.5.0",
+          "commit": "309f6fd275ace9613a01ffb47a50ff2fdd5945f1",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.4.0",
           "commit": "14a7fd4a8c2fba63501db49978407b8ac7fb6ffb",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
@@ -337,6 +357,18 @@
         "version": "0.9.0",
         "commit": "321b9d978c74b6d7c54690c2f64da70211190a5b",
         "url": "https://github.com/grafana/piechart-panel"
+        }
+      ]
+    },
+    {
+      "id": "sidewinder-datasource",
+      "type": "datasource",
+      "url": "https://github.com/srotya/sidewinder-grafana/",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "0edb6374cc3ab128b6b9994a9f76a8c32109fd95",
+          "url": "https://github.com/srotya/sidewinder-grafana/"
         }
       ]
     },
@@ -853,6 +885,11 @@
       "url": "https://github.com/briangann/grafana-gauge-panel",
       "versions": [
         {
+          "version": "0.0.4",
+          "commit": "976e74d24afe865554be33bb85f4f2764d3184f9",
+          "url": "https://github.com/briangann/grafana-gauge-panel"
+        },
+        {
           "version": "0.0.3",
           "commit": "b12952157242d7f7fa4c8f623128d3e7581019c3",
           "url": "https://github.com/briangann/grafana-gauge-panel"
@@ -874,6 +911,11 @@
       "type": "panel",
       "url": "https://github.com/briangann/grafana-datatable-panel",
       "versions": [
+        {
+          "version": "0.0.3",
+          "commit": "6046f38006ba6bb06cf8188a6ac81c295c37e46c",
+          "url": "https://github.com/briangann/grafana-datatable-panel"
+        },
         {
           "version": "0.0.1",
           "commit": "6b0ab7bdbfdecac403cc5b8bdf23f692be109c7a",
@@ -916,6 +958,11 @@
         {
           "version": "1.0.8",
           "commit": "ab753cee37b350d31b690586cd42ddf20edab5e7",
+          "url": "https://github.com/hawkular/hawkular-grafana-datasource"
+        },
+        {
+          "version": "1.0.10",
+          "commit": "32ba7bf889a8e36fa292ccbec7c13aee33d48b3f",
           "url": "https://github.com/hawkular/hawkular-grafana-datasource"
         }
       ]
@@ -1288,6 +1335,16 @@
           "version": "1.0.1",
           "commit": "24edd14016aee9295348d57bb083bb41bf9e24c7",
           "url": "https://github.com/sni/grafana-pnp-datasource"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "57f44927c122e707799a2f11c1ef6255db4fecda",
+          "url": "https://github.com/sni/grafana-pnp-datasource"
+        },
+        {
+          "version": "1.0.3",
+          "commit": "1f5d70e35357a624bda7e8973f67c3d5bcd13939",
+          "url": "https://github.com/sni/grafana-pnp-datasource"
         }
       ]
     },
@@ -1386,9 +1443,50 @@
       "url": "https://github.com/petrslavotinek/grafana-carpetplot",
       "versions": [
         {
+          "version": "0.0.3",
+          "commit": "587144a5627ebbbbe9bb9e4641c259dc8056f361",
+          "url": "https://github.com/petrslavotinek/grafana-carpetplot"
+        },
+        {
           "version": "0.0.1",
           "commit": "147e1709378dfa99be0f515e5822c8990ed7b779",
           "url": "https://github.com/petrslavotinek/grafana-carpetplot"
+        }
+      ]
+    },
+    {
+      "id": "ayoungprogrammer-finance-datasource",
+      "type": "datasource",
+      "url": "https://github.com/ayoungprogrammer/grafana-finance",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "8d2784acdb6fd68a4f20685db7034aacf29ff97d",
+          "url": "https://github.com/ayoungprogrammer/grafana-finance"
+        }
+      ]
+    },
+    {
+      "id": "ddurieux-glpi-app",
+      "type": "app",
+      "url": "https://github.com/ddurieux/glpi_app_grafana/",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "4929872cef5510b96459d220aca0867e696a58f6",
+          "url": "https://github.com/ddurieux/glpi_app_grafana/"
+        }
+      ]
+    },
+    {
+      "id": "digrich-bubblechart-panel",
+      "type": "panel",
+      "url": "https://github.com/digrich/bubblechart-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "b8194655f84ab3a3528244fdcebd75f7c86cab4e",
+          "url": "https://github.com/digrich/bubblechart-panel"
         }
       ]
     },
@@ -1399,13 +1497,56 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "41d300f69d09d44994cb21207ef53e0c188e109a",
-          "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
-        }
-        {
-          "version": "1.0.1",
           "commit": "542707e504b1461bb6fb70b86c8a637f93724181",
           "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
+        }
+      ]
+    },
+    {
+      "id": "michaeldmoore-multistat-panel",
+      "type": "panel",
+      "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "c3f34c4484d249e89caab4e8c6a5986eadca141f",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
+        }
+      ]
+    },
+    {
+      "id": "jasonlashua-prtg-datasource",
+      "type": "datasource",
+      "url": "https://github.com/neuralfraud/grafana-prtg",
+      "versions": [
+        {
+          "version": "4.0.3",
+          "commit": "330bb263a936d67a0c3d41c07f5d6333635db2ee",
+          "url": "https://github.com/neuralfraud/grafana-prtg"
+        }
+      ]
+    },
+    {
+      "id": "skydive-datasource",
+      "type": "datasource",
+      "url": "https://github.com/skydive-project/skydive-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "d490fe95ba6903d0b0fb3957812522fe35503408",
+          "url": "https://github.com/skydive-project/skydive-grafana-datasource"
+        }
+      ]
+    },
+    {
+      "id": "ibm-apm-datasource",
+      "type": "datasource",
+      "url": "https://github.com/rafal-szypulka/grafana-ibm-apm",
+      "versions": [
+        {
+          "version": "0.4",
+          "commit": "655b29a739a4f45a3e74189948333c14ee1b4b34",
+          "url": "https://github.com/rafal-szypulka/grafana-ibm-apm"
         }
       ]
     }
