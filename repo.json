@@ -19,6 +19,11 @@
           "version": "0.1.0",
           "commit": "3cd50a67d4e6a6472c8e36834c7311bbf5f8fa65",
           "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
+        },
+        {
+          "version": "0.1.1",
+          "commit": "06c60e547d26cada4d908726ffe32e82add0857c",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
         }
       ]
     },
@@ -36,6 +41,11 @@
           "version": "0.0.3",
           "commit": "d797eccb8dd5c2967c790c7a939b4e007cd05e11",
           "url": "https://github.com/BT-OpenSource/bt-grafana-trend-dot"
+        },
+        {
+          "version": "0.0.4",
+          "commit": "f5805a7171a0ae67bf69b8a7c550cdae5cea7eff",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-dot"
         }
       ]
     },
@@ -52,6 +62,11 @@
         {
           "version": "0.1.0",
           "commit": "f514d95723c933721b89e91d68901b4a93c63043",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.1.1",
+          "commit": "f09785b1b5e0af426fb4b1044e25d2d0d289a02b",
           "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
         }
       ]
@@ -85,6 +100,11 @@
           "version": "0.2.0",
           "commit": "be47c345f4fdc6be4c3a663f338bd9db7ca63731",
           "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "0.2.1",
+          "commit": "53e64d07a535c2e5f00c8ce162a5dc4c1ebd5d14",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         }
       ]
     },
@@ -106,6 +126,11 @@
         {
           "version": "0.1.0",
           "commit": "332af52245f6ccdb06b726072b339c6749b7b978",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
+        },
+        {
+          "version": "0.1.1",
+          "commit": "bb4a393ba837eacec060599d2c5e3f5d59eea3c6",
           "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
         }
       ]
