@@ -1448,6 +1448,11 @@
       "url": "https://github.com/petrslavotinek/grafana-carpetplot",
       "versions": [
         {
+          "version": "0.0.4",
+          "commit": "62ac1255635800704cc8bc5381e41dd65b4e2168",
+          "url": "https://github.com/petrslavotinek/grafana-carpetplot"
+        },
+        {
           "version": "0.0.3",
           "commit": "587144a5627ebbbbe9bb9e4641c259dc8056f361",
           "url": "https://github.com/petrslavotinek/grafana-carpetplot"
