@@ -3,90 +3,110 @@
     {
       "id": "btplc-trend-box-panel",
       "type": "panel",
-      "url": "https://github.com/BTplc/grafana-trend-box",
+      "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "f29268339fc55d7fcdbcc246de9455766d6215d8",
-          "url": "https://github.com/BTplc/grafana-trend-box"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
         },
         {
           "version": "0.0.3",
           "commit": "b5d087b8741334d85604206f9aaa2ca3d31fec79",
-          "url": "https://github.com/BTplc/grafana-trend-box"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
+        },
+        {
+          "version": "0.1.0",
+          "commit": "3cd50a67d4e6a6472c8e36834c7311bbf5f8fa65",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
         }
       ]
     },
     {
       "id": "btplc-trend-dot-panel",
       "type": "panel",
-      "url": "https://github.com/BTplc/grafana-trend-dot",
+      "url": "https://github.com/BT-OpenSource/bt-grafana-trend-dot",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "f896513f98d322d22d366f03fff460f3fb6bff4f",
-          "url": "https://github.com/BTplc/grafana-trend-dot"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-dot"
         },
         {
           "version": "0.0.3",
           "commit": "d797eccb8dd5c2967c790c7a939b4e007cd05e11",
-          "url": "https://github.com/BTplc/grafana-trend-dot"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-dot"
         }
       ]
     },
     {
       "id": "btplc-status-dot-panel",
       "type": "panel",
-      "url": "https://github.com/BTplc/grafana-status-dot",
+      "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "c493f4924a5649cee42a2015231d2689ea73943a",
-          "url": "https://github.com/BTplc/grafana-status-dot"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.1.0",
+          "commit": "f514d95723c933721b89e91d68901b4a93c63043",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
         }
       ]
     },
     {
       "id": "btplc-alarm-box-panel",
       "type": "panel",
-      "url": "https://github.com/BTplc/grafana-alarm-box",
+      "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "46f24abe61866828d335d055252528875e65e6cb",
-          "url": "https://github.com/BTplc/grafana-alarm-box"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         },
         {
           "version": "0.0.3",
           "commit": "fc29dbca86f6ae88dd9f362d522781d5c3bc1ff4",
-          "url": "https://github.com/BTplc/grafana-alarm-box"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         },
         {
           "version": "0.1.0",
           "commit": "e87cbdee2f1628037099b52cb303e10174b680c7",
-          "url": "https://github.com/BTplc/grafana-alarm-box"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         },
         {
           "version": "0.1.1",
           "commit": "faf540af64689b39d2b879d6c03023800f2ac1dd",
-          "url": "https://github.com/BTplc/grafana-alarm-box"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "0.2.0",
+          "commit": "be47c345f4fdc6be4c3a663f338bd9db7ca63731",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         }
       ]
     },
     {
       "id": "btplc-peak-report-panel",
       "type": "panel",
-      "url": "https://github.com/BTplc/grafana-peak-report",
+      "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "0b08db007aa2e8a06fbce1f8ae3e4429e83a08c1",
-          "url": "https://github.com/BTplc/grafana-peak-report"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
         },
         {
           "version": "0.0.3",
           "commit": "e23f9745fdcef05987c9a2d9870ff327619ce90a",
-          "url": "https://github.com/BTplc/grafana-peak-report"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
+        },
+        {
+          "version": "0.1.0",
+          "commit": "332af52245f6ccdb06b726072b339c6749b7b978",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
         }
       ]
     },
