@@ -1481,8 +1481,8 @@
       "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource",
       "versions": [
         {
-          "version": "1.5.3",
-          "commit": "19dc9793af7a89285c185d3b7375b9ea24f37177",
+          "version": "1.5.5",
+          "commit": "d44b830e0b283bccfa6615d8eba3f11df8479ec3",
           "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource"
         }
       ]
