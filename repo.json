@@ -1544,7 +1544,7 @@
       ]
     },
     {
-      "id": "simple-annotations-datasource",
+      "id": "fzakaria-simple-annotations-datasource",
       "type": "datasource",
       "url": "https://github.com/fzakaria/simple-annotations-plugin",
       "versions": [
