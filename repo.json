@@ -1550,7 +1550,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "0383743f380069227350528211f222a44155e28a",
+          "commit": "af442ce5beaa3665aaf17594fe51a608805cd4bc",
           "url": "https://github.com/fzakaria/simple-annotations-plugin"
         }
       ]
