@@ -1604,6 +1604,18 @@
           "url": "https://github.com/rafal-szypulka/grafana-ibm-apm"
         }
       ]
+    },
+    {
+      "id": "fzakaria-simple-annotations-datasource",
+      "type": "datasource",
+      "url": "https://github.com/fzakaria/simple-annotations-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "2df0c9cca6b11e822d96580da3c7bf14465c0d7a",
+          "url": "https://github.com/fzakaria/simple-annotations-plugin"
+        }
+      ]
     }
   ]
 }
