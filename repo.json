@@ -404,9 +404,9 @@
           "url": "https://github.com/grafana/piechart-panel"
         },
         {
-        "version": "0.9.0",
-        "commit": "321b9d978c74b6d7c54690c2f64da70211190a5b",
-        "url": "https://github.com/grafana/piechart-panel"
+          "version": "0.9.0",
+          "commit": "321b9d978c74b6d7c54690c2f64da70211190a5b",
+          "url": "https://github.com/grafana/piechart-panel"
         }
       ]
     },
@@ -449,7 +449,7 @@
       "type": "datasource",
       "url": "https://github.com/grafana/influxdb-08-datasource",
       "versions": [
-         {
+        {
           "version": "1.0.2",
           "commit": "94499ae1267b91109cbf600d58a88ab6f57baf14",
           "url": "https://github.com/grafana/influxdb-08-datasource"
@@ -543,7 +543,7 @@
       ]
     },
     {
-    "id": "raintank-worldping-app",
+      "id": "raintank-worldping-app",
       "type": "app",
       "url": "https://github.com/raintank/worldping-app",
       "versions": [
@@ -687,6 +687,91 @@
       "type": "app",
       "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch",
       "versions": [
+        {
+          "version": "0.83.2",
+          "commit": "dd84202634d53f556343c4c3dd7314046760d011",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.83.1",
+          "commit": "1e5695815d456336017e5b3e1a45e09c3823f057",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.83.0",
+          "commit": "318559271565ef33a14c9fd525d4f77813f3e6aa",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.82.0",
+          "commit": "b1a2b972bf72d295d5ef0ea17811422af22daee5",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.81.0",
+          "commit": "875949a8e551ae705a2b133a57d1877067e287fb",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.80.2",
+          "commit": "04840fabb4820755c8c2b4b9263f1d6e91cee9c3",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.80.0",
+          "commit": "843dc0b20aa7c2af35a77911ce324de0f58087f2",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.31.0",
+          "commit": "4a17aa02409c5392504809c5433fe7a23ba1e90a",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.30.1",
+          "commit": "534fed5d583e97864f7d9174ea4cd94556e1fee6",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.30.0",
+          "commit": "2f0d6945a1bad4c6abffe667785f75b8fc44f5db",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.29.1",
+          "commit": "7b29706a30f08cfd660c02ef8c11ea827acef986",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.29.0",
+          "commit": "8883a43bf58291ab35618e0cc2315684a2a1a60a",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.28.0",
+          "commit": "3f48baf55b906f5b87c16e4146ca675a64eae78e",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.27.2",
+          "commit": "60d9aced87162a13eb72adff8eee54ddfe4814b2",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.27.1",
+          "commit": "60f2b89d738ed498284bbd0fb86f6b1123a7d582",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.27.0",
+          "commit": "168e7d57b43926561f840290d27044de617c7cd2",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.26.1",
+          "commit": "0db4b44d09a36f90936984f17ffa2b747a14b3ae",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
         {
           "version": "0.26.0",
           "commit": "a2b43264febc023c8a167fb532dc63f15e9fdb37",
@@ -1238,7 +1323,7 @@
       ]
     },
     {
-     "id": "grafana-monitoring-art",
+      "id": "grafana-monitoring-art",
       "type": "datasource",
       "url": "https://github.com/monitoringartist/grafana-monitoring-art",
       "versions": [
@@ -1287,7 +1372,7 @@
       ]
     },
     {
-     "id": "raintank-kubernetes-app",
+      "id": "raintank-kubernetes-app",
       "type": "app",
       "url": "https://github.com/grafana/kubernetes-app",
       "versions": [
@@ -1329,7 +1414,7 @@
       ]
     },
     {
-     "id": "monasca-datasource",
+      "id": "monasca-datasource",
       "type": "datasource",
       "url": "https://github.com/openstack/monasca-grafana-datasource",
       "versions": [
@@ -1341,7 +1426,7 @@
       ]
     },
     {
-     "id": "cloudflare-app",
+      "id": "cloudflare-app",
       "type": "app",
       "url": "https://github.com/cloudflare/cloudflare-grafana-app",
       "versions": [
