@@ -723,11 +723,6 @@
           "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
         },
         {
-          "version": "0.80.0.RC1",
-          "commit": "2d461412a3b4663c2c454b15d058940c4744fdb8",
-          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
-        },
-        {
           "version": "0.31.0",
           "commit": "4a17aa02409c5392504809c5433fe7a23ba1e90a",
           "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
