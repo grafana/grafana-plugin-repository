@@ -68,6 +68,11 @@
           "version": "0.1.1",
           "commit": "f09785b1b5e0af426fb4b1044e25d2d0d289a02b",
           "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.1.2",
+          "commit": "599bc72d694c3f2e17d4f3874d675180437b1695",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
         }
       ]
     },
@@ -109,6 +114,11 @@
         {
           "version": "1.0.0",
           "commit": "8e8c12c22810cc16ccdc34ac104edf318a98d256",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "957d2c1528693b9998da214f07c05ce610656602",
           "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         }
       ]
