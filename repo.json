@@ -1721,6 +1721,18 @@
           "url": "https://github.com/fzakaria/simple-annotations-plugin"
         }
       ]
+    },
+    {
+      "id": "ntop-ntopng-datasource",
+      "type": "datasource",
+      "url": "https://github.com/ntop/ntopng-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "3f29b779665ded214aa793fd3c1cb8ad0b6fd0bb",
+          "url": "https://github.com/ntop/ntopng-grafana-datasource"
+        }
+      ]
     }
   ]
 }
