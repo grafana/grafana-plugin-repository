@@ -1174,6 +1174,11 @@
       "url": "https://github.com/ryantxu/ajax-panel",
       "versions": [
         {
+          "version": "0.0.3",
+          "commit": "15c23978c7b4df649e84b7df5d415cc7d3e1af35",
+          "url": "https://github.com/ryantxu/ajax-panel"
+        },
+        {
           "version": "0.0.2",
           "commit": "5739ad29f9f191605fff7149ecfc52385de92b88",
           "url": "https://github.com/ryantxu/ajax-panel"
