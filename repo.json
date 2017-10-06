@@ -1532,6 +1532,11 @@
           "version": "1.0.3",
           "commit": "1f5d70e35357a624bda7e8973f67c3d5bcd13939",
           "url": "https://github.com/sni/grafana-pnp-datasource"
+        },
+        {
+          "version": "1.0.4",
+          "commit": "59a3fe52f424332ccfe77edb3d0af4946c7865f7",
+          "url": "https://github.com/sni/grafana-pnp-datasource"
         }
       ]
     },
