@@ -1783,6 +1783,16 @@
           "url": "https://github.com/ntop/ntopng-grafana-datasource"
         }
       ]
-    }
+    },
+    {
+      "id": "grafana-warp10-datasource",
+      "type": "datasource",
+      "url": "https://github.com/cityzendata/grafana-warp10",
+      "versions": [
+        {
+          "version": "1.2.3",
+          "commit": "e11dc9e5c079a823f2e0d23567c81859df79be3e",
+          "url": "https://github.com/cityzendata/grafana-warp10"
+        }
   ]
 }
