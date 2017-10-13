@@ -1709,9 +1709,14 @@
       "url": "https://github.com/ddurieux/glpi_app_grafana/",
       "versions": [
         {
+          "version": "1.0.0",
+          "commit": "4929872cef5510b96459d220aca0867e696a58f6",
+          "url": "https://github.com/ddurieux/glpi_app_grafana"
+        },
+        {
           "version": "1.1.0",
           "commit": "d935c61d7f1abac7ab8070f112caad48a0ac8626",
-          "url": "https://github.com/ddurieux/glpi_app_grafana/"
+          "url": "https://github.com/ddurieux/glpi_app_grafana"
         }
       ]
     },
