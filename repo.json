@@ -1783,6 +1783,18 @@
           "url": "https://github.com/ntop/ntopng-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "camptocamp-prometheus-alertmanager-datasource",
+      "type": "datasource",
+      "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "43094ac621584046a273fcb13813b7c158c50d36",
+          "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
+        }
+      ]
     }
   ]
 }
