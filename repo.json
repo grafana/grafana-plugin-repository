@@ -204,7 +204,12 @@
       "id": "grafana-worldmap-panel",
       "type": "panel",
       "url": "https://github.com/grafana/worldmap-panel",
-      "versions": [        
+      "versions": [  
+         {
+          "version": "0.0.19",
+          "commit": "7dadb3046b64d866ca8396c86cf52589d52e6f7f",
+          "url": "https://github.com/grafana/worldmap-panel"
+        },
         {
           "version": "0.0.18",
           "commit": "9e76c49b7a11e32c76c9779f743aad020309910b",
