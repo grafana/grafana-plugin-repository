@@ -1832,6 +1832,18 @@
           "url": "https://github.com/CitiLogics/citilogics-geoloop-panel"
         }
       ]
+    },
+    {
+      "id": "grafana-progress-list-plugin",
+      "type": "panel",
+      "url": "https://github.com/CorpGlory/grafana-progress-list",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "commit": "768394987ff0c4cdeba7646c842222504407502a",
+          "url": "https://github.com/CorpGlory/grafana-progress-list"
+        }
+      ]
     }
   ]
 }
