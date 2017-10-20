@@ -1850,7 +1850,7 @@
       "versions": [
         {
           "version": "1.2.4",
-          "commit": "f82b4f0ea529d63d710c0455335375464978f92d",
+          "commit": "690b96458434c431ed759924832c5533101079f1",
           "url": "https://github.com/cityzendata/grafana-warp10"
         }
       ]
