@@ -204,7 +204,12 @@
       "id": "grafana-worldmap-panel",
       "type": "panel",
       "url": "https://github.com/grafana/worldmap-panel",
-      "versions": [        
+      "versions": [
+         {
+          "version": "0.0.19",
+          "commit": "7dadb3046b64d866ca8396c86cf52589d52e6f7f",
+          "url": "https://github.com/grafana/worldmap-panel"
+        },
         {
           "version": "0.0.18",
           "commit": "9e76c49b7a11e32c76c9779f743aad020309910b",
@@ -1217,6 +1222,11 @@
       "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel",
       "versions": [
         {
+          "version": "1.1.0",
+          "commit": "720f36a69601184b5796e73ed0f07e1149b3ca3a",
+          "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
+        },
+        {
           "version": "1.0.0",
           "commit": "00f6ec2c408df57f9d3d02aeeb4e3ac98081a575",
           "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
@@ -1304,6 +1314,11 @@
       "type": "panel",
       "url": "https://github.com/NatelEnergy/grafana-influx-admin",
       "versions": [
+        {
+          "version": "0.0.3",
+          "commit": "bfa9a2ea9de9e78f0eaa0c77b94b81b02c46b017",
+          "url": "https://github.com/NatelEnergy/grafana-influx-admin"
+        },
         {
           "version": "0.0.2",
           "commit": "cd8afbba7a48674a8ddc86567aa2f08388b76150",
@@ -1817,6 +1832,18 @@
       ]
     },
     {
+      "id": "citilogics-geoloop-panel",
+      "type": "panel",
+      "url": "https://github.com/citilogics/citilogics-geoloop-panel",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "commit": "5ee83aed2329aa0c0ec454325a045262ac54f7ee",
+          "url": "https://github.com/CitiLogics/citilogics-geoloop-panel"
+        }
+      ]
+    },
+    {
       "id": "warp10-datasource",
       "type": "datasource",
       "url": "https://github.com/cityzendata/grafana-warp10",
@@ -1827,6 +1854,6 @@
           "url": "https://github.com/cityzendata/grafana-warp10"
         }
       ]
-    }   
+    }       
   ]
 }
