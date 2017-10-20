@@ -1817,7 +1817,7 @@
       ]
     },
     {
-      "id": "grafana-warp10-datasource",
+      "id": "warp10-datasource",
       "type": "datasource",
       "url": "https://github.com/cityzendata/grafana-warp10",
       "versions": [
