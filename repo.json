@@ -1842,6 +1842,18 @@
           "url": "https://github.com/CitiLogics/citilogics-geoloop-panel"
         }
       ]
+    },
+        {
+      "id": "grafana-meta-queries",
+      "type": "datasource",
+      "url": "https://github.com/GoshPosh/grafana-meta-queries",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "eb005ade91f88ec7dc4b81a6235216e49714f648",
+          "url": "https://github.com/GoshPosh/grafana-meta-queries"
+        }
+      ]
     }
   ]
 }
