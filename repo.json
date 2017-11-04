@@ -1847,6 +1847,18 @@
           "url": "https://github.com/CitiLogics/citilogics-geoloop-panel"
         }
       ]
+    },
+    {
+      "id": "akumuli-datasource",
+      "type": "datasource",
+      "url": "https://github.com/akumuli/akumuli.grafana",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "dfe1e9abfbcc8352ca4530c1e2326e2b7074cd59",
+          "url": "https://github.com/akumuli/akumuli.grafana"
+        }
+      ]
     }
   ]
 }
