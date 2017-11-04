@@ -1855,7 +1855,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "dfe1e9abfbcc8352ca4530c1e2326e2b7074cd59",
+          "commit": "706042c149925a9b2b762be68f4f12d7267c46fa",
           "url": "https://github.com/akumuli/akumuli.grafana"
         }
       ]
