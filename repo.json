@@ -1844,7 +1844,7 @@
       ]
     },
         {
-      "id": "grafana-meta-queries",
+      "id": "goshposh-metaqueries-datasource",
       "type": "datasource",
       "url": "https://github.com/GoshPosh/grafana-meta-queries",
       "versions": [
