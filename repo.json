@@ -1851,12 +1851,12 @@
     {
       "id": "akumuli-datasource",
       "type": "datasource",
-      "url": "https://github.com/akumuli/akumuli.grafana",
+      "url": "https://github.com/akumuli/akumuli-datasource",
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "706042c149925a9b2b762be68f4f12d7267c46fa",
-          "url": "https://github.com/akumuli/akumuli.grafana"
+          "commit": "8111c44b2af9701e19714f195b1c7953958e53c8",
+          "url": "https://github.com/akumuli/akumuli-datasource"
         }
       ]
     }
