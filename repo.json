@@ -1320,6 +1320,11 @@
       "url": "https://github.com/NatelEnergy/grafana-influx-admin",
       "versions": [
         {
+          "version": "0.0.4",
+          "commit": "a2789f5dd2a3cf24b7005ed025d794f47e056e0c",
+          "url": "https://github.com/NatelEnergy/grafana-influx-admin"
+        },
+        {
           "version": "0.0.3",
           "commit": "bfa9a2ea9de9e78f0eaa0c77b94b81b02c46b017",
           "url": "https://github.com/NatelEnergy/grafana-influx-admin"
