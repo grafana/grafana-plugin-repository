@@ -1191,6 +1191,11 @@
           "version": "1.0.10",
           "commit": "32ba7bf889a8e36fa292ccbec7c13aee33d48b3f",
           "url": "https://github.com/hawkular/hawkular-grafana-datasource"
+        },
+        {
+          "version": "1.1.1",
+          "commit": "00fa4ebe1b6c2365a3ee699ec638bebc906b807a",
+          "url": "https://github.com/hawkular/hawkular-grafana-datasource"
         }
       ]
     },
@@ -1324,6 +1329,11 @@
       "type": "panel",
       "url": "https://github.com/NatelEnergy/grafana-influx-admin",
       "versions": [
+        {
+          "version": "0.0.4",
+          "commit": "ec8b2c91ae722bb00057a200e7d7636df5e81ca5",
+          "url": "https://github.com/NatelEnergy/grafana-influx-admin"
+        },
         {
           "version": "0.0.3",
           "commit": "bfa9a2ea9de9e78f0eaa0c77b94b81b02c46b017",
