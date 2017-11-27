@@ -1872,6 +1872,18 @@
           "url": "https://github.com/CitiLogics/citilogics-geoloop-panel"
         }
       ]
+    },
+    {
+      "id": "marcuscalidus-svg-panel",
+      "type": "panel",
+      "url": "https://github.com/MarcusCalidus/grafana-svg-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "606e58800b0863121c42e08b8ac63f87a8a86ef7",
+          "url": "https://github.com/MarcusCalidus/grafana-svg-panel"
+        }
+      ]
     }
   ]
 }
