@@ -1840,7 +1840,7 @@
       "versions": [
         {
           "version": "0.1.1",
-          "commit": "768394987ff0c4cdeba7646c842222504407502a",
+          "commit": "fdc89bae61ece8345824eb95d83663dae6f7c20c",
           "url": "https://github.com/CorpGlory/grafana-progress-list"
         }
       ]
