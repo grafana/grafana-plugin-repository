@@ -1834,7 +1834,7 @@
       ]
     },
     {
-      "id": "grafana-progress-list-plugin",
+      "id": "corpglory-progresslist-panel",
       "type": "panel",
       "url": "https://github.com/CorpGlory/grafana-progress-list",
       "versions": [
