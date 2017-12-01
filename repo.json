@@ -1081,6 +1081,16 @@
           "version": "1.4.0",
           "commit": "6fd89610180f8fa91366a8ab7c5867612c2cb80c",
           "url": "https://github.com/jdbranham/grafana-diagram"
+        },
+        {
+          "version": "1.4.3",
+          "commit": "d1482965a57239e454c55b8cec73842a12280fea",
+          "url": "https://github.com/jdbranham/grafana-diagram"
+        },
+        {
+          "version": "1.4.4",
+          "commit": "440689793ab6da82019c5ee43b49438dfef976d5",
+          "url": "https://github.com/jdbranham/grafana-diagram"
         }
       ]
     },
@@ -1185,6 +1195,11 @@
         {
           "version": "1.0.10",
           "commit": "32ba7bf889a8e36fa292ccbec7c13aee33d48b3f",
+          "url": "https://github.com/hawkular/hawkular-grafana-datasource"
+        },
+        {
+          "version": "1.1.1",
+          "commit": "00fa4ebe1b6c2365a3ee699ec638bebc906b807a",
           "url": "https://github.com/hawkular/hawkular-grafana-datasource"
         }
       ]
@@ -1319,6 +1334,11 @@
       "type": "panel",
       "url": "https://github.com/NatelEnergy/grafana-influx-admin",
       "versions": [
+        {
+          "version": "0.0.4",
+          "commit": "ec8b2c91ae722bb00057a200e7d7636df5e81ca5",
+          "url": "https://github.com/NatelEnergy/grafana-influx-admin"
+        },
         {
           "version": "0.0.3",
           "commit": "bfa9a2ea9de9e78f0eaa0c77b94b81b02c46b017",
@@ -1698,8 +1718,8 @@
       "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource",
       "versions": [
         {
-          "version": "1.5.5",
-          "commit": "d44b830e0b283bccfa6615d8eba3f11df8479ec3",
+          "version": "1.6.0",
+          "commit": "aa9215770d76e534bd20ef8db6464af92f53452a",
           "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource"
         }
       ]
