@@ -1470,6 +1470,11 @@
       "url": "https://github.com/Vonage/Grafana_Status_panel",
       "versions": [
         {
+          "version": "1.0.7",
+          "commit": "d5173e4aeffe46ddc0433423a37e032a24ea40dd",
+          "url": "https://github.com/Vonage/Grafana_Status_panel"
+        },
+        {
           "version": "1.0.6",
           "commit": "6847b5de8b2adee2cf7897533247f8353d5c37b4",
           "url": "https://github.com/Vonage/Grafana_Status_panel"
