@@ -1668,6 +1668,11 @@
       "url": "https://github.com/mtanda/grafana-google-calendar-datasource",
       "versions": [
         {
+          "version": "1.0.4",
+          "commit": "6d76d587734cf5c67cf27d55341746f8aef230ef",
+          "url": "https://github.com/mtanda/grafana-google-calendar-datasource"
+        },
+        {
           "version": "1.0.3",
           "commit": "287fbfc160a6e402613d9901a22bbd7950506d6a",
           "url": "https://github.com/mtanda/grafana-google-calendar-datasource"
