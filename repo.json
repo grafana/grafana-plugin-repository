@@ -616,6 +616,11 @@
       "url": "https://github.com/OpenNMS/grafana-opennms-datasource",
       "versions": [
         {
+          "version": "2.1.1",
+          "commit": "b5ff284de5454a5ab1bf6b154538e956cfbe0d96",
+          "url": "https://github.com/OpenNMS/grafana-opennms-datasource"
+        },
+        {
           "version": "2.1.0",
           "commit": "23866f0d3fee26d084bd54e7333f21ae00b98d63",
           "url": "https://github.com/OpenNMS/grafana-opennms-datasource"
@@ -634,6 +639,18 @@
           "version": "2.0.0",
           "commit": "c089ce7c2117f709ef4c944a332776dd290055af",
           "url": "https://github.com/OpenNMS/grafana-opennms-datasource"
+        }
+      ]
+    },
+    {
+      "id": "opennms-helm",
+      "type": "app",
+      "url": "https://github.com/OpenNMS/opennms-helm",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "c6a950cc5d965ab4071b7eab556d3d60e791e971",
+          "url": "https://github.com/OpenNMS/opennms-helm"
         }
       ]
     },
