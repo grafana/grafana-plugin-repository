@@ -1939,6 +1939,18 @@
           "url": "https://github.com/CitiLogics/citilogics-geoloop-panel"
         }
       ]
-    }
+    },
+    {
+      "id": "warp10-datasource",
+      "type": "datasource",
+      "url": "https://github.com/cityzendata/grafana-warp10",
+      "versions": [
+        {
+          "version": "1.2.4",
+          "commit": "690b96458434c431ed759924832c5533101079f1",
+          "url": "https://github.com/cityzendata/grafana-warp10"
+        }
+      ]
+    }       
   ]
 }
