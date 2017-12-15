@@ -1976,6 +1976,18 @@
           "url": "https://github.com/devicehive/devicehive-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "cinek810-icingaweb2-panel",
+      "type": "panel",
+      "url": "https://github.com/cinek810/icingaweb2-panel",
+      "versions": [
+        {
+          "version": "0.0.3",
+          "commit": "fdb89e4a191e8dc0fe85ea4b14e6a23d4ef6ec7c",
+          "url": "https://github.com/cinek810/icingaweb2-panel"
+        }
+      ]
     }
   ]
 }
