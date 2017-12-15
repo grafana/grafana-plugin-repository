@@ -1572,6 +1572,11 @@
           "version": "0.0.7",
           "commit": "c1a3834edf97d22000ebe15b968375c25056dd1b",
           "url": "https://github.com/grafana/kubernetes-app"
+        },
+        {
+          "version": "0.0.8",
+          "commit": "6330e72cc47fff39a1d8676e358d3b4c586842ac",
+          "url": "https://github.com/grafana/kubernetes-app"
         }
       ]
     },
