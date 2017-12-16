@@ -225,7 +225,7 @@
       "type": "panel",
       "url": "https://github.com/grafana/worldmap-panel",
       "versions": [
-         {
+        {
           "version": "0.0.19",
           "commit": "7dadb3046b64d866ca8396c86cf52589d52e6f7f",
           "url": "https://github.com/grafana/worldmap-panel"
@@ -576,6 +576,11 @@
       "type": "datasource",
       "url": "https://github.com/dlopes7/appdynamics-grafana-datasource",
       "versions": [
+        {
+          "version": "1.1.1",
+          "commit": "fdf8d2438ca44c51ec0b8af2f19f5ce226316b2e",
+          "url": "https://github.com/dlopes7/appdynamics-grafana-datasource"
+        },
         {
           "version": "1.1.0",
           "commit": "331c00a5aed6e66b54071ff7a297b5ec4cca3244",
