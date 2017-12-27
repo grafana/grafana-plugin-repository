@@ -2038,6 +2038,18 @@
           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "mtanda-sumologic-datasource",
+      "type": "datasource",
+      "url": "https://github.com/mtanda/grafana-sumologic-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "9a8047116d41d9553724998a9de1993d402cd5dd",
+          "url": "https://github.com/mtanda/grafana-sumologic-datasource"
+        }
+      ]
     }
   ]
 }
