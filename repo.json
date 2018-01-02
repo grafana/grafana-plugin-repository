@@ -1963,8 +1963,8 @@
       "url": "https://github.com/akumuli/akumuli-datasource",
       "versions": [
         {
-          "version": "1.0.3",
-          "commit": "6f9879e70a03fd3cba8273daebee9645d4b2dd41",
+          "version": "1.1.0",
+          "commit": "db6030966df6f0c9c3cd994db601bf3759267af2",
           "url": "https://github.com/akumuli/akumuli-datasource"
         }
       ]
