@@ -521,6 +521,18 @@
       ]
     },
     {
+      "id": "statseeker-datasource",
+      "type": "datasource",
+      "url": "https://github.com/statseeker/grafana-statseeker-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "11cdd42b3fd3f4dca66b83d6536b70438cf78c67",
+          "url": "https://github.com/statseeker/grafana-statseeker-datasource"
+        }
+      ]
+    },
+    {
       "id": "sidewinder-datasource",
       "type": "datasource",
       "url": "https://github.com/srotya/sidewinder-grafana/",
