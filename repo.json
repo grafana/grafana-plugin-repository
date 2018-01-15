@@ -48,28 +48,6 @@
       ]
     },
     {
-      "id": "btplc-trend-dot-panel",
-      "type": "panel",
-      "url": "https://github.com/BT-OpenSource/bt-grafana-trend-dot",
-      "versions": [
-        {
-          "version": "0.0.1",
-          "commit": "f896513f98d322d22d366f03fff460f3fb6bff4f",
-          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-dot"
-        },
-        {
-          "version": "0.0.3",
-          "commit": "d797eccb8dd5c2967c790c7a939b4e007cd05e11",
-          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-dot"
-        },
-        {
-          "version": "0.0.4",
-          "commit": "f5805a7171a0ae67bf69b8a7c550cdae5cea7eff",
-          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-dot"
-        }
-      ]
-    },
-    {
       "id": "btplc-status-dot-panel",
       "type": "panel",
       "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot",
@@ -1914,12 +1892,12 @@
     {
       "id": "jasonlashua-prtg-datasource",
       "type": "datasource",
-      "url": "https://github.com/neuralfraud/grafana-prtg",
+      "url": "https://github.com/neuralfraud/grafana-prtg/jasonlashua-prtg-datasource",
       "versions": [
         {
           "version": "4.0.3",
           "commit": "330bb263a936d67a0c3d41c07f5d6333635db2ee",
-          "url": "https://github.com/neuralfraud/grafana-prtg"
+          "url": "https://github.com/neuralfraud/grafana-prtg/jasonlashua-prtg-datasource"
         }
       ]
     },

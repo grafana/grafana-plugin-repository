@@ -1,0 +1,13 @@
+{
+  "name": "grafana-plugin-repository",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:grafana/grafana-plugin-repository.git",
+  "author": "Daniel Lee <dan.limerick@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "request": "^2.83.0",
+    "semver": "^5.4.1"
+  }
+}
