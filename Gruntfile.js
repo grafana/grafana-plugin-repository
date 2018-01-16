@@ -29,7 +29,7 @@ module.exports = function(grunt) {
         commit: commit.trim()
       };
 
-      request.post({url:'http://localhost:4000/api/plugins/lint', form: postData}, function(err, httpResponse, body){ 
+      request.post({url:'https://grafana.com/api/plugins/lint', form: postData}, function(err, httpResponse, body){ 
         completedLints++;
 
         const parsedBody = JSON.parse(body);

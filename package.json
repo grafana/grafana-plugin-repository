@@ -5,6 +5,9 @@
   "repository": "git@github.com:grafana/grafana-plugin-repository.git",
   "author": "Daniel Lee <dan.limerick@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "lint": "grunt"
+  },
   "devDependencies": {
     "grunt": "^1.0.1",
     "request": "^2.83.0",
