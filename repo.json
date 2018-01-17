@@ -215,7 +215,7 @@
       "versions": [
         {
           "version": "0.0.19",
-          "commit": "7dadb3046b64d866ca8396c86cf52589d52e6f7f",
+          "commit": "FAIL7dadb3046b64d866ca8396c86cf52589d52e6f7f",
           "url": "https://github.com/grafana/worldmap-panel"
         },
         {
