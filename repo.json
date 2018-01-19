@@ -1000,6 +1000,11 @@
       "url": "https://github.com/grafana-druid-plugin/druidplugin",
       "versions": [
         {
+          "version": "0.0.5",
+          "commit": "0ea97a87bca73fd99458d61fb0f7067f2eedb075",
+          "url": "https://github.com/grafana-druid-plugin/druidplugin"
+        },
+        {
           "version": "0.0.4",
           "commit": "84d7ae669c4585079041e31600e34c6eda829389",
           "url": "https://github.com/grafana-druid-plugin/druidplugin"
