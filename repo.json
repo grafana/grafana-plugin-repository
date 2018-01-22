@@ -1967,6 +1967,18 @@
           "url": "https://github.com/devicehive/devicehive-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "juniper-contrailanalytics-datasource",
+      "type": "datasource",
+      "url": "https://github.com/Juniper/grafana-can-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "77a74d932406fc9da8f915b1ddbf3eb83a5aa94c",
+          "url": "https://github.com/Juniper/grafana-can-plugin"
+        }
+      ]
     }
   ]
 }
