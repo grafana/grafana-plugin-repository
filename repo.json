@@ -1975,7 +1975,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "77a74d932406fc9da8f915b1ddbf3eb83a5aa94c",
+          "commit": "914988fb28afc1615161f04b2ba8619f15064ca8",
           "url": "https://github.com/Juniper/grafana-can-plugin"
         }
       ]
