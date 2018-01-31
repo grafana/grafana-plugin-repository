@@ -526,6 +526,11 @@
       "url": "https://github.com/statseeker/grafana-statseeker-datasource",
       "versions": [
         {
+          "version": "1.0.2",
+          "commit": "59bd52573529c6f108a667f0d2a44d19b6d96ece",
+          "url": "https://github.com/statseeker/grafana-statseeker-datasource"
+        },
+        {
           "version": "1.0.1",
           "commit": "f62ea71aaa832ea1f918105e882bc25d2ff6dc4a",
           "url": "https://github.com/statseeker/grafana-statseeker-datasource"
