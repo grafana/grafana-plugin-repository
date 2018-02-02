@@ -1967,6 +1967,18 @@
           "url": "https://github.com/devicehive/devicehive-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "humio-humio2grafana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/humio/humio2grafana",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "commit": "9a18261eee1a7aed5e7bc0897ba8f2481615330d",
+          "url": "https://github.com/humio/humio2grafana"
+        }
+      ]
     }
   ]
 }
