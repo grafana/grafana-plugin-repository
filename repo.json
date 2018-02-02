@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "humio-humio2grafana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/humio/humio2grafana",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "commit": "813ffcc1709f87b4e0c8a907ec43c9d7798725f4",
+          "url": "https://github.com/humio/humio2grafana"
+        }
+      ]
+    },
+    {
       "id": "btplc-trend-box-panel",
       "type": "panel",
       "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box",
