@@ -1977,6 +1977,11 @@
           "version": "1.0.2",
           "commit": "9a18261eee1a7aed5e7bc0897ba8f2481615330d",
           "url": "https://github.com/humio/humio2grafana"
+        },
+        {
+          "version": "1.0.3",
+          "commit": "f99c907ba4e7e4f30ea8e85da512e9e1558e2d3f",
+          "url": "https://github.com/humio/humio2grafana"
         }
       ]
     }
