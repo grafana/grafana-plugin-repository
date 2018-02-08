@@ -3,90 +3,208 @@
     {
       "id": "btplc-trend-box-panel",
       "type": "panel",
-      "url": "https://github.com/BTplc/grafana-trend-box",
+      "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "f29268339fc55d7fcdbcc246de9455766d6215d8",
-          "url": "https://github.com/BTplc/grafana-trend-box"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
         },
         {
           "version": "0.0.3",
           "commit": "b5d087b8741334d85604206f9aaa2ca3d31fec79",
-          "url": "https://github.com/BTplc/grafana-trend-box"
-        }
-      ]
-    },
-    {
-      "id": "btplc-trend-dot-panel",
-      "type": "panel",
-      "url": "https://github.com/BTplc/grafana-trend-dot",
-      "versions": [
-        {
-          "version": "0.0.1",
-          "commit": "f896513f98d322d22d366f03fff460f3fb6bff4f",
-          "url": "https://github.com/BTplc/grafana-trend-dot"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
         },
         {
-          "version": "0.0.3",
-          "commit": "d797eccb8dd5c2967c790c7a939b4e007cd05e11",
-          "url": "https://github.com/BTplc/grafana-trend-dot"
+          "version": "0.1.0",
+          "commit": "3cd50a67d4e6a6472c8e36834c7311bbf5f8fa65",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
+        },
+        {
+          "version": "0.1.1",
+          "commit": "06c60e547d26cada4d908726ffe32e82add0857c",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
+        },
+        {
+          "version": "0.1.2",
+          "commit": "a707105936c29341b7dd431e7e4fd1886ee31b1d",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
+        },
+        {
+          "version": "0.1.6",
+          "commit": "0c58cd375eccdeb4067de45c9cd9462377171678",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
+        },
+        {
+          "version": "0.1.7",
+          "commit": "427d0526c4baa8362acad252eae1b16ca9a0fe31",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
+        },
+        {
+          "version": "0.1.8",
+          "commit": "ab4ce90dcf56f7cc9e9a0d67d00a939746c1d687",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
         }
       ]
     },
     {
       "id": "btplc-status-dot-panel",
       "type": "panel",
-      "url": "https://github.com/BTplc/grafana-status-dot",
+      "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "c493f4924a5649cee42a2015231d2689ea73943a",
-          "url": "https://github.com/BTplc/grafana-status-dot"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.1.0",
+          "commit": "f514d95723c933721b89e91d68901b4a93c63043",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.1.1",
+          "commit": "f09785b1b5e0af426fb4b1044e25d2d0d289a02b",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.1.2",
+          "commit": "599bc72d694c3f2e17d4f3874d675180437b1695",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.1.3",
+          "commit": "2822cb8e7346d2ae3a700ec518f42c9bf82a2f60",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.2.0",
+          "commit": "6459cb4851c519d234ccbf2c69f72c999d7a6d7c",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.2.1",
+          "commit": "06e57cedf2fe18a4f32e072e147d1b991e48284e",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.2.2",
+          "commit": "bccb58a73873b57986412457125a7a78de80af79",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.2.3",
+          "commit": "20e4b74ff0d82020afe2eedcc6b2211bbc9a93e9",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
         }
       ]
     },
     {
       "id": "btplc-alarm-box-panel",
       "type": "panel",
-      "url": "https://github.com/BTplc/grafana-alarm-box",
+      "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "46f24abe61866828d335d055252528875e65e6cb",
-          "url": "https://github.com/BTplc/grafana-alarm-box"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         },
         {
           "version": "0.0.3",
           "commit": "fc29dbca86f6ae88dd9f362d522781d5c3bc1ff4",
-          "url": "https://github.com/BTplc/grafana-alarm-box"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         },
         {
           "version": "0.1.0",
           "commit": "e87cbdee2f1628037099b52cb303e10174b680c7",
-          "url": "https://github.com/BTplc/grafana-alarm-box"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         },
         {
           "version": "0.1.1",
           "commit": "faf540af64689b39d2b879d6c03023800f2ac1dd",
-          "url": "https://github.com/BTplc/grafana-alarm-box"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "0.2.0",
+          "commit": "be47c345f4fdc6be4c3a663f338bd9db7ca63731",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "0.2.1",
+          "commit": "53e64d07a535c2e5f00c8ce162a5dc4c1ebd5d14",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "1.0.0",
+          "commit": "8e8c12c22810cc16ccdc34ac104edf318a98d256",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "957d2c1528693b9998da214f07c05ce610656602",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "dad703f23ac805c37f23ffbc40102b3925f7438c",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "1.0.4",
+          "commit": "3c0136df60911aa85f2cc54e3f7fa8bb80311bb2",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "1.0.5",
+          "commit": "3fbb661e0e7065c549ca5689eee254cfdee36306",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "1.0.6",
+          "commit": "880992efcd203ad53418124304bb198e6f7e25fe",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         }
       ]
     },
     {
       "id": "btplc-peak-report-panel",
       "type": "panel",
-      "url": "https://github.com/BTplc/grafana-peak-report",
+      "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "0b08db007aa2e8a06fbce1f8ae3e4429e83a08c1",
-          "url": "https://github.com/BTplc/grafana-peak-report"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
         },
         {
           "version": "0.0.3",
           "commit": "e23f9745fdcef05987c9a2d9870ff327619ce90a",
-          "url": "https://github.com/BTplc/grafana-peak-report"
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
+        },
+        {
+          "version": "0.1.0",
+          "commit": "332af52245f6ccdb06b726072b339c6749b7b978",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
+        },
+        {
+          "version": "0.1.1",
+          "commit": "bb4a393ba837eacec060599d2c5e3f5d59eea3c6",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
+        },
+        {
+          "version": "0.2.1",
+          "commit": "442d3439706b88120db774810d3462daca3c0016",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
+        },
+        {
+          "version": "0.2.2",
+          "commit": "ea0e0ed53185524b12153f685cef6f16ddb1cbb1",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
+        },
+        {
+          "version": "0.2.3",
+          "commit": "8fc9cce08f66f45008ab7aa723b3b8f6ac6c4db2",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
         }
       ]
     },
@@ -95,6 +213,16 @@
       "type": "panel",
       "url": "https://github.com/grafana/worldmap-panel",
       "versions": [
+        {
+          "version": "0.0.19",
+          "commit": "7dadb3046b64d866ca8396c86cf52589d52e6f7f",
+          "url": "https://github.com/grafana/worldmap-panel"
+        },
+        {
+          "version": "0.0.18",
+          "commit": "9e76c49b7a11e32c76c9779f743aad020309910b",
+          "url": "https://github.com/grafana/worldmap-panel"
+        },
         {
           "version": "0.0.16",
           "commit": "237a6a8c23ec5c7139b790af569c08962cd60580",
@@ -182,6 +310,36 @@
       "type": "app",
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
+        {
+          "version": "3.8.1",
+          "commit": "a8b2e3c88c8daa8ba9a168038209e8f38b6583b5",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.8.0",
+          "commit": "45430a6f2ae21548853311829f092b4a29b31ac0",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.7.0",
+          "commit": "1a8550396307804fe7fb0b2c79eafbb64a9c159c",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.6.1",
+          "commit": "4c39fec00754dac434b85ca81ca1f589a58c223b",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.6.0",
+          "commit": "ec272770bb69056df979b7b4b17c18b153ca3c81",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.5.1",
+          "commit": "411efc57840b17466def4e039f6686230327b3a0",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
         {
           "version": "3.5.0",
           "commit": "309f6fd275ace9613a01ffb47a50ff2fdd5945f1",
@@ -339,9 +497,21 @@
           "url": "https://github.com/grafana/piechart-panel"
         },
         {
-        "version": "0.9.0",
-        "commit": "321b9d978c74b6d7c54690c2f64da70211190a5b",
-        "url": "https://github.com/grafana/piechart-panel"
+          "version": "0.9.0",
+          "commit": "321b9d978c74b6d7c54690c2f64da70211190a5b",
+          "url": "https://github.com/grafana/piechart-panel"
+        }
+      ]
+    },
+    {
+      "id": "sidewinder-datasource",
+      "type": "datasource",
+      "url": "https://github.com/srotya/sidewinder-grafana/",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "0edb6374cc3ab128b6b9994a9f76a8c32109fd95",
+          "url": "https://github.com/srotya/sidewinder-grafana/"
         }
       ]
     },
@@ -372,7 +542,7 @@
       "type": "datasource",
       "url": "https://github.com/grafana/influxdb-08-datasource",
       "versions": [
-         {
+        {
           "version": "1.0.2",
           "commit": "94499ae1267b91109cbf600d58a88ab6f57baf14",
           "url": "https://github.com/grafana/influxdb-08-datasource"
@@ -396,6 +566,28 @@
           "version": "0.0.1",
           "commit": "520767158616d082e9e884bf520a11d48a9aa533",
           "url": "https://github.com/grafana/influxdb-08-datasource"
+        }
+      ]
+    },
+    {
+      "id": "dlopes7-appdynamics-datasource",
+      "type": "datasource",
+      "url": "https://github.com/dlopes7/appdynamics-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "commit": "fdf8d2438ca44c51ec0b8af2f19f5ce226316b2e",
+          "url": "https://github.com/dlopes7/appdynamics-grafana-datasource"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "331c00a5aed6e66b54071ff7a297b5ec4cca3244",
+          "url": "https://github.com/dlopes7/appdynamics-grafana-datasource"
+        },
+        {
+          "version": "1.0.4",
+          "commit": "b611c709414677a47a3bd1da372c7d986e8cf859",
+          "url": "https://github.com/dlopes7/appdynamics-grafana-datasource"
         }
       ]
     },
@@ -427,34 +619,19 @@
       ]
     },
     {
-      "id": "opennms-datasource",
-      "type": "datasource",
-      "url": "https://github.com/OpenNMS/grafana-opennms-datasource",
+      "id": "opennms-helm",
+      "type": "app",
+      "url": "https://github.com/OpenNMS/opennms-helm",
       "versions": [
         {
-          "version": "2.1.0",
-          "commit": "23866f0d3fee26d084bd54e7333f21ae00b98d63",
-          "url": "https://github.com/OpenNMS/grafana-opennms-datasource"
-        },
-        {
-          "version": "2.0.2",
-          "commit": "88c1d386f26006f702d18f3d22bdef554d56b180",
-          "url": "https://github.com/OpenNMS/grafana-opennms-datasource"
-        },
-        {
-          "version": "2.0.1",
-          "commit": "46eb41d0a2867f8e5ecf103512927807e0e47616",
-          "url": "https://github.com/OpenNMS/grafana-opennms-datasource"
-        },
-        {
-          "version": "2.0.0",
-          "commit": "c089ce7c2117f709ef4c944a332776dd290055af",
-          "url": "https://github.com/OpenNMS/grafana-opennms-datasource"
+          "version": "1.0.0",
+          "commit": "c6a950cc5d965ab4071b7eab556d3d60e791e971",
+          "url": "https://github.com/OpenNMS/opennms-helm"
         }
       ]
     },
     {
-    "id": "raintank-worldping-app",
+      "id": "raintank-worldping-app",
       "type": "app",
       "url": "https://github.com/raintank/worldping-app",
       "versions": [
@@ -599,6 +776,91 @@
       "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch",
       "versions": [
         {
+          "version": "0.83.2",
+          "commit": "dd84202634d53f556343c4c3dd7314046760d011",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.83.1",
+          "commit": "1e5695815d456336017e5b3e1a45e09c3823f057",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.83.0",
+          "commit": "318559271565ef33a14c9fd525d4f77813f3e6aa",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.82.0",
+          "commit": "b1a2b972bf72d295d5ef0ea17811422af22daee5",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.81.0",
+          "commit": "875949a8e551ae705a2b133a57d1877067e287fb",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.80.2",
+          "commit": "04840fabb4820755c8c2b4b9263f1d6e91cee9c3",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.80.0",
+          "commit": "843dc0b20aa7c2af35a77911ce324de0f58087f2",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.31.0",
+          "commit": "4a17aa02409c5392504809c5433fe7a23ba1e90a",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.30.1",
+          "commit": "534fed5d583e97864f7d9174ea4cd94556e1fee6",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.30.0",
+          "commit": "2f0d6945a1bad4c6abffe667785f75b8fc44f5db",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.29.1",
+          "commit": "7b29706a30f08cfd660c02ef8c11ea827acef986",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.29.0",
+          "commit": "8883a43bf58291ab35618e0cc2315684a2a1a60a",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.28.0",
+          "commit": "3f48baf55b906f5b87c16e4146ca675a64eae78e",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.27.2",
+          "commit": "60d9aced87162a13eb72adff8eee54ddfe4814b2",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.27.1",
+          "commit": "60f2b89d738ed498284bbd0fb86f6b1123a7d582",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.27.0",
+          "commit": "168e7d57b43926561f840290d27044de617c7cd2",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
+          "version": "0.26.1",
+          "commit": "0db4b44d09a36f90936984f17ffa2b747a14b3ae",
+          "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
+        },
+        {
           "version": "0.26.0",
           "commit": "a2b43264febc023c8a167fb532dc63f15e9fdb37",
           "url": "https://github.com/stagemonitor/stagemonitor-grafana-elasticsearch"
@@ -738,6 +1000,11 @@
       "url": "https://github.com/grafana-druid-plugin/druidplugin",
       "versions": [
         {
+          "version": "0.0.5",
+          "commit": "0ea97a87bca73fd99458d61fb0f7067f2eedb075",
+          "url": "https://github.com/grafana-druid-plugin/druidplugin"
+        },
+        {
           "version": "0.0.4",
           "commit": "84d7ae669c4585079041e31600e34c6eda829389",
           "url": "https://github.com/grafana-druid-plugin/druidplugin"
@@ -773,6 +1040,11 @@
           "version": "1.0.1",
           "commit": "471a73bd1156dabf169a1b0cf7c75334561c5c5a",
           "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "4071fe914b2f79a0ea34dd2b92b8a1b3dc80813b",
+          "url": "https://github.com/GridProtectionAlliance/openHistorian-grafana"
         }
       ]
     },
@@ -789,6 +1061,11 @@
         {
           "version": "1.0.1",
           "commit": "15b3841602ed9710afcfff76318fb038186ffb42",
+          "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
+        },
+        {
+          "version": "1.0.3",
+          "commit": "cf1d6c4a2a4a11682cbb61c0c0c4951cbffd72a0",
           "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
         }
       ]
@@ -832,6 +1109,16 @@
           "version": "1.4.0",
           "commit": "6fd89610180f8fa91366a8ab7c5867612c2cb80c",
           "url": "https://github.com/jdbranham/grafana-diagram"
+        },
+        {
+          "version": "1.4.3",
+          "commit": "d1482965a57239e454c55b8cec73842a12280fea",
+          "url": "https://github.com/jdbranham/grafana-diagram"
+        },
+        {
+          "version": "1.4.4",
+          "commit": "440689793ab6da82019c5ee43b49438dfef976d5",
+          "url": "https://github.com/jdbranham/grafana-diagram"
         }
       ]
     },
@@ -858,6 +1145,11 @@
       "url": "https://github.com/briangann/grafana-gauge-panel",
       "versions": [
         {
+          "version": "0.0.4",
+          "commit": "976e74d24afe865554be33bb85f4f2764d3184f9",
+          "url": "https://github.com/briangann/grafana-gauge-panel"
+        },
+        {
           "version": "0.0.3",
           "commit": "b12952157242d7f7fa4c8f623128d3e7581019c3",
           "url": "https://github.com/briangann/grafana-gauge-panel"
@@ -879,6 +1171,11 @@
       "type": "panel",
       "url": "https://github.com/briangann/grafana-datatable-panel",
       "versions": [
+        {
+          "version": "0.0.3",
+          "commit": "6046f38006ba6bb06cf8188a6ac81c295c37e46c",
+          "url": "https://github.com/briangann/grafana-datatable-panel"
+        },
         {
           "version": "0.0.1",
           "commit": "6b0ab7bdbfdecac403cc5b8bdf23f692be109c7a",
@@ -922,6 +1219,16 @@
           "version": "1.0.8",
           "commit": "ab753cee37b350d31b690586cd42ddf20edab5e7",
           "url": "https://github.com/hawkular/hawkular-grafana-datasource"
+        },
+        {
+          "version": "1.0.10",
+          "commit": "32ba7bf889a8e36fa292ccbec7c13aee33d48b3f",
+          "url": "https://github.com/hawkular/hawkular-grafana-datasource"
+        },
+        {
+          "version": "1.1.1",
+          "commit": "00fa4ebe1b6c2365a3ee699ec638bebc906b807a",
+          "url": "https://github.com/hawkular/hawkular-grafana-datasource"
         }
       ]
     },
@@ -963,6 +1270,16 @@
       "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel",
       "versions": [
         {
+          "version": "1.1.1",
+          "commit": "3c0af7c683cf7cb3241c07acfd5cb0119f06af03",
+          "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "720f36a69601184b5796e73ed0f07e1149b3ca3a",
+          "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
+        },
+        {
           "version": "1.0.0",
           "commit": "00f6ec2c408df57f9d3d02aeeb4e3ac98081a575",
           "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
@@ -974,6 +1291,11 @@
       "type": "panel",
       "url": "https://github.com/ryantxu/ajax-panel",
       "versions": [
+        {
+          "version": "0.0.3",
+          "commit": "15c23978c7b4df649e84b7df5d415cc7d3e1af35",
+          "url": "https://github.com/ryantxu/ajax-panel"
+        },
         {
           "version": "0.0.2",
           "commit": "5739ad29f9f191605fff7149ecfc52385de92b88",
@@ -1009,6 +1331,11 @@
       "url": "https://github.com/NatelEnergy/grafana-discrete-panel",
       "versions": [
         {
+          "version": "0.0.6",
+          "commit": "38fbda226a2431e6ef44e2b1a6c5759f3fbf4268",
+          "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
+        },
+        {
           "version": "0.0.5",
           "commit": "10d9ec42ecee32d9b4a35385be5c89410176ea8d",
           "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
@@ -1040,6 +1367,16 @@
       "type": "panel",
       "url": "https://github.com/NatelEnergy/grafana-influx-admin",
       "versions": [
+        {
+          "version": "0.0.4",
+          "commit": "ec8b2c91ae722bb00057a200e7d7636df5e81ca5",
+          "url": "https://github.com/NatelEnergy/grafana-influx-admin"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "bfa9a2ea9de9e78f0eaa0c77b94b81b02c46b017",
+          "url": "https://github.com/NatelEnergy/grafana-influx-admin"
+        },
         {
           "version": "0.0.2",
           "commit": "cd8afbba7a48674a8ddc86567aa2f08388b76150",
@@ -1129,7 +1466,7 @@
       ]
     },
     {
-     "id": "grafana-monitoring-art",
+      "id": "grafana-monitoring-art",
       "type": "datasource",
       "url": "https://github.com/monitoringartist/grafana-monitoring-art",
       "versions": [
@@ -1145,6 +1482,21 @@
       "type": "panel",
       "url": "https://github.com/Vonage/Grafana_Status_panel",
       "versions": [
+        {
+          "version": "1.0.7",
+          "commit": "d5173e4aeffe46ddc0433423a37e032a24ea40dd",
+          "url": "https://github.com/Vonage/Grafana_Status_panel"
+        },
+        {
+          "version": "1.0.6",
+          "commit": "6847b5de8b2adee2cf7897533247f8353d5c37b4",
+          "url": "https://github.com/Vonage/Grafana_Status_panel"
+        },
+        {
+          "version": "1.0.5",
+          "commit": "4ecb061299352f4f1109b71f83e484e2ac3f3eb5",
+          "url": "https://github.com/Vonage/Grafana_Status_panel"
+        },
         {
           "version": "1.0.4",
           "commit": "8bf28f275ba4611e992fa040ee7830a248abed10",
@@ -1173,49 +1525,54 @@
       ]
     },
     {
-     "id": "raintank-kubernetes-app",
+      "id": "raintank-kubernetes-app",
       "type": "app",
-      "url": "https://github.com/grafana/kubernetes-app",
+      "url": "https://github.com/raintank/kubernetes-app",
       "versions": [
         {
           "version": "0.0.1",
           "commit": "d7acbdaffb19d8a854e7d56a3cd3f70d0c64c2d6",
-          "url": "https://github.com/grafana/kubernetes-app"
+          "url": "https://github.com/raintank/kubernetes-app"
         },
         {
           "version": "0.0.2",
           "commit": "74aad4f33628de2b6f1cb61b479837fee04dccf4",
-          "url": "https://github.com/grafana/kubernetes-app"
+          "url": "https://github.com/raintank/kubernetes-app"
         },
         {
           "version": "0.0.3",
           "commit": "ed877ca95147ebe9387e0aeb9b11b7ec93bf7d51",
-          "url": "https://github.com/grafana/kubernetes-app"
+          "url": "https://github.com/raintank/kubernetes-app"
         },
         {
           "version": "0.0.4",
           "commit": "799e113a15e0bbc83746eaf2ef5d47858ae7c2bd",
-          "url": "https://github.com/grafana/kubernetes-app"
+          "url": "https://github.com/raintank/kubernetes-app"
         },
         {
           "version": "0.0.5",
           "commit": "224896bbd0fdda8e2c4476cf8ac2d6cc5fe3fecf",
-          "url": "https://github.com/grafana/kubernetes-app"
+          "url": "https://github.com/raintank/kubernetes-app"
         },
         {
           "version": "0.0.6",
           "commit": "156237739a74957e2246cba97f2a434eac430a5c",
-          "url": "https://github.com/grafana/kubernetes-app"
+          "url": "https://github.com/raintank/kubernetes-app"
         },
         {
           "version": "0.0.7",
           "commit": "c1a3834edf97d22000ebe15b968375c25056dd1b",
-          "url": "https://github.com/grafana/kubernetes-app"
+          "url": "https://github.com/raintank/kubernetes-app"
+        },
+        {
+          "version": "0.0.8",
+          "commit": "6330e72cc47fff39a1d8676e358d3b4c586842ac",
+          "url": "https://github.com/raintank/kubernetes-app"
         }
       ]
     },
     {
-     "id": "monasca-datasource",
+      "id": "monasca-datasource",
       "type": "datasource",
       "url": "https://github.com/openstack/monasca-grafana-datasource",
       "versions": [
@@ -1227,7 +1584,7 @@
       ]
     },
     {
-     "id": "cloudflare-app",
+      "id": "cloudflare-app",
       "type": "app",
       "url": "https://github.com/cloudflare/cloudflare-grafana-app",
       "versions": [
@@ -1269,6 +1626,16 @@
           "version": "0.0.2",
           "commit": "aaa254f4d90e7ec3686dfb9ec5bcf26a0dfaa121",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "1.2.4",
+          "commit": "5215f428ce1be194d2c13815ac8aeb56349df08f",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "1.2.6",
+          "commit": "6a75b977f160178cff1c27f292203c375a0293c8",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
     },
@@ -1293,6 +1660,26 @@
           "version": "1.0.1",
           "commit": "24edd14016aee9295348d57bb083bb41bf9e24c7",
           "url": "https://github.com/sni/grafana-pnp-datasource"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "57f44927c122e707799a2f11c1ef6255db4fecda",
+          "url": "https://github.com/sni/grafana-pnp-datasource"
+        },
+        {
+          "version": "1.0.3",
+          "commit": "1f5d70e35357a624bda7e8973f67c3d5bcd13939",
+          "url": "https://github.com/sni/grafana-pnp-datasource"
+        },
+        {
+          "version": "1.0.4",
+          "commit": "59a3fe52f424332ccfe77edb3d0af4946c7865f7",
+          "url": "https://github.com/sni/grafana-pnp-datasource"
+        },
+        {
+          "version": "1.0.5",
+          "commit": "797eb0f59af942f50559d0d8098cb61b07fb4218",
+          "url": "https://github.com/sni/grafana-pnp-datasource"
         }
       ]
     },
@@ -1314,8 +1701,18 @@
       "url": "https://github.com/mtanda/grafana-google-calendar-datasource",
       "versions": [
         {
-          "version": "1.0.1",
-          "commit": "9c1636152db2af60268d740e977bf87da517c603",
+          "version": "1.0.4",
+          "commit": "6d76d587734cf5c67cf27d55341746f8aef230ef",
+          "url": "https://github.com/mtanda/grafana-google-calendar-datasource"
+        },
+        {
+          "version": "1.0.3",
+          "commit": "287fbfc160a6e402613d9901a22bbd7950506d6a",
+          "url": "https://github.com/mtanda/grafana-google-calendar-datasource"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "6b23de71197f0b2c6c338d834c1302ea06767568",
           "url": "https://github.com/mtanda/grafana-google-calendar-datasource"
         }
       ]
@@ -1379,8 +1776,8 @@
       "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource",
       "versions": [
         {
-          "version": "1.2.0",
-          "commit": "ab9f8e68b46829828cac12aa7469297d1621b477",
+          "version": "1.6.0",
+          "commit": "aa9215770d76e534bd20ef8db6464af92f53452a",
           "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource"
         }
       ]
@@ -1391,9 +1788,58 @@
       "url": "https://github.com/petrslavotinek/grafana-carpetplot",
       "versions": [
         {
+          "version": "0.1.1",
+          "commit": "81535f2ceab498086fb0cbfc8716dd997debae9b",
+          "url": "https://github.com/petrslavotinek/grafana-carpetplot"
+        },
+        {
+          "version": "0.1.0",
+          "commit": "4408364547f2cab665ae6dc41919ae890b9f3ad0",
+          "url": "https://github.com/petrslavotinek/grafana-carpetplot"
+        },
+        {
+          "version": "0.0.4",
+          "commit": "62ac1255635800704cc8bc5381e41dd65b4e2168",
+          "url": "https://github.com/petrslavotinek/grafana-carpetplot"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "587144a5627ebbbbe9bb9e4641c259dc8056f361",
+          "url": "https://github.com/petrslavotinek/grafana-carpetplot"
+        },
+        {
           "version": "0.0.1",
           "commit": "147e1709378dfa99be0f515e5822c8990ed7b779",
           "url": "https://github.com/petrslavotinek/grafana-carpetplot"
+        }
+      ]
+    },
+    {
+      "id": "ayoungprogrammer-finance-datasource",
+      "type": "datasource",
+      "url": "https://github.com/ayoungprogrammer/grafana-finance",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "8d2784acdb6fd68a4f20685db7034aacf29ff97d",
+          "url": "https://github.com/ayoungprogrammer/grafana-finance"
+        }
+      ]
+    },
+    {
+      "id": "ddurieux-glpi-app",
+      "type": "app",
+      "url": "https://github.com/ddurieux/glpi_app_grafana/",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "4929872cef5510b96459d220aca0867e696a58f6",
+          "url": "https://github.com/ddurieux/glpi_app_grafana"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "d935c61d7f1abac7ab8070f112caad48a0ac8626",
+          "url": "https://github.com/ddurieux/glpi_app_grafana"
         }
       ]
     },
@@ -1403,9 +1849,122 @@
       "url": "https://github.com/digrich/bubblechart-panel",
       "versions": [
         {
-          "version": "0.0.1",
+          "version": "1.0.0",
           "commit": "b8194655f84ab3a3528244fdcebd75f7c86cab4e",
           "url": "https://github.com/digrich/bubblechart-panel"
+        }
+      ]
+    },
+    {
+      "id": "michaeldmoore-annunciator-panel",
+      "type": "panel",
+      "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "542707e504b1461bb6fb70b86c8a637f93724181",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
+        }
+      ]
+    },
+    {
+      "id": "jasonlashua-prtg-datasource",
+      "type": "datasource",
+      "url": "https://github.com/neuralfraud/grafana-prtg/jasonlashua-prtg-datasource",
+      "versions": [
+        {
+          "version": "4.0.3",
+          "commit": "330bb263a936d67a0c3d41c07f5d6333635db2ee",
+          "url": "https://github.com/neuralfraud/grafana-prtg/jasonlashua-prtg-datasource"
+        }
+      ]
+    },
+    {
+      "id": "skydive-datasource",
+      "type": "datasource",
+      "url": "https://github.com/skydive-project/skydive-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "d490fe95ba6903d0b0fb3957812522fe35503408",
+          "url": "https://github.com/skydive-project/skydive-grafana-datasource"
+        }
+      ]
+    },
+    {
+      "id": "ibm-apm-datasource",
+      "type": "datasource",
+      "url": "https://github.com/rafal-szypulka/grafana-ibm-apm",
+      "versions": [
+        {
+          "version": "0.4",
+          "commit": "655b29a739a4f45a3e74189948333c14ee1b4b34",
+          "url": "https://github.com/rafal-szypulka/grafana-ibm-apm"
+        }
+      ]
+    },
+    {
+      "id": "fzakaria-simple-annotations-datasource",
+      "type": "datasource",
+      "url": "https://github.com/fzakaria/simple-annotations-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "2df0c9cca6b11e822d96580da3c7bf14465c0d7a",
+          "url": "https://github.com/fzakaria/simple-annotations-plugin"
+        }
+      ]
+    },
+    {
+      "id": "ntop-ntopng-datasource",
+      "type": "datasource",
+      "url": "https://github.com/ntop/ntopng-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "3f29b779665ded214aa793fd3c1cb8ad0b6fd0bb",
+          "url": "https://github.com/ntop/ntopng-grafana-datasource"
+        }
+      ]
+    },
+    {
+      "id": "camptocamp-prometheus-alertmanager-datasource",
+      "type": "datasource",
+      "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "ae4ed1e3c78ef2f87950051f063b779917d785ce",
+          "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "3a334f8a7567bcd1bff6dac653014a603ddeb41c",
+          "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
+        }
+      ]
+    },
+    {
+      "id": "citilogics-geoloop-panel",
+      "type": "panel",
+      "url": "https://github.com/citilogics/citilogics-geoloop-panel",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "commit": "5ee83aed2329aa0c0ec454325a045262ac54f7ee",
+          "url": "https://github.com/CitiLogics/citilogics-geoloop-panel"
+        }
+      ]
+    },
+    {
+      "id": "devicehive-devicehive-datasource",
+      "type": "datasource",
+      "url": "https://github.com/devicehive/devicehive-grafana-datasource",
+      "versions": [
+        {
+          "version": "2.0.1",
+          "commit": "3d76a6c27145b3dc083a0050eb3a972b7e04db5f",
+          "url": "https://github.com/devicehive/devicehive-grafana-datasource"
         }
       ]
     }
