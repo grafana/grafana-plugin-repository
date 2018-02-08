@@ -1967,6 +1967,18 @@
           "url": "https://github.com/devicehive/devicehive-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "marcuscalidus-svg-panel",
+      "type": "panel",
+      "url": "https://github.com/MarcusCalidus/grafana-svg-panel",
+      "versions": [
+        {
+          "version": "0.0.4",
+          "commit": "069cedd5df279dfd44a0931173cdf046ba295f7e",
+          "url": "https://github.com/MarcusCalidus/grafana-svg-panel"
+        }
+      ]
     }
   ]
 }
