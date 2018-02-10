@@ -1967,6 +1967,18 @@
           "url": "https://github.com/devicehive/devicehive-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "upwork-atlas-datasource",
+      "type": "datasource",
+      "url": "https://github.com/upwork/grafana-atlas-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "c1c70cd15d825bb5e05424ca311a839aac14f24e",
+          "url": "https://github.com/upwork/grafana-atlas-datasource"
+        }
+      ]
     }
   ]
 }
