@@ -1974,8 +1974,18 @@
       "url": "https://github.com/MarcusCalidus/grafana-svg-panel",
       "versions": [
         {
+          "version": "0.0.2",
+          "commit": "e8946c7f695f86ffe14e0c786c4a4368e8f1ac8b",
+          "url": "https://github.com/MarcusCalidus/grafana-svg-panel"
+        },
+        {
           "version": "0.0.4",
           "commit": "069cedd5df279dfd44a0931173cdf046ba295f7e",
+          "url": "https://github.com/MarcusCalidus/grafana-svg-panel"
+        },
+        {
+          "version": "0.0.5",
+          "commit": "808f2e9a20bac24b7e4cccc847b7d3791f86db8e",
           "url": "https://github.com/MarcusCalidus/grafana-svg-panel"
         }
       ]
