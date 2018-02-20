@@ -1967,6 +1967,18 @@
           "url": "https://github.com/devicehive/devicehive-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "logtrust-datasource",
+      "type": "datasource",
+      "url": "https://github.com/Logtrust/logtrust-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "7002115a493fad613e7b85ba2efa5cfe305463dc",
+          "url": "https://github.com/Logtrust/logtrust-grafana-datasource"
+        }
+      ]
     }
   ]
 }
