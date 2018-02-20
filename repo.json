@@ -1975,7 +1975,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "007f4cd0a956fddcbccb856d947eadcc118d6613",
+          "commit": "105b0dd998fcb72234f5f6dc994ed312b11c8916",
           "url": "https://github.com/Logtrust/logtrust-grafana-datasource"
         }
       ]
