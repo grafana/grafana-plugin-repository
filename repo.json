@@ -1985,7 +1985,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "aea7974dfe257320c060aa843d290aa94c41f104",
+          "commit": "45f8131efb3aea72e11d18c202ab96e4d100290e",
           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
