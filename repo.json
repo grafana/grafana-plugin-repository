@@ -1572,6 +1572,18 @@
       ]
     },
     {
+      "id": "grafana-kubernetes-app",
+      "type": "app",
+      "url": "https://github.com/grafana/kubernetes-app",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "31da38addc1d0ce5dfb154737c9da56e3b6692fc",
+          "url": "https://github.com/grafana/kubernetes-app"
+        }
+      ]
+    },
+    {
       "id": "monasca-datasource",
       "type": "datasource",
       "url": "https://github.com/openstack/monasca-grafana-datasource",
