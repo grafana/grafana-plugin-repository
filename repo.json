@@ -1392,12 +1392,12 @@
     {
       "id": "natel-usgs-datasource",
       "type": "datasource",
-      "url": "https://github.com/NatelEnergy/grafana-usgs-waterservices",
+      "url": "https://github.com/NatelEnergy/natel-usgs-datasource",
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "c33b418083ab54c8e0caacb1d09d300195dbe9e1",
-          "url": "https://github.com/NatelEnergy/grafana-usgs-waterservices"
+          "commit": "de4060ea6bc3c1ad6e8512cd4ff6356f5d15573e",
+          "url": "https://github.com/NatelEnergy/natel-usgs-datasource"
         }
       ]
     },
