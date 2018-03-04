@@ -2001,6 +2001,18 @@
           "url": "https://github.com/devicehive/devicehive-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "pue-solr-datasource",
+      "type": "datasource",
+      "url": "https://github.com/pueteam/datasource-plugin-solr",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "f0fc02be19139f4457e397352f2bc2eb10d3002b",
+          "url": "https://github.com/pueteam/datasource-plugin-solr"
+        }
+      ]
     }
   ]
 }
