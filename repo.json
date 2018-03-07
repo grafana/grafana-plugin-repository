@@ -873,6 +873,11 @@
       "url": "https://github.com/raintank/ns1-app",
       "versions": [
         {
+          "version": "0.0.7",
+          "commit": "4a2e2d4a588b0cca5df4c36878baa629aaa88404",
+          "url": "https://github.com/raintank/ns1-app"
+        },
+        {
           "version": "0.0.5",
           "commit": "9904e50a7e83f591e2cc2eee996c303c90a06052",
           "url": "https://github.com/raintank/ns1-app"
