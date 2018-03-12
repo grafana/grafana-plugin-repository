@@ -1951,8 +1951,8 @@
       "url": "https://github.com/rafal-szypulka/grafana-ibm-apm",
       "versions": [
         {
-          "version": "0.4",
-          "commit": "655b29a739a4f45a3e74189948333c14ee1b4b34",
+          "version": "0.8",
+          "commit": "500273d9f71eb79d3d7e5f84103bdc30485cbaad",
           "url": "https://github.com/rafal-szypulka/grafana-ibm-apm"
         }
       ]
