@@ -508,6 +508,11 @@
       "type": "datasource",
       "url": "https://github.com/srotya/sidewinder-grafana/",
       "versions": [
+	{
+          "version": "0.2.0",
+          "commit": "a9c47d7de8d8eac71bf3f2ecfd1837166faa7992",
+          "url": "https://github.com/srotya/sidewinder-grafana/"
+        },
         {
           "version": "0.0.1",
           "commit": "0edb6374cc3ab128b6b9994a9f76a8c32109fd95",
