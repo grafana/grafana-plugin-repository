@@ -1979,7 +1979,7 @@
       ]
     },
     {
-      "id": "instana-instana-datasource",
+      "id": "instana-datasource",
       "type": "datasource",
       "url": "https://github.com/instana/instana-grafana-datasource",
       "versions": [
