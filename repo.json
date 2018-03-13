@@ -2026,6 +2026,18 @@
           "url": "https://github.com/devicehive/devicehive-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "instana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/instana/instana-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "commit": "e5b5b54f61624da80f1fbeb24d31ff06e7402f57",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        }
+      ]
     }
   ]
 }
