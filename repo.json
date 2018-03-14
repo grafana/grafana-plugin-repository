@@ -1352,7 +1352,7 @@
       "versions": [
         {
           "version": "0.0.7",
-          "commit": "618d523d18c7bf15c0eb5cb5f426ec33095a6f1e",
+          "commit": "e9b0f671547beadc5870856d4f2a4b5082df0d4b",
           "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
         },
         {
