@@ -2059,12 +2059,12 @@
     {
       "id": "circonus-irondb-datasource",
       "type": "datasource",
-      "url": "https://github.com/circonus-labs/circonus-irondb-datasource.git",
+      "url": "https://github.com/circonus-labs/circonus-irondb-datasource",
       "versions": [
         {
           "version": "0.8.3",
           "commit": "55a5684ae4e27d0cfc918e1c456a720f7b7b26e7",
-          "url": "https://github.com/circonus-labs/circonus-irondb-datasource.git"
+          "url": "https://github.com/circonus-labs/circonus-irondb-datasource"
         }
       ]
     }
