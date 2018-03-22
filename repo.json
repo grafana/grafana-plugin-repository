@@ -1150,6 +1150,11 @@
       "url": "https://github.com/briangann/grafana-gauge-panel",
       "versions": [
         {
+          "version": "0.0.6",
+          "commit": "a4531b408d05cb1607c81de310753b62d6e510c0",
+          "url": "https://github.com/briangann/grafana-gauge-panel"
+        },
+        {
           "version": "0.0.5",
           "commit": "0f1e7fe60bd327c1405f36bbd386018f68f79c93",
           "url": "https://github.com/briangann/grafana-gauge-panel"
@@ -1685,6 +1690,11 @@
           "version": "1.3.1",
           "commit": "cf6d60e95bf569a0212795390c053ba12a0d0857",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "1.4.1",
+          "commit": "f76cefb6b18237013d6e7a6c7b1fcec937dede6c",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
     },
@@ -2019,6 +2029,30 @@
           "version": "2.0.1",
           "commit": "3d76a6c27145b3dc083a0050eb3a972b7e04db5f",
           "url": "https://github.com/devicehive/devicehive-grafana-datasource"
+        }
+      ]
+    },
+    {
+      "id": "instana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/instana/instana-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "e5b5b54f61624da80f1fbeb24d31ff06e7402f57",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        }
+      ]
+    },
+    {
+      "id": "mtanda-sumologic-datasource",
+      "type": "datasource",
+      "url": "https://github.com/mtanda/grafana-sumologic-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "9a8047116d41d9553724998a9de1993d402cd5dd",
+          "url": "https://github.com/mtanda/grafana-sumologic-datasource"
         }
       ]
     }
