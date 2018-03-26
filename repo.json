@@ -2020,6 +2020,11 @@
           "version": "0.0.3",
           "commit": "3a334f8a7567bcd1bff6dac653014a603ddeb41c",
           "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
+        },
+        {
+          "version": "0.0.4",
+          "commit": "291bfdab40fe333ecb9715ed9b04235c52938acb",
+          "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
         }
       ]
     },
