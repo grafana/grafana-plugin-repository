@@ -2070,6 +2070,18 @@
           "url": "https://github.com/mtanda/grafana-sumologic-datasource"
         }
       ]
-    }
+    },
+    {
+        "id": "yesoreyeram-boomtable-panel",
+        "type": "panel",
+        "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel",
+        "versions": [
+          {
+            "version": "0.2.2",
+            "commit": "02ae2db1992adf0ac2140cf753dd0afca994bc07",
+            "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
+          }
+        ]
+      }
   ]
 }
