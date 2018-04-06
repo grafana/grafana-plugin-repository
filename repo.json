@@ -2062,8 +2062,8 @@
       "url": "https://github.com/akumuli/akumuli-datasource",
       "versions": [
         {
-          "version": "1.2.0",
-          "commit": "d1b81abe4b0c04f9aeea9d712c73cc91484a132b",
+          "version": "1.2.2",
+          "commit": "5f6d7c1ae149f88a5d13f0907194fe4854afd627",
           "url": "https://github.com/akumuli/akumuli-datasource"
         }
       ]
