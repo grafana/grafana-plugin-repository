@@ -2063,7 +2063,7 @@
       "versions": [
         {
           "version": "1.2.0",
-          "commit": "1df96d6acc96d9aa5f5c342ca9369b4b6cec6550",
+          "commit": "d1b81abe4b0c04f9aeea9d712c73cc91484a132b",
           "url": "https://github.com/akumuli/akumuli-datasource"
         }
       ]
