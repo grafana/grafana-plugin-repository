@@ -311,6 +311,11 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.9.0",
+          "commit": "f0a5e7de8dd563545c2eddaee17c924147c13c50",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.8.1",
           "commit": "a8b2e3c88c8daa8ba9a168038209e8f38b6583b5",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
@@ -1361,6 +1366,11 @@
       "url": "https://github.com/NatelEnergy/grafana-discrete-panel",
       "versions": [
         {
+          "version": "0.0.7",
+          "commit": "e9b0f671547beadc5870856d4f2a4b5082df0d4b",
+          "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
+        },
+        {
           "version": "0.0.6",
           "commit": "38fbda226a2431e6ef44e2b1a6c5759f3fbf4268",
           "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
@@ -1839,6 +1849,11 @@
       "type": "datasource",
       "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource",
       "versions": [
+        {
+          "version": "1.7.0",
+          "commit": "1196869f8409a331f30da2ec7428f999092ed819",
+          "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource"
+        },
         {
           "version": "1.6.2",
           "commit": "5a87a1676af10c9160b181c37ad8bade75847d1a",
