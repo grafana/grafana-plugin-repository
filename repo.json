@@ -629,6 +629,11 @@
       "url": "https://github.com/OpenNMS/opennms-helm",
       "versions": [
         {
+          "version": "1.1.0",
+          "commit": "f8e1f1f2622decf7ed3aa2233b13924c7636d46e",
+          "url": "https://github.com/OpenNMS/opennms-helm"
+        },
+        {
           "version": "1.0.0",
           "commit": "c6a950cc5d965ab4071b7eab556d3d60e791e971",
           "url": "https://github.com/OpenNMS/opennms-helm"
@@ -1317,6 +1322,11 @@
       "url": "https://github.com/ryantxu/ajax-panel",
       "versions": [
         {
+          "version": "0.0.4",
+          "commit": "53d24dcb8df15c851e38b68b68a620f6f61aeec8",
+          "url": "https://github.com/ryantxu/ajax-panel"
+        },
+        {
           "version": "0.0.3",
           "commit": "15c23978c7b4df649e84b7df5d415cc7d3e1af35",
           "url": "https://github.com/ryantxu/ajax-panel"
@@ -1530,6 +1540,11 @@
       "url": "https://github.com/Vonage/Grafana_Status_panel",
       "versions": [
         {
+          "version": "1.0.8",
+          "commit": "e1cadda944c9b6c56a2bca9ada11422a432cd7f2",
+          "url": "https://github.com/Vonage/Grafana_Status_panel"
+        },
+        {
           "version": "1.0.7",
           "commit": "d5173e4aeffe46ddc0433423a37e032a24ea40dd",
           "url": "https://github.com/Vonage/Grafana_Status_panel"
@@ -1704,6 +1719,11 @@
         {
           "version": "1.4.1",
           "commit": "f76cefb6b18237013d6e7a6c7b1fcec937dede6c",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "1.4.3",
+          "commit": "c2d1965efccad8eeb777afe659597609e4c975ba",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
@@ -1981,8 +2001,8 @@
       "url": "https://github.com/rafal-szypulka/grafana-ibm-apm",
       "versions": [
         {
-          "version": "0.4",
-          "commit": "655b29a739a4f45a3e74189948333c14ee1b4b34",
+          "version": "0.8.0",
+          "commit": "bedfdbeffe9b1b7059402f723bd37bd41e45e8e8",
           "url": "https://github.com/rafal-szypulka/grafana-ibm-apm"
         }
       ]
@@ -2024,6 +2044,11 @@
         {
           "version": "0.0.3",
           "commit": "3a334f8a7567bcd1bff6dac653014a603ddeb41c",
+          "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
+        },
+        {
+          "version": "0.0.4",
+          "commit": "291bfdab40fe333ecb9715ed9b04235c52938acb",
           "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
         }
       ]
