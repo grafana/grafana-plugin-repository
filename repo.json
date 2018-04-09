@@ -1759,7 +1759,12 @@
       "versions": [
         {
           "version": "1.1.0",
-          "commit": "9dd64d7850ac2308356c42e71aea8c7df66c0aac",
+          "commit": "d8d5f87cafa07b963633557f3e6aebdb41b2284e",
+          "url": "https://github.com/digiapulssi/grafana-organisations-panel"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "362472b4524ea660a294e0e0fa1f3b92b34d1f83",
           "url": "https://github.com/digiapulssi/grafana-organisations-panel"
         }
       ]
