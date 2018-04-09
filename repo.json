@@ -311,6 +311,11 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.9.0",
+          "commit": "f0a5e7de8dd563545c2eddaee17c924147c13c50",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.8.1",
           "commit": "a8b2e3c88c8daa8ba9a168038209e8f38b6583b5",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
@@ -623,6 +628,11 @@
       "type": "app",
       "url": "https://github.com/OpenNMS/opennms-helm",
       "versions": [
+        {
+          "version": "1.1.0",
+          "commit": "f8e1f1f2622decf7ed3aa2233b13924c7636d46e",
+          "url": "https://github.com/OpenNMS/opennms-helm"
+        },
         {
           "version": "1.0.0",
           "commit": "c6a950cc5d965ab4071b7eab556d3d60e791e971",
@@ -1150,6 +1160,11 @@
       "url": "https://github.com/briangann/grafana-gauge-panel",
       "versions": [
         {
+          "version": "0.0.6",
+          "commit": "a4531b408d05cb1607c81de310753b62d6e510c0",
+          "url": "https://github.com/briangann/grafana-gauge-panel"
+        },
+        {
           "version": "0.0.5",
           "commit": "0f1e7fe60bd327c1405f36bbd386018f68f79c93",
           "url": "https://github.com/briangann/grafana-gauge-panel"
@@ -1307,6 +1322,11 @@
       "url": "https://github.com/ryantxu/ajax-panel",
       "versions": [
         {
+          "version": "0.0.4",
+          "commit": "53d24dcb8df15c851e38b68b68a620f6f61aeec8",
+          "url": "https://github.com/ryantxu/ajax-panel"
+        },
+        {
           "version": "0.0.3",
           "commit": "15c23978c7b4df649e84b7df5d415cc7d3e1af35",
           "url": "https://github.com/ryantxu/ajax-panel"
@@ -1350,6 +1370,11 @@
       "type": "panel",
       "url": "https://github.com/NatelEnergy/grafana-discrete-panel",
       "versions": [
+        {
+          "version": "0.0.7",
+          "commit": "e9b0f671547beadc5870856d4f2a4b5082df0d4b",
+          "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
+        },
         {
           "version": "0.0.6",
           "commit": "38fbda226a2431e6ef44e2b1a6c5759f3fbf4268",
@@ -1514,6 +1539,11 @@
       "type": "panel",
       "url": "https://github.com/Vonage/Grafana_Status_panel",
       "versions": [
+        {
+          "version": "1.0.8",
+          "commit": "e1cadda944c9b6c56a2bca9ada11422a432cd7f2",
+          "url": "https://github.com/Vonage/Grafana_Status_panel"
+        },
         {
           "version": "1.0.7",
           "commit": "d5173e4aeffe46ddc0433423a37e032a24ea40dd",
@@ -1830,6 +1860,11 @@
       "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource",
       "versions": [
         {
+          "version": "1.7.0",
+          "commit": "1196869f8409a331f30da2ec7428f999092ed819",
+          "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource"
+        },
+        {
           "version": "1.6.2",
           "commit": "5a87a1676af10c9160b181c37ad8bade75847d1a",
           "url": "https://github.com/gnocchixyz/grafana-gnocchi-datasource"
@@ -1956,8 +1991,8 @@
       "url": "https://github.com/rafal-szypulka/grafana-ibm-apm",
       "versions": [
         {
-          "version": "0.4",
-          "commit": "655b29a739a4f45a3e74189948333c14ee1b4b34",
+          "version": "0.8.0",
+          "commit": "bedfdbeffe9b1b7059402f723bd37bd41e45e8e8",
           "url": "https://github.com/rafal-szypulka/grafana-ibm-apm"
         }
       ]
@@ -2000,6 +2035,11 @@
           "version": "0.0.3",
           "commit": "3a334f8a7567bcd1bff6dac653014a603ddeb41c",
           "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
+        },
+        {
+          "version": "0.0.4",
+          "commit": "291bfdab40fe333ecb9715ed9b04235c52938acb",
+          "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
         }
       ]
     },
@@ -2024,6 +2064,30 @@
           "version": "2.0.1",
           "commit": "3d76a6c27145b3dc083a0050eb3a972b7e04db5f",
           "url": "https://github.com/devicehive/devicehive-grafana-datasource"
+        }
+      ]
+    },
+    {
+      "id": "instana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/instana/instana-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "e5b5b54f61624da80f1fbeb24d31ff06e7402f57",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        }
+      ]
+    },
+    {
+      "id": "mtanda-sumologic-datasource",
+      "type": "datasource",
+      "url": "https://github.com/mtanda/grafana-sumologic-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "9a8047116d41d9553724998a9de1993d402cd5dd",
+          "url": "https://github.com/mtanda/grafana-sumologic-datasource"
         }
       ]
     }
