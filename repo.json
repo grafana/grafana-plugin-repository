@@ -2112,6 +2112,28 @@
             "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
           }
         ]
-      }
+    },
+    {
+      "id": "grafana-trackmap-panel",
+      "type": "panel",
+      "url": "https://github.com/pR0Ps/grafana-trackmap-panel",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "commit": "49fb4d676474f17764abb84e054fff798a60d263",
+          "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "f074ee68a7a02f0f07c1d4d16349fe680523646d",
+          "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
+        },
+        {
+          "version": "1.0.0",
+          "commit": "e39477b8606b2719c8f28a740f5d98d252f28966",
+          "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
+        }
+      ]
+    }
   ]
 }
