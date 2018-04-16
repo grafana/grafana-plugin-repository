@@ -624,6 +624,18 @@
       ]
     },
     {
+      "id": "exozet-http-json-datasource",
+      "type": "datasource",
+      "url": "https://github.com/exozet/grafana-http-json-datasource",
+      "versions": [
+        {
+          "version": "1.4.0",
+          "commit": "31994fc70283ded33b56af28635d8586e1218d26",
+          "url": "https://github.com/exozet/grafana-http-json-datasource"
+        }
+      ]
+    },
+    {
       "id": "opennms-helm",
       "type": "app",
       "url": "https://github.com/OpenNMS/opennms-helm",
