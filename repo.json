@@ -581,7 +581,7 @@
       "versions": [ 
         {
           "version": "1.2.1",
-          "commit": "f00625dd09367a3591992e288de31b95b6116008f",
+          "commit": "00625dd09367a3591992e288de31b95b6116008f",
           "url": "https://github.com/grafana/appdynamics-grafana-datasource"
         },
         {
