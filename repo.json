@@ -1832,6 +1832,11 @@
           "version": "1.0.0",
           "commit": "4bec24aa83899fa4009bb973c9d6faf0543d85a5",
           "url": "https://github.com/adremsoft/grafana-netcrunch-plugin"
+        },
+        {
+          "version": "2.0.0",
+          "commit": "6e9871cb9b76b9c31b04c0f28d7140ea81ed47ce",
+          "url": "https://github.com/adremsoft/grafana-netcrunch-plugin"
         }
       ]
     },
