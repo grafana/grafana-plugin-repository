@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "grafana-example-app",
+      "type": "app",
+      "url": "https://github.com/ammpio/grafana-ammp-app",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "65fc9452eda94be0c4cacf66f93391b8938cde8c",
+          "url": "https://github.com/ammpio/grafana-ammp-app"
+        }
+      ]
+    },
+    {
       "id": "btplc-trend-box-panel",
       "type": "panel",
       "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box",
