@@ -311,6 +311,11 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.9.1",
+          "commit": "a5afa8d9d09ddabf616088603f21c20fe5feedd8",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.9.0",
           "commit": "f0a5e7de8dd563545c2eddaee17c924147c13c50",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
@@ -513,6 +518,11 @@
       "type": "datasource",
       "url": "https://github.com/srotya/sidewinder-grafana/",
       "versions": [
+	{
+          "version": "0.2.0",
+          "commit": "a9c47d7de8d8eac71bf3f2ecfd1837166faa7992",
+          "url": "https://github.com/srotya/sidewinder-grafana/"
+        },
         {
           "version": "0.0.1",
           "commit": "0edb6374cc3ab128b6b9994a9f76a8c32109fd95",
@@ -1332,6 +1342,11 @@
       "url": "https://github.com/ryantxu/ajax-panel",
       "versions": [
         {
+          "version": "0.0.5",
+          "commit": "9ef3ece13b050cb059728828f65c7046e0fefb5a",
+          "url": "https://github.com/ryantxu/ajax-panel"
+        },
+        {
           "version": "0.0.4",
           "commit": "53d24dcb8df15c851e38b68b68a620f6f61aeec8",
           "url": "https://github.com/ryantxu/ajax-panel"
@@ -1381,6 +1396,11 @@
       "url": "https://github.com/NatelEnergy/grafana-discrete-panel",
       "versions": [
         {
+          "version": "0.0.8",
+          "commit": "5e8e975c881e443d72ac17830aca986c86ca95a2",
+          "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
+        },
+        {
           "version": "0.0.7",
           "commit": "e9b0f671547beadc5870856d4f2a4b5082df0d4b",
           "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
@@ -1422,6 +1442,11 @@
       "type": "panel",
       "url": "https://github.com/NatelEnergy/grafana-influx-admin",
       "versions": [
+        {
+          "version": "0.0.5",
+          "commit": "788ca257cca69795596a0526a258340a6514f150",
+          "url": "https://github.com/NatelEnergy/grafana-influx-admin"
+        },
         {
           "version": "0.0.4",
           "commit": "ec8b2c91ae722bb00057a200e7d7636df5e81ca5",
@@ -2065,6 +2090,11 @@
           "version": "0.0.4",
           "commit": "291bfdab40fe333ecb9715ed9b04235c52938acb",
           "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
+        },
+        {
+          "version": "0.0.5",
+          "commit": "d80c1fdbfcc52022a6781d5015ccecc82f184ff2",
+          "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
         }
       ]
     },
@@ -2100,6 +2130,16 @@
         {
           "version": "1.0.1",
           "commit": "e5b5b54f61624da80f1fbeb24d31ff06e7402f57",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "dd5ecd5b5174a3c4e84429d3e12d71173c7739ca",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "1.0.3",
+          "commit": "7bf6a781b3d13ea94e6cf26113dd2954524504fe",
           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
