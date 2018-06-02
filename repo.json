@@ -2167,6 +2167,18 @@
             "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
           }
         ]
+      },
+    {
+        "id": "xginn8-pagerduty-datasource",
+        "type": "datasource",
+        "url": "https://github.com/xginn8/grafana-pagerduty",
+        "versions": [
+          {
+            "version": "0.0.1",
+            "commit": "4717074b65730d2f8b21a209be312fc654c8ee0a",
+            "url": "https://github.com/xginn8/grafana-pagerduty"
+          }
+        ]
       }
   ]
 }
