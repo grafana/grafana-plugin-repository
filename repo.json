@@ -2174,7 +2174,7 @@
         "url": "https://github.com/xginn8/grafana-pagerduty",
         "versions": [
           {
-            "version": "0.0.2",
+            "version": "0.0.3",
             "commit": "2030d17a34eb6184ff03a4eb87dc967de378d238",
             "url": "https://github.com/xginn8/grafana-pagerduty"
           }
