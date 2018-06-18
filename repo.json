@@ -2187,6 +2187,18 @@
             "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
           }
         ]
-      }
+    },
+    {
+      "id": "flespi-devices-datasource",
+      "type": "datasource",
+      "url": "https://github.com/flespi-software/flespi-devices-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "cef72ff3e04407389fef7e03d51d7c565ed2583a",
+          "url": "https://github.com/flespi-software/flespi-devices-grafana-datasource"
+        }
+      ]
+    }
   ]
 }
