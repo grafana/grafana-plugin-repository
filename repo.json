@@ -2182,6 +2182,18 @@
       ]
     },
     {
+      "id": "snuids-radar-panel",
+      "type": "panel",
+      "url": "https://github.com/snuids/grafana-radar-panel",
+      "versions": [
+        {
+          "version": "1.4.1",
+          "commit": "d0ca5fe2099179d50a4aff0c3bbdf42e220eb0d3",
+          "url": "https://github.com/snuids/grafana-radar-panel"
+        }
+      ]
+    },
+    {
         "id": "yesoreyeram-boomtable-panel",
         "type": "panel",
         "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel",
