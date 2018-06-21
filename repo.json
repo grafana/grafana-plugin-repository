@@ -2189,7 +2189,7 @@
       "url": "https://github.com/smartmakers/grafana-trafficlight",
       "versions": [{
         "version": "1.0.0",
-        "commit": "0279a88bc5d72fe90cf01769c67f449df2edf6f5",
+        "commit": "dc9a14ab1b82cfc59444b946ce632c9814cefabc",
         "url": "https://github.com/smartmakers/grafana-trafficlight"
       }]
     }
