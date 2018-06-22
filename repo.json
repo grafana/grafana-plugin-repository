@@ -2197,6 +2197,11 @@
           "version": "1.0.1",
           "commit": "cef72ff3e04407389fef7e03d51d7c565ed2583a",
           "url": "https://github.com/flespi-software/flespi-devices-grafana-datasource"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "df6b9ccce5d46604482cb1de19c2f8f0b51ce830",
+          "url": "https://github.com/flespi-software/flespi-devices-grafana-datasource"
         }
       ]
     }
