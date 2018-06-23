@@ -2209,6 +2209,18 @@
             "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
           }
         ]
-      }
+      },
+    {
+      "id": "fatcloud-windrose-panel",
+      "type": "panel",
+      "url": "https://github.com/fatcloud/windrose-panel",
+      "versions": [
+        {
+          "version": "0.7.0",
+          "commit": "b9375ea489400abe790255a167b70a0acbd7d6ad",
+          "url": "https://github.com/fatcloud/windrose-panel"
+        }
+      ]
+    },
   ]
 }
