@@ -2217,7 +2217,7 @@
       "versions": [
         {
           "version": "0.7.0",
-          "commit": "b127a904312c438dbd9811e807b558ea5e608cfe",
+          "commit": "20bf8c25a2856ea2ce84f199d6e98d14f5c81baa",
           "url": "https://github.com/fatcloud/windrose-panel"
         }
       ]
