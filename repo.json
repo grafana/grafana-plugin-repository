@@ -2209,6 +2209,18 @@
             "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
           }
         ]
-      }
+    },
+    {
+        "id": "jancho-heatmap-panel",
+        "type": "panel",
+        "url": "https://github.com/Janchorizo/jancho-heatmap-panel",
+        "versions": [
+          {
+            "version": "1.0",
+            "commit": "e8e40ba80d3caa728a63a21baca9c46d3fc4f0d0",
+            "url": "https://github.com/Janchorizo/jancho-heatmap-panel"
+          }
+      ]
+    }
   ]
 }
