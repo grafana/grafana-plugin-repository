@@ -2129,8 +2129,8 @@
       "url": "https://github.com/citilogics/citilogics-geoloop-panel",
       "versions": [
         {
-          "version": "1.1.1",
-          "commit": "5ee83aed2329aa0c0ec454325a045262ac54f7ee",
+          "version": "1.1.2",
+          "commit": "9700601f5e52c4964896eac702320b04ab9be121",
           "url": "https://github.com/CitiLogics/citilogics-geoloop-panel"
         }
       ]
