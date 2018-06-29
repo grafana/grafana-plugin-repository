@@ -2211,6 +2211,18 @@
       ]
     },
     {
+      "id": "snuids-trafficlights-panel",
+      "type": "panel",
+      "url": "https://github.com/snuids/trafficlights-panel",
+      "versions": [
+        {
+          "version": "1.4.2",
+          "commit": "6819bc321784a842f85990f533181cb36bf51449",
+          "url": "https://github.com/snuids/trafficlights-panel"
+        }
+      ]
+    },
+    {
         "id": "yesoreyeram-boomtable-panel",
         "type": "panel",
         "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel",
