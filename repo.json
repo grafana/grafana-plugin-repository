@@ -2223,6 +2223,18 @@
       ]
     },
     {
+      "id": "zuburqan-parity-report-panel",
+      "type": "panel",
+      "url": "https://github.com/zuburqan/grafana-parity-report",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "ec25fd6b89aa50d7d9b6550c071eccb24146994a",
+          "url": "https://github.com/zuburqan/grafana-parity-report"
+        }
+      ]
+    },
+    {
         "id": "yesoreyeram-boomtable-panel",
         "type": "panel",
         "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel",
