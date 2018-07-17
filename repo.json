@@ -2282,6 +2282,18 @@
           "url": "https://github.com/akumuli/akumuli-datasource"
         }
       ]
+    },
+    {
+      "id": "goshposh-metaqueries-datasource",
+      "type": "datasource",
+      "url": "https://github.com/GoshPosh/grafana-meta-queries",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "476f41125af094cd63034e4b8bbaf8007bf82211",
+          "url": "https://github.com/GoshPosh/grafana-meta-queries"
+        }
+      ]
     }
   ]
 }
