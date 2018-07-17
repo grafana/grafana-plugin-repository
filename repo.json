@@ -2260,6 +2260,16 @@
             "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
           }
         ]
-      }
+      },
+    {
+      "id": "smartmakers-trafficlight-panel",
+      "type": "panel",
+      "url": "https://github.com/smartmakers/grafana-trafficlight",
+      "versions": [{
+        "version": "1.0.0",
+        "commit": "dc9a14ab1b82cfc59444b946ce632c9814cefabc",
+        "url": "https://github.com/smartmakers/grafana-trafficlight"
+      }]
+    }
   ]
 }
