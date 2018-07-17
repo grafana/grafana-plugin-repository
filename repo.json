@@ -2270,6 +2270,18 @@
         "commit": "dc9a14ab1b82cfc59444b946ce632c9814cefabc",
         "url": "https://github.com/smartmakers/grafana-trafficlight"
       }]
+    },
+    {
+      "id": "akumuli-datasource",
+      "type": "datasource",
+      "url": "https://github.com/akumuli/akumuli-datasource",
+      "versions": [
+        {
+          "version": "1.2.3",
+          "commit": "ae1e76d1445c8067284c853246a244e8316c3996",
+          "url": "https://github.com/akumuli/akumuli-datasource"
+        }
+      ]
     }
   ]
 }
