@@ -1775,6 +1775,11 @@
           "version": "1.5.0",
           "commit": "381274868299d9b76cdf2c752c42c2f9e80f9c7d",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "1.5.1",
+          "commit": "8617e209d2e9286d1d247cb67679178257d08aa1",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
     },
@@ -2183,6 +2188,11 @@
           "version": "1.0.4",
           "commit": "6093b1a3913336d1411be83335236bdcec6b7f10",
           "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+           "version": "1.0.5",
+           "commit": "20332351b1f199e2678eeed9971a16a90e4dfb3f",
+           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -2250,6 +2260,40 @@
             "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
           }
         ]
-      }
+      },
+    {
+      "id": "smartmakers-trafficlight-panel",
+      "type": "panel",
+      "url": "https://github.com/smartmakers/grafana-trafficlight",
+      "versions": [{
+        "version": "1.0.0",
+        "commit": "dc9a14ab1b82cfc59444b946ce632c9814cefabc",
+        "url": "https://github.com/smartmakers/grafana-trafficlight"
+      }]
+    },
+    {
+      "id": "akumuli-datasource",
+      "type": "datasource",
+      "url": "https://github.com/akumuli/akumuli-datasource",
+      "versions": [
+        {
+          "version": "1.2.3",
+          "commit": "ae1e76d1445c8067284c853246a244e8316c3996",
+          "url": "https://github.com/akumuli/akumuli-datasource"
+        }
+      ]
+    },
+    {
+      "id": "goshposh-metaqueries-datasource",
+      "type": "datasource",
+      "url": "https://github.com/GoshPosh/grafana-meta-queries",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "476f41125af094cd63034e4b8bbaf8007bf82211",
+          "url": "https://github.com/GoshPosh/grafana-meta-queries"
+        }
+      ]
+    }
   ]
 }
