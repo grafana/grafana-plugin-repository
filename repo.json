@@ -649,6 +649,11 @@
       "url": "https://github.com/OpenNMS/opennms-helm",
       "versions": [
         {
+          "version": "2.0.0",
+          "commit": "1a6f347e19924e9c4e6e02b38b26a7dbbba95e2b",
+          "url": "https://github.com/OpenNMS/opennms-helm"
+        },
+        {
           "version": "1.1.0",
           "commit": "f8e1f1f2622decf7ed3aa2233b13924c7636d46e",
           "url": "https://github.com/OpenNMS/opennms-helm"
@@ -2192,6 +2197,11 @@
         {
            "version": "1.0.5",
            "commit": "20332351b1f199e2678eeed9971a16a90e4dfb3f",
+           "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+           "version": "1.0.6",
+           "commit": "4512c102a97d7a9fe6821f9f0aa42526c6662fa0",
            "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
