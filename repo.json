@@ -2309,6 +2309,18 @@
           "url": "https://github.com/GoshPosh/grafana-meta-queries"
         }
       ]
-    }
+    },
+    {
+      "id": "gretamosa-topology-panel",
+      "type": "panel",
+      "url": "https://github.com/gretamosa/gretamosa-topology-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "a632d538e5a71ff339d0ac2aeba805d3f3df2a1d",
+          "url": "https://github.com/gretamosa/gretamosa-topology-panel"
+        }
+      ]
+    }	  
   ]
 }
