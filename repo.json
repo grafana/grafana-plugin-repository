@@ -2309,6 +2309,18 @@
           "url": "https://github.com/GoshPosh/grafana-meta-queries"
         }
       ]
+    },
+    {
+      "id": "linksmart-sensorthings-datasource",
+      "type": "datasource",
+      "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "5b22b02aff5402f2e8f98d65e9a0dac4f230ac20",
+          "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource"
+        }
+      ]
     }
   ]
 }
