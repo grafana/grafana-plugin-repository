@@ -2309,6 +2309,18 @@
           "url": "https://github.com/GoshPosh/grafana-meta-queries"
         }
       ]
+    },
+    {
+      "id": "fatcloud-windrose-panel",
+      "type": "panel",
+      "url": "https://github.com/fatcloud/windrose-panel",
+      "versions": [
+        {
+          "version": "0.7.0",
+          "commit": "894dc65f2c0188120f5c9ee1345257f675d626eb",
+          "url": "https://github.com/fatcloud/windrose-panel"
+        }
+      ]
     }
   ]
 }
