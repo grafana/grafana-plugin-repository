@@ -2326,6 +2326,18 @@
           "url": "https://github.com/fatcloud/windrose-panel"
         }
       ]
+    },
+    {
+      "id": "linksmart-sensorthings-datasource",
+      "type": "datasource",
+      "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "17836e2ede426fa323c484a681fe74ca91602ae5",
+          "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource"
+        }
+      ]
     }
   ]
 }
