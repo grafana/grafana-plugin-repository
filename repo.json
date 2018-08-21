@@ -1325,6 +1325,11 @@
       "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel",
       "versions": [
         {
+          "version": "1.1.4",
+          "commit": "783609327a7a275e1e84236abd60a81d78cac6f3",
+          "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
+        },
+        {
           "version": "1.1.3",
           "commit": "7cfad1fdbc595ac1bd16a29ea6affb624e220dbe",
           "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
