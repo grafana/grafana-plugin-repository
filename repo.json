@@ -1385,7 +1385,7 @@
       "versions": [
         {
           "version": "0.0.5",
-          "commit": "70ab7fbb9203565dc405a037123fc6904f8bacec",
+          "commit": "8bb9fad0a2da04b943116cf91ad0bb56885d0fb1",
           "url": "https://github.com/NatelEnergy/grafana-plotly-panel"
         },
         {
