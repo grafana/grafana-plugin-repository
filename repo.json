@@ -2355,6 +2355,18 @@
           "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource"
         }
       ]
+    },
+    {
+      "id": "darksky-datasource",
+      "type": "datasource",
+      "url": "https://github.com/andig/grafana-darksky",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "4137049da4f2ef2f3f25143080330c530930f3f4",
+          "url": "https://github.com/andig/grafana-darksky"
+        }
+      ]
     }
   ]
 }
