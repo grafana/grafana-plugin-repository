@@ -2446,6 +2446,16 @@
           "version": "0.0.1",
           "commit": "cf31fded9d3cd43ab63092064beef4a45123cf69",
           "url": "https://github.com/flant/grafana-statusmap"
+    },
+    {
+      "id": "ovh-warp10-datasource",
+      "type": "datasource",
+      "url": "https://github.com/ovh/ovh-warp10-datasource",
+      "versions": [
+        {
+          "version": "2.1.1",
+          "commit": "3f1ec1ae81fc86d5bfa0b52e98119beaee42609a",
+          "url": "https://github.com/ovh/ovh-warp10-datasource/pull/26"
         }
       ]
     }
