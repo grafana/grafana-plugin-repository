@@ -2314,6 +2314,47 @@
           "url": "https://github.com/GoshPosh/grafana-meta-queries"
         }
       ]
+    },
+    {
+      "id": "fatcloud-windrose-panel",
+      "type": "panel",
+      "url": "https://github.com/fatcloud/windrose-panel",
+      "versions": [
+        {
+          "version": "0.7.0",
+          "commit": "894dc65f2c0188120f5c9ee1345257f675d626eb",
+          "url": "https://github.com/fatcloud/windrose-panel"
+        }
+      ]
+    },
+    {
+      "id": "blackmirror1-singlestat-math-panel",
+      "type": "panel",
+      "url": "https://github.com/black-mirror-1/singlestat-math",
+      "versions": [
+        {
+          "version": "1.1.2",
+          "commit": "767d789f5635f15e052e0f8b0549a6afab3a4806",
+          "url": "https://github.com/black-mirror-1/singlestat-math"
+        },
+        {
+          "version": "1.1.3",
+          "commit": "7de9debe553d4ee01f96fd246c78817fc46758fb",
+          "url": "https://github.com/black-mirror-1/singlestat-math"
+        }
+      ]
+    },
+    {
+      "id": "linksmart-sensorthings-datasource",
+      "type": "datasource",
+      "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "17836e2ede426fa323c484a681fe74ca91602ae5",
+          "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource"
+        }
+      ]
     }
   ]
 }
