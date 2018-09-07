@@ -2355,6 +2355,18 @@
           "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource"
         }
       ]
+    },
+    {
+      "id": "lightstep-app",
+      "type": "app",
+      "url": "https://github.com/lightstep/lightstep-grafana-plugin",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "commit": "34806160577c87a4316d531ceadddb3d58e953b0",
+          "url": "https://github.com/lightstep/lightstep-grafana-plugin"
+        }
+      ]
     }
   ]
 }
