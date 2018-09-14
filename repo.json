@@ -2355,6 +2355,18 @@
           "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource"
         }
       ]
+    },
+    {
+      "id": "sbueringer-consul-datasource",
+      "type": "datasource",
+      "url": "https://github.com/sbueringer/grafana-consul-datasource",
+      "versions": [
+        {
+          "version": "0.1.5",
+          "commit": "60f73d5aef6a64068379e7625b99d0d8114b8ee1",
+          "url": "https://github.com/sbueringer/grafana-consul-datasource"
+        }
+      ]
     }
   ]
 }
