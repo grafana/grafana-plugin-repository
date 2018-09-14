@@ -1490,6 +1490,11 @@
       "url": "https://github.com/NatelEnergy/natel-usgs-datasource",
       "versions": [
         {
+          "version": "0.0.2",
+          "commit": "50ece212165b889ce2c621959ac7174b81510135",
+          "url": "https://github.com/NatelEnergy/natel-usgs-datasource"
+        },
+        {
           "version": "0.0.1",
           "commit": "de4060ea6bc3c1ad6e8512cd4ff6356f5d15573e",
           "url": "https://github.com/NatelEnergy/natel-usgs-datasource"
