@@ -590,6 +590,18 @@
       ]
     },
     {
+      "id": "grafana-dynatrace-datasource",
+      "type": "datasource",
+      "url": "https://github.com/grafana/dynatrace-grafana-datasource",
+      "versions": [
+        {
+          "version": "0.2.0b",
+          "commit": "6b6c85fc01a1bacdb504de84e134af6572de450c",
+          "url": "https://github.com/grafana/appdynamics-grafana-datasource"
+        }
+      ]
+    },
+    {
       "id": "dlopes7-appdynamics-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/appdynamics-grafana-datasource",
