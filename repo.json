@@ -2370,6 +2370,18 @@
           "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource"
         }
       ]
+    },
+    {
+      "id": "flant-statusmap-panel",
+      "type": "panel",
+      "url": "https://github.com/flant/grafana-statusmap",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "cf31fded9d3cd43ab63092064beef4a45123cf69",
+          "url": "https://github.com/flant/grafana-statusmap"
+        }
+      ]
     }
   ]
 }
