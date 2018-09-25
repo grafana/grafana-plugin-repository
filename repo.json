@@ -2357,13 +2357,13 @@
       ]
     },
     {
-      "id": "darksky-datasource",
+      "id": "andig-darksky-datasource",
       "type": "datasource",
       "url": "https://github.com/andig/grafana-darksky",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "4137049da4f2ef2f3f25143080330c530930f3f4",
+          "commit": "53dcda3a79c5a59b49c380c08a68e1730f92d4d9",
           "url": "https://github.com/andig/grafana-darksky"
         }
       ]
