@@ -1384,6 +1384,18 @@
       ]
     },
     {
+      "id": "ryantxu-annotations-panel",
+      "type": "panel",
+      "url": "https://github.com/ryantxu/annotations-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "e101b161d32bebcd3badefff3583e50ec1a69ee6",
+          "url": "https://github.com/ryantxu/annotations-panel"
+        }
+      ]
+    },
+    {
       "id": "natel-plotly-panel",
       "type": "panel",
       "url": "https://github.com/NatelEnergy/grafana-plotly-panel",
