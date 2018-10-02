@@ -1325,6 +1325,11 @@
       "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel",
       "versions": [
         {
+          "version": "1.1.4",
+          "commit": "c58234b8b4c0a6e9fdf4c6f688a8ac029c5b91f8",
+          "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
+        },
+        {
           "version": "1.1.3",
           "commit": "7cfad1fdbc595ac1bd16a29ea6affb624e220dbe",
           "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
@@ -1375,6 +1380,18 @@
           "version": "0.0.2",
           "commit": "5739ad29f9f191605fff7149ecfc52385de92b88",
           "url": "https://github.com/ryantxu/ajax-panel"
+        }
+      ]
+    },
+    {
+      "id": "ryantxu-annotations-panel",
+      "type": "panel",
+      "url": "https://github.com/ryantxu/annotations-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "e101b161d32bebcd3badefff3583e50ec1a69ee6",
+          "url": "https://github.com/ryantxu/annotations-panel"
         }
       ]
     },
@@ -1494,6 +1511,11 @@
       "type": "datasource",
       "url": "https://github.com/NatelEnergy/natel-usgs-datasource",
       "versions": [
+        {
+          "version": "0.0.2",
+          "commit": "50ece212165b889ce2c621959ac7174b81510135",
+          "url": "https://github.com/NatelEnergy/natel-usgs-datasource"
+        },
         {
           "version": "0.0.1",
           "commit": "de4060ea6bc3c1ad6e8512cd4ff6356f5d15573e",
@@ -1794,6 +1816,11 @@
         {
           "version": "1.6.0",
           "commit": "e526d38ac533d235074c22d3d71729d98d285848",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "1.7.0",
+          "commit": "811147bd6f8f4c63c81350021071ac42558761fa",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
@@ -2218,6 +2245,11 @@
            "version": "1.1.0",
            "commit": "ecd0c8601936aeb26f4ac876da03b3d71649f597",
            "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+           "version": "1.2.0",
+           "commit": "41318ce07f0f6782ddb8ace4bda93c7cb686c37b",
+           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -2279,9 +2311,14 @@
             "commit": "353d36d90a198a2251aa932a59f7589f22850d71",
             "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
           },
-	  {
+          {
             "version": "0.3.0",
             "commit": "e80519b3a7075f0c47308c5655712cc25f39b674",
+            "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
+          }, 
+          {
+            "version": "0.4.0",
+            "commit": "69082f3fc96bb9ce0f73edc7e1b412aefba3a047",
             "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
           }
         ]
@@ -2302,8 +2339,8 @@
       "url": "https://github.com/akumuli/akumuli-datasource",
       "versions": [
         {
-          "version": "1.2.3",
-          "commit": "ae1e76d1445c8067284c853246a244e8316c3996",
+          "version": "1.2.5",
+          "commit": "5843c57640ef34d54c5b6008f90b0404c367baab",
           "url": "https://github.com/akumuli/akumuli-datasource"
         }
       ]
@@ -2358,6 +2395,30 @@
           "version": "1.0.0",
           "commit": "17836e2ede426fa323c484a681fe74ca91602ae5",
           "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource"
+        }
+      ]
+    },
+    {
+      "id": "andig-darksky-datasource",
+      "type": "datasource",
+      "url": "https://github.com/andig/grafana-darksky",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "53dcda3a79c5a59b49c380c08a68e1730f92d4d9",
+          "url": "https://github.com/andig/grafana-darksky"
+        }
+      ]
+    },
+    {
+      "id": "flant-statusmap-panel",
+      "type": "panel",
+      "url": "https://github.com/flant/grafana-statusmap",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "cf31fded9d3cd43ab63092064beef4a45123cf69",
+          "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
     }
