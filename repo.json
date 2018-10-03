@@ -1028,6 +1028,11 @@
       "url": "https://github.com/prajwalrao/ambari-metrics-grafana",
       "versions": [
         {
+          "version": "1.2.0",
+          "commit": "d429f53128fc8db3be7f719f153d228b643189eb",
+          "url": "https://github.com/prajwalrao/ambari-metrics-grafana"
+        },
+        {
           "version": "1.0.1",
           "commit": "2feac1f964fd08c48f12d8973c5a9ae49e46d154",
           "url": "https://github.com/prajwalrao/ambari-metrics-grafana"
