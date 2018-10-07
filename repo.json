@@ -2445,8 +2445,8 @@
       "url": "https://github.com/f5devcentral/f5-bados-app",
       "versions": [
         {
-          "version": "0.0.2",
-          "commit": "37b3591afaf00c06ed86ef96cee162d2ee00e82f",
+          "version": "0.0.3",
+          "commit": "4c2ce3dee5a7dc4472fb3a4918a05a94d471d43d",
           "url": "https://github.com/f5devcentral/f5-bados-app"
         }
       ]
@@ -2457,8 +2457,8 @@
       "url": "https://github.com/f5devcentral/f5-bados-app/tree/evergreen",
       "versions": [
         {
-          "version": "0.0.5.evergreen",
-          "commit": "872a47acddc404f5fed18ad3e78f68653442f407",
+          "version": "0.0.6.evergreen",
+          "commit": "8282ef08a63cb688569c32fe106bad8cd584d098",
           "url": "https://github.com/f5devcentral/f5-bados-app/tree/evergreen"
         }
       ]
