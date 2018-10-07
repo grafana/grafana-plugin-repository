@@ -2438,6 +2438,30 @@
           "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
+    },
+    {
+      "id": "f5-bdos-app",
+      "type": "app",
+      "url": "https://github.com/f5devcentral/f5-bados-app",
+      "versions": [
+        {
+          "version": "0.0.2",
+          "commit": "37b3591afaf00c06ed86ef96cee162d2ee00e82f",
+          "url": "https://github.com/f5devcentral/f5-bados-app"
+        }
+      ]
+    },
+    {
+      "id": "f5-bdos-evergreen-app",
+      "type": "app",
+      "url": "https://github.com/f5devcentral/f5-bados-app/tree/evergreen",
+      "versions": [
+        {
+          "version": "0.0.5.evergreen",
+          "commit": "872a47acddc404f5fed18ad3e78f68653442f407",
+          "url": "https://github.com/f5devcentral/f5-bados-app/tree/evergreen"
+        }
+      ]
     }
   ]
 }
