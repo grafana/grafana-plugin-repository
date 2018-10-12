@@ -2438,6 +2438,18 @@
           "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
+    },
+    {
+      "id": "scadavis-synoptic-panel",
+      "type": "panel",
+      "url": "https://github.com/riclolsen/scadavis-synoptic-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "aa5d44dc9c9ce4be4c65ec5578fd1989f4218b6c",
+          "url": "https://github.com/riclolsen/scadavis-synoptic-panel"
+        }
+      ]
     }
   ]
 }
