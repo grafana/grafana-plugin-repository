@@ -2443,6 +2443,18 @@
           "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
+    },
+    {
+      "id": "kumaravel29-sankey-panel",
+      "type": "panel",
+      "url": "https://github.com/kumaravel29/sankey-panel",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "commit": "6c9b8e60e7ca0f2396921fd8880d1a043a51e1e4",
+          "url": "https://github.com/kumaravel29/sankey-panel"
+        }
+      ]
     }
   ]
 }
