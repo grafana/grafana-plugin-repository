@@ -2443,6 +2443,18 @@
           "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
+    },
+    {
+      "id": "bitmovin-analytics-datasource",
+      "type": "datasource",
+      "url": "https://github.com/bitmovin/analytics-grafana-datasource",
+      "versions":[
+        {
+          "version": "0.0.1",
+          "commit": "8ed78e824e1525e72b848e1eb9c2d85f40fb3cdf",
+          "url": "https://github.com/bitmovin/analytics-grafana-datasource"
+        }
+      ]
     }
   ]
 }
