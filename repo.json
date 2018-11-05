@@ -2453,6 +2453,18 @@
           "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
+    },
+    {
+      "id": "sbueringer-consul-datasource",
+      "type": "datasource",
+      "url": "https://github.com/sbueringer/grafana-consul-datasource",
+      "versions": [
+        {
+          "version": "0.1.5",
+          "commit": "4226d7bc59d2d6ec2c06b9f7676df1c7912b4580",
+          "url": "https://github.com/sbueringer/grafana-consul-datasource"
+        }
+      ]
     }
   ]
 }
