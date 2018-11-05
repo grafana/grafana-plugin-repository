@@ -2330,6 +2330,11 @@
           "version": "1.0.0",
           "commit": "ec25fd6b89aa50d7d9b6550c071eccb24146994a",
           "url": "https://github.com/zuburqan/grafana-parity-report"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "6213a07434397c5366e99eef5bb54da6d980d288",
+          "url": "https://github.com/zuburqan/grafana-parity-report"
         }
       ]
     },
