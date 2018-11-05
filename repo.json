@@ -1758,6 +1758,11 @@
           "version": "0.1.2",
           "commit": "23c9af042c2d3327a8254fa5f2b51e2b277a8107",
           "url": "https://github.com/cloudflare/cloudflare-grafana-app"
+        },
+        {
+          "version": "0.1.3",
+          "commit": "021f4778a857dbdb0c4adf3d60ef204cf0e5c4c5",
+          "url": "https://github.com/cloudflare/cloudflare-grafana-app"
         }
       ]
     },
