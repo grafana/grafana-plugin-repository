@@ -1758,6 +1758,11 @@
           "version": "0.1.2",
           "commit": "23c9af042c2d3327a8254fa5f2b51e2b277a8107",
           "url": "https://github.com/cloudflare/cloudflare-grafana-app"
+        },
+        {
+          "version": "0.1.3",
+          "commit": "021f4778a857dbdb0c4adf3d60ef204cf0e5c4c5",
+          "url": "https://github.com/cloudflare/cloudflare-grafana-app"
         }
       ]
     },
@@ -1831,6 +1836,11 @@
         {
           "version": "1.7.0",
           "commit": "811147bd6f8f4c63c81350021071ac42558761fa",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "1.8.0",
+          "commit": "0ce7f18e474ae19ee368e9d7bea21dd843e45bfc",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
@@ -2068,6 +2078,11 @@
           "version": "1.2.0",
           "commit": "9dcce3cfa98c592979e6b2e5b210e91fbd420352",
           "url": "https://github.com/ddurieux/glpi_app_grafana"
+        },
+        {
+          "version": "1.3.0",
+          "commit": "b7b54277243f02048ac5621f8132f63b81aa2471",
+          "url": "https://github.com/ddurieux/glpi_app_grafana"
         }
       ]
     },
@@ -2225,6 +2240,11 @@
           "version": "0.1.1",
           "commit": "ef177b78f3a3760cfa30465b71f599099862abe6",
           "url": "https://github.com/MarcusCalidus/marcuscalidus-svg-panel"
+        },
+        {
+          "version": "0.2.0",
+          "commit": "a35d183f92e9ac0509c59d592ee724b8190ccb72",
+          "url": "https://github.com/MarcusCalidus/marcuscalidus-svg-panel"
         }
       ]
     },
@@ -2330,6 +2350,11 @@
           "version": "1.0.0",
           "commit": "ec25fd6b89aa50d7d9b6550c071eccb24146994a",
           "url": "https://github.com/zuburqan/grafana-parity-report"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "6213a07434397c5366e99eef5bb54da6d980d288",
+          "url": "https://github.com/zuburqan/grafana-parity-report"
         }
       ]
     },
@@ -2351,6 +2376,11 @@
           {
             "version": "0.4.0",
             "commit": "69082f3fc96bb9ce0f73edc7e1b412aefba3a047",
+            "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
+          },
+	  {
+            "version": "0.4.6",
+            "commit": "f2ce20a5e92baa66a1fe8117e2a750a8ee65dbf9",
             "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
           }
         ]
@@ -2424,8 +2454,8 @@
       "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource",
       "versions": [
         {
-          "version": "1.0.0",
-          "commit": "17836e2ede426fa323c484a681fe74ca91602ae5",
+          "version": "1.1.0",
+          "commit": "17ac9f02461204c126a8cd2ccd85d964e1625fab",
           "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource"
         }
       ]
@@ -2450,6 +2480,11 @@
         {
           "version": "0.0.1",
           "commit": "cf31fded9d3cd43ab63092064beef4a45123cf69",
+          "url": "https://github.com/flant/grafana-statusmap"
+        },
+        {
+          "version": "0.0.2",
+          "commit": "bccc3320a8be7cb764bfaff0515af8fd348e0b54",
           "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
