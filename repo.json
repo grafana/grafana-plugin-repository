@@ -2512,6 +2512,18 @@
           "url": "https://github.com/sbueringer/grafana-consul-datasource"
         }
       ]
+    },
+    {
+      "id": "larona-epict-panel",
+      "type": "panel",
+      "url": "https://github.com/LucasArona/larona-epict-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "86877e5d7f78d5306dff9ff27866e002fd6be00f",
+          "url": "https://github.com/LucasArona/larona-epict-panel"
+        }
+      ]
     }
   ]
 }
