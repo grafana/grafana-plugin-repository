@@ -2539,6 +2539,18 @@
           "url": "https://github.com/grafana/grafana-polystat-panel"
         }
       ]
+    },
+    {
+      "id": "larona-epict-panel",
+      "type": "panel",
+      "url": "https://github.com/LucasArona/larona-epict-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "663ac3cfdd89691adce793377e371cbb87abc81c",
+          "url": "https://github.com/LucasArona/larona-epict-panel"
+        }
+      ]
     }
   ]
 }
