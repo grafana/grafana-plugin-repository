@@ -2527,6 +2527,18 @@
           "url": "https://github.com/sbueringer/grafana-consul-datasource"
         }
       ]
+    },
+    {
+      "id": "grafana-polystat-panel",
+      "type": "panel",
+      "url": "https://github.com/grafana/grafana-polystat-panel",
+      "versions": [
+        {
+          "version": "1.0.14",
+          "commit": "71ee146d6849e6546bde3da084686d168006042a",
+          "url": "https://github.com/grafana/grafana-polystat-panel"
+        }
+      ]
     }
   ]
 }
