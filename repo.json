@@ -2493,6 +2493,18 @@
       ]
     },
     {
+      "id": "simpod-json-datasource",
+      "type": "datasource",
+      "url": "https://github.com/simPod/grafana-json-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "c2b80cf2e9d57060968e71b7b2001c7fc816b03f",
+          "url": "https://github.com/simPod/grafana-json-datasource"
+        }
+      ]
+    },
+    {
       "id": "flant-statusmap-panel",
       "type": "panel",
       "url": "https://github.com/flant/grafana-statusmap",
