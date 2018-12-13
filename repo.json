@@ -2573,6 +2573,18 @@
           "url": "https://github.com/LucasArona/larona-epict-panel"
         }
       ]
+    },
+    {
+      "id": "xcomponent-ac2-panel",
+      "type": "panel",
+      "url": "https://github.com/xcomponent/grafana-plugin-ac2",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "319f3a2a90516c6d5e8e30c58edf32da9f138ff4",
+          "url": "https://github.com/xcomponent/grafana-plugin-ac2"
+        }
+      ]
     }
   ]
 }
