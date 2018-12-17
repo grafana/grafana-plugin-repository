@@ -2385,6 +2385,11 @@
           "version": "1.0.1",
           "commit": "6213a07434397c5366e99eef5bb54da6d980d288",
           "url": "https://github.com/zuburqan/grafana-parity-report"
+        },
+        {
+          "version": "1.2.0",
+          "commit": "a65618c20d2ce02ba90078e596f39f48a766430f",
+          "url": "https://github.com/zuburqan/grafana-parity-report"
         }
       ]
     },
