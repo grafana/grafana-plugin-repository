@@ -2578,6 +2578,18 @@
           "url": "https://github.com/LucasArona/larona-epict-panel"
         }
       ]
+    },
+    {
+      "id": "mx-separator-panel",
+      "type": "panel",
+      "url": "https://github.com/mxswat/grafana-separator-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "24ac283c0d7a469ceb7ffedb275b85f4a8243f3d",
+          "url": "https://github.com/mxswat/grafana-separator-panel"
+        }
+      ]
     }
   ]
 }
