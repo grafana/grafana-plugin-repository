@@ -215,6 +215,11 @@
           "version": "0.2.3",
           "commit": "8fc9cce08f66f45008ab7aa723b3b8f6ac6c4db2",
           "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
+        },
+        {
+          "version": "0.2.4",
+          "commit": "2c65049da666c40462d3fc1e0a68754340635e6c",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
         }
       ]
     },
