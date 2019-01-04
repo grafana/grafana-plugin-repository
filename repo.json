@@ -2596,7 +2596,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "7b7bb611396170dbc16df0aa9dfb186bbfd4600e",
+          "commit": "e03374e7870fb285d63001189833cddb77436822",
           "url": "https://github.com/farski/blendstat-grafana"
         }
       ]
