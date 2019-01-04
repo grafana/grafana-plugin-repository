@@ -2588,6 +2588,18 @@
           "url": "https://github.com/LucasArona/larona-epict-panel"
         }
       ]
+    },
+    {
+      "id": "farski-blendstat-panel",
+      "type": "panel",
+      "url": "https://github.com/farski/blendstat-grafana",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "7b7bb611396170dbc16df0aa9dfb186bbfd4600e",
+          "url": "https://github.com/farski/blendstat-grafana"
+        }
+      ]
     }
   ]
 }
