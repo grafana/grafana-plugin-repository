@@ -1923,6 +1923,11 @@
           "version": "1.0.1",
           "commit": "050d770946ad0f12750d206055b80d9389e9ea52",
           "url": "https://github.com/sni/grafana-thruk-datasource"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "3232fa771ae5c38e55695243a056540a76bd0bc3",
+          "url": "https://github.com/sni/grafana-thruk-datasource"
         }
       ]
     },
