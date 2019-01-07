@@ -215,6 +215,11 @@
           "version": "0.2.3",
           "commit": "8fc9cce08f66f45008ab7aa723b3b8f6ac6c4db2",
           "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
+        },
+        {
+          "version": "0.2.4",
+          "commit": "2c65049da666c40462d3fc1e0a68754340635e6c",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-peak-report"
         }
       ]
     },
@@ -1443,6 +1448,11 @@
       "url": "https://github.com/NatelEnergy/grafana-discrete-panel",
       "versions": [
         {
+          "version": "0.0.9",
+          "commit": "f2c7e64de7156f8a42e54ea4d2c382d1bf232a10",
+          "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
+        },
+        {
           "version": "0.0.8",
           "commit": "5e8e975c881e443d72ac17830aca986c86ca95a2",
           "url": "https://github.com/NatelEnergy/grafana-discrete-panel"
@@ -1918,6 +1928,11 @@
           "version": "1.0.1",
           "commit": "050d770946ad0f12750d206055b80d9389e9ea52",
           "url": "https://github.com/sni/grafana-thruk-datasource"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "3232fa771ae5c38e55695243a056540a76bd0bc3",
+          "url": "https://github.com/sni/grafana-thruk-datasource"
         }
       ]
     },
@@ -2265,6 +2280,11 @@
           "version": "0.2.0",
           "commit": "a35d183f92e9ac0509c59d592ee724b8190ccb72",
           "url": "https://github.com/MarcusCalidus/marcuscalidus-svg-panel"
+        },
+        {
+          "version": "0.3.0",
+          "commit": "56d2a0fb2b25f36bf55cfa24baae0fa8c5636dea",
+          "url": "https://github.com/MarcusCalidus/marcuscalidus-svg-panel"
         }
       ]
     },
@@ -2390,6 +2410,11 @@
           "version": "1.0.1",
           "commit": "6213a07434397c5366e99eef5bb54da6d980d288",
           "url": "https://github.com/zuburqan/grafana-parity-report"
+        },
+        {
+          "version": "1.2.0",
+          "commit": "2e4e9b7bf8d24d071c55bc7f7d7b8903cc7b5986",
+          "url": "https://github.com/zuburqan/grafana-parity-report"
         }
       ]
     },
@@ -2513,8 +2538,8 @@
       "url": "https://github.com/simPod/grafana-json-datasource",
       "versions": [
         {
-          "version": "0.1.0",
-          "commit": "c2b80cf2e9d57060968e71b7b2001c7fc816b03f",
+          "version": "0.1.1",
+          "commit": "f7c8f8d88e19abf4d60c58bba5fee60cf79aec55",
           "url": "https://github.com/simPod/grafana-json-datasource"
         }
       ]
@@ -2525,8 +2550,8 @@
       "url": "https://github.com/flant/grafana-statusmap",
       "versions": [
         {
-          "version": "0.0.3",
-          "commit": "cb5d353b36c6a8b264bdaeca4f594b51abaa8afe",
+          "version": "0.0.4",
+          "commit": "e1abad408e71cef5b92ef9ab5fbc0bd0503cd22e",
           "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
@@ -2573,9 +2598,21 @@
       "url": "https://github.com/LucasArona/larona-epict-panel",
       "versions": [
         {
-          "version": "1.0.0",
-          "commit": "663ac3cfdd89691adce793377e371cbb87abc81c",
+          "version": "1.0.1",
+          "commit": "11d0311ac437feff45958b4fb0e26d21e2b076c9",
           "url": "https://github.com/LucasArona/larona-epict-panel"
+        }
+      ]
+    },
+    {
+      "id": "scadavis-synoptic-panel",
+      "type": "panel",
+      "url": "https://github.com/riclolsen/scadavis-synoptic-panel",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "commit": "9ad761917abff9ec43a2b90ad47939fbc16c5c01",
+          "url": "https://github.com/riclolsen/scadavis-synoptic-panel"
         }
       ]
     },
@@ -2586,7 +2623,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "24ac283c0d7a469ceb7ffedb275b85f4a8243f3d",
+          "commit": "52b342d4578d05bdb97254c331c6e8387a1f0c52",
           "url": "https://github.com/mxswat/grafana-separator-panel"
         }
       ]
