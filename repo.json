@@ -2623,7 +2623,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "52b342d4578d05bdb97254c331c6e8387a1f0c52",
+          "commit": "e639400047f23a8ceef239e41ad233abaaed8f84",
           "url": "https://github.com/mxswat/grafana-separator-panel"
         }
       ]
