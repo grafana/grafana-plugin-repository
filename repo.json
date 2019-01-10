@@ -2615,6 +2615,18 @@
           "url": "https://github.com/riclolsen/scadavis-synoptic-panel"
         }
       ]
+    },
+    {
+      "id": "grafana-sensu-app",
+      "type": "app",
+      "url": "https://github.com/grafana/grafana-sensu-app",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "commit": "41cc0cfa14e203a7b1df7f300c860d5518f406b4",
+          "url": "https://github.com/grafana/grafana-sensu-app"
+        }
+      ]
     }
   ]
 }
