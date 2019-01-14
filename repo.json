@@ -546,6 +546,18 @@
       ]
     },
     {
+      "id": "mymight-datasource",
+      "type": "datasource",
+      "url": "https://github.com/vjindra-mymight/mymightdatasource/",
+      "versions": [
+	{
+          "version": "7.0",
+          "commit": "47a2ff6440d7ee66a0c2cf9939f49d3cfa2753d6",
+          "url": "https://github.com/vjindra-mymight/mymightdatasource/"
+        }
+      ]
+    },
+    {
       "id": "grafana-kairosdb-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/kairosdb-datasource",
