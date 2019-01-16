@@ -2604,6 +2604,11 @@
           "version": "1.0.14",
           "commit": "71ee146d6849e6546bde3da084686d168006042a",
           "url": "https://github.com/grafana/grafana-polystat-panel"
+        },
+        {
+          "version": "1.0.15",
+          "commit": "9475cd358e7149882564a03e4b15562842e81246",
+          "url": "https://github.com/grafana/grafana-polystat-panel"
         }
       ]
     },
