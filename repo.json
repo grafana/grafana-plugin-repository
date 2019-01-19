@@ -2816,6 +2816,18 @@
           "url": "https://github.com/xginn8/grafana-pagerduty"
         }
       ]
+     },
+     {
+      "id": "pr0ps-trackmap-panel",
+      "type": "panel",
+      "url": "https://github.com/pR0Ps/grafana-trackmap-panel",
+      "versions": [
+        {
+          "version": "2.0.3",
+          "commit": "a6a591ca5af416de849b77f22ca90c5fe5de49e6",
+          "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
+        }
+      ]
     }
   ]
 }
