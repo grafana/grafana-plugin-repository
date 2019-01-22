@@ -1172,7 +1172,7 @@
         },
         {
           "version": "1.4.5",
-          "commit": "80792ad1c95f8cfa48a6179427e2e57918ca7040",
+          "commit": "7119fb361566d8a37deb4ecca64896a5c36d17b6",
           "url": "https://github.com/jdbranham/grafana-diagram"
         }
       ]
