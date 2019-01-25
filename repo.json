@@ -2652,6 +2652,18 @@
           "url": "https://github.com/grafana/grafana-sensu-app"
         }
       ]
+    },
+    {
+      "id": "untu-saymon-datasource",
+      "type": "datasource",
+      "url": "https://github.com/untu/grafana-saymon-datasource",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "066dea27b74f331677551a0b71cecdf00012360e",
+          "url": "https://github.com/untu/grafana-saymon-datasource"
+        }
+      ]
     }
   ]
 }
