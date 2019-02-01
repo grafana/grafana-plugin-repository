@@ -1593,6 +1593,11 @@
       "url": "https://github.com/grafana/kentik-app",
       "versions": [
         {
+          "version": "1.3.3",
+          "commit": "d3d1899ceec4532fd400aaecb19d320901cdcea1",
+          "url": "https://github.com/grafana/kentik-app"
+        },
+        {
           "version": "1.3.2",
           "commit": "a7c0130ca41328150a360d5804b389af5d2c7ab1",
           "url": "https://github.com/grafana/kentik-app"
