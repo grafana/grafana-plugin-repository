@@ -2657,6 +2657,17 @@
           "url": "https://github.com/grafana/grafana-sensu-app"
         }
       ]
+    },
+    {
+      "id": "mtanda-aws-cloudwatch-logs-datasource",
+      "type": "datasource",
+      "url": "https://github.com/mtanda/grafana-aws-cloudwatch-logs-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "36ab6d010c66106ca81bf1b31b83deb9b4bfc3ce",
+          "url": "https://github.com/mtanda/grafana-aws-cloudwatch-logs-datasource"
+        }	  
+      ]
     }
-  ]
 }
