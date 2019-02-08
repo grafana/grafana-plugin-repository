@@ -503,7 +503,7 @@
       "versions": [
         {
           "version": "1.3.6",
-          "commit": "b462d7be38d13ed235c383cdb67ee8b69796b07f",
+          "commit": "cf03cdfb79cb4ce22b286a0f3172506d2030a95e",
           "url": "https://github.com/grafana/piechart-panel"
         },
         {
