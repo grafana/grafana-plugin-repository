@@ -2659,8 +2659,8 @@
       "url": "https://github.com/untu/grafana-saymon-datasource",
       "versions": [
         {
-          "version": "0.0.1",
-          "commit": "066dea27b74f331677551a0b71cecdf00012360e",
+          "version": "0.0.2",
+          "commit": "0bad108e88f10308466098099bca9fd70c4dbf12",
           "url": "https://github.com/untu/grafana-saymon-datasource"
         }
       ]
