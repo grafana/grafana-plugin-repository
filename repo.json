@@ -2663,7 +2663,12 @@
           "version": "1.0.2",
           "commit": "d34709e5ee7bddcdd93cbf8dbf31ce8b9e02d056",
           "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
-        }
+        },
+        {
+          "version": "1.0.3",
+          "commit": "0786e10d7278320922086fe3357028ee55a81432",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
+        },
       ],
     },
     {
