@@ -38,7 +38,7 @@ jobs:
       # run tests!
       - run: yarn lint
 
-  check-update:
+  check-repo-update:
     docker:
       - image: circleci/node:8
     working_directory: ~/repo
@@ -59,6 +59,27 @@ jobs:
           name: check-repo-update
           command: node ./scripts/check-repo-update.js
 
+  lint-updated-plugins:
+    docker:
+      - image: circleci/node:8
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+          - dependency-cache-{{ checksum "yarn.lock" }}
+          - dependency-cache-
+      - run:
+          name: yarn install
+          command: 'yarn install --pure-lockfile --no-progress'
+      - save_cache:
+          paths:
+            - node_modules
+          key: dependency-cache-{{ checksum "yarn.lock" }}
+      - run:
+          name: lint-updated-plugins
+          command: node ./scripts/lint-repo-update.js
+
 workflows:
   version: 2
   build-master:
@@ -68,7 +89,9 @@ workflows:
 
   build-branches-and-prs:
     jobs:
-      - check-update:
+      - check-repo-update:
+          filters: *filter-not-release-or-master
+      - lint-updated-plugins:
           filters: *filter-not-release-or-master
       # - build:
       #     filters: *filter-not-release-or-master
