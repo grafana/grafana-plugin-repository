@@ -12,7 +12,7 @@
         },
         {
           "version": "1.0.1",
-          "commit": "72e01b021a233fb5ed61521b6e526a6200a0747d",
+          "commit": "deadbeef",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
         }
       ]
