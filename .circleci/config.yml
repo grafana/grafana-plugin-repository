@@ -34,9 +34,7 @@ jobs:
           paths:
             - node_modules
           key: dependency-cache-{{ checksum "yarn.lock" }}
-
-      # run tests!
-      - run: yarn lint
+      - run: yarn lint-repo
 
   check-repo-update:
     docker:
