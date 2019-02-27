@@ -4,11 +4,17 @@ const { lintPlugin } = require('./lintPlugin');
 
 const pluginUrl = process.argv[2];
 const commit = process.argv[3];
-const version = process.argv[4];
+let version, pluginId;
+if (process.argv.length > 4) {
+  version = process.argv[4];
+}
+if (process.argv.length > 5) {
+  pluginId = process.argv[5];
+}
 
 console.log(`${pluginUrl} : ${commit}`);
 
-return lintPlugin(pluginUrl, commit, version).then(result => {
+return lintPlugin(pluginUrl, commit, version, pluginId).then(result => {
   // console.debug(result);
   if (result && result.statusCode > 0) {
     console.error(chalk.yellow(result.status));
