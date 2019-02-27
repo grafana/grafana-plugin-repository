@@ -45,7 +45,7 @@ function diffPluginsRepo(update, base) {
           if (changedVersion) {
             diffMeta[id].versionChanged = true;
             const versionChange = _.find(pluginUpdate.versions, { 'version': versionObj.version });
-            if (!_.find(diff[id].versions, { 'version': versionChange.version })) {
+            if (versionChange && !_.find(diff[id].versions, { 'version': versionChange.version })) {
               diff[id].versions.push(versionChange);
               _.forOwn(changedVersion, (value, key) => {
                 if (value !== versionObj[key]) {

@@ -11,8 +11,13 @@ const repoCurrent = require('../repo.json');
 async function main() {
   return request(repoMasterUrl).then(body => {
     const repoMaster = JSON.parse(body);
-    const diff = diffPluginsRepo(repoCurrent, repoMaster);
-    return diff;
+    try {
+      const diff = diffPluginsRepo(repoCurrent, repoMaster);
+      return diff;
+    } catch(diffError) {
+      console.log(diffError);
+      process.exit(1);
+    }
   }).then(result => {
     const diff = result;
     return lintRepoUpdate(diff);
