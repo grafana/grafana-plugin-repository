@@ -34,8 +34,9 @@ function lintRepoUpdate(diff) {
     _.forEach(pluginUpdate.versions, async versionObj => {
         const url = versionObj.url.trim();
         const commit = versionObj.commit.trim();
+        const version = versionObj.version;
 
-        const lintPromise = lintPlugin(url, commit).then(result => {
+        const lintPromise = lintPlugin(url, commit, version).then(result => {
           console.log(`Linting ${chalk.blue(pluginId)} version ${chalk.blue(versionObj.version)}`);
           console.log(`${url} : ${commit}`);
           if (result && result.statusCode > 0) {

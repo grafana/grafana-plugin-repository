@@ -8,6 +8,7 @@
   "scripts": {
     "lint": "grunt",
     "lint-repo": "./scripts/lint-repo.js",
+    "lint-repo-update": "./scripts/lint-repo-update.js",
     "test-ci-build": "./.circleci/run-build-locally.sh"
   },
   "devDependencies": {
