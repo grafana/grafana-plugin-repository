@@ -22,6 +22,6 @@ return lintPlugin(pluginUrl, commit).then(result => {
     error.warnings.forEach(err => console.error(chalk.yellow(err)));
     process.exit(1);
   } else {
-    console.error(error);
+    console.error(error.message || error);
   }
 });

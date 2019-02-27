@@ -7,6 +7,7 @@
   "license": "MIT",
   "scripts": {
     "lint": "grunt",
+    "lint-repo": "./scripts/lint-repo.js",
     "test-ci-build": "./.circleci/run-build-locally.sh"
   },
   "devDependencies": {
