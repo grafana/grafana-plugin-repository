@@ -1137,6 +1137,11 @@
           "version": "1.0.3",
           "commit": "cf1d6c4a2a4a11682cbb61c0c0c4951cbffd72a0",
           "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
+        },
+        {
+          "version": "1.0.4",
+          "commit": "095993cd42cd81d562cd635569392592864872d1",
+          "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
         }
       ]
     },
@@ -1396,6 +1401,11 @@
       "type": "panel",
       "url": "https://github.com/ryantxu/ajax-panel",
       "versions": [
+        {
+          "version": "0.0.6",
+          "commit": "f22be91fdba852c92ddca034ed54f185e9fc93c8",
+          "url": "https://github.com/ryantxu/ajax-panel"
+        },
         {
           "version": "0.0.5",
           "commit": "9ef3ece13b050cb059728828f65c7046e0fefb5a",
@@ -1902,6 +1912,11 @@
           "version": "1.8.0",
           "commit": "0ce7f18e474ae19ee368e9d7bea21dd843e45bfc",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "1.8.1",
+          "commit": "bcc1877634476b84c2f7266d05824214415adfd6",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
     },
@@ -2269,6 +2284,11 @@
           "version": "0.0.6",
           "commit": "fb4c90018ee045723cfb8fca2a93bb64b6a52f38",
           "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
+        },
+        {
+          "version": "0.0.7",
+          "commit": "c4d8c51a901aa237d92fa66499f31a4eb43e1a5b",
+          "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
         }
       ]
     },
@@ -2481,6 +2501,11 @@
 	  {
             "version": "0.4.6",
             "commit": "f2ce20a5e92baa66a1fe8117e2a750a8ee65dbf9",
+            "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
+          },
+	  {
+            "version": "1.0.0",
+            "commit": "e85e1f8ff53c25594713c991c2728a6c943fdc7b",
             "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
           }
         ]
