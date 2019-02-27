@@ -15,6 +15,30 @@ function getFileContent(owner, repo, path, commit) {
   });
 }
 
+async function fetchContent(url) {
+  const result = await _request(url);
+  if (result && result.content) {
+    const encoding = result.encoding || 'base64';
+    const content = Buffer.from(result.content, encoding).toString();
+    return content;
+  } else {
+    return null;
+  }
+}
+
+async function fetchPRFile(owner, repo, pr, filename) {
+  const endpont = `/repos/${owner}/${repo}/pulls/${pr}/files`
+  const prFiles = await apiRequest(endpont);
+  for (const prFile of prFiles) {
+    if (prFile.filename === filename) {
+      const contentUrl = prFile.contents_url;
+      const content = await fetchContent(contentUrl);
+      return content;
+    }
+  }
+  throw new Error('File not found');
+}
+
 function fetchFile({base, commit, path, prefix}) {
   // try to match base as a github repo url
   const matches = new RegExp('^https?://github[.]com/([^/]+)/([^/]+)(?:/tree/([^/]+))?(.*)$').exec(base);
@@ -77,6 +101,10 @@ async function fetchPluginJson(url, commit) {
 function apiRequest(endpoint) {
   const githubApiUrl = 'https://api.github.com';
   const url = `${githubApiUrl}${endpoint}`;
+  return _request(url);
+}
+
+function _request(url) {
   const options = {
     uri: url,
     headers: {
@@ -93,5 +121,6 @@ function apiRequest(endpoint) {
 module.exports = {
   getFileContent,
   fetchPluginJson,
+  fetchPRFile,
   request: apiRequest,
 };
