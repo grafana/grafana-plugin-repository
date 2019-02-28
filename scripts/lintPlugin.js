@@ -44,11 +44,7 @@ async function lintPlugin(url, commit, version, pluginId) {
     try {
       const publishedVersion = await getPublishedVersion(pluginId);
       if (semver.gt(publishedVersion, version)) {
-        result.warnings.push(`Published version (${publishedVersion}) newer than repo.json (${version})`);
-        if (result.statusCode === 0) {
-          result.status = 'Warning'
-          result.statusCode = 1;
-        }
+        addWarning(`Published version (${publishedVersion}) newer than repo.json (${version})`, result);
       }
     } catch(err) {}
   }
@@ -59,28 +55,24 @@ async function lintPlugin(url, commit, version, pluginId) {
     const pluginJson = pluginJsonResponse.json;
     // console.log(pluginJson);
     if (pluginJsonResponse.prefix === 'src') {
-      result.warnings.push(`It seems, plugin isn't built properly: plugin.json found in src/ only`);
-      if (result.statusCode === 0) {
-        result.status = 'Warning'
-        result.statusCode = 1;
-      }
+      addWarning(`It seems, plugin isn't built properly: plugin.json found in src/ only`, result);
     }
 
     if (pluginId !== pluginJson.id) {
-      result.warnings.push(`Plugin id in repo.json (${pluginId}) doesn't match plugin.json (${pluginJson.id})`);
-      if (result.statusCode === 0) {
-        result.status = 'Warning'
-        result.statusCode = 1;
-      }
+      addWarning(`Plugin id in repo.json (${pluginId}) doesn't match plugin.json (${pluginJson.id})`, result);
     }
 
     const pluginJsonVersion = pluginJson.info.version;
     if (version && (!pluginJsonVersion || pluginJsonVersion !== version)) {
-      result.warnings.push(`Version in repo.json (${version}) doesn't match plugin.json (${pluginJsonVersion})`);
-      if (result.statusCode === 0) {
-        result.status = 'Warning'
-        result.statusCode = 1;
-      }
+      addWarning(`Version in repo.json (${version}) doesn't match plugin.json (${pluginJsonVersion})`, result);
+    }
+
+    if (!(pluginJson.info.author && pluginJson.info.author.name)) {
+      addWarning(`No author specified in plugin.json`, result);
+    }
+
+    if (!pluginJson.info.description) {
+      addWarning(`Plugin description isn't in plugin.json`, result);
     }
   } catch(err) {
     console.log(`Warning: failed fetching plugin.json. This may be caused by private repo without proper access rights.`);
@@ -101,6 +93,22 @@ async function getPublishedVersion(pluginId) {
   } catch(err) {
     // console.log(err.error || err.message || err);
     throw new Error(`Warning: unable to fetch published plugin ${pluginId}`);
+  }
+}
+
+function addWarning(warning, result) {
+  result.warnings.push(warning);
+  if (result.statusCode < 1) {
+    result.status = 'Warning'
+    result.statusCode = 1;
+  }
+}
+
+function addError(error, result) {
+  result.errors.push(error);
+  if (result.statusCode < 2) {
+    result.status = 'Error'
+    result.statusCode = 2;
   }
 }
 
