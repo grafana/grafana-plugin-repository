@@ -35,7 +35,7 @@ function lintRepoDiff(diff) {
 
         const lintPromise = lintPlugin(url, commit, version, pluginId).then(result => {
           console.log(`Linting ${chalk.blue(pluginId)} version ${chalk.blue(versionObj.version)}`);
-          console.log(`${url} : ${commit}`);
+          console.log(`${url} ${commit}`);
           if (result && result.statusCode > 0) {
             console.error(chalk.yellow(result.status));
             result.warnings.forEach(err => console.error(chalk.yellow(err)));
@@ -46,7 +46,7 @@ function lintRepoDiff(diff) {
           return;
         }).catch(error => {
           console.log(`Linting ${chalk.blue(pluginId)} version ${chalk.blue(versionObj.version)}`);
-          console.log(`${url} : ${commit}`);
+          console.log(`${url} ${commit}`);
           if (error && error.status === 'Error') {
             console.error(chalk.red(error.status));
             error.errors.forEach(err => console.error(chalk.red(err)));
