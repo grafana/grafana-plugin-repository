@@ -72,7 +72,7 @@ async function lintPlugin(url, commit, version, pluginId) {
     }
 
     if (!pluginJson.info.description) {
-      addWarning(`Plugin description isn't in plugin.json`, result);
+      addWarning(`No plugin description provided in plugin.json`, result);
     }
   } catch(err) {
     console.log(`Warning: failed fetching plugin.json. This may be caused by private repo without proper access rights.`);
