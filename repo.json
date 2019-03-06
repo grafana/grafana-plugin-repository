@@ -2749,6 +2749,18 @@
           "url": "https://github.com/grafana/grafana-sensu-app"
         }
       ]
+    },
+    {
+      "id": "farski-blendstat-panel",
+      "type": "panel",
+      "url": "https://github.com/farski/blendstat-grafana",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "ac51829a66327992b53b3737afae74b65759f8bc",
+          "url": "https://github.com/farski/blendstat-grafana"
+        }
+      ]
     }
   ]
 }
