@@ -2330,6 +2330,18 @@
       ]
     },
     {
+      "id": "corpglory-progresslist-panel",
+      "type": "panel",
+      "url": "https://github.com/CorpGlory/grafana-progress-list",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "commit": "cd4f1b1cbe6eb1f1ebad4d3d0df45c58c29ae866",
+          "url": "https://github.com/CorpGlory/grafana-progress-list"
+        }
+      ]
+    },
+    {
       "id": "devicehive-devicehive-datasource",
       "type": "datasource",
       "url": "https://github.com/devicehive/devicehive-grafana-datasource",
