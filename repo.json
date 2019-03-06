@@ -2572,6 +2572,18 @@
       ]
     },
     {
+      "id": "gretamosa-topology-panel",
+      "type": "panel",
+      "url": "https://github.com/gretamosa/gretamosa-topology-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "36f082571440c466ddc9be39a7af20dafa4071df",
+          "url": "https://github.com/gretamosa/gretamosa-topology-panel"
+        }
+      ]
+    },
+    {
       "id": "fatcloud-windrose-panel",
       "type": "panel",
       "url": "https://github.com/fatcloud/windrose-panel",
