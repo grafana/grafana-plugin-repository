@@ -2,31 +2,94 @@
 #
 # Check https://circleci.com/docs/2.0/language-javascript/ for more details
 #
+aliases:
+  # Workflow filters
+  - &filter-not-release-or-master
+    tags:
+      ignore: /^v[0-9]+(\.[0-9]+){2}(-.+|[^-.]*)$/
+    branches:
+      ignore:
+        - master
+  - &filter-only-master
+    branches:
+      only: master
+
 version: 2
 jobs:
   build:
     docker:
-      # specify the version you desire here
-      - image: circleci/node:7.10
-
+      - image: circleci/node:8
     working_directory: ~/repo
-
     steps:
       - checkout
-
-      # Download and cache dependencies
       - restore_cache:
           keys:
-          - v1-dependencies-{{ checksum "package.json" }}
+          - dependency-cache-{{ checksum "yarn.lock" }}
           # fallback to using the latest cache if no exact match is found
-          - v1-dependencies-
-
-      - run: yarn install
-
+          - dependency-cache-
+      - run:
+          name: yarn install
+          command: 'yarn install --pure-lockfile --no-progress'
       - save_cache:
           paths:
             - node_modules
-          key: v1-dependencies-{{ checksum "package.json" }}
-        
-      # run tests!
-      - run: yarn lint
+          key: dependency-cache-{{ checksum "yarn.lock" }}
+      - run: yarn lint-repo
+
+  check-repo-update:
+    docker:
+      - image: circleci/node:8
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+          - dependency-cache-{{ checksum "yarn.lock" }}
+          - dependency-cache-
+      - run:
+          name: yarn install
+          command: 'yarn install --pure-lockfile --no-progress'
+      - save_cache:
+          paths:
+            - node_modules
+          key: dependency-cache-{{ checksum "yarn.lock" }}
+      - run:
+          name: check-repo-update
+          command: node ./scripts/check-repo-update.js
+
+  lint-updated-plugins:
+    docker:
+      - image: circleci/node:8
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+          - dependency-cache-{{ checksum "yarn.lock" }}
+          - dependency-cache-
+      - run:
+          name: yarn install
+          command: 'yarn install --pure-lockfile --no-progress'
+      - save_cache:
+          paths:
+            - node_modules
+          key: dependency-cache-{{ checksum "yarn.lock" }}
+      - run:
+          name: lint-updated-plugins
+          command: node ./scripts/lint-repo-update.js
+
+workflows:
+  version: 2
+  build-master:
+    jobs:
+      - build:
+          filters: *filter-only-master
+
+  build-branches-and-prs:
+    jobs:
+      - check-repo-update:
+          filters: *filter-not-release-or-master
+      - lint-updated-plugins:
+          filters: *filter-not-release-or-master
+      # - build:
+      #     filters: *filter-not-release-or-master
