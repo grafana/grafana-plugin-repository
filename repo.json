@@ -2828,6 +2828,18 @@
           "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
         }
       ]
+    },
+    {
+      "id": "ilgizar-candlestick-panel",
+      "type": "panel",
+      "url": "https://github.com/ilgizar/ilgizar-candlestick-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "1944a532f6891659fbf94ae8b42571a481187b85",
+          "url": "https://github.com/ilgizar/ilgizar-candlestick-panel"
+        }
+      ]
     }
   ]
 }
