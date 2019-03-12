@@ -3,7 +3,7 @@
     {
       "id": "agenty-flowcharting-panel",
       "type": "panel",
-      "url": "https: //github.com/algenty/grafana-flowcharting",
+      "url": "https://github.com/algenty/grafana-flowcharting",
       "versions": [
         {
           "version": "0.2.0",
