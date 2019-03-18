@@ -2468,7 +2468,7 @@
           "url": "https://github.com/mtanda/grafana-sumologic-datasource"
         }
       ]
-    },        
+    },
     {
       "id": "snuids-radar-panel",
       "type": "panel",
