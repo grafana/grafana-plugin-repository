@@ -2849,6 +2849,18 @@
           "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
         }
       ]
-    }
+    },
+    {
+      "id": "agenty-flowcharting-panel",
+      "type": "panel",
+      "url": "https://github.com/algenty/grafana-flowcharting",
+      "versions": [
+        {
+          "version": "0.2.0",
+          "commit": "399e3e844d15eb73ec99c3ae3568484e24b8d6c9",
+          "url": "https://github.com/algenty/grafana-flowcharting"
+        }
+      ]
+    }    
   ]
 }
