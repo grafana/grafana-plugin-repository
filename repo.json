@@ -1385,6 +1385,11 @@
       "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel",
       "versions": [
         {
+          "version": "1.1.5",
+          "commit": "fbb03b71002d5d77c9a52318cf85c36dc6d84513",
+          "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
+        },
+        {
           "version": "1.1.4",
           "commit": "c58234b8b4c0a6e9fdf4c6f688a8ac029c5b91f8",
           "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
@@ -2861,6 +2866,6 @@
           "url": "https://github.com/algenty/grafana-flowcharting"
         }
       ]
-    }    
+    }
   ]
 }
