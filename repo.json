@@ -674,7 +674,7 @@
       ]
     },
     {
-      "id": "opennms-helm",
+      "id": "opennms-helm-app",
       "type": "app",
       "url": "https://github.com/OpenNMS/opennms-helm",
       "versions": [
