@@ -2710,6 +2710,12 @@
           "version": "0.1.0",
           "commit": "624be3450dc3025929a1bf0d2f745bbbb393b6b1",
           "url": "https://github.com/flant/grafana-statusmap"
+        },
+        {
+
+          "version": "0.1.1",
+          "commit": "742e80d7135271fd01419c96137c1dfd0754d144",
+          "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
     },
