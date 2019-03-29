@@ -706,6 +706,11 @@
       "url": "https://github.com/raintank/worldping-app",
       "versions": [
         {
+          "version": "1.2.5",
+          "commit": "6a54e8fa15006dd032ff851f22e17449b10f956a",
+          "url": "https://github.com/raintank/worldping-app"
+        },
+        {
           "version": "1.2.3",
           "commit": "43684e5013dc6ac304aa2c2589c087193ec8e36b",
           "url": "https://github.com/raintank/worldping-app"
@@ -1384,6 +1389,11 @@
       "type": "panel",
       "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel",
       "versions": [
+        {
+          "version": "1.1.5",
+          "commit": "fbb03b71002d5d77c9a52318cf85c36dc6d84513",
+          "url": "https://github.com/digiapulssi/grafana-breadcrumb-panel"
+        },
         {
           "version": "1.1.4",
           "commit": "c58234b8b4c0a6e9fdf4c6f688a8ac029c5b91f8",
@@ -2459,6 +2469,11 @@
           "version": "2.1.1",
           "commit": "b16f96f36ca7ce6f1db7ecf013c9d59ed2732164",
           "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+           "version": "2.2.0",
+           "commit": "7babdbc3c0123bfbe74950ea4abfffa63739433d",
+           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -2695,6 +2710,12 @@
           "version": "0.1.0",
           "commit": "624be3450dc3025929a1bf0d2f745bbbb393b6b1",
           "url": "https://github.com/flant/grafana-statusmap"
+        },
+        {
+
+          "version": "0.1.1",
+          "commit": "742e80d7135271fd01419c96137c1dfd0754d144",
+          "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
     },
@@ -2736,6 +2757,11 @@
           "version": "1.0.15",
           "commit": "9475cd358e7149882564a03e4b15562842e81246",
           "url": "https://github.com/grafana/grafana-polystat-panel"
+        },
+        {
+          "version": "1.0.16",
+          "commit": "a1347fb4639829e318fb7f2e69a6985f3dbc4ffc",
+          "url": "https://github.com/grafana/grafana-polystat-panel"
         }
       ]
     },
@@ -2765,6 +2791,11 @@
           "version": "1.2.0",
           "commit": "f514b203f40187000a134cce5696a85a8ae0c72a",
           "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
+        },
+        {
+          "version": "1.2.1",
+          "commit": "1ae5a949e27b1babf111b6f7018f07cbd4d5f603",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"          
         }
       ]
     },
@@ -2871,6 +2902,23 @@
           "version": "0.0.1",
           "commit": "2b1ea6fd6e8a37d37ced7f653a470df3a4d9a533",
           "url": "https://github.com/pierosavi/grafana-imageit"
+        }
+      ]
+    },
+    {
+      "id": "cognitedata-datasource",
+      "type": "datasource",
+      "url": "https://github.com/cognitedata/cognite-grafana-datasource",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "5431af739a6b1ad513ec49675d971291af8472b1",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource"
+        },
+        {
+          "version": "1.0.0",
+          "commit": "04832a08bbb7cfce88746bc1a42dbce8198fdd82",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource"
         }
       ]
     }
