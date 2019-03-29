@@ -706,6 +706,11 @@
       "url": "https://github.com/raintank/worldping-app",
       "versions": [
         {
+          "version": "1.2.5",
+          "commit": "6a54e8fa15006dd032ff851f22e17449b10f956a",
+          "url": "https://github.com/raintank/worldping-app"
+        },
+        {
           "version": "1.2.3",
           "commit": "43684e5013dc6ac304aa2c2589c087193ec8e36b",
           "url": "https://github.com/raintank/worldping-app"
@@ -2464,6 +2469,11 @@
           "version": "2.1.1",
           "commit": "b16f96f36ca7ce6f1db7ecf013c9d59ed2732164",
           "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+           "version": "2.2.0",
+           "commit": "7babdbc3c0123bfbe74950ea4abfffa63739433d",
+           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -2741,6 +2751,11 @@
           "version": "1.0.15",
           "commit": "9475cd358e7149882564a03e4b15562842e81246",
           "url": "https://github.com/grafana/grafana-polystat-panel"
+        },
+        {
+          "version": "1.0.16",
+          "commit": "a1347fb4639829e318fb7f2e69a6985f3dbc4ffc",
+          "url": "https://github.com/grafana/grafana-polystat-panel"
         }
       ]
     },
@@ -2864,6 +2879,23 @@
           "version": "0.2.0",
           "commit": "399e3e844d15eb73ec99c3ae3568484e24b8d6c9",
           "url": "https://github.com/algenty/grafana-flowcharting"
+        }
+      ]
+    },
+    {
+      "id": "cognitedata-datasource",
+      "type": "datasource",
+      "url": "https://github.com/cognitedata/cognite-grafana-datasource",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "5431af739a6b1ad513ec49675d971291af8472b1",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource"
+        },
+        {
+          "version": "1.0.0",
+          "commit": "04832a08bbb7cfce88746bc1a42dbce8198fdd82",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource"
         }
       ]
     }

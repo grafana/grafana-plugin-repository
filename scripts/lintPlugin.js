@@ -62,6 +62,21 @@ async function lintPlugin(url, commit, version, pluginId) {
       addWarning(`Plugin id in repo.json (${pluginId}) doesn't match plugin.json (${pluginJson.id})`, result);
     }
 
+    if (!pluginJson.id) {
+      addError('No plugin id found in plugin.json', result);
+    }
+
+    // Plugin id rules
+    const validSlug = /^[a-z0-9]+(-[a-z0-9]+)*-(datasource|app|panel)$/.test(pluginJson.id);
+    if (!validSlug) {
+      addError(`Invalid plugin id "${pluginJson.id}" found in plugin.json`, result);
+    }
+
+    // Plugin type rules
+    if (pluginJson.type !== 'datasource' && pluginJson.type !== 'panel' && pluginJson.type !== 'app') {
+      addError(`Invalid plugin type - must be one of: datasource, panel or app, got "${pluginJson.type}"`, result);
+    }
+
     const pluginJsonVersion = pluginJson.info.version;
     if (version && (!pluginJsonVersion || pluginJsonVersion !== version)) {
       addWarning(`Version in repo.json (${version}) doesn't match plugin.json (${pluginJsonVersion})`, result);
