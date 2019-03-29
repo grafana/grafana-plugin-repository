@@ -2876,6 +2876,23 @@
           "url": "https://github.com/algenty/grafana-flowcharting"
         }
       ]
+    },
+    {
+      "id": "cognitedata-datasource",
+      "type": "datasource",
+      "url": "https://github.com/cognitedata/cognite-grafana-datasource",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "5431af739a6b1ad513ec49675d971291af8472b1",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource"
+        },
+        {
+          "version": "1.0.0",
+          "commit": "04832a08bbb7cfce88746bc1a42dbce8198fdd82",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource"
+        }
+      ]
     }
   ]
 }
