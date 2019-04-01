@@ -2474,6 +2474,11 @@
            "version": "2.2.0",
            "commit": "7babdbc3c0123bfbe74950ea4abfffa63739433d",
            "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+           "version": "2.2.1",
+           "commit": "2cf6e937b530fa4c49023844ff9f7692067dfe0e",
+           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -2805,7 +2810,7 @@
         {
           "version": "1.2.1",
           "commit": "1ae5a949e27b1babf111b6f7018f07cbd4d5f603",
-          "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"          
+          "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
         }
       ]
     },
