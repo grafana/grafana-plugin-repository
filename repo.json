@@ -2903,9 +2903,14 @@
           "commit": "2b1ea6fd6e8a37d37ced7f653a470df3a4d9a533",
           "url": "https://github.com/pierosavi/grafana-imageit"
         },
-		{
+		    {
           "version": "0.0.2",
           "commit": "c6d5617c20b8979744d7af1adaebe8933bd065bc",
+          "url": "https://github.com/pierosavi/pierosavi-imageit-panel"
+        },
+        {
+          "version": "0.1.0",
+          "commit": "4d8031ec45ea81b9330c0d1b210b637ada11d929",
           "url": "https://github.com/pierosavi/pierosavi-imageit-panel"
         }
       ]
