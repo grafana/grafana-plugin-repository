@@ -2485,6 +2485,13 @@
           "commit": "bbc9761b0ea59f9ed50363dacaa2ece6b8b293b2",
           "url": "https://github.com/snuids/grafana-radar-panel"
         }
+        ,
+        {
+          "version": "1.4.4",
+          "commit": "34713c10ac816b9752c79e43a4b3f630d58e9953",
+          "url": "https://github.com/snuids/grafana-radar-panel"
+        }
+        
       ]
     },
     {
