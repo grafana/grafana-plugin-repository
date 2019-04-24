@@ -2951,6 +2951,18 @@
           "url": "https://github.com/cognitedata/cognite-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "checkmk-datasource",
+      "type": "datasource",
+      "url": "https://github.com/tribe29/grafana-checkmk-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "8ef9d1df7043abf514d9a79a03c643bec0e8154c",
+          "url": "https://github.com/tribe29/grafana-checkmk-datasource"
+        }
+      ]
     }
   ]
 }
