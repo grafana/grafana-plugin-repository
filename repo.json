@@ -2794,6 +2794,11 @@
           "version": "1.2.0",
           "commit": "fd1ae0fc23893669518fc1251bb3303552f76345",
           "url": "https://github.com/LucasArona/larona-epict-panel"
+        },
+	{
+          "version": "1.2.1",
+          "commit": "fd9ada436c4013165dbb115d35543305c017f1cd",
+          "url": "https://github.com/LucasArona/larona-epict-panel"
         }
       ]
     },
