@@ -2481,14 +2481,14 @@
           "url": "https://github.com/instana/instana-grafana-datasource"
         },
         {
-           "version": "2.2.0",
-           "commit": "7babdbc3c0123bfbe74950ea4abfffa63739433d",
-           "url": "https://github.com/instana/instana-grafana-datasource"
+          "version": "2.2.0",
+          "commit": "7babdbc3c0123bfbe74950ea4abfffa63739433d",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         },
         {
-           "version": "2.2.1",
-           "commit": "2cf6e937b530fa4c49023844ff9f7692067dfe0e",
-           "url": "https://github.com/instana/instana-grafana-datasource"
+          "version": "2.2.1",
+          "commit": "2cf6e937b530fa4c49023844ff9f7692067dfe0e",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -2726,13 +2726,11 @@
           "url": "https://github.com/flant/grafana-statusmap"
         },
         {
-
           "version": "0.1.0",
           "commit": "624be3450dc3025929a1bf0d2f745bbbb393b6b1",
           "url": "https://github.com/flant/grafana-statusmap"
         },
         {
-
           "version": "0.1.1",
           "commit": "742e80d7135271fd01419c96137c1dfd0754d144",
           "url": "https://github.com/flant/grafana-statusmap"
@@ -2888,8 +2886,8 @@
           "url": "https://github.com/xginn8/grafana-pagerduty"
         }
       ]
-     },
-     {
+    },
+    {
       "id": "pr0ps-trackmap-panel",
       "type": "panel",
       "url": "https://github.com/pR0Ps/grafana-trackmap-panel",
@@ -2928,7 +2926,7 @@
           "commit": "2b1ea6fd6e8a37d37ced7f653a470df3a4d9a533",
           "url": "https://github.com/pierosavi/grafana-imageit"
         },
-		    {
+        {
           "version": "0.0.2",
           "commit": "c6d5617c20b8979744d7af1adaebe8933bd065bc",
           "url": "https://github.com/pierosavi/pierosavi-imageit-panel"
@@ -2954,6 +2952,18 @@
           "version": "1.0.0",
           "commit": "04832a08bbb7cfce88746bc1a42dbce8198fdd82",
           "url": "https://github.com/cognitedata/cognite-grafana-datasource"
+        }
+      ]
+    },
+    {
+      "id": "logzio-datasource",
+      "type": "datasource",
+      "url": "https://github.com/logzio/grafana-logzio-datasource",
+      "versions": [
+        {
+          "version": "5.0.0",
+          "commit": "86e1ba70c990c95c393bd3fdf3520dd9a424bf46",
+          "url": "https://github.com/logzio/grafana-logzio-datasource"
         }
       ]
     }
