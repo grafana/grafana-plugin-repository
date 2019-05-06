@@ -2601,6 +2601,18 @@
       ]
     },
     {
+        "id": "yesoreyeram-boomtheme-panel",
+        "type": "panel",
+        "url": "https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel",
+        "versions": [
+          {
+            "version": "0.1.0",
+            "commit": "de365ef21b6c2aa57b44cd722c70145245877846",
+            "url": "https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel"
+          }
+        ]
+      },
+    {
       "id": "smartmakers-trafficlight-panel",
       "type": "panel",
       "url": "https://github.com/smartmakers/grafana-trafficlight",
