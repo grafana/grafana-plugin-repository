@@ -684,10 +684,20 @@
       ]
     },
     {
-      "id": "opennms-helm",
+      "id": "opennms-helm-app",
       "type": "app",
       "url": "https://github.com/OpenNMS/opennms-helm",
       "versions": [
+        {
+          "version": "3.0.1",
+          "commit": "94fc9a3de676b4d993114cff119dec425fa502af",
+          "url": "https://github.com/OpenNMS/opennms-helm"
+        },
+        {
+          "version": "3.0.0",
+          "commit": "e90f79a21bd29ed7b84e4479bc02b3b3e5ad135d",
+          "url": "https://github.com/OpenNMS/opennms-helm"
+        },
         {
           "version": "2.0.0",
           "commit": "1a6f347e19924e9c4e6e02b38b26a7dbbba95e2b",
