@@ -178,6 +178,11 @@
           "version": "1.0.7",
           "commit": "c339b64620ed8492231fe03ec352aba5619b27b1",
           "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "1.0.8",
+          "commit": "1c9d3a08289c77a442e0db7aefa0fe078e1d90b1",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         }
       ]
     },
