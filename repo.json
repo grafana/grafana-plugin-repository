@@ -101,6 +101,11 @@
           "version": "0.2.3",
           "commit": "20e4b74ff0d82020afe2eedcc6b2211bbc9a93e9",
           "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.2.4",
+          "commit": "f19fba7c08cb2214dd8015d96ed3a083028496e9",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
         }
       ]
     },
