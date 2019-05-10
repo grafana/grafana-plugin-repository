@@ -2247,7 +2247,7 @@
           "version": "1.0.2",
           "commit": "dfc33b15a6f3663be7b840197b22b3c2865c9ae5",
           "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
-        }	      
+        }
       ]
     },
     {
@@ -2502,7 +2502,7 @@
         },
         {
            "version": "2.2.3",
-           "commit": "fccdbbec09cbde5842105b1f536fa1cb621b36ce",
+           "commit": "e7fc74183231e672b497b38fc14f0c14800a68d5",
            "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
@@ -2541,7 +2541,7 @@
           "commit": "34713c10ac816b9752c79e43a4b3f630d58e9953",
           "url": "https://github.com/snuids/grafana-radar-panel"
         }
-        
+
       ]
     },
     {
