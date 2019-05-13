@@ -2257,7 +2257,7 @@
           "version": "1.0.2",
           "commit": "dfc33b15a6f3663be7b840197b22b3c2865c9ae5",
           "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
-        }	      
+        }
       ]
     },
     {
@@ -2509,6 +2509,11 @@
            "version": "2.2.2",
            "commit": "353dbc43414b5029a8b9fd98e17f602af7ca00d9",
            "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+           "version": "2.2.3",
+           "commit": "c0a6a51447aa81efe7b57e042b0f9e61cf4cae02",
+           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -2546,7 +2551,6 @@
           "commit": "34713c10ac816b9752c79e43a4b3f630d58e9953",
           "url": "https://github.com/snuids/grafana-radar-panel"
         }
-        
       ]
     },
     {
@@ -2986,7 +2990,7 @@
           "commit": "2b1ea6fd6e8a37d37ced7f653a470df3a4d9a533",
           "url": "https://github.com/pierosavi/grafana-imageit"
         },
-        {
+		    {
           "version": "0.0.2",
           "commit": "c6d5617c20b8979744d7af1adaebe8933bd065bc",
           "url": "https://github.com/pierosavi/pierosavi-imageit-panel"
