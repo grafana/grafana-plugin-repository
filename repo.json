@@ -3040,6 +3040,18 @@
           "url": "https://github.com/logzio/grafana-logzio-datasource"
         }
       ]
+    },
+    {
+      "id": "tencentcloud-monitor-app",
+      "type": "app",
+      "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "fdaefdf45f96d32efc416505c0108c79fcb4478b",
+          "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app"
+        }
+      ]
     }
   ]
 }
