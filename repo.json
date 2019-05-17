@@ -3040,6 +3040,18 @@
           "url": "https://github.com/logzio/grafana-logzio-datasource"
         }
       ]
+    },
+    {
+      "id": "ric-datasource",
+      "type": "datasource",
+      "url": "https://github.com/Rightech/ric-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "3f0f66deb8e84925bfb0d58b9d6bfb1297402157",
+          "url": "https://github.com/Rightech/ric-datasource"
+        }
+      ]
     }
   ]
 }
