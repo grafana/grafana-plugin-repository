@@ -2511,24 +2511,24 @@
           "url": "https://github.com/instana/instana-grafana-datasource"
         },
         {
-           "version": "2.2.1",
-           "commit": "2cf6e937b530fa4c49023844ff9f7692067dfe0e",
-           "url": "https://github.com/instana/instana-grafana-datasource"
+          "version": "2.2.1",
+          "commit": "2cf6e937b530fa4c49023844ff9f7692067dfe0e",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         },
         {
-           "version": "2.2.2",
-           "commit": "353dbc43414b5029a8b9fd98e17f602af7ca00d9",
-           "url": "https://github.com/instana/instana-grafana-datasource"
+          "version": "2.2.2",
+          "commit": "353dbc43414b5029a8b9fd98e17f602af7ca00d9",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         },
         {
-           "version": "2.2.3",
-           "commit": "c0a6a51447aa81efe7b57e042b0f9e61cf4cae02",
-           "url": "https://github.com/instana/instana-grafana-datasource"
+          "version": "2.2.3",
+          "commit": "c0a6a51447aa81efe7b57e042b0f9e61cf4cae02",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         },
         {
-           "version": "2.2.4",
-           "commit": "4b3233935c847bd907a7e6de0f2761cb839616bd",
-           "url": "https://github.com/instana/instana-grafana-datasource"
+          "version": "2.2.4",
+          "commit": "4b3233935c847bd907a7e6de0f2761cb839616bd",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -2553,14 +2553,12 @@
           "version": "1.4.2",
           "commit": "2b145de2255c832256cfc2c2a2322da2fa1edf15",
           "url": "https://github.com/snuids/grafana-radar-panel"
-        }
-        ,
+        },
         {
           "version": "1.4.3",
           "commit": "bbc9761b0ea59f9ed50363dacaa2ece6b8b293b2",
           "url": "https://github.com/snuids/grafana-radar-panel"
-        }
-        ,
+        },
         {
           "version": "1.4.4",
           "commit": "34713c10ac816b9752c79e43a4b3f630d58e9953",
@@ -2635,17 +2633,17 @@
       ]
     },
     {
-        "id": "yesoreyeram-boomtheme-panel",
-        "type": "panel",
-        "url": "https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel",
-        "versions": [
-          {
-            "version": "0.1.0",
-            "commit": "de365ef21b6c2aa57b44cd722c70145245877846",
-            "url": "https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel"
-          }
-        ]
-      },
+      "id": "yesoreyeram-boomtheme-panel",
+      "type": "panel",
+      "url": "https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "de365ef21b6c2aa57b44cd722c70145245877846",
+          "url": "https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel"
+        }
+      ]
+    },
     {
       "id": "smartmakers-trafficlight-panel",
       "type": "panel",
@@ -2862,7 +2860,7 @@
           "commit": "fd1ae0fc23893669518fc1251bb3303552f76345",
           "url": "https://github.com/LucasArona/larona-epict-panel"
         },
-	{
+        {
           "version": "1.2.1",
           "commit": "fd9ada436c4013165dbb115d35543305c017f1cd",
           "url": "https://github.com/LucasArona/larona-epict-panel"
@@ -3005,7 +3003,7 @@
           "commit": "2b1ea6fd6e8a37d37ced7f653a470df3a4d9a533",
           "url": "https://github.com/pierosavi/grafana-imageit"
         },
-		    {
+        {
           "version": "0.0.2",
           "commit": "c6d5617c20b8979744d7af1adaebe8933bd065bc",
           "url": "https://github.com/pierosavi/pierosavi-imageit-panel"
@@ -3043,6 +3041,18 @@
           "version": "5.0.0",
           "commit": "86e1ba70c990c95c393bd3fdf3520dd9a424bf46",
           "url": "https://github.com/logzio/grafana-logzio-datasource"
+        }
+      ]
+    },
+    {
+      "id": "doitintl-bigquery-datasource",
+      "type": "datasource",
+      "url": "https://github.com/doitintl/bigquery-grafana",
+      "versions": [
+        {
+          "version": "0.5.1",
+          "commit": "8a74d87e36ef6dfec58a813850419a368a9361d3",
+          "url": "https://github.com/doitintl/bigquery-grafana "
         }
       ]
     }
