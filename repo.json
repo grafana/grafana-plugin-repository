@@ -2585,7 +2585,12 @@
           "version": "1.4.2",
           "commit": "6819bc321784a842f85990f533181cb36bf51449",
           "url": "https://github.com/snuids/trafficlights-panel"
-        }
+        },
+        {
+          "version": "1.4.6",
+          "commit": "2c404ccf245d40c184e18e06c7e4a1efc0d1cefb",
+          "url": "https://github.com/snuids/trafficlights-panel"
+        }        
       ]
     },
     {
