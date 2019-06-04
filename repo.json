@@ -3066,7 +3066,7 @@
           "url": "https://github.com/plixer/scrutinizer-datasource"
         }
     },
-
+       {
       "id": "doitintl-bigquery-datasource",
       "type": "datasource",
       "url": "https://github.com/doitintl/bigquery-grafana",
