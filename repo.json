@@ -101,6 +101,11 @@
           "version": "0.2.3",
           "commit": "20e4b74ff0d82020afe2eedcc6b2211bbc9a93e9",
           "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
+        },
+        {
+          "version": "0.2.4",
+          "commit": "f19fba7c08cb2214dd8015d96ed3a083028496e9",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot"
         }
       ]
     },
@@ -172,6 +177,11 @@
         {
           "version": "1.0.7",
           "commit": "c339b64620ed8492231fe03ec352aba5619b27b1",
+          "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
+        },
+        {
+          "version": "1.0.8",
+          "commit": "1c9d3a08289c77a442e0db7aefa0fe078e1d90b1",
           "url": "https://github.com/BT-OpenSource/bt-grafana-alarm-box"
         }
       ]
@@ -458,6 +468,11 @@
       "url": "https://github.com/grafana/clock-panel",
       "versions": [
         {
+          "version": "1.0.3",
+          "commit": "bb466d0682d58af659b018748d53c0d3b69a8377",
+          "url": "https://github.com/grafana/clock-panel"
+        },
+        {
           "version": "0.0.8",
           "commit": "28e5d59e3db02952e6394d5327045845742796c4",
           "url": "https://github.com/grafana/clock-panel"
@@ -684,10 +699,20 @@
       ]
     },
     {
-      "id": "opennms-helm",
+      "id": "opennms-helm-app",
       "type": "app",
       "url": "https://github.com/OpenNMS/opennms-helm",
       "versions": [
+        {
+          "version": "3.0.1",
+          "commit": "94fc9a3de676b4d993114cff119dec425fa502af",
+          "url": "https://github.com/OpenNMS/opennms-helm"
+        },
+        {
+          "version": "3.0.0",
+          "commit": "e90f79a21bd29ed7b84e4479bc02b3b3e5ad135d",
+          "url": "https://github.com/OpenNMS/opennms-helm"
+        },
         {
           "version": "2.0.0",
           "commit": "1a6f347e19924e9c4e6e02b38b26a7dbbba95e2b",
@@ -1663,6 +1688,11 @@
       "url": "https://github.com/grafana/kentik-app",
       "versions": [
         {
+          "version": "1.3.4",
+          "commit": "3c8265b155e78c4c90b6e00af208365b4b60e9b0",
+          "url": "https://github.com/grafana/kentik-app"
+        },
+        {
           "version": "1.3.3",
           "commit": "d3d1899ceec4532fd400aaecb19d320901cdcea1",
           "url": "https://github.com/grafana/kentik-app"
@@ -2242,6 +2272,11 @@
           "version": "1.0.0",
           "commit": "542707e504b1461bb6fb70b86c8a637f93724181",
           "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "dfc33b15a6f3663be7b840197b22b3c2865c9ae5",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
         }
       ]
     },
@@ -2486,14 +2521,24 @@
           "url": "https://github.com/instana/instana-grafana-datasource"
         },
         {
-           "version": "2.2.1",
-           "commit": "2cf6e937b530fa4c49023844ff9f7692067dfe0e",
-           "url": "https://github.com/instana/instana-grafana-datasource"
+          "version": "2.2.1",
+          "commit": "2cf6e937b530fa4c49023844ff9f7692067dfe0e",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         },
         {
-           "version": "2.2.2",
-           "commit": "353dbc43414b5029a8b9fd98e17f602af7ca00d9",
-           "url": "https://github.com/instana/instana-grafana-datasource"
+          "version": "2.2.2",
+          "commit": "353dbc43414b5029a8b9fd98e17f602af7ca00d9",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "2.2.3",
+          "commit": "c0a6a51447aa81efe7b57e042b0f9e61cf4cae02",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "2.2.4",
+          "commit": "4b3233935c847bd907a7e6de0f2761cb839616bd",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -2517,6 +2562,16 @@
         {
           "version": "1.4.2",
           "commit": "2b145de2255c832256cfc2c2a2322da2fa1edf15",
+          "url": "https://github.com/snuids/grafana-radar-panel"
+        },
+        {
+          "version": "1.4.3",
+          "commit": "bbc9761b0ea59f9ed50363dacaa2ece6b8b293b2",
+          "url": "https://github.com/snuids/grafana-radar-panel"
+        },
+        {
+          "version": "1.4.4",
+          "commit": "34713c10ac816b9752c79e43a4b3f630d58e9953",
           "url": "https://github.com/snuids/grafana-radar-panel"
         }
       ]
@@ -2584,6 +2639,18 @@
           "version": "1.0.0",
           "commit": "e85e1f8ff53c25594713c991c2728a6c943fdc7b",
           "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
+        }
+      ]
+    },
+    {
+      "id": "yesoreyeram-boomtheme-panel",
+      "type": "panel",
+      "url": "https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "de365ef21b6c2aa57b44cd722c70145245877846",
+          "url": "https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel"
         }
       ]
     },
@@ -2802,6 +2869,11 @@
           "version": "1.2.0",
           "commit": "fd1ae0fc23893669518fc1251bb3303552f76345",
           "url": "https://github.com/LucasArona/larona-epict-panel"
+        },
+        {
+          "version": "1.2.1",
+          "commit": "fd9ada436c4013165dbb115d35543305c017f1cd",
+          "url": "https://github.com/LucasArona/larona-epict-panel"
         }
       ]
     },
@@ -2983,6 +3055,7 @@
       ]
     },
     {
+
       "id": "scrutinizer-datasource",
       "type":"datasource",
       "url": "https://github.com/plixer/scrutinizer-datasource",
@@ -2991,6 +3064,18 @@
           "version":"1.0.0",
           "commit":"452f8d1ea986e7de1bbb1dc54f1bf8ccd49dc62c",
           "url": "https://github.com/plixer/scrutinizer-datasource"
+        }
+    },
+
+      "id": "doitintl-bigquery-datasource",
+      "type": "datasource",
+      "url": "https://github.com/doitintl/bigquery-grafana",
+      "versions": [
+        {
+          "version": "0.5.1",
+          "commit": "8a74d87e36ef6dfec58a813850419a368a9361d3",
+          "url": "https://github.com/doitintl/bigquery-grafana "
+
         }
       ]
     }
