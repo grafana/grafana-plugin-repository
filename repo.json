@@ -3065,6 +3065,7 @@
           "commit":"452f8d1ea986e7de1bbb1dc54f1bf8ccd49dc62c",
           "url": "https://github.com/plixer/scrutinizer-datasource"
         }
+      ]
     },
        {
       "id": "doitintl-bigquery-datasource",
