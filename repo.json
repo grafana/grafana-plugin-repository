@@ -2298,8 +2298,8 @@
       "url": "https://github.com/skydive-project/skydive-grafana-datasource",
       "versions": [
         {
-          "version": "1.0.1",
-          "commit": "d490fe95ba6903d0b0fb3957812522fe35503408",
+          "version": "1.2.0",
+          "commit": "bdfa03eda0d55067d89d8ba2a12344249ecebb97",
           "url": "https://github.com/skydive-project/skydive-grafana-datasource"
         }
       ]
