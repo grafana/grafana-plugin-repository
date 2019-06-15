@@ -2544,6 +2544,11 @@
           "version": "2.2.4",
           "commit": "4b3233935c847bd907a7e6de0f2761cb839616bd",
           "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "2.3.0",
+          "commit": "3dd372c469835ad2637c3ada51d66f16743da997",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -2595,7 +2600,7 @@
           "version": "1.4.6",
           "commit": "2c404ccf245d40c184e18e06c7e4a1efc0d1cefb",
           "url": "https://github.com/snuids/trafficlights-panel"
-        }        
+        }
       ]
     },
     {
