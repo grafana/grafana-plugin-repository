@@ -2398,6 +2398,11 @@
           "version": "0.1.1",
           "commit": "cd4f1b1cbe6eb1f1ebad4d3d0df45c58c29ae866",
           "url": "https://github.com/CorpGlory/grafana-progress-list"
+        },
+        {
+          "version": "1.0.4",
+          "commit": "5b46bfb30c3de7c14b72d8f5fb0b50f6790a78e0",
+          "url": "https://github.com/CorpGlory/grafana-progress-list"
         }
       ]
     },
