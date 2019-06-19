@@ -3155,6 +3155,18 @@
           "url": "https://github.com/paytm/kapacitor-grafana-datasource-plugin"
         }
       ]
+    },
+    {
+      "id": "quasardb-datasource",
+      "type": "datasource",
+      "url": "https://github.com/bureau14/qdb-grafana-plugin",
+      "versions": [
+        {
+          "version": "3.4.0",
+          "commit": "c09ae27da40afde326711e615ef5648bda427571",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        }
+      ]
     }
   ]
 }
