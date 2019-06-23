@@ -2704,6 +2704,11 @@
       "url": "https://github.com/GoshPosh/grafana-meta-queries",
       "versions": [
         {
+          "version": "0.0.2",
+          "commit": "34e0837fb9fc24e0f8a4865a20d7bd7ee19da32e",
+          "url": "https://github.com/GoshPosh/grafana-meta-queries"
+        },
+        {
           "version": "0.0.1",
           "commit": "476f41125af094cd63034e4b8bbaf8007bf82211",
           "url": "https://github.com/GoshPosh/grafana-meta-queries"
