@@ -2774,6 +2774,18 @@
       ]
     },
     {
+      "id": "linksmart-hds-datasource",
+      "type": "datasource",
+      "url": "https://github.com/linksmart/grafana-hds-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "9cb2c740e78d1b09b7e920271689281fd52916f7",
+          "url": "https://github.com/linksmart/grafana-hds-datasource"
+        }
+      ]
+    },
+    {
       "id": "andig-darksky-datasource",
       "type": "datasource",
       "url": "https://github.com/andig/grafana-darksky",
