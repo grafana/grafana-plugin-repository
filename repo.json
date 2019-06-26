@@ -3115,6 +3115,18 @@
           "url": "https://github.com/doitintl/bigquery-grafana"
         }
       ]
+    },
+    {
+      "id": "kapacitor-grafana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/paytm/kapacitor-grafana-datasource-plugin",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "0cb9a015a5e934f682d5d2016cb23da09b4c87cb",
+          "url": "https://github.com/paytm/kapacitor-grafana-datasource-plugin"
+        }
+      ]
     }
   ]
 }
