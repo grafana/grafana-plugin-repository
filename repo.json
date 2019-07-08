@@ -3137,6 +3137,18 @@
           "url": "https://github.com/doitintl/bigquery-grafana"
         }
       ]
+    },
+    {
+      "id": "griddb-datasource",
+      "type": "datasource",
+      "url": "https://github.com/griddb/griddb-datasource",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "commit": "d88be040383396c1e075ef43190c81a3a1c227f6",
+          "url": "https://github.com/griddb/griddb-datasource"
+        }
+      ]
     }
   ]
 }
