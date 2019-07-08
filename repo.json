@@ -3153,5 +3153,7 @@
           "commit": "3254e11c746a19a3bbed47e09692c0d427143df5",
           "url": "https://github.com/tribe29/grafana-checkmk-datasource"
         }
+      ]
+    }
   ]
 }
