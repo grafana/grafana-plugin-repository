@@ -643,37 +643,15 @@
       ]
     },
     {
-      "id": "dlopes7-appdynamics-datasource",
-      "type": "datasource",
-      "url": "https://github.com/grafana/appdynamics-grafana-datasource",
-      "versions": [
-        {
-          "version": "1.2.1",
-          "commit": "00625dd09367a3591992e288de31b95b6116008f",
-          "url": "https://github.com/grafana/appdynamics-grafana-datasource"
-        },
-        {
-          "version": "1.1.1",
-          "commit": "fdf8d2438ca44c51ec0b8af2f19f5ce226316b2e",
-          "url": "https://github.com/grafana/appdynamics-grafana-datasource"
-        },
-        {
-          "version": "1.1.0",
-          "commit": "331c00a5aed6e66b54071ff7a297b5ec4cca3244",
-          "url": "https://github.com/grafana/appdynamics-grafana-datasource"
-        },
-        {
-          "version": "1.0.4",
-          "commit": "b611c709414677a47a3bd1da372c7d986e8cf859",
-          "url": "https://github.com/grafana/appdynamics-grafana-datasource"
-        }
-      ]
-    },
-    {
       "id": "grafana-simple-json-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/simple-json-datasource",
       "versions": [
+        {
+          "version": "1.4.0",
+          "commit": "69e5ba882fc920ed3da0484b1c9992a65732a385",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
         {
           "version": "1.3.2",
           "commit": "b46d6bd9168f1046fe22ece4b459564556f76d1f",
@@ -1869,6 +1847,11 @@
         {
           "version": "0.0.8",
           "commit": "6330e72cc47fff39a1d8676e358d3b4c586842ac",
+          "url": "https://github.com/raintank/kubernetes-app"
+        },
+        {
+          "version": "0.0.9",
+          "commit": "4d4b932f2ed19763d7077290d57eebd5148ed1f6",
           "url": "https://github.com/raintank/kubernetes-app"
         }
       ]
