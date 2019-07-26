@@ -2664,6 +2664,11 @@
           "version": "1.0.0",
           "commit": "e85e1f8ff53c25594713c991c2728a6c943fdc7b",
           "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
+        },
+        {
+          "version": "1.3.0",
+          "commit": "3c1ad628a193ef15f130e5a0e13c8ca45a93fc60",
+          "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel"
         }
       ]
     },
