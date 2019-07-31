@@ -3153,6 +3153,11 @@
           "version": "0.1.1",
           "commit": "d123146cd3c0e7cc7b3f597c5a899098cffdab6a",
           "url": "https://github.com/paytm/kapacitor-grafana-datasource-plugin"
+        },
+        {
+          "version": "0.1.2",
+          "commit": "033ea3e4182cd92de6ce48e6542d40e868e6553a",
+          "url": "https://github.com/paytm/kapacitor-grafana-datasource-plugin"
         }
       ]
     },
