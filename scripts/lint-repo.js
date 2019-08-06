@@ -6,7 +6,9 @@ const semver = require('semver');
 const chalk = require('chalk');
 const { lintPlugin } = require('./lintPlugin');
 
-async function main() {
+const grafanaSlugPattern = /^(grafana|raintank)-/;
+
+async function main(options) {
   let pluginsRepo;
   try {
     pluginsRepo = getRepo();
@@ -26,6 +28,11 @@ async function main() {
 
   for (const plugin of plugins) {
     let version;
+
+    if (options.skipGrafana && plugin.id.match(grafanaSlugPattern)) {
+      console.log(`Info: skipping plugin ${chalk.blue(plugin.id)}\n`);
+      continue;
+    }
 
     if (!(plugin.versions && plugin.versions.length)) {
       console.log(chalk.yellow(`Warning: plugin ${plugin.id} has no versions`));
@@ -91,4 +98,12 @@ function getRepo() {
   return repo;
 }
 
-main();
+let options = {};
+for (let i = 2; i < process.argv.length; i++) {
+  const arg = process.argv[i];
+  if (arg === '--skip-grafana' || arg === '-s') {
+    options.skipGrafana = true;
+  }
+}
+
+main(options);

@@ -2,6 +2,8 @@ const request = require('request-promise-native');
 const semver = require('semver');
 const { fetchPluginJson } = require('./github/github');
 
+const PLUGIN_ID_PATTERN = /^[a-z0-9]+(-[a-z0-9]+)*-(datasource|app|panel)$/;
+
 async function lintPlugin(url, commit, version, pluginId) {
   const postData = {
     url: url,
@@ -46,6 +48,16 @@ async function lintPlugin(url, commit, version, pluginId) {
       if (semver.gt(publishedVersion, version)) {
         addWarning(`Published version (${publishedVersion}) newer than repo.json (${version})`, result);
       }
+
+      // Check if Org exist for new plugins
+      if (!publishedVersion) {
+        const slug = getOrgSlug(pluginId);
+        try {
+          const org = await getOrg(slug);
+        } catch (error) {
+          addWarning(error, result);
+        }
+      }
     } catch(err) {}
   }
 
@@ -62,6 +74,21 @@ async function lintPlugin(url, commit, version, pluginId) {
       addWarning(`Plugin id in repo.json (${pluginId}) doesn't match plugin.json (${pluginJson.id})`, result);
     }
 
+    if (!pluginJson.id) {
+      addError('No plugin id found in plugin.json', result);
+    }
+
+    // Plugin id rules
+    const validSlug = PLUGIN_ID_PATTERN.test(pluginJson.id);
+    if (!validSlug) {
+      addError(`Invalid plugin id "${pluginJson.id}" found in plugin.json`, result);
+    }
+
+    // Plugin type rules
+    if (pluginJson.type !== 'datasource' && pluginJson.type !== 'panel' && pluginJson.type !== 'app') {
+      addError(`Invalid plugin type - must be one of: datasource, panel or app, got "${pluginJson.type}"`, result);
+    }
+
     const pluginJsonVersion = pluginJson.info.version;
     if (version && (!pluginJsonVersion || pluginJsonVersion !== version)) {
       addWarning(`Version in repo.json (${version}) doesn't match plugin.json (${pluginJsonVersion})`, result);
@@ -72,7 +99,7 @@ async function lintPlugin(url, commit, version, pluginId) {
     }
 
     if (!pluginJson.info.description) {
-      addWarning(`Plugin description isn't in plugin.json`, result);
+      addWarning(`No plugin description provided in plugin.json`, result);
     }
   } catch(err) {
     console.log(`Warning: failed fetching plugin.json. This may be caused by private repo without proper access rights.`);
@@ -94,6 +121,30 @@ async function getPublishedVersion(pluginId) {
     // console.log(err.error || err.message || err);
     throw new Error(`Warning: unable to fetch published plugin ${pluginId}`);
   }
+}
+
+async function getOrg(orgSlug) {
+  try {
+    let result = await request.get(`https://grafana.com/api/orgs/${orgSlug}`);
+    result = JSON.parse(result);
+    return result;
+  } catch(err) {
+    // console.log(err.error || err.message || err);
+    let error = {};
+    try {
+      error = JSON.parse(err.error);
+    } catch(jsonErr) {}
+
+    throw new Error(`Unable to get organization ${orgSlug}, ${error.message || ''}`);
+  }
+}
+
+function getOrgSlug(pluginId) {
+  const result = /^([a-z0-9]+)(-[a-z0-9]+)*-(datasource|app|panel)$/.exec(pluginId);
+  if (result && result.length > 1) {
+    return result[1];
+  }
+  return null;
 }
 
 function addWarning(warning, result) {
