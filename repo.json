@@ -3182,6 +3182,18 @@
           "url": "https://github.com/bureau14/qdb-grafana-plugin"
         }
       ]
+    },
+    {
+      "id": "vertica-grafana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/vertica/vertica-grafana-datasource",
+      "versions": [
+          {
+              "version": "0.1.0",
+              "commit": "fcca658f2df8ff923b817cbec818748ce32ed4a7",
+              "url": "https://github.com/vertica/vertica-grafana-datasource"
+          }
+      ]
     }
   ]
 }
