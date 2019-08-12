@@ -3190,7 +3190,7 @@
       "versions": [
         {
           "version": "1.0.3",
-          "commit": "b48189f861dc121ed33816f6a6a7ee4cfb95d727",
+          "commit": "3d6e5a13ef8b227a2ea0187c811d8e7dc7be1630",
           "url": "https://github.com/rockset/rockset-grafana"
         }
       ]
