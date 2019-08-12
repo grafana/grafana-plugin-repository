@@ -1998,6 +1998,11 @@
           "version": "1.8.1",
           "commit": "bcc1877634476b84c2f7266d05824214415adfd6",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "1.9.0",
+          "commit": "cbbe244dc52f531db31497566342fa4bf4957975",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
     },
