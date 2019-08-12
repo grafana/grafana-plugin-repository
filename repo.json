@@ -3182,6 +3182,18 @@
           "url": "https://github.com/bureau14/qdb-grafana-plugin"
         }
       ]
+    },
+    {
+      "id": "rockset-grafana",
+      "type": "datasource",
+      "url": "https://github.com/rockset/rockset-grafana",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "23e871babf84ecdeab08d23cca8c52d29abf5f7d",
+          "url": "https://github.com/rockset/rockset-grafana"
+        }
+      ]
     }
   ]
 }
