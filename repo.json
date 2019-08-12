@@ -3184,13 +3184,13 @@
       ]
     },
     {
-      "id": "rockset-grafana",
+      "id": "rockset-rockset-datasource",
       "type": "datasource",
       "url": "https://github.com/rockset/rockset-grafana",
       "versions": [
         {
           "version": "1.0.3",
-          "commit": "23e871babf84ecdeab08d23cca8c52d29abf5f7d",
+          "commit": "b48189f861dc121ed33816f6a6a7ee4cfb95d727",
           "url": "https://github.com/rockset/rockset-grafana"
         }
       ]
