@@ -85,7 +85,7 @@ async function lintPlugin(url, commit, version, pluginId) {
     }
 
     // Plugin type rules
-    if (pluginJson.type !== 'datasource' && pluginJson.type !== 'panel' && pluginJson.type !== 'app') {
+    if (!['datasource', 'panel', 'app', 'renderer'].includes(pluginJson.type)) {
       addError(`Invalid plugin type - must be one of: datasource, panel or app, got "${pluginJson.type}"`, result);
     }
 
