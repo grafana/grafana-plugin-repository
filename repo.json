@@ -3183,7 +3183,7 @@
         }
       ]
     },{
-      "id": "devopsprodigy-kubegraf",
+      "id": "devopsprodigy-kubegraf-app",
       "type": "app",
       "url": "https://github.com/devopsprodigy/kubegraf",
       "versions": [
