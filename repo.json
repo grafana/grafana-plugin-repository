@@ -3182,6 +3182,17 @@
           "url": "https://github.com/bureau14/qdb-grafana-plugin"
         }
       ]
+    },{
+      "id": "devopsprodigy-kubegraf",
+      "type": "app",
+      "url": "https://github.com/devopsprodigy/kubegraf",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "231086af424acd1ddb2e10509a3873c5f2d38cc6",
+          "url": "https://github.com/devopsprodigy/kubegraf"
+        }
+      ]
     }
   ]
 }
