@@ -3190,7 +3190,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "cabf35236854944f7105af8cc422d4f275af4e40",
+          "commit": "64b48a44ea58a97c4795f4987c8285c32810fb85",
           "url": "https://github.com/grafana/grafana-image-renderer",
           "download": {
             "darwin-amd64": {
