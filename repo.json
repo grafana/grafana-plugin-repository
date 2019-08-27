@@ -3192,6 +3192,32 @@
           "url": "https://github.com/bureau14/qdb-grafana-plugin"
         }
       ]
+    },
+    {
+      "id": "grafana-image-renderer",
+      "type": "renderer",
+      "url": "https://github.com/grafana/grafana-image-renderer",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "64b48a44ea58a97c4795f4987c8285c32810fb85",
+          "url": "https://github.com/grafana/grafana-image-renderer",
+          "download": {
+            "darwin-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.0/plugin-darwin-x64-unknown.zip",
+              "md5": "92abd577c3ea11f5fb769a854013721a"
+            },
+            "linux-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.0/plugin-linux-x64-glibc.zip",
+              "md5": "fa0ae6d9fbe99b75927cec7fe408eb3f"
+            },
+            "windows-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.0/plugin-win32-x64-unknown.zip",
+              "md5": "842d6c998840abe4b9608c0d5c86af59"
+            }
+          }
+        }
+      ]
     }
   ]
 }
