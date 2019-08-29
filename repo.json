@@ -2795,12 +2795,12 @@
     {
       "id": "linksmart-sensorthings-datasource",
       "type": "datasource",
-      "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource",
+      "url": "https://github.com/linksmart/grafana-sensorthings-datasource",
       "versions": [
         {
-          "version": "1.2.0",
-          "commit": "7d591da79a2efc6c610ce88ad3e337fd80724e4d",
-          "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource"
+          "version": "1.3.0",
+          "commit": "a5412a339b7326c46ef3e8f5b376d576ed3fcb8f",
+          "url": "https://github.com/linksmart/grafana-sensorthings-datasource"
         }
       ]
     },
