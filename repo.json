@@ -3008,6 +3008,11 @@
           "version": "1.0.3",
           "commit": "26156c818036aec8f5da07c858db09f05a7351fe",
           "url": "https://github.com/grafana/grafana-sensu-app"
+        },
+        {
+          "version": "1.0.4",
+          "commit": "f57b98471ed8377370353a42235e28aabffabd10",
+          "url": "https://github.com/grafana/grafana-sensu-app"
         }
       ]
     },
