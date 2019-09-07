@@ -1318,6 +1318,11 @@
       "url": "https://github.com/briangann/grafana-datatable-panel",
       "versions": [
         {
+          "version": "0.0.8",
+          "commit": "319ba1025f51ac5efda2fbe90998fd2ba636ce2c",
+          "url": "https://github.com/briangann/grafana-datatable-panel"
+        },
+        {
           "version": "0.0.7",
           "commit": "c1b64e4e105e23888dabfceee9ebb57841020769",
           "url": "https://github.com/briangann/grafana-datatable-panel"
