@@ -3260,6 +3260,18 @@
           "url": "https://github.com/alexandrainst/alexandra-trackmap-panel"
         }
       ]
+    },
+    {
+      "id": "devopsprodigy-kubegraf-app",
+      "type": "app",
+      "url": "https://github.com/devopsprodigy/kubegraf",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "c60f8057ee8a7da2dfb000aafcceab024086548b",
+          "url": "https://github.com/devopsprodigy/kubegraf"
+        }
+      ]
     }
   ]
 }
