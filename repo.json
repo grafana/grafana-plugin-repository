@@ -3190,7 +3190,7 @@
       "versions": [
           {
               "version": "0.1.0",
-              "commit": "a50085766b90f3c72f2b772f8d74b819bc496344",
+              "commit": "edfa065c9512e76f57c2d4b143ffe25d4ad7589c",
               "url": "https://github.com/vertica/vertica-grafana-datasource"
           }
       ]
