@@ -3291,6 +3291,18 @@
           "url": "https://github.com/devopsprodigy/kubegraf"
         }
       ]
+    },
+    {
+      "id": "oci-datasource",
+      "type": "app",
+      "url": "https://github.com/oracle/oci-grafana-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "785b1cc0a2109f626bd66d7a3bcc453a0d975118",
+          "url": "https://github.com/oracle/oci-grafana-plugin"
+        }
+      ]
     }
   ]
 }
