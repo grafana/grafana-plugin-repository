@@ -1318,6 +1318,16 @@
       "url": "https://github.com/briangann/grafana-datatable-panel",
       "versions": [
         {
+          "version": "0.0.9",
+          "commit": "df54b39f16bb9ba880bd5c5db9e7bf87e6f2af7a",
+          "url": "https://github.com/briangann/grafana-datatable-panel"
+        },
+        {
+          "version": "0.0.8",
+          "commit": "319ba1025f51ac5efda2fbe90998fd2ba636ce2c",
+          "url": "https://github.com/briangann/grafana-datatable-panel"
+        },
+        {
           "version": "0.0.7",
           "commit": "c1b64e4e105e23888dabfceee9ebb57841020769",
           "url": "https://github.com/briangann/grafana-datatable-panel"
@@ -1467,6 +1477,11 @@
       "type": "panel",
       "url": "https://github.com/ryantxu/ajax-panel",
       "versions": [
+        {
+          "version": "0.0.7",
+          "commit": "d3605f9dca18d8b4d6a7bc03153d98533eaa61e5",
+          "url": "https://github.com/ryantxu/ajax-panel"
+        },
         {
           "version": "0.0.6",
           "commit": "f22be91fdba852c92ddca034ed54f185e9fc93c8",
@@ -1997,6 +2012,11 @@
         {
           "version": "1.8.1",
           "commit": "bcc1877634476b84c2f7266d05824214415adfd6",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "1.9.0",
+          "commit": "cbbe244dc52f531db31497566342fa4bf4957975",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
@@ -2565,6 +2585,11 @@
           "version": "2.3.1",
           "commit": "d99cb129122fbaaf291f378ebbd42a3120d0fe2e",
           "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "2.4.0",
+          "commit": "838fd594c514f5a08932041d66e1c20f3f3c68b6",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -2720,6 +2745,11 @@
       "url": "https://github.com/GoshPosh/grafana-meta-queries",
       "versions": [
         {
+          "version": "0.0.3",
+          "commit": "cae59ffef31ca83fa0973c04ecec5d4420ba6205",
+          "url": "https://github.com/GoshPosh/grafana-meta-queries"
+        },
+        {
           "version": "0.0.2",
           "commit": "34e0837fb9fc24e0f8a4865a20d7bd7ee19da32e",
           "url": "https://github.com/GoshPosh/grafana-meta-queries"
@@ -2780,12 +2810,17 @@
     {
       "id": "linksmart-sensorthings-datasource",
       "type": "datasource",
-      "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource",
+      "url": "https://github.com/linksmart/grafana-sensorthings-datasource",
       "versions": [
         {
           "version": "1.2.0",
           "commit": "7d591da79a2efc6c610ce88ad3e337fd80724e4d",
           "url": "https://github.com/farshidtz/linksmart-sensorthings-datasource"
+        },
+        {
+          "version": "1.3.0",
+          "commit": "a5412a339b7326c46ef3e8f5b376d576ed3fcb8f",
+          "url": "https://github.com/linksmart/grafana-sensorthings-datasource"
         }
       ]
     },
@@ -2988,6 +3023,16 @@
           "version": "1.0.3",
           "commit": "26156c818036aec8f5da07c858db09f05a7351fe",
           "url": "https://github.com/grafana/grafana-sensu-app"
+        },
+        {
+          "version": "1.0.4",
+          "commit": "f57b98471ed8377370353a42235e28aabffabd10",
+          "url": "https://github.com/grafana/grafana-sensu-app"
+        },
+        {
+          "version": "1.0.5",
+          "commit": "7bfa7c8076d54793f4f6ba1526aafb1f68805cba",
+          "url": "https://github.com/grafana/grafana-sensu-app"
         }
       ]
     },
@@ -3063,7 +3108,12 @@
           "version": "0.3.0",
           "commit": "a7cf5aef184759aebfc56dad916bdaacfe11b1c4",
           "url": "https://github.com/algenty/grafana-flowcharting"
-        }
+        },
+        {
+          "version": "0.4.0",
+          "commit": "564b3e44362452582df764c6de5fceb4730fd741",
+          "url": "https://github.com/algenty/grafana-flowcharting"
+        }        
       ]
     },
     {
@@ -3151,6 +3201,11 @@
           "version": "1.0.1",
           "commit": "44f3ca718c8d9d01fc13a15e51ef36b568088fec",
           "url": "https://github.com/doitintl/bigquery-grafana"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "d41609738582c4600c441fce3ce1667c28193937",
+          "url": "https://github.com/doitintl/bigquery-grafana"
         }
       ]
     },
@@ -3184,15 +3239,107 @@
       ]
     },
     {
+
+      "id": "grafana-image-renderer",
+      "type": "renderer",
+      "url": "https://github.com/grafana/grafana-image-renderer",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "64b48a44ea58a97c4795f4987c8285c32810fb85",
+          "url": "https://github.com/grafana/grafana-image-renderer",
+          "download": {
+            "darwin-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.0/plugin-darwin-x64-unknown.zip",
+              "md5": "92abd577c3ea11f5fb769a854013721a"
+            },
+            "linux-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.0/plugin-linux-x64-glibc.zip",
+              "md5": "fa0ae6d9fbe99b75927cec7fe408eb3f"
+            },
+            "windows-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.0/plugin-win32-x64-unknown.zip",
+              "md5": "842d6c998840abe4b9608c0d5c86af59"
+            }
+          }
+        },
+        {
+          "version": "1.0.5",
+          "commit": "028008e4faa6a44e081e9880a5e43d75b5629142",
+          "url": "https://github.com/grafana/grafana-image-renderer",
+          "download": {
+            "darwin-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.5/plugin-darwin-x64-unknown.zip",
+              "md5": "ffbd19a53649b2cc25d1123316037775"
+            },
+            "linux-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.5/plugin-linux-x64-glibc.zip",
+              "md5": "2d8b946e6d203286d0908a0da04d4b58"
+            },
+            "windows-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v1.0.5/plugin-win32-x64-unknown.zip",
+              "md5": "e3381cb73b0c780cc6db2b9b9575ae50"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "alexandra-trackmap-panel",
+      "type": "panel",
+      "url": "https://github.com/alexandrainst/alexandra-trackmap-panel",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "commit": "b383485053bcedcf18ab75be1b04a995e7b9c464",
+          "url": "https://github.com/alexandrainst/alexandra-trackmap-panel"
+        }
+      ]
+    },
+    {
+      "id": "devopsprodigy-kubegraf-app",
+      "type": "app",
+      "url": "https://github.com/devopsprodigy/kubegraf",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "c60f8057ee8a7da2dfb000aafcceab024086548b",
+          "url": "https://github.com/devopsprodigy/kubegraf"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "219cbc428f8543a97ffc6ca2bc8e18ccf4334638",
+          "url": "https://github.com/devopsprodigy/kubegraf"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "ca5b728397b662c677740812b46dd590b00fb908",
+          "url": "https://github.com/devopsprodigy/kubegraf"
+        }
+      ]
+    },
+    {
+      "id": "oci-datasource",
+      "type": "app",
+      "url": "https://github.com/oracle/oci-grafana-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "785b1cc0a2109f626bd66d7a3bcc453a0d975118",
+          "url": "https://github.com/oracle/oci-grafana-plugin"
+        }
+      ]
+    },
+    {
       "id": "vertica-grafana-datasource",
       "type": "datasource",
       "url": "https://github.com/vertica/vertica-grafana-datasource",
       "versions": [
-          {
-              "version": "0.1.0",
-              "commit": "edfa065c9512e76f57c2d4b143ffe25d4ad7589c",
-              "url": "https://github.com/vertica/vertica-grafana-datasource"
-          }
+        {
+          "version": "0.1.0",
+          "commit": "edfa065c9512e76f57c2d4b143ffe25d4ad7589c",
+          "url": "https://github.com/vertica/vertica-grafana-datasource"
+        }
       ]
     }
   ]
