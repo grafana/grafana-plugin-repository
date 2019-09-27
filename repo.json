@@ -3108,7 +3108,12 @@
           "version": "0.3.0",
           "commit": "a7cf5aef184759aebfc56dad916bdaacfe11b1c4",
           "url": "https://github.com/algenty/grafana-flowcharting"
-        }
+        },
+        {
+          "version": "0.4.0",
+          "commit": "564b3e44362452582df764c6de5fceb4730fd741",
+          "url": "https://github.com/algenty/grafana-flowcharting"
+        }        
       ]
     },
     {
