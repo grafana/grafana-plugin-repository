@@ -2156,7 +2156,7 @@
       "url": "https://github.com/netxms/grafana",
       "versions": [
         {
-          "version": "1.2.0",
+          "version": "1.2.1",
           "commit": "50e006c1ec8959bb0a3822bf10a42554a6a0e2ee",
           "url": "https://github.com/netxms/grafana"
         },
