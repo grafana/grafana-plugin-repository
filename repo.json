@@ -2590,6 +2590,11 @@
           "version": "2.4.0",
           "commit": "838fd594c514f5a08932041d66e1c20f3f3c68b6",
           "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "2.4.1",
+          "commit": "fb0a773e1a73c218dd59da11285b9c63f40928ff",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -3113,7 +3118,7 @@
           "version": "0.4.0",
           "commit": "564b3e44362452582df764c6de5fceb4730fd741",
           "url": "https://github.com/algenty/grafana-flowcharting"
-        }        
+        }
       ]
     },
     {
