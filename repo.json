@@ -2025,11 +2025,6 @@
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
         },
         {
-          "version": "1.9.2",
-          "commit": "582306a3e5e294a56e665f1e7a04692c47ecd8ed",
-          "url": "https://github.com/Vertamedia/clickhouse-grafana"
-        },
-        {
           "version": "1.9.3",
           "commit": "995b21bea651d2afbe8eea33b38dbe457349931d",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
