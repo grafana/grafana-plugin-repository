@@ -827,7 +827,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "62b7240c35f7d0a45cd036641ffb3c4bf854aa87",
+          "commit": "ae86e1ae9fc4f4d550e3ee9357d3ec9d34554270",
           "url": "https://github.com/spotify/heroic-grafana-datasource"
         }
       ]
