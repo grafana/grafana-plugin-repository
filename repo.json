@@ -1911,6 +1911,18 @@
       ]
     },
     {
+      "id": "cloudeye-grafana",
+      "type": "datasource",
+      "url": "https://github.com/huaweicloud/cloudeye-grafana",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "ab57cf5b0190f47f56e1cf821fc85804743f0985",
+          "url": "https://github.com/huaweicloud/cloudeye-grafana"
+        }
+      ]
+    },
+    {
       "id": "cloudflare-app",
       "type": "app",
       "url": "https://github.com/cloudflare/cloudflare-grafana-app",
