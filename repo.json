@@ -1917,7 +1917,7 @@
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "ab57cf5b0190f47f56e1cf821fc85804743f0985",
+          "commit": "90170c9338bc56d96c152f5032a80ac6f93a15ca",
           "url": "https://github.com/huaweicloud/cloudeye-grafana"
         }
       ]
