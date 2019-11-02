@@ -53,7 +53,9 @@
       ]
     },
     {
-      "id": "btplc-status-dot-panel",
+      "id": "btplc-status-dot-
+      
+      ",
       "type": "panel",
       "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot",
       "versions": [
@@ -3428,6 +3430,18 @@
           "version": "1.0.4",
           "commit": "5756b415325ff2798b1ef6cd8b8bc3ec969bef70",
           "url": "https://github.com/rockset/rockset-grafana"
+        }
+      ]
+    },
+    {
+      "id": "jean-baptiste-watenberg-percent-panel",
+      "type": "panel",
+      "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "75779d0e5a4ffbe1aa331c551e450ef1f0f6b663",
+          "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus"
         }
       ]
     }
