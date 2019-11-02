@@ -3434,13 +3434,13 @@
       ]
     },
     {
-      "id": "jean-baptiste-watenberg-percent-panel",
+      "id": "JeanBaptisteWATENBERG-percent-panel",
       "type": "panel",
       "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus",
       "versions": [
         {
-          "version": "1.0.1",
-          "commit": "75779d0e5a4ffbe1aa331c551e450ef1f0f6b663",
+          "version": "1.0.2",
+          "commit": "a62a09de938f971a3595cab50e8ca3ad7e0ad416",
           "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus"
         }
       ]
