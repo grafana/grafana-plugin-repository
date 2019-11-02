@@ -53,9 +53,7 @@
       ]
     },
     {
-      "id": "btplc-status-dot-
-      
-      ",
+      "id": "btplc-status-dot-panel",
       "type": "panel",
       "url": "https://github.com/BT-OpenSource/bt-grafana-status-dot",
       "versions": [
