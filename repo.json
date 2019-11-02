@@ -3433,7 +3433,7 @@
     },
     {
       "id": "JeanBaptisteWATENBERG-percent-panel",
-      "type": "panel",
+      "type": "panel"
       "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus",
       "versions": [
         {
