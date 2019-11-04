@@ -3400,6 +3400,18 @@
           "url": "https://github.com/rockset/rockset-grafana"
         }
       ]
+    },
+    {
+      "id": "foora-api-datasource",
+      "type": "datasource",
+      "url": "https://github.com/foora/grafana-api-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "1e7d18d859048c3e942029a2766475b8c112c3b4",
+          "url": "https://github.com/foora/grafana-api-datasource"
+        }
+      ]
     }
   ]
 }
