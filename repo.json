@@ -1911,18 +1911,6 @@
       ]
     },
     {
-      "id": "cloudeye-grafana",
-      "type": "datasource",
-      "url": "https://github.com/huaweicloud/cloudeye-grafana",
-      "versions": [
-        {
-          "version": "0.0.1",
-          "commit": "90170c9338bc56d96c152f5032a80ac6f93a15ca",
-          "url": "https://github.com/huaweicloud/cloudeye-grafana"
-        }
-      ]
-    },
-    {
       "id": "cloudflare-app",
       "type": "app",
       "url": "https://github.com/cloudflare/cloudflare-grafana-app",
@@ -3410,6 +3398,18 @@
           "version": "1.0.4",
           "commit": "5756b415325ff2798b1ef6cd8b8bc3ec969bef70",
           "url": "https://github.com/rockset/rockset-grafana"
+        }
+      ]
+    },
+    {
+      "id": "cloudeye-grafana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/huaweicloud/cloudeye-grafana",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "90170c9338bc56d96c152f5032a80ac6f93a15ca",
+          "url": "https://github.com/huaweicloud/cloudeye-grafana"
         }
       ]
     }
