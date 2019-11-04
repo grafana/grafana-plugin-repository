@@ -3408,7 +3408,7 @@
       "versions": [
         {
           "version": "1.0.1",
-          "commit": "1e7d18d859048c3e942029a2766475b8c112c3b4",
+          "commit": "a8a3139cb21f57e03eb84abab2dc9c0efbb175b5",
           "url": "https://github.com/foora/grafana-api-datasource"
         }
       ]
