@@ -3090,6 +3090,11 @@
           "version": "1.0.1",
           "commit": "ac51829a66327992b53b3737afae74b65759f8bc",
           "url": "https://github.com/farski/blendstat-grafana"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "d53bf7cb069793d6a051897efd83ae84e3b01d2b",
+          "url": "https://github.com/farski/blendstat-grafana"
         }
       ]
     },
