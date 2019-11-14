@@ -3,7 +3,7 @@ const semver = require('semver');
 const { fetchPluginJson } = require('./github/github');
 
 const PLUGIN_TYPES = ['datasource', 'panel', 'app', 'renderer'];
-const PLUGIN_ID_PATTERN = new RegExp(`^[A-Za-z0-9]+(-[A-Za-z0-9]+)*-(${PLUGIN_TYPES.join('|')})$`);
+const PLUGIN_ID_PATTERN = new RegExp(`^[A-Za-z0-9]+(-[a-z0-9]+)*-(${PLUGIN_TYPES.join('|')})$`);
 
 async function lintPlugin(url, commit, version, pluginId) {
   const postData = {
@@ -142,7 +142,7 @@ async function getOrg(orgSlug) {
 }
 
 function getOrgSlug(pluginId) {
-  const result = /^([a-z0-9]+)(-[a-z0-9]+)*-(datasource|app|panel)$/.exec(pluginId);
+  const result = /^([A-Za-z0-9]+)(-[a-z0-9]+)*-(datasource|app|panel)$/.exec(pluginId);
   if (result && result.length > 1) {
     return result[1];
   }
