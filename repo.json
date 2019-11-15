@@ -3437,8 +3437,8 @@
       "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus",
       "versions": [
         {
-          "version": "1.0.2",
-          "commit": "a62a09de938f971a3595cab50e8ca3ad7e0ad416",
+          "version": "1.0.5",
+          "commit": "2f0e7f6938ff07cc6f34b7f80669e95b60ac2182",
           "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus"
         }
       ]
