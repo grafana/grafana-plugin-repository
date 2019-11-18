@@ -3404,6 +3404,11 @@
           "version": "1.1.1",
           "commit": "4106da4f02e73a5a7fb62d1fd5177c37cbb46f81",
           "url": "https://github.com/devopsprodigy/kubegraf"
+        },
+        {
+          "version": "1.2.0",
+          "commit": "d941bd3361dd72ef1f363e5b7df6a5810b6f4d7c",
+          "url": "https://github.com/devopsprodigy/kubegraf"
         }
       ]
     },
