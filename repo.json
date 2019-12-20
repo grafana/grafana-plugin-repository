@@ -3500,6 +3500,18 @@
       ]
     },
     {
+      "id": "macropower-analytics-panel",
+      "type": "panel",
+      "url": "https://github.com/MacroPower/macropower-analytics-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "cf24374926a0ec2cbd63d87898a17532639185d0",
+          "url": "https://github.com/MacroPower/macropower-analytics-panel"
+        }
+      ]
+    },
+    {
       "id": "jeanbaptistewatenberg-percent-panel",
       "type": "panel",
       "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus",
