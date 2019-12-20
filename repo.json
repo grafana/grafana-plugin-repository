@@ -2118,6 +2118,11 @@
       "url": "https://github.com/digiapulssi/grafana-organisations-panel",
       "versions": [
         {
+          "version": "1.2.0",
+          "commit": "869b8c66a9ecb0c4193cfe523daebadd6b3c7051",
+          "url": "https://github.com/digiapulssi/grafana-organisations-panel"
+        },
+        {
           "version": "1.1.0",
           "commit": "7125b2d3be2db83f894b8012397dccdd847720c9",
           "url": "https://github.com/digiapulssi/grafana-organisations-panel"
