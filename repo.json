@@ -685,6 +685,11 @@
       "url": "https://github.com/OpenNMS/opennms-helm",
       "versions": [
         {
+          "version": "4.0.2",
+          "commit": "11369b625c7e6e0eaf715119d0e8c11ade58ef3b",
+          "url": "https://github.com/OpenNMS/opennms-helm"
+        },
+        {
           "version": "4.0.1",
           "commit": "affef3c282132895de9f721f1908c95e25dd300f",
           "url": "https://github.com/OpenNMS/opennms-helm"
@@ -2113,6 +2118,11 @@
       "url": "https://github.com/digiapulssi/grafana-organisations-panel",
       "versions": [
         {
+          "version": "1.2.0",
+          "commit": "869b8c66a9ecb0c4193cfe523daebadd6b3c7051",
+          "url": "https://github.com/digiapulssi/grafana-organisations-panel"
+        },
+        {
           "version": "1.1.0",
           "commit": "7125b2d3be2db83f894b8012397dccdd847720c9",
           "url": "https://github.com/digiapulssi/grafana-organisations-panel"
@@ -2459,6 +2469,11 @@
           "version": "1.0.4",
           "commit": "5b46bfb30c3de7c14b72d8f5fb0b50f6790a78e0",
           "url": "https://github.com/CorpGlory/grafana-progress-list"
+        },
+        {
+          "version": "1.0.5",
+          "commit": "79290de8335ded71245daa52aa2b345dbaaf687a",
+          "url": "https://github.com/CorpGlory/grafana-progress-list"
         }
       ]
     },
@@ -2492,6 +2507,11 @@
         {
           "version": "0.3.0",
           "commit": "56d2a0fb2b25f36bf55cfa24baae0fa8c5636dea",
+          "url": "https://github.com/MarcusCalidus/marcuscalidus-svg-panel"
+        },
+        {
+          "version": "0.3.3",
+          "commit": "c1240ea7216bd820567750eb92d0be43dae3caae",
           "url": "https://github.com/MarcusCalidus/marcuscalidus-svg-panel"
         }
       ]
@@ -2791,6 +2811,11 @@
           "version": "1.3.9",
           "commit": "dd2f43e0eb54bb86110243691d87eb0e0c3e7e3b",
           "url": "https://github.com/akumuli/akumuli-datasource"
+        },
+        {
+          "version": "1.3.10",
+          "commit": "c346302575d2a41b5c408f4c91747b08e4f0d7c9",
+          "url": "https://github.com/akumuli/akumuli-datasource"
         }
       ]
     },
@@ -2932,6 +2957,11 @@
           "version": "0.1.5",
           "commit": "bf9fc6bced0f28e44860da8e93b12d39879b6bd8",
           "url": "https://github.com/simPod/grafana-json-datasource"
+        },
+        {
+          "version": "0.1.6",
+          "commit": "60305041ed26a73f46c6b581b3bb28aa07a75201",
+          "url": "https://github.com/simPod/grafana-json-datasource"
         }
       ]
     },
@@ -2941,18 +2971,13 @@
       "url": "https://github.com/flant/grafana-statusmap",
       "versions": [
         {
-          "version": "0.0.4",
-          "commit": "e1abad408e71cef5b92ef9ab5fbc0bd0503cd22e",
-          "url": "https://github.com/flant/grafana-statusmap"
-        },
-        {
-          "version": "0.1.0",
-          "commit": "624be3450dc3025929a1bf0d2f745bbbb393b6b1",
-          "url": "https://github.com/flant/grafana-statusmap"
-        },
-        {
           "version": "0.1.1",
           "commit": "742e80d7135271fd01419c96137c1dfd0754d144",
+          "url": "https://github.com/flant/grafana-statusmap"
+        },
+        {
+          "version": "0.2.0",
+          "commit": "1e7ef33b67eafedd24bbc42b9bb5a2c18338f16e",
           "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
@@ -3335,6 +3360,11 @@
           "version": "3.4.0",
           "commit": "c09ae27da40afde326711e615ef5648bda427571",
           "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.5.0",
+          "commit": "28b492ccbbda8e6bccd51465a0f22b4cd4b216d6",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
         }
       ]
     },
@@ -3427,8 +3457,8 @@
       "url": "https://github.com/alexandrainst/alexandra-trackmap-panel",
       "versions": [
         {
-          "version": "1.2.0",
-          "commit": "b383485053bcedcf18ab75be1b04a995e7b9c464",
+          "version": "1.2.3",
+          "commit": "d192a2b2a2f230e7bf8afa3248c3e86ca9a8388c",
           "url": "https://github.com/alexandrainst/alexandra-trackmap-panel"
         }
       ]
@@ -3485,6 +3515,7 @@
       ]
     },
     {
+
       "id": "opfa-category-heatmap-panel",
       "type": "panel",
       "url": "https://github.com/optionfactory/category-heatmap",
@@ -3500,6 +3531,30 @@
             "url": "https://github.com/optionfactory/category-heatmap"
         }
 
+      ]
+    },
+    {
+      "id": "macropower-analytics-panel",
+      "type": "panel",
+      "url": "https://github.com/MacroPower/macropower-analytics-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "cf24374926a0ec2cbd63d87898a17532639185d0",
+          "url": "https://github.com/MacroPower/macropower-analytics-panel"
+        }
+      ]
+    },
+    {
+      "id": "jeanbaptistewatenberg-percent-panel",
+      "type": "panel",
+      "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus",
+      "versions": [
+        {
+          "version": "1.0.6",
+          "commit": "9e2785ea49c3f28092853a095d21400b50bd8280",
+          "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus"
+        }
       ]
     }
   ]
