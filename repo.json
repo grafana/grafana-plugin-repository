@@ -2503,6 +2503,11 @@
           "version": "0.3.0",
           "commit": "56d2a0fb2b25f36bf55cfa24baae0fa8c5636dea",
           "url": "https://github.com/MarcusCalidus/marcuscalidus-svg-panel"
+        },
+        {
+          "version": "0.3.3",
+          "commit": "c1240ea7216bd820567750eb92d0be43dae3caae",
+          "url": "https://github.com/MarcusCalidus/marcuscalidus-svg-panel"
         }
       ]
     },
