@@ -848,13 +848,13 @@
       ]
     },
     {
-      "id": "heroic-grafana-datasource",
+      "id": "spotify-heroic-datasource",
       "type": "datasource",
       "url": "https://github.com/spotify/heroic-grafana-datasource",
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "afb9853e41e81a906b543680603aaabe11a0e557",
+          "commit": "fb557abb3b8c411000400c5aff9ec0d7423fdd32",
           "url": "https://github.com/spotify/heroic-grafana-datasource"
         }
       ]
