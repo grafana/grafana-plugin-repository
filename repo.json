@@ -836,6 +836,18 @@
       ]
     },
     {
+      "id": "spotify-heroic-datasource",
+      "type": "datasource",
+      "url": "https://github.com/spotify/heroic-grafana-datasource",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "fb557abb3b8c411000400c5aff9ec0d7423fdd32",
+          "url": "https://github.com/spotify/heroic-grafana-datasource"
+        }
+      ]
+    },
+    {
       "id": "udoprog-heroic-datasource",
       "type": "datasource",
       "url": "https://github.com/udoprog/udoprog-heroic-datasource",
