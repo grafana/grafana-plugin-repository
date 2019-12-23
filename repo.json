@@ -3552,9 +3552,9 @@
       "url": "https://github.com/optionfactory/category-heatmap",
       "versions": [
         {
-            "version": "1.0.3",
-            "commit": "2f03b78e969cbe02cb95e331cb01f964f265b54e",
-            "url": "https://github.com/optionfactory/category-heatmap"
+          "version": "1.0.3",
+          "commit": "2f03b78e969cbe02cb95e331cb01f964f265b54e",
+          "url": "https://github.com/optionfactory/category-heatmap"
         }
       ]
     },
@@ -3593,18 +3593,6 @@
           "url": "https://github.com/vertica/vertica-grafana-datasource"
         }
 
-      ]
-    },
-    {
-      "id": "opfa-category-heatmap-panel",
-      "type": "panel",
-      "url": "https://github.com/optionfactory/category-heatmap",
-      "versions": [
-        {
-            "version": "1.0.0",
-            "commit": "a3dc716e2b5d4ef3509e20141b0bf7792712a30a",
-            "url": "https://github.com/optionfactory/category-heatmap"
-        }
       ]
     }
   ]
