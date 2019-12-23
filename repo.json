@@ -3539,8 +3539,12 @@
             "version": "1.0.2",
             "commit": "93248146bc3a277ea1a15b95a9cc6421571f2581",
             "url": "https://github.com/optionfactory/category-heatmap"
+        },
+        {
+            "version": "1.0.3",
+            "commit": "f98744f285ec8116e61aa04352fd0bd44792b44a",
+            "url": "https://github.com/optionfactory/category-heatmap"
         }
-
       ]
     },
     {
