@@ -3559,6 +3559,18 @@
           "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus"
         }
       ]
+    },
+    {
+      "id": "vertica-grafana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/vertica/vertica-grafana-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "edfa065c9512e76f57c2d4b143ffe25d4ad7589c",
+          "url": "https://github.com/vertica/vertica-grafana-datasource"
+        }
+      ]
     }
   ]
 }
