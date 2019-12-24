@@ -836,6 +836,18 @@
       ]
     },
     {
+      "id": "spotify-heroic-datasource",
+      "type": "datasource",
+      "url": "https://github.com/spotify/heroic-grafana-datasource",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "f19477a8ffb410a880aa86e8860c2cf192d511e6",
+          "url": "https://github.com/spotify/heroic-grafana-datasource"
+        }
+      ]
+    },
+    {
       "id": "udoprog-heroic-datasource",
       "type": "datasource",
       "url": "https://github.com/udoprog/udoprog-heroic-datasource",
@@ -3568,6 +3580,18 @@
           "version": "1.0.6",
           "commit": "9e2785ea49c3f28092853a095d21400b50bd8280",
           "url": "https://github.com/JeanBaptisteWATENBERG/grafana-percent-plus"
+        }
+      ]
+    },
+    {
+      "id": "vertica-grafana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/vertica/vertica-grafana-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "edfa065c9512e76f57c2d4b143ffe25d4ad7589c",
+          "url": "https://github.com/vertica/vertica-grafana-datasource"
         }
       ]
     }
