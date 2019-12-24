@@ -3580,12 +3580,12 @@
     {
       "id": "ilgizar-candlestick-panel",
       "type": "panel",
-      "url": "https://github.com/ilgizar/ilgizar-candlestick-panel",
+      "url": "https://github.com/jleskovar-tyro/ilgizar-candlestick-panel",
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "1944a532f6891659fbf94ae8b42571a481187b85",
-          "url": "https://github.com/ilgizar/ilgizar-candlestick-panel"
+          "commit": "68f9f4034a50c0024b037769416491be2a7c4a25",
+          "url": "https://github.com/jleskovar-tyro/ilgizar-candlestick-panel"
         }
       ]
     }
