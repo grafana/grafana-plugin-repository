@@ -3239,7 +3239,6 @@
       ]
     },
     {
-
       "id": "grafana-image-renderer",
       "type": "renderer",
       "url": "https://github.com/grafana/grafana-image-renderer",
