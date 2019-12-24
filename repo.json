@@ -3526,7 +3526,7 @@
     },
     {
 
-      "id": "optionfactory-category-heatmap-panel",
+      "id": "optionfactory-categoryheatmap-panel",
       "type": "panel",
       "url": "https://github.com/optionfactory/category-heatmap",
       "versions": [
@@ -3542,7 +3542,7 @@
         },
         {
             "version": "1.0.3",
-            "commit": "f98744f285ec8116e61aa04352fd0bd44792b44a",
+            "commit": "f36d5901db0539b3904d4a5e6e4f9557d3f9d962",
             "url": "https://github.com/optionfactory/category-heatmap"
         }
       ]
