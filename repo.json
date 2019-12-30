@@ -3537,24 +3537,13 @@
       ]
     },
     {
-
       "id": "optionfactory-categoryheatmap-panel",
       "type": "panel",
       "url": "https://github.com/optionfactory/category-heatmap",
       "versions": [
         {
-            "version": "1.0.1",
-            "commit": "0273e00959c6d6c3499a44579a64573ff9905dd5",
-            "url": "https://github.com/optionfactory/category-heatmap"
-        },
-        {
-            "version": "1.0.2",
-            "commit": "93248146bc3a277ea1a15b95a9cc6421571f2581",
-            "url": "https://github.com/optionfactory/category-heatmap"
-        },
-        {
             "version": "1.0.3",
-            "commit": "f36d5901db0539b3904d4a5e6e4f9557d3f9d962",
+            "commit": "2f03b78e969cbe02cb95e331cb01f964f265b54e",
             "url": "https://github.com/optionfactory/category-heatmap"
         }
       ]
