@@ -3547,6 +3547,18 @@
       ]
     },
     {
+      "id": "optionfactory-categoryheatmap-panel",
+      "type": "panel",
+      "url": "https://github.com/optionfactory/category-heatmap",
+      "versions": [
+        {
+            "version": "1.0.3",
+            "commit": "2f03b78e969cbe02cb95e331cb01f964f265b54e",
+            "url": "https://github.com/optionfactory/category-heatmap"
+        }
+      ]
+    },
+    {
       "id": "macropower-analytics-panel",
       "type": "panel",
       "url": "https://github.com/MacroPower/macropower-analytics-panel",
