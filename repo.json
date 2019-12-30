@@ -3581,6 +3581,18 @@
           "url": "https://github.com/vertica/vertica-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "aidanmountford-html-panel",
+      "type": "panel",
+      "url": "https://github.com/aidanmountford/aidanmountford-html-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "b67e58c0dc956e9d51e87dcbc96bb809c67e285c",
+          "url": "https://github.com/aidanmountford/aidanmountford-html-panel"
+        }
+      ]
     }
   ]
 }
