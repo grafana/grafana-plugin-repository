@@ -3581,6 +3581,18 @@
           "url": "https://github.com/vertica/vertica-grafana-datasource"
         }
       ]
+    },
+    {
+      "id": "grafana-strava-datasource",
+      "type": "datasource",
+      "url": "https://github.com/grafana/strava-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "579cffcae894397d19b66f5822bc0fcb50e544be",
+          "url": "https://github.com/grafana/strava-datasource"
+        }
+      ]
     }
   ]
 }
