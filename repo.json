@@ -3598,6 +3598,18 @@
           "url": "https://github.com/grafana/strava-datasource"
         }
       ]
+    },
+    {
+      "id": "piechart-panel",
+      "type": "panel",
+      "url": "https://github.com/fw-dev/piechart-panel",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "ff2049005da0bde54bdd1fc019bca5624a1b789f",
+          "url": "https://github.com/fw-dev/piechart-panel"
+        }
+      ]
     }
   ]
 }
