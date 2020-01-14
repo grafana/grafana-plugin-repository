@@ -3598,6 +3598,18 @@
           "url": "https://github.com/grafana/strava-datasource"
         }
       ]
+    },
+    {
+      "id": "taosdata-tdengine-datasource",
+      "type": "datasource",
+      "url": "https://github.com/taosdata/TDengine/tree/develop/src/connector/grafana/tdengine",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "1c943a71fda7ed39abeefa82f78a8cedf827e297",
+          "url": "https://github.com/taosdata/TDengine/tree/develop/src/connector/grafana/tdengine"
+        }
+      ]
     }
   ]
 }
