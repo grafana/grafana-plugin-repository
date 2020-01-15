@@ -3600,7 +3600,7 @@
       ]
     },
     {
-      "id": "piechart-panel",
+      "id": "filewave-piechart-panel",
       "type": "panel",
       "url": "https://github.com/fw-dev/piechart-panel",
       "versions": [
