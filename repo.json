@@ -341,6 +341,11 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.10.5",
+          "commit": "22196916513c0435d71879d742845546e3f1616e",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.10.4",
           "commit": "29a98f555ae4f0ad5dab6388b23929e32f0b47aa",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
@@ -3579,6 +3584,23 @@
           "version": "0.1.0",
           "commit": "edfa065c9512e76f57c2d4b143ffe25d4ad7589c",
           "url": "https://github.com/vertica/vertica-grafana-datasource"
+        }
+      ]
+    },
+    {
+      "id": "grafana-strava-datasource",
+      "type": "datasource",
+      "url": "https://github.com/grafana/strava-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "579cffcae894397d19b66f5822bc0fcb50e544be",
+          "url": "https://github.com/grafana/strava-datasource"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "9356b5b3876ebf148299415c90aa337f1a9e9638",
+          "url": "https://github.com/grafana/strava-datasource"
         }
       ]
     }
