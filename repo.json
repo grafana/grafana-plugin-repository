@@ -2843,6 +2843,11 @@
           "version": "1.3.10",
           "commit": "c346302575d2a41b5c408f4c91747b08e4f0d7c9",
           "url": "https://github.com/akumuli/akumuli-datasource"
+        },
+        {
+          "version": "1.3.11",
+          "commit": "98ecc90c2810dd5cf919c057408c00304ab2ba11",
+          "url": "https://github.com/akumuli/akumuli-datasource"
         }
       ]
     },
