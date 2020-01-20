@@ -3605,8 +3605,8 @@
       "url": "https://github.com/fw-dev/piechart-panel",
       "versions": [
         {
-          "version": "1.0.1",
-          "commit": "ff2049005da0bde54bdd1fc019bca5624a1b789f",
+          "version": "1.0.2",
+          "commit": "259d3b83738d46ccf19b800ac7b7e1c85e53eecd",
           "url": "https://github.com/fw-dev/piechart-panel"
         }
       ]
