@@ -3303,6 +3303,11 @@
           "version": "0.1.2",
           "commit": "30f13f2a121f2319782033e150a1210a8da81734",
           "url": "https://github.com/pierosavi/pierosavi-imageit-panel"
+        },
+        {
+          "version": "0.1.3",
+          "commit": "ae249374a475bb54397107a2f79d794863a53a2b",
+          "url": "https://github.com/pierosavi/pierosavi-imageit-panel"
         }
       ]
     },
