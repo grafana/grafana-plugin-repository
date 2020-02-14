@@ -2688,7 +2688,6 @@
           "commit": "112018a436fd5330df448e3372702265d103f9a5",
           "url": "https://github.com/instana/instana-grafana-datasource"
         }
-
       ]
     },
     {
@@ -3680,6 +3679,18 @@
           "version": "1.0.1",
           "commit": "9356b5b3876ebf148299415c90aa337f1a9e9638",
           "url": "https://github.com/grafana/strava-datasource"
+        }
+      ]
+    },
+    {
+      "id": "server-eye-data-source",
+      "type": "datasource",
+      "url": "https://github.com/Server-Eye/grafana-plugin",
+      "versions": [
+        {
+          "version": "0.0.2",
+          "commit": "0bb854ee48a224c4146e1a8afdf5dbd783078f80",
+          "url": "https://github.com/Server-Eye/grafana-plugin"
         }
       ]
     }
