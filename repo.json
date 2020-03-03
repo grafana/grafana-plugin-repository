@@ -3684,7 +3684,7 @@
       ]
     },
     {
-      "id": "grafana-weathermap-panel",
+      "id": "atosorigin-weathermap-panel",
       "type": "panel",
       "url": "https://github.com/atosorigin/grafana-weathermap",
       "versions": [
