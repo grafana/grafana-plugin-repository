@@ -3683,13 +3683,13 @@
       ]
     },
     {
-      "id": "server-eye-data-source",
+      "id": "servereye-datasource",
       "type": "datasource",
       "url": "https://github.com/Server-Eye/grafana-plugin",
       "versions": [
         {
-          "version": "0.0.3",
-          "commit": "01cbf7fe762d82e3994577f9d663ebf0e8c466ec",
+          "version": "0.0.4",
+          "commit": "1a8a45bb18c4f761c2602744a06229450e3cb99d",
           "url": "https://github.com/Server-Eye/grafana-plugin"
         }
       ]
