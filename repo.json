@@ -3689,7 +3689,7 @@
       "versions": [
         {
           "version": "0.0.4",
-          "commit": "1a8a45bb18c4f761c2602744a06229450e3cb99d",
+          "commit": "e795acbdc47ceb3180923eafcda1e73962280448",
           "url": "https://github.com/Server-Eye/grafana-plugin"
         }
       ]
