@@ -3724,6 +3724,11 @@
           "version": "1.0.1",
           "commit": "9356b5b3876ebf148299415c90aa337f1a9e9638",
           "url": "https://github.com/grafana/strava-datasource"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "9e2d25339872019d51e6f1857490056fdf235b83",
+          "url": "https://github.com/grafana/strava-datasource"
         }
       ]
     }
