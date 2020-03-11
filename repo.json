@@ -3736,6 +3736,18 @@
           "url": "https://github.com/grafana/strava-datasource"
         }
       ]
+    },
+    {
+      "id": "grafana-mqtt-panel",
+      "type": "panel",
+      "url": "https://github.com/gapitio/grafana-mqtt-panel.git",
+      "versions": [
+        {
+          "version": "0.2.0",
+          "commit": "03b2073ce43eb20c878ee22ebf8084450e081722",
+          "url": "https://github.com/gapitio/grafana-mqtt-panel.git"
+        }
+      ]
     }
   ]
 }
