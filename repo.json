@@ -3766,13 +3766,13 @@
       ]
     },
     {
-      "id": "aquaq-kdb-websocket-adaptor",
+      "id": "aquaqanalytics-kdbadaptor-datasource",
       "type": "datasource",
       "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "e5cb3dbaf922a0e2f5832f4310a66c9e30eeb24c",
+          "commit": "f1c15ddc0eb9761f622cf00ccfc6dd478bf5561c",
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
