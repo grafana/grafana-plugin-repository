@@ -3188,6 +3188,11 @@
           "version": "1.0.3",
           "commit": "cbf00158d4019dba6fe6ca5482095c97f405cce3",
           "url": "https://github.com/riclolsen/scadavis-synoptic-panel"
+        },
+        {
+          "version": "1.0.4",
+          "commit": "5a1d0630f78ce6407aada7841c6f27631b0f1709",
+          "url": "https://github.com/riclolsen/scadavis-synoptic-panel"
         }
       ]
     },
