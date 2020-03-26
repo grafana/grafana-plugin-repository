@@ -2380,6 +2380,11 @@
           "version": "1.0.2",
           "commit": "dfc33b15a6f3663be7b840197b22b3c2865c9ae5",
           "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
+        },
+        {
+          "version": "1.0.3",
+          "commit": "cc8e7fdb9b1f058c560376abbfd4c4d4888b4695",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
         }
       ]
     },
