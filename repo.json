@@ -2977,8 +2977,13 @@
       "url": "https://github.com/linksmart/grafana-hds-datasource",
       "versions": [
         {
+          "version": "1.0.0",
+          "commit": "9cb2c740e78d1b09b7e920271689281fd52916f7",
+          "url": "https://github.com/linksmart/grafana-hds-datasource"
+        },
+        {
           "version": "1.0.1",
-          "commit": "36388a6bc4a94d197bf90513248e9df564323a7f",
+          "commit": "0b17f592727d0b2fdbaa99c1429f6f7a63100ff1",
           "url": "https://github.com/linksmart/grafana-hds-datasource"
         }
       ]
