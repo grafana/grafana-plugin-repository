@@ -3002,6 +3002,16 @@
           "version": "1.0.0",
           "commit": "53dcda3a79c5a59b49c380c08a68e1730f92d4d9",
           "url": "https://github.com/andig/grafana-darksky"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "6a0857054efb1734e60f289575b6da9bb5c0f9fa",
+          "url": "https://github.com/andig/grafana-darksky"
+        },
+        {
+          "version": "1.0.2",
+          "commit": "143ef1ed3f63fdc5bb2f8951395ecb86819fcf15",
+          "url": "https://github.com/andig/grafana-darksky"
         }
       ]
     },
