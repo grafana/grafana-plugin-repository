@@ -2008,8 +2008,8 @@
       "url": "https://github.com/pueteam/datasource-plugin-solr",
       "versions": [
         {
-          "version": "1.0.0",
-          "commit": "f0fc02be19139f4457e397352f2bc2eb10d3002b",
+          "version": "1.0.2",
+          "commit": "912eb6957433c40b7f94b609e4c62548842dcd17",
           "url": "https://github.com/pueteam/datasource-plugin-solr"
         }
       ]
