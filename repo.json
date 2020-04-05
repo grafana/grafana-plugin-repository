@@ -5501,7 +5501,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "70e83f2c0351548860b72a3751075d076d5c5971",
+          "commit": "33868e9db3a28babe1109d7e228dc8d99942ccab",
           "url": "https://github.com/geeks-r-us/mqtt-panel"
         }
       ]
