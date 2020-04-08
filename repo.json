@@ -3872,6 +3872,18 @@
           "url": "https://github.com/grafana/strava-datasource"
         }
       ]
-    }
+    },
+    {
+      "id": "ae3e-plotly-panel",
+      "type": "panel",
+      "url": "https://github.com/ae3e/ae3e-plotly-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "7a483a844b859be9bd871b083ed59028be75d9dd",
+          "url": "https://github.com/ae3e/ae3e-plotly-panel"
+        }
+      ]
+    }	   
   ]
 }
