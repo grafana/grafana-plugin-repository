@@ -3872,6 +3872,18 @@
           "url": "https://github.com/grafana/strava-datasource"
         }
       ]
+    },
+    {
+      "id": "aquaqanalytics-kdbadaptor-datasource",
+      "type": "datasource",
+      "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "9b39310d7254d5bb4f2d28f9ca48320ac5df1140",
+          "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
+        }
+      ]
     }
   ]
 }
