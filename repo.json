@@ -3889,6 +3889,18 @@
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
+    },
+    {
+      "id": "autohome-compareQueries-datasource",
+      "type": "datasource",
+      "url": "https://github.com/AutohomeCorp/autohome-compareQueries-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "2344e7eee987e2c95fc204aaa3bf62c0f973545c",
+          "url": "https://github.com/AutohomeCorp/autohome-compareQueries-datasource"
+        }
+      ]
     }
   ]
 }
