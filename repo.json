@@ -3923,6 +3923,18 @@
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
-    }
+    },
+    {
+      "id": "polytech-qr-code",
+      "type": "panel",
+      "url": "https://github.com/Claire548/qrcode-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "fe91eef4323e4f5891fd7addcf0b6e5b15f5ec9b",
+          "url": "https://github.com/Claire548/qrcode-panel"
+        }
+      ]
+    }  
   ]
 }
