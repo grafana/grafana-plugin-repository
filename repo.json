@@ -3925,13 +3925,13 @@
       ]
     },
     {
-      "id": "claire548-qr-code-qr-code",
+      "id": "claire548-qr-code",
       "type": "panel",
       "url": "https://github.com/Claire548/qrcode-panel",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "5ec3fdf2a1622b71f14efabf5a42ec66846a1be3",
+          "commit": "5eab428a82edd429e7d8bb7b353b29f77f1b6a64",
           "url": "https://github.com/Claire548/qrcode-panel"
         }
       ]
