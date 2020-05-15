@@ -3959,7 +3959,7 @@
     },
     {
       "id": "gapit-mqtt-panel",
-      "type": "datasource",
+      "type": "panel",
       "url": "https://github.com/gapitio/grafana-plugin-repository",
       "versions": [
         {
