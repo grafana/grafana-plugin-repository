@@ -3964,7 +3964,7 @@
       "versions": [
         {
           "version": "0.3.0",
-          "commit": "1d528adb20b8cc0d66b61c923424ddc9b2777a41",
+          "commit": "a6511056449abd2e6b1fdbd37d9d312c74a36346",
           "url": "https://github.com/gapitio/grafana-plugin-repository"
         }
       ]
