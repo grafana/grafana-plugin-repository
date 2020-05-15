@@ -3960,12 +3960,12 @@
     {
       "id": "gapit-mqtt-panel",
       "type": "panel",
-      "url": "https://github.com/gapitio/grafana-plugin-repository",
+      "url": "https://github.com/gapitio/grafana-mqtt-panel",
       "versions": [
         {
           "version": "0.3.0",
           "commit": "a6511056449abd2e6b1fdbd37d9d312c74a36346",
-          "url": "https://github.com/gapitio/grafana-plugin-repository"
+          "url": "https://github.com/gapitio/grafana-mqtt-panel"
         }
       ]
     }
