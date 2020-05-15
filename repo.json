@@ -3964,7 +3964,7 @@
       "versions": [
         {
           "version": "0.3.0",
-          "commit": "cfaea2c720290efa262db56b9961a067975ad841",
+          "commit": "f192531ba6b1ffa92e96eb1258a4039c979dc18d",
           "url": "https://github.com/gapitio/grafana-mqtt-panel"
         }
       ]
