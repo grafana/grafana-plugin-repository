@@ -3689,8 +3689,8 @@
       "url": "https://github.com/atosorigin/grafana-weathermap",
       "versions": [
         {
-          "version": "0.5.1",
-          "commit": "590ad70735ee21e9b031bdf1e888f4bee8c4d08e",
+          "version": "1.0.0",
+          "commit": "c763ca4f2290d0a854fcfd7c5f778be74412d99b",
           "url": "https://github.com/atosorigin/grafana-weathermap"
         }
       ]
