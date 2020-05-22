@@ -3980,6 +3980,18 @@
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
+    },
+    {
+      "id": "grafana-loudml-app",
+      "type": "app",
+      "url": "https://github.com/vsergeyev/loudml-grafana-app",
+      "versions": [
+        {
+          "version": "1.3.0",
+          "commit": "9f0575c97551acb464ac45123d6d48ebc1140270",
+          "url": "https://github.com/vsergeyev/loudml-grafana-app"
+        }
+      ]
     }
   ]
 }
