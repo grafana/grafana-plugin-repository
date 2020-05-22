@@ -3982,13 +3982,13 @@
       ]
     },
     {
-      "id": "grafana-loudml-app",
+      "id": "loudml-grafana-app",
       "type": "app",
       "url": "https://github.com/vsergeyev/loudml-grafana-app",
       "versions": [
         {
-          "version": "1.3.0",
-          "commit": "9f0575c97551acb464ac45123d6d48ebc1140270",
+          "version": "1.4.0",
+          "commit": "fb5bcf5790a1692200d5e2e47245e41201b2ace3",
           "url": "https://github.com/vsergeyev/loudml-grafana-app"
         }
       ]
