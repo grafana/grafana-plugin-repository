@@ -3987,13 +3987,13 @@
       ]
     },
     {
-      "id": "akenza-grafana-connector",
+      "id": "akenza-core-datasource",
       "type": "datasource",
       "url": "https://github.com/akenza-io/grafana-connector",
       "versions": [
         {
-          "version": "1.0.0",
-          "commit": "0ece57bc54dc3fdfec4bb14a4ae5935c3e4d6627",
+          "version": "1.0.1",
+          "commit": "c2bbc1e2d4c83647320ac49dc92daa2440772c29",
           "url": "https://github.com/akenza-io/grafana-connector"
         }
       ]
