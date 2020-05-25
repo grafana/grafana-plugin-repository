@@ -3992,8 +3992,8 @@
       "url": "https://github.com/akenza-io/grafana-connector",
       "versions": [
         {
-          "version": "1.0.1",
-          "commit": "c2bbc1e2d4c83647320ac49dc92daa2440772c29",
+          "version": "1.0.2",
+          "commit": "a0a6e7954d4ef2c5d8922ddb855d3a6b21de508e",
           "url": "https://github.com/akenza-io/grafana-connector"
         }
       ]
