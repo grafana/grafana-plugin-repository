@@ -3611,6 +3611,31 @@
           "version": "3.5.0",
           "commit": "28b492ccbbda8e6bccd51465a0f22b4cd4b216d6",
           "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.6.0",
+          "commit": "0e6a9192428af807696a433f00aba52b3267e048",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.7.0",
+          "commit": "2aa391ea68eaed8b4284f8d6c8c98aafb27eabfd",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.8.0",
+          "commit": "f2650b35740ac28cb98c9cd2fe6d74d947adb194",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.8.1",
+          "commit": "3f081dac6163deb77c298cff589d8676fe79fff6",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.8.2",
+          "commit": "8713e9beff82cfae3863f1a43a84358cda18d9b8",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
         }
       ]
     },
