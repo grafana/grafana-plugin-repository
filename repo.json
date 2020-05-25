@@ -3985,6 +3985,18 @@
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
+    },
+    {
+      "id": "akenza-grafana-connector",
+      "type": "datasource",
+      "url": "https://github.com/akenza-io/grafana-connector",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "0ece57bc54dc3fdfec4bb14a4ae5935c3e4d6627",
+          "url": "https://github.com/akenza-io/grafana-connector"
+        }
+      ]
     }
   ]
 }
