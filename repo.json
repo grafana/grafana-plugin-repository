@@ -3985,6 +3985,18 @@
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
+    },
+    {
+      "id": "syc-grafana-button-panel",
+      "type": "panel",
+      "url": "https://github.com/speakyourcode/grafana-button-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "631bc59c6630a94cefacae90d7b1160620a31667",
+          "url": "https://github.com/speakyourcode/grafana-button-panel"
+        }
+      ]
     }
   ]
 }
