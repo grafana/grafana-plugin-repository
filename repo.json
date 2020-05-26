@@ -1119,6 +1119,11 @@
       "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource",
       "versions": [
         {
+          "version": "0.1.6",
+          "commit": "1ae8870d0c539bc7eb787f4b61813eae103ec87a",
+          "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource"
+        },
+        {
           "version": "0.1.5",
           "commit": "716fe49fede1ab5ac7285926dc05c1f0f9c4963d",
           "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource"
