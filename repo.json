@@ -3987,13 +3987,13 @@
       ]
     },
     {
-      "id": "syc-grafana-button-panel",
+      "id": "speakyourcode-button-panel",
       "type": "panel",
       "url": "https://github.com/speakyourcode/grafana-button-panel",
       "versions": [
         {
-          "version": "0.1.0",
-          "commit": "631bc59c6630a94cefacae90d7b1160620a31667",
+          "version": "0.1.1",
+          "commit": "25b045ea200df1488a91f1ab4216b695e11e037b",
           "url": "https://github.com/speakyourcode/grafana-button-panel"
         }
       ]
