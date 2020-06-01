@@ -4010,6 +4010,18 @@
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
+    },
+    {
+      "id": "marcusolsson-hourly-heatmap-panel",
+      "type": "panel",
+      "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "commit": "2b153a87c06019a6c9fc15a61b3ed130d07d4770",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
+        }
+      ]
     }
   ]
 }
