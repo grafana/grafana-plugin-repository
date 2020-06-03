@@ -341,6 +341,21 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.12.2",
+          "commit": "793129b2d602b36b09dc64dab7ec6f5a6f7beb42",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.12.1",
+          "commit": "dc304e2040a9ffc1beec3f0cc8f6757bce4c5d47",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.12.0",
+          "commit": "d0e831959fa24fcd62a7217969c30edf73249ada",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.11.0",
           "commit": "52f24ec87ea1e0ce83827edcb77b13cf7c1f3b4f",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
@@ -1109,6 +1124,11 @@
       "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource",
       "versions": [
         {
+          "version": "0.1.6",
+          "commit": "1ae8870d0c539bc7eb787f4b61813eae103ec87a",
+          "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource"
+        },
+        {
           "version": "0.1.5",
           "commit": "716fe49fede1ab5ac7285926dc05c1f0f9c4963d",
           "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource"
@@ -1302,6 +1322,11 @@
           "version": "1.6.1",
           "commit": "bcecc9d63ed17614048346b8f28c5d4f50a9f48a",
           "url": "https://github.com/jdbranham/grafana-diagram"
+        },
+        {
+          "version": "1.6.2",
+          "commit": "3d1fc8c7e03a52101fb94f80fa25282976ebb86c",
+          "url": "https://github.com/jdbranham/grafana-diagram"
         }
       ]
     },
@@ -1364,6 +1389,28 @@
       "type": "panel",
       "url": "https://github.com/briangann/grafana-datatable-panel",
       "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "98acd9dbe44447d26c9aa113c9dca4c6cb58c01c",
+          "url": "https://github.com/briangann/grafana-datatable-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/briangann/grafana-datatable-panel/releases/download/v1.0.1/briangann-datatable-panel-1.0.1.zip",
+              "md5": "c57617251dd93ea258e480d2eeb69478"
+            }
+          }
+        },
+        {
+          "version": "1.0.0",
+          "commit": "76f9d5180960463c871bfe05b1a144b4487fe3c8",
+          "url": "https://github.com/briangann/grafana-datatable-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/briangann/grafana-datatable-panel/releases/download/v1.0.0/briangann-datatable-panel-1.0.0.zip",
+              "md5": "67619c1e13a8765712491e66fd6b2dba"
+            }
+          }
+        },
         {
           "version": "0.0.9",
           "commit": "df54b39f16bb9ba880bd5c5db9e7bf87e6f2af7a",
@@ -2233,6 +2280,11 @@
       "url": "https://github.com/netxms/grafana",
       "versions": [
         {
+          "version": "1.2.2",
+          "commit": "d019c1b44d8d722789c7f4118a8e9ea4b135ce15",
+          "url": "https://github.com/netxms/grafana"
+        },
+        {
           "version": "1.2.1",
           "commit": "50e006c1ec8959bb0a3822bf10a42554a6a0e2ee",
           "url": "https://github.com/netxms/grafana"
@@ -2385,6 +2437,16 @@
           "version": "1.0.3",
           "commit": "cc8e7fdb9b1f058c560376abbfd4c4d4888b4695",
           "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
+        },
+        {
+          "version": "1.0.4",
+          "commit": "b17afff7b7ac1e923b71485e004fe376558ff21f",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
+        },
+        {
+          "version": "1.0.5",
+          "commit": "3796550c2d733b777f85f1536b086b1ade33b75b",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
         }
       ]
     },
@@ -2491,6 +2553,11 @@
         {
           "version": "0.0.7",
           "commit": "c4d8c51a901aa237d92fa66499f31a4eb43e1a5b",
+          "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
+        },
+        {
+          "version": "0.0.8",
+          "commit": "7a541804bd0eb9f57797cf6a5dd0b6aa5bdd8ed8",
           "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
         }
       ]
@@ -2733,6 +2800,21 @@
         {
           "version": "2.6.0",
           "commit": "2cc3d87798b664eecbadb6040b686e98c14cc471",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "2.7.0",
+          "commit": "10002880ad33b70a5e877da6dadf0e0cd14523bb",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "2.7.1",
+          "commit": "38bc46ce26e91bcc31e68dd8264ffbf498b6eb64",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "2.7.2",
+          "commit": "53d25322428291db0cf0092a5671fa206a4caba6",
           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
@@ -3061,6 +3143,16 @@
           "version": "0.1.7",
           "commit": "d907cc49a26d19b9de68951fe4f672c29275400b",
           "url": "https://github.com/simPod/grafana-json-datasource"
+        },
+        {
+          "version": "0.1.8",
+          "commit": "91101cd8614ec18e89d82b5185a37e698c846300",
+          "url": "https://github.com/simPod/grafana-json-datasource"
+        },
+        {
+          "version": "0.2.0",
+          "commit": "34137844226e1e2f3129b141952d4947a514c814",
+          "url": "https://github.com/simPod/grafana-json-datasource"
         }
       ]
     },
@@ -3207,6 +3299,11 @@
         {
           "version": "1.2.7",
           "commit": "6fdfbb54d20cc9bd61fd12fb3db7c0cbccfde1d4",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
+        },
+        {
+          "version": "1.3.0",
+          "commit": "195691d6cfc42b50ee55210d5bb2f418b046f0aa",
           "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
         }
       ]
@@ -3362,6 +3459,21 @@
           "version": "0.7.0",
           "commit": "adbfe9849a3ad2c85551fe347f2215b59340a0a1",
           "url": "https://github.com/algenty/grafana-flowcharting"
+        },
+        {
+          "version": "0.7.1",
+          "commit": "44141b77e298a3c85ba219628a80cfcbf91a6bcf",
+          "url": "https://github.com/algenty/grafana-flowcharting"
+        },
+        {
+          "version": "0.8.0",
+          "commit": "88471b9d588136d147c583e5ee4a41811360633e",
+          "url": "https://github.com/algenty/grafana-flowcharting"
+        },
+        {
+          "version": "0.8.1",
+          "commit": "f1b8e9a47b325c808fb796833e15073614d22114",
+          "url": "https://github.com/algenty/grafana-flowcharting"
         }
       ]
     },
@@ -3484,6 +3596,11 @@
         {
           "version": "1.0.6",
           "commit": "80493b14dc16825fa07b70a533f3ba7169e25038",
+          "url": "https://github.com/doitintl/bigquery-grafana"
+        },
+        {
+          "version": "1.0.7",
+          "commit": "fbb51e5df3035bdc088a13362b869091633014ef",
           "url": "https://github.com/doitintl/bigquery-grafana"
         },
         {
@@ -3702,6 +3819,25 @@
               "md5": "be8655814f49e94595e1e31cf7bd7ff8"
             }
           }
+        },
+        {
+          "version": "2.0.0",
+          "commit": "d63ceb00c182f723b2dd9664f924a61bd5befc31",
+          "url": "https://github.com/grafana/grafana-image-renderer",
+          "download": {
+            "darwin-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.0/plugin-darwin-x64-unknown.zip",
+              "md5": "e02cab565772db767006bc3d9bfe73eb"
+            },
+            "linux-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.0/plugin-linux-x64-glibc.zip",
+              "md5": "a21c4075094bfb4efa4c1efe1261b732"
+            },
+            "windows-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.0/plugin-win32-x64-unknown.zip",
+              "md5": "e83ee8b9fe394230a018800280cc26c2"
+            }
+          }
         }
       ]
     },
@@ -3723,6 +3859,11 @@
         {
           "version": "1.2.4",
           "commit": "be44cbdbd345ddfdd8bc09dead0b5fd63c7ac813",
+          "url": "https://github.com/alexandrainst/alexandra-trackmap-panel"
+        },
+        {
+          "version": "1.2.5",
+          "commit": "4710fe0c8327750e8ba07c9d6293c70abef446cd",
           "url": "https://github.com/alexandrainst/alexandra-trackmap-panel"
         }
       ]
@@ -3760,6 +3901,11 @@
         {
           "version": "1.3.0",
           "commit": "6617875b7e4d5145a5a55990dd477151933b0755",
+          "url": "https://github.com/devopsprodigy/kubegraf"
+        },
+        {
+          "version": "1.4.0",
+          "commit": "3da96b7b6e364d06e2752f1082f1e5791af4a840",
           "url": "https://github.com/devopsprodigy/kubegraf"
         }
       ]
@@ -3860,6 +4006,18 @@
           "version": "1.1.1",
           "commit": "fc0141ffa4c28b5448753892687d7630f011ae6f",
           "url": "https://github.com/grafana/strava-datasource"
+        }
+      ]
+    },
+    {
+      "id": "aquaqanalytics-kdbadaptor-datasource",
+      "type": "datasource",
+      "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "9b39310d7254d5bb4f2d28f9ca48320ac5df1140",
+          "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
     }
