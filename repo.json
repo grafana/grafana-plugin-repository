@@ -3485,6 +3485,11 @@
           "version": "1.0.6",
           "commit": "80493b14dc16825fa07b70a533f3ba7169e25038",
           "url": "https://github.com/doitintl/bigquery-grafana"
+        },
+        {
+          "version": "1.0.8",
+          "commit": "5bacd1f0c4a6bfccb0c356526806d550618e67db",
+          "url": "https://github.com/doitintl/bigquery-grafana"
         }
       ]
     },
