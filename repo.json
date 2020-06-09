@@ -3113,7 +3113,8 @@
           "version": "0.3.1",
           "commit": "6dd44bfd3d4bf940f4e7e56396e6abb190884959",
           "url": "https://github.com/Pithikos/rest-datasource"
-        },
+        }
+      ]
     },
     {
       "id": "simpod-json-datasource",
