@@ -4019,12 +4019,12 @@
     {
       "id": "magnesium-wordcloud-panel",
       "type": "panel",
-      "url": "https://github.com/raulsperoni/grafana-wordcloud-panel-plugin",
+      "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel",
       "versions": [
         {
           "version": "1.0",
-          "commit": "7215ca6be3192714ccdef30e8cc921143858a053",
-          "url": "https://github.com/raulsperoni/grafana-wordcloud-panel-plugin"
+          "commit": "df3ced1fb733eb1cb7e078f339d2f7c52c48a144",
+          "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel"
         },
         {
           "version": "0.5",
