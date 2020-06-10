@@ -2415,6 +2415,11 @@
           "version": "1.1.0",
           "commit": "0d2ee17f7dd7516affec5b1eca502d1bc1e2d212",
           "url": "https://github.com/digrich/bubblechart-panel"
+        },
+        {
+          "version": "1.2.0",
+          "commit": "8983071f6b1a3382602a21ec1ea6e310ec9f6323",
+          "url": "https://github.com/digrich/bubblechart-panel"
         }
       ]
     },
