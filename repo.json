@@ -4017,7 +4017,7 @@
       ]
     },
     {
-      "id": "wordcloud-panel",
+      "id": "magnesium-wordcloud-panel",
       "type": "panel",
       "url": "https://github.com/raulsperoni/grafana-wordcloud-panel-plugin",
       "versions": [
