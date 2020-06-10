@@ -4015,6 +4015,23 @@
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
-    }
+    },
+    {
+	  "id": "wordcloud-panel",
+	  "type": "panel",
+	  "url": "https://github.com/raulsperoni/grafana-wordcloud-panel-plugin",
+	  "versions": [
+	    {
+	      "version": "1.0",
+	      "commit": "7215ca6be3192714ccdef30e8cc921143858a053",
+	      "url": "https://github.com/raulsperoni/grafana-wordcloud-panel-plugin"
+	    }
+	    {
+	      "version": "0.5",
+	      "commit": "3e6a8ab70241904dcd2668b6be3b5450f3e30c33",
+	      "url": "https://gitlab.com/raulsperoni/wordcloud-panel"
+	    }
+	  ]
+}
   ]
 }
