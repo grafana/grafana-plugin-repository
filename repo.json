@@ -4015,6 +4015,18 @@
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
+    },
+    {
+      "id": "thredds-panel",
+      "type": "panel",
+      "url": "https://github.com/inkode-it/thredds-panel",
+      "versions": [
+        {
+          "version": "0.2.1",
+          "commit": "6a8eb6da6ca8ed3cfabd6cd00557e88a2f252237",
+          "url": "https://github.com/inkode-it/thredds-panel"
+        }
+      ]
     }
   ]
 }
