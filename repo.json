@@ -4018,7 +4018,7 @@
       "versions": [
         {
           "version": "0.3.2",
-          "commit": "15613ab71cb3647ef7c3a4fc4a00a22e5e08040e",
+          "commit": "db8be3a7f122b3b4b9f66e402838af0e083532b9",
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
