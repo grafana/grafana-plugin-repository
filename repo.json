@@ -4113,39 +4113,6 @@
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
-    },
-    {
-      "id": "marcusolsson-treemap-panel",
-      "type": "panel",
-      "url": "https://github.com/marcusolsson/grafana-treemap-panel",
-      "versions": [
-        {
-          "version": "0.1.0",
-          "commit": "f2ea6e9907a87bef6eb1a982d7ade3ff7cf16e75",
-          "url": "https://github.com/marcusolsson/grafana-treemap-panel"
-        }
-      ]
-    },
-    {
-      "id": "dalvany-image-panel",
-      "type": "panel",
-      "versions": [
-        {
-          "version": "2.0.0",
-          "commit": "342ccfaa188aef5112f067fad5317d0c9504a102",
-          "url": "https://github.com/Dalvany/dalvany-image-panel"
-        },
-        {
-          "version": "2.1.0",
-          "commit": "3063c83128315bd0b49b793fb9fa761751028f0c",
-          "url": "https://github.com/Dalvany/dalvany-image-panel"
-        },
-        {
-          "version": "2.1.1",
-          "commit": "68e400abc134b1e724c055b56074d8b6a5ffd467",
-          "url": "https://github.com/Dalvany/dalvany-image-panel"
-        }
-      ]
     }
   ]
 }
