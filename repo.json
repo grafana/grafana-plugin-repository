@@ -4047,6 +4047,18 @@
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
+    },
+    {
+      "id": "marcusolsson-treemap-panel",
+      "type": "panel",
+      "url": "https://github.com/marcusolsson/grafana-treemap-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "f2ea6e9907a87bef6eb1a982d7ade3ff7cf16e75",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel"
+        }
+      ]
     }
   ]
 }
