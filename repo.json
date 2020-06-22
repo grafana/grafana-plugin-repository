@@ -341,6 +341,21 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.12.2",
+          "commit": "793129b2d602b36b09dc64dab7ec6f5a6f7beb42",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.12.1",
+          "commit": "dc304e2040a9ffc1beec3f0cc8f6757bce4c5d47",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
+          "version": "3.12.0",
+          "commit": "d0e831959fa24fcd62a7217969c30edf73249ada",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.11.0",
           "commit": "52f24ec87ea1e0ce83827edcb77b13cf7c1f3b4f",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
@@ -1108,6 +1123,11 @@
       "type": "datasource",
       "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource",
       "versions": [
+        {
+          "version": "0.1.6",
+          "commit": "1ae8870d0c539bc7eb787f4b61813eae103ec87a",
+          "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource"
+        },
         {
           "version": "0.1.5",
           "commit": "716fe49fede1ab5ac7285926dc05c1f0f9c4963d",
@@ -2260,6 +2280,11 @@
       "url": "https://github.com/netxms/grafana",
       "versions": [
         {
+          "version": "1.2.2",
+          "commit": "d019c1b44d8d722789c7f4118a8e9ea4b135ce15",
+          "url": "https://github.com/netxms/grafana"
+        },
+        {
           "version": "1.2.1",
           "commit": "50e006c1ec8959bb0a3822bf10a42554a6a0e2ee",
           "url": "https://github.com/netxms/grafana"
@@ -3118,6 +3143,16 @@
           "version": "0.1.7",
           "commit": "d907cc49a26d19b9de68951fe4f672c29275400b",
           "url": "https://github.com/simPod/grafana-json-datasource"
+        },
+        {
+          "version": "0.1.8",
+          "commit": "91101cd8614ec18e89d82b5185a37e698c846300",
+          "url": "https://github.com/simPod/grafana-json-datasource"
+        },
+        {
+          "version": "0.2.0",
+          "commit": "34137844226e1e2f3129b141952d4947a514c814",
+          "url": "https://github.com/simPod/grafana-json-datasource"
         }
       ]
     },
@@ -3269,6 +3304,11 @@
         {
           "version": "1.3.0",
           "commit": "195691d6cfc42b50ee55210d5bb2f418b046f0aa",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
+        },
+        {
+          "version": "1.4.0",
+          "commit": "20b6f3a04e49b32c8d3ca66796426eff83738f1b",
           "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
         }
       ]
@@ -3438,6 +3478,11 @@
         {
           "version": "0.8.1",
           "commit": "f1b8e9a47b325c808fb796833e15073614d22114",
+          "url": "https://github.com/algenty/grafana-flowcharting"
+        },
+        {
+          "version": "0.9.0",
+          "commit": "276ca4aa109aa9896cc291b431de7b72b18f79f7",
           "url": "https://github.com/algenty/grafana-flowcharting"
         }
       ]
@@ -3779,6 +3824,25 @@
               "md5": "be8655814f49e94595e1e31cf7bd7ff8"
             }
           }
+        },
+        {
+          "version": "2.0.0",
+          "commit": "d63ceb00c182f723b2dd9664f924a61bd5befc31",
+          "url": "https://github.com/grafana/grafana-image-renderer",
+          "download": {
+            "darwin-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.0/plugin-darwin-x64-unknown.zip",
+              "md5": "e02cab565772db767006bc3d9bfe73eb"
+            },
+            "linux-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.0/plugin-linux-x64-glibc.zip",
+              "md5": "a21c4075094bfb4efa4c1efe1261b732"
+            },
+            "windows-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.0/plugin-win32-x64-unknown.zip",
+              "md5": "e83ee8b9fe394230a018800280cc26c2"
+            }
+          }
         }
       ]
     },
@@ -3843,6 +3907,11 @@
           "version": "1.3.0",
           "commit": "6617875b7e4d5145a5a55990dd477151933b0755",
           "url": "https://github.com/devopsprodigy/kubegraf"
+        },
+        {
+          "version": "1.4.0",
+          "commit": "3da96b7b6e364d06e2752f1082f1e5791af4a840",
+          "url": "https://github.com/devopsprodigy/kubegraf"
         }
       ]
     },
@@ -3878,6 +3947,16 @@
         {
           "version": "0.0.1",
           "commit": "cf24374926a0ec2cbd63d87898a17532639185d0",
+          "url": "https://github.com/MacroPower/macropower-analytics-panel"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "80ebb6e26352d1718ea3ea7d4c54d714adf8fe73",
+          "url": "https://github.com/MacroPower/macropower-analytics-panel"
+        },
+        {
+          "version": "1.0.0",
+          "commit": "6fd3810d99fde01b76521d5a129d2e82134df244",
           "url": "https://github.com/MacroPower/macropower-analytics-panel"
         }
       ]
@@ -3954,6 +4033,18 @@
           "version": "1.0.1",
           "commit": "9b39310d7254d5bb4f2d28f9ca48320ac5df1140",
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
+        }
+      ]
+    },
+    {
+      "id": "marcusolsson-hourly-heatmap-panel",
+      "type": "panel",
+      "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel",
+      "versions": [
+        {
+          "version": "0.3.2",
+          "commit": "ca330878b6142d3657a08e22de41135c55f2b5d6",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
     }
