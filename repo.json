@@ -4203,6 +4203,18 @@
           "url": "https://github.com/Dalvany/dalvany-image-panel"
         }
       ]
+    },
+    {
+      "id": "mtanda-aws-athena-datasource",
+      "type": "datasource",
+      "url": "https://github.com/mtanda/grafana-aws-athena-datasource",
+      "versions": [
+        {
+          "version": "2.2.6",
+          "commit": "db3b9a44a8094aad5cb9973026164f98a9395b0c",
+          "url": "https://github.com/mtanda/grafana-aws-athena-datasource"
+        }
+      ]
     }
   ]
 }
