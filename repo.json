@@ -2135,7 +2135,7 @@
         },
         {
           "version": "2.0.1",
-          "commit": "87c89b84d7d522dd04bb4b21c68c6665a0b9e458",
+          "commit": "7b73be0ab0dbc2db2bb3897b57a68af667a5eee1",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
