@@ -3885,7 +3885,7 @@
       "versions": [
         {
           "version": "1.0.1",
-          "commit": "ce40f32625379faf14b912fb052c96c88b2f05ac",
+          "commit": "291228ad93c6d8ff4763bc4f2027fe533755cc9c",
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
