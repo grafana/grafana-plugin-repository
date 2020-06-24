@@ -4113,6 +4113,18 @@
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
+    },
+    {
+      "id": "cloudspout-button-panel",
+      "type": "panel",
+      "url": "https://github.com/cloudspout/cloudspout-button-panel/",
+      "versions": [
+        {
+          "version": "7.0.2",
+          "commit": "2611f522fd3e3fba2c9aea5990cdcf207e8d7889",
+          "url": "https://github.com/cloudspout/cloudspout-button-panel/"
+        }
+      ]
     }
   ]
 }
