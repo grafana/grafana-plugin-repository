@@ -3417,6 +3417,11 @@
           "version": "2.0.4",
           "commit": "8118701b5d3b136de1bf1ae6b27aa1f0b589da8c",
           "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
+        },
+        {
+          "version": "2.1.0",
+          "commit": "8648728f9c818193a26d5561e2134b3d4eb4f6d7",
+          "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
         }
       ]
     },
