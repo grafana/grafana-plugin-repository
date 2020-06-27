@@ -3192,6 +3192,11 @@
           "version": "2.1.2",
           "commit": "287ff9293cb6c9ee09d993acc20dcef97e040eaa",
           "url": "https://github.com/ovh/ovh-warp10-datasource"
+        },
+        {
+          "version": "2.2.0",
+          "commit": "86f588ef709d820170fa71d8fd9c8a6cc9ef7d93",
+          "url": "https://github.com/ovh/ovh-warp10-datasource"
         }
       ]
     },
@@ -3310,6 +3315,11 @@
           "version": "1.3.0",
           "commit": "195691d6cfc42b50ee55210d5bb2f418b046f0aa",
           "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
+        },
+        {
+          "version": "1.4.0",
+          "commit": "20b6f3a04e49b32c8d3ca66796426eff83738f1b",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
         }
       ]
     },
@@ -3417,6 +3427,11 @@
           "version": "2.0.4",
           "commit": "8118701b5d3b136de1bf1ae6b27aa1f0b589da8c",
           "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
+        },
+        {
+          "version": "2.1.0",
+          "commit": "8648728f9c818193a26d5561e2134b3d4eb4f6d7",
+          "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
         }
       ]
     },
@@ -3478,6 +3493,11 @@
         {
           "version": "0.8.1",
           "commit": "f1b8e9a47b325c808fb796833e15073614d22114",
+          "url": "https://github.com/algenty/grafana-flowcharting"
+        },
+        {
+          "version": "0.9.0",
+          "commit": "276ca4aa109aa9896cc291b431de7b72b18f79f7",
           "url": "https://github.com/algenty/grafana-flowcharting"
         }
       ]
@@ -3607,6 +3627,11 @@
           "version": "1.0.7",
           "commit": "fbb51e5df3035bdc088a13362b869091633014ef",
           "url": "https://github.com/doitintl/bigquery-grafana"
+        },
+        {
+          "version": "1.0.8",
+          "commit": "d244fe87186d4ec2bffbe3fe0fb1c331fc63b60e",
+          "url": "https://github.com/doitintl/bigquery-grafana"
         }
       ]
     },
@@ -3640,6 +3665,31 @@
         {
           "version": "3.5.0",
           "commit": "28b492ccbbda8e6bccd51465a0f22b4cd4b216d6",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.6.0",
+          "commit": "0e6a9192428af807696a433f00aba52b3267e048",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.7.0",
+          "commit": "2aa391ea68eaed8b4284f8d6c8c98aafb27eabfd",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.8.0",
+          "commit": "f2650b35740ac28cb98c9cd2fe6d74d947adb194",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.8.1",
+          "commit": "3f081dac6163deb77c298cff589d8676fe79fff6",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.8.2",
+          "commit": "8713e9beff82cfae3863f1a43a84358cda18d9b8",
           "url": "https://github.com/bureau14/qdb-grafana-plugin"
         }
       ]
@@ -3907,6 +3957,11 @@
           "version": "1.4.0",
           "commit": "3da96b7b6e364d06e2752f1082f1e5791af4a840",
           "url": "https://github.com/devopsprodigy/kubegraf"
+        },
+        {
+          "version": "1.4.1",
+          "commit": "6e5e58e231f60b2b6136a9a6626453a7e7596475",
+          "url": "https://github.com/devopsprodigy/kubegraf"
         }
       ]
     },
@@ -3942,6 +3997,16 @@
         {
           "version": "0.0.1",
           "commit": "cf24374926a0ec2cbd63d87898a17532639185d0",
+          "url": "https://github.com/MacroPower/macropower-analytics-panel"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "80ebb6e26352d1718ea3ea7d4c54d714adf8fe73",
+          "url": "https://github.com/MacroPower/macropower-analytics-panel"
+        },
+        {
+          "version": "1.0.0",
+          "commit": "6fd3810d99fde01b76521d5a129d2e82134df244",
           "url": "https://github.com/MacroPower/macropower-analytics-panel"
         }
       ]
@@ -4016,8 +4081,32 @@
       "versions": [
         {
           "version": "1.0.1",
-          "commit": "9b39310d7254d5bb4f2d28f9ca48320ac5df1140",
+          "commit": "291228ad93c6d8ff4763bc4f2027fe533755cc9c",
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
+        }
+      ]
+    },
+    {
+      "id": "marcusolsson-hourly-heatmap-panel",
+      "type": "panel",
+      "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel",
+      "versions": [
+        {
+          "version": "0.3.2",
+          "commit": "ca330878b6142d3657a08e22de41135c55f2b5d6",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
+        }
+      ]
+    },
+    {
+      "id": "marcusolsson-treemap-panel",
+      "type": "panel",
+      "url": "https://github.com/marcusolsson/grafana-treemap-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "f2ea6e9907a87bef6eb1a982d7ade3ff7cf16e75",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel"
         }
       ]
     }
