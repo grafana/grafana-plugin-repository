@@ -1390,6 +1390,17 @@
       "url": "https://github.com/briangann/grafana-datatable-panel",
       "versions": [
         {
+          "version": "1.0.2",
+          "commit": "21d0abb736d5d6b5fef1cf6459bcf5e112104dac",
+          "url": "https://github.com/briangann/grafana-datatable-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/briangann/grafana-datatable-panel/releases/download/v1.0.2/briangann-datatable-panel-1.0.2.zip",
+              "md5": "c009fc344bb338f8e42e9ccf43568d75"
+            }
+          }
+        },
+        {
           "version": "1.0.1",
           "commit": "98acd9dbe44447d26c9aa113c9dca4c6cb58c01c",
           "url": "https://github.com/briangann/grafana-datatable-panel",
