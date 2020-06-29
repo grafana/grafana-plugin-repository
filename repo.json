@@ -4146,6 +4146,17 @@
           "url": "https://github.com/Dalvany/dalvany-image-panel"
         }
       ]
+    },
+    {
+      "id": "tvarit-aws-s3",
+      "type": "datasource",
+      "versions": [
+        {
+          "version": "0.1",
+          "commit": "b938733aaaa39c721888c2e146b1d40e3c3e255f",
+          "url": "https://github.com/tvarit-foggy/grafana-s3-plugin"
+        }
+      ]
     }
   ]
 }
