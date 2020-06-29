@@ -4152,7 +4152,7 @@
       "type": "datasource",
       "versions": [
         {
-          "version": "0.1",
+          "version": "0.1.0",
           "commit": "f7bfa0418fb32d14bbfeb2aecb299336c093aad8",
           "url": "https://github.com/tvarit-foggy/grafana-s3-plugin"
         }
