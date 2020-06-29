@@ -4148,12 +4148,12 @@
       ]
     },
     {
-      "id": "tvarit-aws-s3",
+      "id": "tvarit-s3-datasource",
       "type": "datasource",
       "versions": [
         {
           "version": "0.1",
-          "commit": "b938733aaaa39c721888c2e146b1d40e3c3e255f",
+          "commit": "f7bfa0418fb32d14bbfeb2aecb299336c093aad8",
           "url": "https://github.com/tvarit-foggy/grafana-s3-plugin"
         }
       ]
