@@ -4160,7 +4160,7 @@
       ]
     },
     {
-      "id": "grafana-mongodb-atlas-datasource",
+      "id": "mongodb-atlas-datasource",
       "type": "datasource",
       "url": "https://github.com/capchriscap/grafana-mongodb-atlas-datasource",
       "versions": [
