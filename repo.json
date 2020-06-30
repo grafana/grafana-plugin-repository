@@ -4158,6 +4158,18 @@
           "url": "https://github.com/Dalvany/dalvany-image-panel"
         }
       ]
+    },
+    {
+      "id": "grafana-mongodb-atlas-datasource",
+      "type": "datasource",
+      "url": "https://github.com/valiton/grafana-mongodb-atlas-datasource",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "commit": "ff6c6e3674daf58061ad289bf5aacffdd3027122",
+          "url": "https://github.com/valiton/grafana-mongodb-atlas-datasource"
+        }
+      ]
     }
   ]
 }
