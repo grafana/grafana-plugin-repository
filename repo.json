@@ -4162,12 +4162,12 @@
     {
       "id": "mongodb-atlas-datasource",
       "type": "datasource",
-      "url": "https://github.com/capchriscap/grafana-mongodb-atlas-datasource",
+      "url": "https://github.com/valiton/grafana-mongodb-atlas-datasource",
       "versions": [
         {
           "version": "1.1.1",
-          "commit": "63c3c3c4029f830cc3df80c4acc6cd3966976efd",
-          "url": "https://github.com/capchriscap/grafana-mongodb-atlas-datasource"
+          "commit": "40ed80a67b6abc83fcd221cf98dd574a7f475857",
+          "url": "https://github.com/valiton/grafana-mongodb-atlas-datasource"
         }
       ]
     }
