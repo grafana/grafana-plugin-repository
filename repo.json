@@ -4166,7 +4166,7 @@
       "versions": [
         {
           "version": "1.1.1",
-          "commit": "75e27dddf9a384affd5be8e2d6918c1d06d4334f",
+          "commit": "573b976df31b5198ec750054019383b3eeb7f0da",
           "url": "https://github.com/capchriscap/grafana-mongodb-atlas-datasource"
         }
       ]
