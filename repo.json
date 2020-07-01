@@ -4163,6 +4163,17 @@
           "url": "https://github.com/Dalvany/dalvany-image-panel"
         }
       ]
+    },
+    {
+      "id": "mapbox-panel",
+      "type": "panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "6e140d175b8808deb8754405db946c6d31bbba5b",
+          "url": "https://github.com/ShayMoshe/grafana-mapbox-panel-plugin"
+        }
+      ]
     }
   ]
 }
