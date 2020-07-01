@@ -3564,6 +3564,11 @@
           "version": "1.0.1",
           "commit": "f3b7f57b34e36b6107e86a20abc9baa43868643e",
           "url": "https://github.com/cognitedata/cognite-grafana-datasource"
+        },
+        {
+          "version": "2.0.0",
+          "commit": "fbf4feeb10215a3ed04dd59d8f799bb5d293d707",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource"
         }
       ]
     },
