@@ -1,6 +1,19 @@
 {
   "plugins": [
     {
+      "id": "kcod-liregression",
+      "type": "panel",
+      "url": "https://github.com/ganadara135/liregression",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "18dbf0a90c5248b266bda2ca00ea748dff087103",
+          "url": "https://github.com/ganadara135/liregression"
+        }
+      ]
+    },
+    {
+      
       "id": "btplc-trend-box-panel",
       "type": "panel",
       "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box",
@@ -4107,28 +4120,7 @@
         }
       ]
     },
-    {
-      "id": "magnesium-wordcloud-panel",
-      "type": "panel",
-      "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "commit": "df3ced1fb733eb1cb7e078f339d2f7c52c48a144",
-          "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel"
-        }
-      ],
-      "id": "marcusolsson-hourly-heatmap-panel",
-      "type": "panel",
-      "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel",
-      "versions": [
-        {
-          "version": "0.3.2",
-          "commit": "ca330878b6142d3657a08e22de41135c55f2b5d6",
-          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
-        }
-      ]
-    },
+    
     {
       "id": "marcusolsson-treemap-panel",
       "type": "panel",
