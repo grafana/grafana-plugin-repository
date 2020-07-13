@@ -1390,6 +1390,17 @@
       "url": "https://github.com/briangann/grafana-datatable-panel",
       "versions": [
         {
+          "version": "1.0.2",
+          "commit": "21d0abb736d5d6b5fef1cf6459bcf5e112104dac",
+          "url": "https://github.com/briangann/grafana-datatable-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/briangann/grafana-datatable-panel/releases/download/v1.0.2/briangann-datatable-panel-1.0.2.zip",
+              "md5": "c009fc344bb338f8e42e9ccf43568d75"
+            }
+          }
+        },
+        {
           "version": "1.0.1",
           "commit": "98acd9dbe44447d26c9aa113c9dca4c6cb58c01c",
           "url": "https://github.com/briangann/grafana-datatable-panel",
@@ -2126,6 +2137,16 @@
         {
           "version": "1.9.5",
           "commit": "50d46ef5138f5b5d8098c1cbacc7f0d3f56e16a9",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "2.0.0",
+          "commit": "f60bdeac5aa45d43f2c9cdd186e160b855b0feca",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
+        },
+        {
+          "version": "2.0.1",
+          "commit": "7b73be0ab0dbc2db2bb3897b57a68af667a5eee1",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
@@ -3187,6 +3208,11 @@
           "version": "2.1.2",
           "commit": "287ff9293cb6c9ee09d993acc20dcef97e040eaa",
           "url": "https://github.com/ovh/ovh-warp10-datasource"
+        },
+        {
+          "version": "2.2.0",
+          "commit": "86f588ef709d820170fa71d8fd9c8a6cc9ef7d93",
+          "url": "https://github.com/ovh/ovh-warp10-datasource"
         }
       ]
     },
@@ -3417,6 +3443,11 @@
           "version": "2.0.4",
           "commit": "8118701b5d3b136de1bf1ae6b27aa1f0b589da8c",
           "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
+        },
+        {
+          "version": "2.1.0",
+          "commit": "8648728f9c818193a26d5561e2134b3d4eb4f6d7",
+          "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
         }
       ]
     },
@@ -3543,6 +3574,11 @@
           "version": "1.0.1",
           "commit": "f3b7f57b34e36b6107e86a20abc9baa43868643e",
           "url": "https://github.com/cognitedata/cognite-grafana-datasource"
+        },
+        {
+          "version": "2.0.0",
+          "commit": "fbf4feeb10215a3ed04dd59d8f799bb5d293d707",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource"
         }
       ]
     },
@@ -3612,6 +3648,11 @@
           "version": "1.0.7",
           "commit": "fbb51e5df3035bdc088a13362b869091633014ef",
           "url": "https://github.com/doitintl/bigquery-grafana"
+        },
+        {
+          "version": "1.0.8",
+          "commit": "d244fe87186d4ec2bffbe3fe0fb1c331fc63b60e",
+          "url": "https://github.com/doitintl/bigquery-grafana"
         }
       ]
     },
@@ -3645,6 +3686,31 @@
         {
           "version": "3.5.0",
           "commit": "28b492ccbbda8e6bccd51465a0f22b4cd4b216d6",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.6.0",
+          "commit": "0e6a9192428af807696a433f00aba52b3267e048",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.7.0",
+          "commit": "2aa391ea68eaed8b4284f8d6c8c98aafb27eabfd",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.8.0",
+          "commit": "f2650b35740ac28cb98c9cd2fe6d74d947adb194",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.8.1",
+          "commit": "3f081dac6163deb77c298cff589d8676fe79fff6",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.8.2",
+          "commit": "8713e9beff82cfae3863f1a43a84358cda18d9b8",
           "url": "https://github.com/bureau14/qdb-grafana-plugin"
         }
       ]
@@ -3912,6 +3978,11 @@
           "version": "1.4.0",
           "commit": "3da96b7b6e364d06e2752f1082f1e5791af4a840",
           "url": "https://github.com/devopsprodigy/kubegraf"
+        },
+        {
+          "version": "1.4.1",
+          "commit": "6e5e58e231f60b2b6136a9a6626453a7e7596475",
+          "url": "https://github.com/devopsprodigy/kubegraf"
         }
       ]
     },
@@ -4031,12 +4102,22 @@
       "versions": [
         {
           "version": "1.0.1",
-          "commit": "9b39310d7254d5bb4f2d28f9ca48320ac5df1140",
+          "commit": "291228ad93c6d8ff4763bc4f2027fe533755cc9c",
           "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
         }
       ]
     },
     {
+      "id": "magnesium-wordcloud-panel",
+      "type": "panel",
+      "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "df3ced1fb733eb1cb7e078f339d2f7c52c48a144",
+          "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel"
+        }
+      ],
       "id": "marcusolsson-hourly-heatmap-panel",
       "type": "panel",
       "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel",
@@ -4047,6 +4128,52 @@
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
+    },
+    {
+      "id": "marcusolsson-treemap-panel",
+      "type": "panel",
+      "url": "https://github.com/marcusolsson/grafana-treemap-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "f2ea6e9907a87bef6eb1a982d7ade3ff7cf16e75",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel"
+        }
+      ]
+    },
+    {
+      "id": "cloudspout-button-panel",
+      "type": "panel",
+      "url": "https://github.com/cloudspout/cloudspout-button-panel/",
+      "versions": [
+        {
+          "version": "7.0.3",
+          "commit": "b4b31939068a5c2fe1e67514fcaa34e43ca28f5c",
+          "url": "https://github.com/cloudspout/cloudspout-button-panel/"
+        }
+      ]
+    },
+    {
+      "id": "dalvany-image-panel",
+      "type": "panel",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "commit": "342ccfaa188aef5112f067fad5317d0c9504a102",
+          "url": "https://github.com/Dalvany/dalvany-image-panel"
+        },
+        {
+          "version": "2.1.0",
+          "commit": "3063c83128315bd0b49b793fb9fa761751028f0c",
+          "url": "https://github.com/Dalvany/dalvany-image-panel"
+        },
+        {
+          "version": "2.1.1",
+          "commit": "68e400abc134b1e724c055b56074d8b6a5ffd467",
+          "url": "https://github.com/Dalvany/dalvany-image-panel"
+        }
+      ]
     }
   ]
 }
+
