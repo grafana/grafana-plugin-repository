@@ -4178,7 +4178,18 @@
           "url": "https://github.com/Dalvany/dalvany-image-panel"
         }
       ]
+    },
+    {
+      "id": "redis-datasource",
+      "type": "datasource",
+      "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "ea950ca3bec8dd92e0edc7e71ea3c3554ffebae6",
+          "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource"
+        }
+      ]
     }
   ]
 }
-
