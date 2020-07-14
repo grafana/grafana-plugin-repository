@@ -614,6 +614,18 @@
       ]
     },
     {
+      "id": "conprof-datasource",
+      "type": "datasource",
+      "url": "https://github.com/yeya24/conprof-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "629d4e90fada4034e3afc045d77946b43c272acd",
+          "url": "https://github.com/yeya24/conprof-datasource"
+        }
+      ]
+    },
+    {
       "id": "grafana-kairosdb-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/kairosdb-datasource",
