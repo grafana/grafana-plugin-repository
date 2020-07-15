@@ -4183,6 +4183,17 @@
           "url": "https://github.com/Dalvany/dalvany-image-panel"
         }
       ]
+    },
+    {
+      "id": "flaminggoat-map-track-3-d",
+      "type": "panel",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "commit": "66803df800a0f9d172672d2c9bbbb06163fa9019",
+          "url": "https://github.com/flaminggoat/map-track-3-d"
+        }
+      ]
     }
   ]
 }
