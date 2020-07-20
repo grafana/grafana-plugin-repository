@@ -1,17 +1,6 @@
 {
   "plugins": [
-    {
-      "id": "kcod-liregression",
-      "type": "panel",
-      "url": "https://github.com/ganadara135/liregression",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "commit": "18dbf0a90c5248b266bda2ca00ea748dff087103",
-          "url": "https://github.com/ganadara135/liregression"
-        }
-      ]
-    },
+
     {
       
       "id": "btplc-trend-box-panel",
@@ -4163,6 +4152,18 @@
           "version": "2.1.1",
           "commit": "68e400abc134b1e724c055b56074d8b6a5ffd467",
           "url": "https://github.com/Dalvany/dalvany-image-panel"
+        }
+      ]
+    },
+    {
+      "id": "ganadara135-liregression",
+      "type": "panel",
+      "url": "https://github.com/ganadara135/liregression",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "b4a7bb0ea0c69a10ca868adefb42a27f51b77ad6",
+          "url": "https://github.com/ganadara135/liregression"
         }
       ]
     }
