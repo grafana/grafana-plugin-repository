@@ -4156,13 +4156,13 @@
       ]
     },
     {
-      "id": "ganadara135-liregression",
+      "id": "ganadara135-liregression-panel",
       "type": "panel",
       "url": "https://github.com/ganadara135/liregression",
       "versions": [
         {
-          "version": "1.0.1",
-          "commit": "b4a7bb0ea0c69a10ca868adefb42a27f51b77ad6",
+          "version": "1.0.2",
+          "commit": "d2aecc32c332b6e5872e21cf293022848c8ed4ca",
           "url": "https://github.com/ganadara135/liregression"
         }
       ]
