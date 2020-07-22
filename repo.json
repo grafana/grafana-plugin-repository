@@ -4195,12 +4195,12 @@
       ]
     },
     {
-      "id": "Clarity-89-finnhub-datasource",
+      "id": "clarity-89-finnhub-datasource",
       "type": "datasource",
       "versions": [
         {
-          "version": "0.1.0",
-          "commit": "77dc8714e571729511a8dfab6fd13b897135af40",
+          "version": "0.1.1",
+          "commit": "a1351a219916b52eecb0a4a05cd2de4c1ec21b39",
           "url": "https://github.com/Clarity-89/grafana-finnhub"
         }
       ]
