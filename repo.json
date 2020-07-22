@@ -4193,6 +4193,17 @@
           "url": "https://github.com/Dalvany/dalvany-image-panel"
         }
       ]
+    },
+    {
+      "id": "Clarity-89-finnhub-datasource",
+      "type": "datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "77dc8714e571729511a8dfab6fd13b897135af40",
+          "url": "https://github.com/Clarity-89/grafana-finnhub"
+        }
+      ]
     }
   ]
 }
