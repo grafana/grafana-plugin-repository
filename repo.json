@@ -4199,8 +4199,8 @@
       "type": "datasource",
       "versions": [
         {
-          "version": "0.1.1",
-          "commit": "a1351a219916b52eecb0a4a05cd2de4c1ec21b39",
+          "version": "0.1.0",
+          "commit": "ba415bd4146fef83ea453019354cd49cfcc13518",
           "url": "https://github.com/Clarity-89/grafana-finnhub"
         }
       ]
