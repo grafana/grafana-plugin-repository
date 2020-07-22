@@ -4170,6 +4170,11 @@
           "version": "7.0.3",
           "commit": "b4b31939068a5c2fe1e67514fcaa34e43ca28f5c",
           "url": "https://github.com/cloudspout/cloudspout-button-panel/"
+        },
+        {
+          "version": "7.0.4",
+          "commit": "0bdb76f61219a1ec515118fb49bff869d6867d5f",
+          "url": "https://github.com/cloudspout/cloudspout-button-panel/"
         }
       ]
     },
