@@ -341,6 +341,11 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.12.3",
+          "commit": "f84232e9c82f494d4c488c7d628c54ef30d84551",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.12.2",
           "commit": "793129b2d602b36b09dc64dab7ec6f5a6f7beb42",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
@@ -2846,6 +2851,11 @@
         {
           "version": "2.7.2",
           "commit": "53d25322428291db0cf0092a5671fa206a4caba6",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "2.7.3",
+          "commit": "caee8728cf5a389fd3795fab88a3fec9e118ed03",
           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
