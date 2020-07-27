@@ -4148,8 +4148,8 @@
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         },
         {
-          "version": "0.4.0",
-          "commit": "8987502a4bbe19680c57d25d5bdc18bea7ac2daf",
+          "version": "0.4.1",
+          "commit": "1a984378e6a5c7cc6a92e3554b19243a97d02a92",
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
@@ -4162,6 +4162,11 @@
         {
           "version": "0.1.0",
           "commit": "f2ea6e9907a87bef6eb1a982d7ade3ff7cf16e75",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel"
+        },
+        {
+          "version": "0.2.0",
+          "commit": "838257d2c353cb71f23c073af75ee3c62261fd96",
           "url": "https://github.com/marcusolsson/grafana-treemap-panel"
         }
       ]
