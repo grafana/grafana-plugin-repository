@@ -341,6 +341,11 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "3.12.4",
+          "commit": "309146fa6b001dc776acb250b8668eeac2db4f92",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+        },
+        {
           "version": "3.12.3",
           "commit": "f84232e9c82f494d4c488c7d628c54ef30d84551",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix"
@@ -4003,6 +4008,11 @@
           "version": "1.4.1",
           "commit": "6e5e58e231f60b2b6136a9a6626453a7e7596475",
           "url": "https://github.com/devopsprodigy/kubegraf"
+        },
+        {
+          "version": "1.4.2",
+          "commit": "dd00d1b7570c2f012e6fde1c734f51e5cf6f16c0",
+          "url": "https://github.com/devopsprodigy/kubegraf"
         }
       ]
     },
@@ -4146,6 +4156,11 @@
           "version": "0.3.2",
           "commit": "ca330878b6142d3657a08e22de41135c55f2b5d6",
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
+        },
+        {
+          "version": "0.4.1",
+          "commit": "1a984378e6a5c7cc6a92e3554b19243a97d02a92",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
     },
@@ -4157,6 +4172,11 @@
         {
           "version": "0.1.0",
           "commit": "f2ea6e9907a87bef6eb1a982d7ade3ff7cf16e75",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel"
+        },
+        {
+          "version": "0.2.0",
+          "commit": "838257d2c353cb71f23c073af75ee3c62261fd96",
           "url": "https://github.com/marcusolsson/grafana-treemap-panel"
         }
       ]
