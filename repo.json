@@ -4008,6 +4008,11 @@
           "version": "1.4.1",
           "commit": "6e5e58e231f60b2b6136a9a6626453a7e7596475",
           "url": "https://github.com/devopsprodigy/kubegraf"
+        },
+        {
+          "version": "1.4.2",
+          "commit": "dd00d1b7570c2f012e6fde1c734f51e5cf6f16c0",
+          "url": "https://github.com/devopsprodigy/kubegraf"
         }
       ]
     },
