@@ -4228,6 +4228,11 @@
           "version": "1.1.1",
           "commit": "0d79ba96fd6febca54d727391781e586230958ba",
           "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource"
+        },
+        {
+          "version": "1.1.2",
+          "commit": "1a5240a4a9a2f7e9defd73cb5b06856654647b2b",
+          "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource"
         }
       ]
     }
