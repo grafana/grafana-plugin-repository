@@ -3884,6 +3884,23 @@
           "url": "https://github.com/ae3e/ae3e-plotly-panel"
         }
       ]
+    },
+    {
+      "id": "ae3e-plotly-panel",
+      "type": "panel",
+      "url": "https://github.com/ae3e/ae3e-plotly-panel",
+      "versions": [
+        {
+          "version": "0.2.1",
+          "commit": "869abea8b30cc0af7a54bba5db9f2bfa627771a6",
+          "url": "https://github.com/ae3e/ae3e-plotly-panel"
+        },
+        {
+          "version": "0.1.0",
+          "commit": "7a483a844b859be9bd871b083ed59028be75d9dd",
+          "url": "https://github.com/ae3e/ae3e-plotly-panel"
+        }
+      ]
     }	   
   ]
 }
