@@ -2182,7 +2182,7 @@
         {
           "version": "2.0.5",
           "commit": "3bc06edb0e86e08378ab9bfed70f6a65e8ba1a02",
-          "url": "https://github.com/Vertamedia/clickhouse-grafana",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
     },
