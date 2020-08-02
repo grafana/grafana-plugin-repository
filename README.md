@@ -24,6 +24,10 @@ Here is an example snippet:
       },
       ...
 ```
+## pull request 시 참고사항
+1. CircleCI pipline 을 통해서 코딩 규칙 테스트 완료후 진행
+1. pull request 는 github.com 온라인 페이지에서 진행
+
 ## Developing a Plugin
 
 The Developing Plugins section in Grafana docs contains several articles about plugins. Start with these:
