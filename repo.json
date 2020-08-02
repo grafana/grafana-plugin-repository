@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "ganadara135-liregression-panel",
+      "type": "panel",
+      "url": "https://github.com/ganadara135/liregression",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "commit": "6f5f548181c3f090ee7dec92870514be67a0c80e",
+          "url": "https://github.com/ganadara135/liregression"
+        }
+      ]
+    },
+    {
       "id": "btplc-trend-box-panel",
       "type": "panel",
       "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box",
@@ -4228,18 +4240,6 @@
           "version": "1.1.1",
           "commit": "0d79ba96fd6febca54d727391781e586230958ba",
           "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource"
-        }
-      ]
-    },
-    {
-      "id": "ganadara135-liregression-panel",
-      "type": "panel",
-      "url": "https://github.com/ganadara135/liregression",
-      "versions": [
-        {
-          "version": "1.0.3",
-          "commit": "6f5f548181c3f090ee7dec92870514be67a0c80e",
-          "url": "https://github.com/ganadara135/liregression"
         }
       ]
     }
