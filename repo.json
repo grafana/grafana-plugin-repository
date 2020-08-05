@@ -4199,6 +4199,18 @@
       ]
     },
     {
+      "id": "marcusolsson-static-datasource",
+      "type": "datasource",
+      "url": "https://github.com/marcusolsson/grafana-static-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "3d4650d41a6de8ebd97a7e6ff124ace65b744503",
+          "url": "https://github.com/marcusolsson/grafana-static-datasource"
+        }
+      ]
+    },
+    {
       "id": "cloudspout-button-panel",
       "type": "panel",
       "url": "https://github.com/cloudspout/cloudspout-button-panel/",
