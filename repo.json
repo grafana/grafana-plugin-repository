@@ -4244,6 +4244,18 @@
           "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource"
         }
       ]
+    },
+    {
+      "id": "MASH",
+      "type": "panel",
+      "url": "https://github.com/oslabs-beta/MASH",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "834ad4644e50c2d9b742618983cbda910910621b",
+          "url": "https://github.com/oslabs-beta/MASH"
+        }
+      ]
     }
   ]
 }
