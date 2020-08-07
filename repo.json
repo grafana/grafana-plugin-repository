@@ -4269,6 +4269,17 @@
           "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource"
         }
       ]
+    },
+    {
+      "id": "clarity89-finnhub-datasource",
+      "type": "datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "75f163bf69d50763e3263523fdb90554efbf1031",
+          "url": "https://github.com/Clarity-89/grafana-finnhub"
+        }
+      ]
     }
   ]
 }
