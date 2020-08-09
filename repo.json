@@ -3992,8 +3992,8 @@
       "url": "https://github.com/speakyourcode/grafana-button-panel",
       "versions": [
         {
-          "version": "0.2.0",
-          "commit": "24fee48d36fb9d33c41457c9bf6d3731aa05dba8",
+          "version": "0.2.1",
+          "commit": "6056fccce893ab212ba06d55564c9ae61c46e254",
           "url": "https://github.com/speakyourcode/grafana-button-panel"
         }
       ]
