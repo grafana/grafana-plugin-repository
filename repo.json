@@ -4184,6 +4184,18 @@
       ]
     },
     {
+      "id": "marcusolsson-static-datasource",
+      "type": "datasource",
+      "url": "https://github.com/marcusolsson/grafana-static-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "3d4650d41a6de8ebd97a7e6ff124ace65b744503",
+          "url": "https://github.com/marcusolsson/grafana-static-datasource"
+        }
+      ]
+    },
+    {
       "id": "cloudspout-button-panel",
       "type": "panel",
       "url": "https://github.com/cloudspout/cloudspout-button-panel/",
@@ -4235,6 +4247,17 @@
           "version": "1.1.2",
           "commit": "1a5240a4a9a2f7e9defd73cb5b06856654647b2b",
           "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource"
+        }
+      ]
+    },
+    {
+      "id": "clarity89-finnhub-datasource",
+      "type": "datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "75f163bf69d50763e3263523fdb90554efbf1031",
+          "url": "https://github.com/Clarity-89/grafana-finnhub"
         }
       ]
     }
