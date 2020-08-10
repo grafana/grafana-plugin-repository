@@ -7,13 +7,16 @@ We review all plugins before they are published. This means that it may take som
 Here's a few things you can do to help us review your plugin faster.
 
 - Validate your plugin release with [this plugin validator](https://grafana-plugins-web-vgmmyppaka-lz.a.run.app/)
-- If needed, provide instructions on how to best test your plugin
+- Read the [Review Guidelines](http://docs.grafana.org/plugins/developing/plugin-review-guidelines/) before submitting your plugin. These guidelines determine if the plugin is ready to be published or not.
+- If possible, for datasource plugins please provide a description on how to set up a simple test environment. A docker container or simple install script helps speed up the review process a lot.
 
 To submit a plugin for review:
 
 1. Fork this repository
 1. Add your plugin to `repo.json`
 1. Create a pull request
+
+> **Note:** Commercial plugins require a plugin subscription to be published. Commercial plugin subscriptions help us fund continued development of our open source platform and software. See the [terms](https://grafana.com/terms) for more details.
 
 ## Add a plugin to `repo.json`
 
