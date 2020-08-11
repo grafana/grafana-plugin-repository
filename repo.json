@@ -4104,6 +4104,18 @@
       ]
     },
     {
+      "id": "thiagoarrais-matomotracking-panel",
+      "type": "panel",
+      "url": "https://github.com/thiagoarrais/grafana-matomo-tracking-panel",
+      "versions": [
+        {
+          "version": "0.2.2",
+          "commit": "1b334b8b0bd3b07909623dbdbdf560d969be0328",
+          "url": "https://github.com/thiagoarrais/grafana-matomo-tracking-panel"
+        }
+      ]
+    },
+    {
       "id": "grafana-strava-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/strava-datasource",
