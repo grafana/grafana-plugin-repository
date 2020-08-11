@@ -4163,6 +4163,11 @@
           "version": "0.4.1",
           "commit": "1a984378e6a5c7cc6a92e3554b19243a97d02a92",
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
+        },
+        {
+          "version": "0.5.0",
+          "commit": "772a07bfec70308e171d6a742f9ef6e8fac48431",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
     },
