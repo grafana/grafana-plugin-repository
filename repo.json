@@ -4265,6 +4265,18 @@
           "url": "https://github.com/Clarity-89/grafana-finnhub"
         }
       ]
+    },
+    {
+      "id": "williamvenner-timepickerbuttons-panel",
+      "type": "panel",
+      "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "a4a8a068c8b8001719e34ce05522677c461957b8",
+          "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons"
+        }
+      ]
     }
   ]
 }
