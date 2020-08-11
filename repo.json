@@ -5497,11 +5497,11 @@
     {
       "id": "geeksrus-mqtt-panel",
       "type": "panel",
-      "url": "https://https://github.com/geeks-r-us/mqtt-panel",
+      "url": "https://github.com/geeks-r-us/mqtt-panel",
       "versions": [
         {
-          "version": "1.0.3",
-          "commit": "aafa02c4c646fba28ae4daaaed2415019e71709f",
+          "version": "1.0.4",
+          "commit": "c51dd4da6fb36e39bab85f9a12855d3e22777347",
           "url": "https://github.com/geeks-r-us/mqtt-panel"
         }
       ]
