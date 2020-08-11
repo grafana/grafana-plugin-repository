@@ -4143,6 +4143,18 @@
       ]
     },
     {
+      "id": "speakyourcode-button-panel",
+      "type": "panel",
+      "url": "https://github.com/speakyourcode/grafana-button-panel",
+      "versions": [
+        {
+          "version": "0.2.1",
+          "commit": "6056fccce893ab212ba06d55564c9ae61c46e254",
+          "url": "https://github.com/speakyourcode/grafana-button-panel"
+        }
+      ]
+    },
+    {
       "id": "magnesium-wordcloud-panel",
       "type": "panel",
       "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel",
