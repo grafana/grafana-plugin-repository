@@ -4299,6 +4299,18 @@
           "url": "https://github.com/Clarity-89/grafana-finnhub"
         }
       ]
+    },
+    {
+      "id": "factrylabs-untimely-panel",
+      "type": "panel",
+      "url": "https://github.com/factrylabs/untimely-grafana-panel",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "commit": "78fb7a9c1622a632721a14838dc5005f8aabcd90",
+          "url": "https://github.com/factrylabs/untimely-grafana-panel"
+        }
+      ]
     }
   ]
 }
