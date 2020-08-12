@@ -5500,8 +5500,8 @@
       "url": "https://github.com/geeks-r-us/mqtt-panel",
       "versions": [
         {
-          "version": "1.0.4",
-          "commit": "c51dd4da6fb36e39bab85f9a12855d3e22777347",
+          "version": "1.0.5",
+          "commit": "c3300c9e5859151c73884b73e35af86128d20305",
           "url": "https://github.com/geeks-r-us/mqtt-panel"
         }
       ]
