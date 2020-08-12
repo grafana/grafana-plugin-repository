@@ -4064,6 +4064,11 @@
           "version": "1.0.0",
           "commit": "6fd3810d99fde01b76521d5a129d2e82134df244",
           "url": "https://github.com/MacroPower/macropower-analytics-panel"
+        },
+        {
+          "version": "1.1.1",
+          "commit": "fb38ba704e582b2cefd3d2efea837ca9fc865af3",
+          "url": "https://github.com/MacroPower/macropower-analytics-panel"
         }
       ]
     },
