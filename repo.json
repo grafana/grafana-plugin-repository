@@ -4033,7 +4033,7 @@
       "versions": [
         {
           "version": "0.2.1",
-          "commit": "751bc0beb2a08137c0b72880d0806ccd75a57983",
+          "commit": "e1d3a78a3b80294c2320c917ecc7eebff7cfdee2",
           "url": "https://github.com/inkode-it/thredds-panel"
         }
       ]
