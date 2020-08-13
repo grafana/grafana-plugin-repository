@@ -2170,28 +2170,8 @@
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
         },
         {
-          "version": "2.0.3",
-          "commit": "a02221e32a4ee24c57271f8a9d54d9f218113f86",
-          "url": "https://github.com/Vertamedia/clickhouse-grafana"
-        },
-        {
-          "version": "2.0.4",
-          "commit": "f340426c950b954dfe34a1f20f5fc0f24f7cf927",
-          "url": "https://github.com/Vertamedia/clickhouse-grafana"
-        },
-        {
-          "version": "2.0.5",
-          "commit": "3bc06edb0e86e08378ab9bfed70f6a65e8ba1a02",
-          "url": "https://github.com/Vertamedia/clickhouse-grafana"
-        },
-        {
-          "version": "2.0.6",
-          "commit": "a7a610f0c5cbd538dc00bf5eed89ef0739a11664",
-          "url": "https://github.com/Vertamedia/clickhouse-grafana"
-        },
-        {
-          "version": "2.0.7",
-          "commit": "077cd7958ed28bba6fae9239917731b317f76898",
+          "version": "2.1.0",
+          "commit": "bcee398e90e5f3ddb1140034c9f436b1b399a158",
           "url": "https://github.com/Vertamedia/clickhouse-grafana"
         }
       ]
