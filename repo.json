@@ -12,7 +12,7 @@
         },
         {
           "version": "0.0.3",
-          "commit": "b5d087b8741334d85604206f9aaa2ca3d31fec79",
+          "commit": "b5d087b8741334d85604206f9aaa2ca3d31fec79", 
           "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
         },
         {
@@ -2481,6 +2481,11 @@
           "version": "1.1.0",
           "commit": "0d2ee17f7dd7516affec5b1eca502d1bc1e2d212",
           "url": "https://github.com/digrich/bubblechart-panel"
+        },
+        {
+          "version": "1.2.0",
+          "commit": "e14aad17824bdd4c995514b0d94c5cd9532d5cc5",
+          "url": "https://github.com/digrich/bubblechart-panel"
         }
       ]
     },
@@ -4084,6 +4089,11 @@
           "version": "1.0.0",
           "commit": "6fd3810d99fde01b76521d5a129d2e82134df244",
           "url": "https://github.com/MacroPower/macropower-analytics-panel"
+        },
+        {
+          "version": "1.1.1",
+          "commit": "fb38ba704e582b2cefd3d2efea837ca9fc865af3",
+          "url": "https://github.com/MacroPower/macropower-analytics-panel"
         }
       ]
     },
@@ -4120,6 +4130,18 @@
           "version": "0.0.1",
           "commit": "b67e58c0dc956e9d51e87dcbc96bb809c67e285c",
           "url": "https://github.com/aidanmountford/aidanmountford-html-panel"
+        }
+      ]
+    },
+    {
+      "id": "thiagoarrais-matomotracking-panel",
+      "type": "panel",
+      "url": "https://github.com/thiagoarrais/grafana-matomo-tracking-panel",
+      "versions": [
+        {
+          "version": "0.2.2",
+          "commit": "1b334b8b0bd3b07909623dbdbdf560d969be0328",
+          "url": "https://github.com/thiagoarrais/grafana-matomo-tracking-panel"
         }
       ]
     },
@@ -4163,6 +4185,18 @@
       ]
     },
     {
+      "id": "speakyourcode-button-panel",
+      "type": "panel",
+      "url": "https://github.com/speakyourcode/grafana-button-panel",
+      "versions": [
+        {
+          "version": "0.2.1",
+          "commit": "6056fccce893ab212ba06d55564c9ae61c46e254",
+          "url": "https://github.com/speakyourcode/grafana-button-panel"
+        }
+      ]
+    },
+    {
       "id": "magnesium-wordcloud-panel",
       "type": "panel",
       "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel",
@@ -4170,6 +4204,11 @@
         {
           "version": "1.0.0",
           "commit": "df3ced1fb733eb1cb7e078f339d2f7c52c48a144",
+          "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel"
+        },
+        {
+          "version": "1.1.3",
+          "commit": "e188d5ffacb4f266d2f92f50a9bbe8701f10926d",
           "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel"
         }
       ]
@@ -4187,6 +4226,11 @@
         {
           "version": "0.4.1",
           "commit": "1a984378e6a5c7cc6a92e3554b19243a97d02a92",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
+        },
+        {
+          "version": "0.5.0",
+          "commit": "772a07bfec70308e171d6a742f9ef6e8fac48431",
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
@@ -4228,6 +4272,11 @@
         {
           "version": "7.0.3",
           "commit": "b4b31939068a5c2fe1e67514fcaa34e43ca28f5c",
+          "url": "https://github.com/cloudspout/cloudspout-button-panel/"
+        },
+        {
+          "version": "7.0.4",
+          "commit": "0bdb76f61219a1ec515118fb49bff869d6867d5f",
           "url": "https://github.com/cloudspout/cloudspout-button-panel/"
         }
       ]
@@ -4278,6 +4327,18 @@
           "version": "0.1.0",
           "commit": "75f163bf69d50763e3263523fdb90554efbf1031",
           "url": "https://github.com/Clarity-89/grafana-finnhub"
+        }
+      ]
+    },
+    {
+      "id": "factrylabs-untimely-panel",
+      "type": "panel",
+      "url": "https://github.com/factrylabs/untimely-grafana-panel",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "commit": "78fb7a9c1622a632721a14838dc5005f8aabcd90",
+          "url": "https://github.com/factrylabs/untimely-grafana-panel"
         }
       ]
     }
