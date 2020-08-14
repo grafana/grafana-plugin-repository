@@ -4820,6 +4820,17 @@
       ]
     },
     {
+      "id": "taosdata-tdengine-datasource",
+      "type": "datasource",
+      "versions": [
+          {
+            "version": "2.0.0",
+            "commit": "3dfed23bf803484ef1faa21af155d4aed81d5e12",
+            "url": "https://github.com/taosdata/grafanaplugin"
+          }
+      ]
+    },
+    {
       "id": "factrylabs-untimely-panel",
       "type": "panel",
       "url": "https://github.com/factrylabs/untimely-grafana-panel",
