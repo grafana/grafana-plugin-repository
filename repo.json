@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "ace-iot-solutions-aceiot-svg-react",
+      "type": "panel",
+      "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "b324e3de05b56d771420b10c46e629451a2451f0",
+          "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react"
+        }
+      ]
+    },
+    {
       "id": "btplc-trend-box-panel",
       "type": "panel",
       "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box",
