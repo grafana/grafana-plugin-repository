@@ -1,13 +1,13 @@
 {
   "plugins": [
     {
-      "id": "ace-iot-solutions-ace-svg-panel",
+      "id": "aceiot-svg-panel",
       "type": "panel",
       "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
       "versions": [
         {
-          "version": "0.0.3",
-          "commit": "19de692f84b0b2b44e0881d75ba602756eb46d96",
+          "version": "0.0.4",
+          "commit": "3da70a4921d4eb448d75652c0629722f935610fb",
           "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react"
         }
       ]
