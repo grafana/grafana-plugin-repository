@@ -4341,6 +4341,18 @@
           "url": "https://github.com/factrylabs/untimely-grafana-panel"
         }
       ]
+    },
+    {
+      "id": "fifemon-graphql-datasource",
+      "type": "datasource",
+      "url": "https://github.com/fifemon/graphql-datasource",
+      "versions": [
+        {
+          "version": "1.1.3",
+          "commit": "d0c0fbd29b75caa761ce0b55032e4196e55532c1",
+          "url": "https://github.com/fifemon/graphql-datasource"
+        }
+      ]
     }
   ]
 }
