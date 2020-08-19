@@ -1,13 +1,13 @@
 {
   "plugins": [
     {
-      "id": "novatec-service-dependency-graph-panel",
+      "id": "novatec-sdg-panel",
       "type": "panel",
       "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
       "versions": [
         {
           "version": "2.3.0",
-          "commit": "c5792d21a1e084933eb7270f3783aaa1172c47da",
+          "commit": "1d29af857c071ceecc80257621697f2d2ba1b7a9",
           "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel"
         }
       ]
