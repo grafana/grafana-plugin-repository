@@ -12,7 +12,7 @@
         },
         {
           "version": "0.0.3",
-          "commit": "b5d087b8741334d85604206f9aaa2ca3d31fec79", 
+          "commit": "b5d087b8741334d85604206f9aaa2ca3d31fec79",
           "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
         },
         {
@@ -2871,6 +2871,11 @@
         {
           "version": "2.7.3",
           "commit": "caee8728cf5a389fd3795fab88a3fec9e118ed03",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "3.0.0",
+          "commit": "e01d51d5876037a10e57c7ceb60a14a868936975",
           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
