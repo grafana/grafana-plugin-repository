@@ -4355,7 +4355,7 @@
       ]
     },
     {
-      "id": "gowee-traceroute-map-panel",
+      "id": "gowee-traceroutemap-panel",
       "type": "panel",
       "url": "https://github.com/Gowee/traceroute-map-panel",
       "versions": [
