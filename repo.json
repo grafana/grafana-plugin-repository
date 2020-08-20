@@ -4825,7 +4825,7 @@
       "versions": [
           {
             "version": "2.0.0",
-            "commit": "3dfed23bf803484ef1faa21af155d4aed81d5e12",
+            "commit": "d598db167eb256fe67409b7bb3d0eb7fffc3ff8c",
             "url": "https://github.com/taosdata/grafanaplugin"
           }
       ]
