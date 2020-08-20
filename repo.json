@@ -4358,6 +4358,18 @@
           "url": "https://github.com/fifemon/graphql-datasource"
         }
       ]
+    },
+    {
+      "id": "gowee-traceroutemap-panel",
+      "type": "panel",
+      "url": "https://github.com/Gowee/traceroute-map-panel",
+      "versions": [
+        {
+          "version": "0.2.3",
+          "commit": "a59eb13ec63150a1478c325ba976f47bd37b0902",
+          "url": "https://github.com/Gowee/traceroute-map-panel"
+        }
+      ]
     }
   ]
 }
