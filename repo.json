@@ -4202,6 +4202,18 @@
       ]
     },
     {
+      "id": "yeya24-chaosmesh-datasource",
+      "type": "datasource",
+      "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
+      "versions": [
+        {
+          "version": "0.1.2",
+          "commit": "d3c31654725fad4efdee98dee5825093763e43a0",
+          "url": "https://github.com/chaos-mesh/chaos-mesh-datasource"
+        }
+      ]
+    },
+    {
       "id": "magnesium-wordcloud-panel",
       "type": "panel",
       "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel",
