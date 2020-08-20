@@ -9,6 +9,11 @@
           "version": "0.0.5",
           "commit": "15f53ed93239929aa010a26e4de66c5d3b821f95",
           "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react"
+        },
+        {
+          "version": "0.0.6",
+          "commit": "142b26f8b7f1906cdba8d8d62bf0044be0c6dec6",
+          "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react"
         }
       ]
     },
