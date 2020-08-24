@@ -4582,6 +4582,18 @@
           "url": "https://github.com/innius/grafana-video-panel"
         }
       ]
+    },
+    {
+      "id": "questdb-datasource",
+      "type": "datasource",
+      "url": "https://github.com/questdb/grafana-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "01b0f2053426e2515a5c59cc1704b70578e9a9b6",
+          "url": "https://github.com/questdb/grafana-datasource"
+        }
+      ]
     }
   ]
 }
