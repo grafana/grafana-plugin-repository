@@ -4210,17 +4210,12 @@
       }]
     },
     {
-      "id": "sunburst-sunburst",
+      "id": "sunburst-grafana-panel",
       "type": "panel",
       "url": "https://github.com/Dikshita25/sunburst-grafana-plugin",
       "versions": [{
-          "version": "1.0.0",
-          "commit": "72b2330d5446bb0a29c63d124349c8e8f5e9fc76",
-          "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
-        },
-        {
           "version": "1.0.1",
-          "commit": "b6a8d92b3435a123a8265f332acfceb7ec99dbc8",
+          "commit": "97ed56b98f1974594a8b6e50ea7c116737a5e3ca",
           "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
         }
       ]
