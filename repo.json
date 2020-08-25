@@ -4389,8 +4389,8 @@
       "url": "https://github.com/Dikshita25/sunburst-grafana-plugin",
       "versions": [
         {
-          "version": "1.0.0",
-          "commit": "72b2330d5446bb0a29c63d124349c8e8f5e9fc76",
+          "version": "1.0.1",
+          "commit": "60ae3fd078cf714887be2d0d6b2628b20dee36da",
           "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
         }
       ]
