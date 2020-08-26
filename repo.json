@@ -3812,6 +3812,11 @@
           "version": "3.9.0",
           "commit": "8cddf819d030d4eb168fd980842fca046fd712ae",
           "url": "https://github.com/bureau14/qdb-grafana-plugin"
+        },
+        {
+          "version": "3.9.1",
+          "commit": "d9bd5bd6439f5b298ffaedb21896ac2d5a4eb359",
+          "url": "https://github.com/bureau14/qdb-grafana-plugin"
         }
       ]
     },
