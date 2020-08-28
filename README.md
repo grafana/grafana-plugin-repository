@@ -56,15 +56,6 @@ Here's an example of a plugin release:
 
 ## Resources
 
-| Property | Description |
-| ------------- |-------------|
-| id | uniqe name of the plugin. Should not contain whitespaces |
-| type | panel/datasource/app |
-| name | Human readable name of the plugin |
-| info.description | Description of plugin. Used for searching grafana net plugins |
-| info.author | |
-| info.keywords | plugin keywords. Used for search on grafana net|
-| info.logos | link to project logos |
-| info.version | project version of this commit. Must be semver |
-| dependencies.grafanaVersion | Required grafana backend version for this plugin |
-| dependencies.plugins | required plugins for this plugin. |
+- [Plugin Development](https://grafana.com/docs/grafana/latest/developers/plugins/)
+- [Create a plugin release](https://grafana.com/tutorials/build-a-panel-plugin/#8)
+- [plugin.json Schema](https://grafana.com/docs/grafana/latest/developers/plugins/metadata/)
