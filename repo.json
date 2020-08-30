@@ -4326,6 +4326,11 @@
           "version": "2.1.1",
           "commit": "68e400abc134b1e724c055b56074d8b6a5ffd467",
           "url": "https://github.com/Dalvany/dalvany-image-panel"
+        },
+        {
+          "version": "2.2.0",
+          "commit": "408f6a5ab93bebf41d42ccec3e83f68714d2986b",
+          "url": "https://github.com/Dalvany/dalvany-image-panel"
         }
       ]
     },
