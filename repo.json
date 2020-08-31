@@ -7,7 +7,7 @@
       "versions": [
         {
           "version": "2.3.0",
-          "commit": "9527da2de82492437e1f83d834140561aaaf9490",
+          "commit": "7d49605338a53314d2dd8bd4508199aca56e2e38",
           "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel"
         }
       ]
