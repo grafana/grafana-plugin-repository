@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "novatec-sdg-panel",
+      "type": "panel",
+      "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
+      "versions": [
+        {
+          "version": "2.3.0",
+          "commit": "7d49605338a53314d2dd8bd4508199aca56e2e38",
+          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel"
+        }
+      ]
+    },
+    {
       "id": "btplc-trend-box-panel",
       "type": "panel",
       "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box",
