@@ -4478,6 +4478,18 @@
           "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
         }
       ]
+    },
+    {
+      "id": "sensu-sensugo-datasource",
+      "type": "datasource",
+      "url": "https://github.com/sensu/grafana-sensu-go-datasource",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "commit": "95373f26b9f839db21278f4ef5fd0130832b3ebc",
+          "url": "https://github.com/sensu/grafana-sensu-go-datasource"
+        }
+      ]
     }
   ]
 }
