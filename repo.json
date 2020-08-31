@@ -7,11 +7,10 @@
       "versions": [
         {
           "version": "2.3.0",
-          "commit": "968267e85c5c3bbd1dd87d367123c9d57c60ad4f",
+          "commit": "9527da2de82492437e1f83d834140561aaaf9490",
           "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel"
         }
       ]
-
     },
     {
       "id": "btplc-trend-box-panel",
