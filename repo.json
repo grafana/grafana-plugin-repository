@@ -4416,6 +4416,18 @@
           "url": "https://github.com/Gowee/traceroute-map-panel"
         }
       ]
+    },
+    {
+      "id": "williamvenner-timepickerbuttons-panel",
+      "type": "panel",
+      "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "commit": "6f6fc202352249f18246b1db6b26d14280024d5d",
+          "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons"
+        }
+      ]
     }
   ]
 }
