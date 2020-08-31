@@ -4421,6 +4421,11 @@
           "url": "https://github.com/Gowee/traceroute-map-panel"
         }
       ]
+    },
+    {
+      "id": "grafana-jira-datasource",
+      "type": "datasource",
+      "url": "https://github.com/grafana/jira-datasource"
     }
   ]
 }
