@@ -4304,6 +4304,18 @@
       ]
     },
     {
+      "id": "marcusolsson-dynamictext-panel",
+      "type": "panel",
+      "url": "https://github.com/marcusolsson/grafana-dynamictext-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "bf3e8b02e700707be0aff16b0aa046a6c2c176c7",
+          "url": "https://github.com/marcusolsson/grafana-dynamictext-panel"
+        }
+      ]
+    },
+    {
       "id": "cloudspout-button-panel",
       "type": "panel",
       "url": "https://github.com/cloudspout/cloudspout-button-panel/",
