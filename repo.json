@@ -13,6 +13,18 @@
       ]
     },
     {
+      "id": "novatec-sdg-panel",
+      "type": "panel",
+      "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
+      "versions": [
+        {
+          "version": "2.3.0",
+          "commit": "7d49605338a53314d2dd8bd4508199aca56e2e38",
+          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel"
+        }
+      ]
+    },
+    {
       "id": "btplc-trend-box-panel",
       "type": "panel",
       "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box",
@@ -24,7 +36,7 @@
         },
         {
           "version": "0.0.3",
-          "commit": "b5d087b8741334d85604206f9aaa2ca3d31fec79", 
+          "commit": "b5d087b8741334d85604206f9aaa2ca3d31fec79",
           "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box"
         },
         {
@@ -352,6 +364,17 @@
       "type": "app",
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
+        {
+          "version": "4.0.0",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+          "commit": "eda67fdf687c0105d9555d50c8bf6bb482a5aab1",
+          "download": {
+            "any": {
+              "url": "https://github.com/alexanderzobnin/grafana-zabbix/releases/download/v4.0.0/grafana-zabbix-4.0.0.zip",
+              "md5": "4b97e5a38b8d13af4be4f910782dea6a"
+            }
+          }
+        },
         {
           "version": "3.12.4",
           "commit": "309146fa6b001dc776acb250b8668eeac2db4f92",
@@ -2884,6 +2907,11 @@
           "version": "2.7.3",
           "commit": "caee8728cf5a389fd3795fab88a3fec9e118ed03",
           "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "3.0.0",
+          "commit": "e01d51d5876037a10e57c7ceb60a14a868936975",
+          "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
     },
@@ -3248,6 +3276,11 @@
           "version": "0.2.0",
           "commit": "1e7ef33b67eafedd24bbc42b9bb5a2c18338f16e",
           "url": "https://github.com/flant/grafana-statusmap"
+        },
+        {
+          "version": "0.3.2",
+          "commit": "9a2e4a394ee343de17f931bf64969e5ba4b86e5a",
+          "url": "https://github.com/flant/grafana-statusmap"
         }
       ]
     },
@@ -3392,6 +3425,11 @@
         {
           "version": "1.4.0",
           "commit": "20b6f3a04e49b32c8d3ca66796426eff83738f1b",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
+        },
+        {
+          "version": "1.4.1",
+          "commit": "eb7c20fe699a0cbb84a6e37a8039ec7bfca9afb8",
           "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
         }
       ]
@@ -3635,6 +3673,11 @@
         {
           "version": "2.0.0",
           "commit": "fbf4feeb10215a3ed04dd59d8f799bb5d293d707",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource"
+        },
+        {
+          "version": "2.0.1",
+          "commit": "c340d34239cdae7b2b4d84ccf2dccef4095a4460",
           "url": "https://github.com/cognitedata/cognite-grafana-datasource"
         }
       ]
@@ -4199,6 +4242,18 @@
       ]
     },
     {
+      "id": "yeya24-chaosmesh-datasource",
+      "type": "datasource",
+      "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
+      "versions": [
+        {
+          "version": "0.1.2",
+          "commit": "d3c31654725fad4efdee98dee5825093763e43a0",
+          "url": "https://github.com/chaos-mesh/chaos-mesh-datasource"
+        }
+      ]
+    },
+    {
       "id": "magnesium-wordcloud-panel",
       "type": "panel",
       "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel",
@@ -4267,6 +4322,18 @@
       ]
     },
     {
+      "id": "marcusolsson-dynamictext-panel",
+      "type": "panel",
+      "url": "https://github.com/marcusolsson/grafana-dynamictext-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "bf3e8b02e700707be0aff16b0aa046a6c2c176c7",
+          "url": "https://github.com/marcusolsson/grafana-dynamictext-panel"
+        }
+      ]
+    },
+    {
       "id": "cloudspout-button-panel",
       "type": "panel",
       "url": "https://github.com/cloudspout/cloudspout-button-panel/",
@@ -4318,6 +4385,17 @@
           "version": "1.1.1",
           "commit": "0d79ba96fd6febca54d727391781e586230958ba",
           "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource"
+        },
+        {
+          "version": "1.2.0",
+          "commit": "d05843bdb268bbbf0b0b933d7ffaebfab66a7084",
+          "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource",
+          "download": {
+            "any": {
+              "url": "https://storage.googleapis.com/plugins-community/redis-datasource/release/1.2.0/redis-datasource-1.2.0.zip",
+              "md5": "db046e55c50ae6bd70c04b82516718b9"
+            }
+          }
         }
       ]
     },
@@ -4341,6 +4419,30 @@
           "version": "0.1.1",
           "commit": "78fb7a9c1622a632721a14838dc5005f8aabcd90",
           "url": "https://github.com/factrylabs/untimely-grafana-panel"
+        }
+      ]
+    },
+    {
+      "id": "fifemon-graphql-datasource",
+      "type": "datasource",
+      "url": "https://github.com/fifemon/graphql-datasource",
+      "versions": [
+        {
+          "version": "1.1.3",
+          "commit": "d0c0fbd29b75caa761ce0b55032e4196e55532c1",
+          "url": "https://github.com/fifemon/graphql-datasource"
+        }
+      ]
+    },
+    {
+      "id": "gowee-traceroutemap-panel",
+      "type": "panel",
+      "url": "https://github.com/Gowee/traceroute-map-panel",
+      "versions": [
+        {
+          "version": "0.2.3",
+          "commit": "a59eb13ec63150a1478c325ba976f47bd37b0902",
+          "url": "https://github.com/Gowee/traceroute-map-panel"
         }
       ]
     }
