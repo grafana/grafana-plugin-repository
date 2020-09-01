@@ -3880,7 +3880,7 @@
       "versions": [
         {
           "version": "0.2.1",
-          "commit": "95b0b28ae01baab35703fff8c59f41de309c22bb",
+          "commit": "c5576cc7559694d62a684ebd501bf7d91540c335",
           "url": "https://github.com/ae3e/ae3e-plotly-panel"
         }
       ]
