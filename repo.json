@@ -365,6 +365,17 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "4.0.1",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+          "commit": "a0d57ee8d1e07756bf7248411fdf00536368df52",
+          "download": {
+            "any": {
+              "url": "https://github.com/alexanderzobnin/grafana-zabbix/releases/download/v4.0.1/alexanderzobnin-zabbix-app-4.0.1.zip",
+              "md5": "9120fa38d5bec810758c44c356942974"
+            }
+          }
+        },
+        {
           "version": "4.0.0",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix",
           "commit": "eda67fdf687c0105d9555d50c8bf6bb482a5aab1",
