@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "skd-my-plugin",
+      "type": "panel",
+      "url": "https://github.com/tarunpatelskd/myplugin",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "c914fb07c6483073a917c424955b097e2d3e4fe6",
+          "url": "https://github.com/tarunpatelskd/myplugin"
+        }
+      ]
+    },
+    {
       "id": "aceiot-svg-panel",
       "type": "panel",
       "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
