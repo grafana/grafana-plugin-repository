@@ -4466,6 +4466,18 @@
           "url": "https://github.com/Gowee/traceroute-map-panel"
         }
       ]
+    },
+    {
+      "id": "dikshitashirodkar25-sunburst-panel",
+      "type": "panel",
+      "url": "https://github.com/Dikshita25/sunburst-grafana-plugin",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "6d372df203078cb36462af0309c3b92501aa3f23",
+          "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
+        }
+      ]
     }
   ]
 }
