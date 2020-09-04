@@ -4342,7 +4342,7 @@
         },
         {
           "version": "0.4.0",
-          "commit": "81bebb963691a3bce09de9349e2868bb393e5043",
+          "commit": "8217cb0291580d7f7d48e925269f47fc4a5a44e9",
           "url": "https://github.com/marcusolsson/grafana-static-datasource"
         }
       ]
