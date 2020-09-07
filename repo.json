@@ -4478,6 +4478,18 @@
           "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
         }
       ]
+    },
+    {
+      "id": "yesoreyeram-infinity-datasource",
+      "type": "datasource",
+      "url": "https://github.com/yesoreyeram/grafana-infinity-datasource",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "9254a556ffb4d95f88a3fb545b3c703f91f255af",
+          "url": "https://github.com/yesoreyeram/grafana-infinity-datasource"
+        }
+      ]
     }
   ]
 }
