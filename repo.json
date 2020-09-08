@@ -4970,6 +4970,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "groonga-datasource",
+      "type": "datasource",
+      "url": "https://github.com/groonga/grafana-datasource-plugin-groonga",
+      "versions": [
+	{
+	  "version": "1.1.4",
+	  "commit": "d38efc809f84606b9a8343bc9b082733a4a23132",
+	  "url": "https://github.com/groonga/grafana-datasource-plugin-groonga",
+	  "download": {
+	    "any": {
+	      "url": "https://github.com/groonga/grafana-datasource-plugin-groonga/releases/download/1.1.4/groonga-datasource-1.1.4.zip",
+	      "md5": "f4fb0862c4c9a68f0cb07957117ee4d2"
+	    }
+	  }
+	}
+      ]
     }
   ]
 }
