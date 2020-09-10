@@ -4485,8 +4485,8 @@
       "url": "https://github.com/yesoreyeram/grafana-infinity-datasource",
       "versions": [
         {
-          "version": "0.0.1",
-          "commit": "9254a556ffb4d95f88a3fb545b3c703f91f255af",
+          "version": "0.1.0",
+          "commit": "6ff0397862b4327d60698d3fd146b94e21b9b455",
           "url": "https://github.com/yesoreyeram/grafana-infinity-datasource"
         }
       ]
