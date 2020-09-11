@@ -3107,7 +3107,7 @@
       ]
     },
     {
-      "id": "grafana-svg-panel",
+      "id": "snuids-grafana-svg-panel",
       "type": "panel",
       "url": "https://github.com/snuids/grafana-svg-panel",
       "versions": [
