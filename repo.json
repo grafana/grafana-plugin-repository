@@ -4489,5 +4489,18 @@
         }
       ]
     }
+    ,
+    {
+      "id": "snuids-grafana-svg-panel",
+      "type": "panel",
+      "url": "https://github.com/snuids/grafana-svg-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "65aee5698900da36065dab2ddfd9dcd6347ecb33",
+          "url": "https://github.com/snuids/grafana-svg-panel"
+        }
+      ]
+    }
   ]
 }
