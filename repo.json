@@ -4499,8 +4499,8 @@
       "type": "panel",
       "versions": [
         {
-          "version": "0.1.2",
-          "commit": "d7ddf2fda46ba9b4d2b367f8298f20d71caf3ecb",
+          "version": "0.1.3",
+          "commit": "d48778123e75f52bda97637bdda6145c80155d16",
           "url": "https://github.com/flaminggoat/map-track-3-d"
         }
       ]
