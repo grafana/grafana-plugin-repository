@@ -510,23 +510,6 @@
       ]
     },
     {
-      "id": "grafana-example-app",
-      "type": "app",
-      "url": "https://github.com/grafana/example-app",
-      "versions": [
-        {
-          "version": "1.0.1",
-          "commit": "30c060fa52b283852d8ff21f60e0bd07f71286bc",
-          "url": "https://github.com/grafana/example-app"
-        },
-        {
-          "version": "1.0.0",
-          "commit": "ded70ca13975edfae792d31ccbcca5f1a78357c8",
-          "url": "https://github.com/grafana/example-app"
-        }
-      ]
-    },
-    {
       "id": "grafana-piechart-panel",
       "type": "panel",
       "url": "https://github.com/grafana/piechart-panel",
