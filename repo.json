@@ -4498,6 +4498,8 @@
           "version": "1.7.1",
           "commit": "ff8b5de99afa7de7e7d8e361e055faeb63918055",
           "url": "https://github.com/vsergeyev/loudml-grafana-app"
+        }
+      ]
     }
   ]
 }
