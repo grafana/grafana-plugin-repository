@@ -1,7 +1,7 @@
 {
   "plugins": [
     {
-      "id": "pareto-chart-panel",
+      "id": "pareto-chart",
       "type": "panel",
       "url": "https://github.com/isaozler/pareto-chart",
       "versions": [
