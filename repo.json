@@ -1,13 +1,13 @@
 {
   "plugins": [
     {
-      "id": "pareto-chart",
+      "id": "io-pareto-chart",
       "type": "panel",
       "url": "https://github.com/isaozler/pareto-chart",
       "versions": [
         {
           "version": "0.0.1",
-          "commit": "a7f46d09e42903ce17ad22b2c17ad4a58bec3a6b",
+          "commit": "0c876c4bd684e71ee7cddd184a65cb10a39e7a4d",
           "url": "https://github.com/isaozler/pareto-chart"
         }
       ]
