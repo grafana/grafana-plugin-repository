@@ -6,11 +6,17 @@
   "author": "Daniel Lee <dan.limerick@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "grunt"
+    "lint": "grunt",
+    "lint-repo": "./scripts/lint-repo.js",
+    "lint-repo-update": "./scripts/lint-repo-update.js",
+    "test-ci-build": "./.circleci/run-build-locally.sh"
   },
   "devDependencies": {
-    "grunt": "^1.0.1",
-    "request": "^2.83.0",
+    "chalk": "^2.4.2",
+    "grunt": "^1.0.3",
+    "lodash": "^4.17.14",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
     "semver": "^5.4.1"
   }
 }
