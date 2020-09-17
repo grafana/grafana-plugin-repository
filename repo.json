@@ -4508,6 +4508,18 @@
           "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
         }
       ]
+    },
+    {
+      "id": "gapit-htmlgraphics-panel",
+      "type": "panel",
+      "url": "https://github.com/gapitio/gapit-htmlgraphics-panel",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "commit": "7b74dd26087f3cb982b2e02aba814183debe5e2a",
+          "url": "https://github.com/gapitio/gapit-htmlgraphics-panel"
+        }
+      ]
     }
   ]
 }
