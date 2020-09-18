@@ -4493,6 +4493,18 @@
           "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
         }
       ]
+    },
+    {
+      "id": "innius-video-plugin",
+      "type": "panel",
+      "url": "https://bitbucket.org/innius/grafana-video-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "5ee9743",
+          "url": "https://bitbucket.org/innius/grafana-video-plugin"
+        }
+      ]
     }
   ]
 }
