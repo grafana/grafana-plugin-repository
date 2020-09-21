@@ -4508,6 +4508,18 @@
           "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
         }
       ]
+    },
+    {
+      "id": "flilzkov-yamcs-datasource",
+      "type": "datasource",
+      "url": "https://github.com/yamcs/grafana-yamcs",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "9244b33586cca14ac11f640b17c2dddf483677df",
+          "url": "https://github.com/yamcs/grafana-yamcs"
+        }
+      ]
     }
   ]
 }
