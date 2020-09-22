@@ -4385,6 +4385,23 @@
       ]
     },
     {
+      "id": "marcusolsson-json-datasource",
+      "type": "datasource",
+      "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "ebbc63060b78026a152e87fd1a10d5a6979a65e6",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
+        },
+        {
+          "version": "0.2.0",
+          "commit": "118d1575ca2f4271433e62594a0ed4f543dba22a",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
+        }
+      ]
+    },
+    {
       "id": "cloudspout-button-panel",
       "type": "panel",
       "url": "https://github.com/cloudspout/cloudspout-button-panel/",
