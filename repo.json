@@ -4508,6 +4508,24 @@
           "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
         }
       ]
+    },
+    {
+      "id": "meteostat-meteostat-datasource",
+      "type": "datasource",
+      "url": "https://github.com/meteostat/meteostat-grafana",
+      "versions": [
+        {
+          "version": "0.1.4",
+          "commit": "396facd5f65af299f12bd117cf456bd11c53414b",
+          "url": "https://github.com/meteostat/meteostat-grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/meteostat/meteostat-grafana/releases/download/v0.1.4/meteostat-meteostat-datasource-0.1.4.zip",
+              "md5": "ddaf506f418adff5313ae30537882172"
+            }
+          }
+        }
+      ]
     }
   ]
 }
