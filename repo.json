@@ -4398,6 +4398,11 @@
           "version": "0.2.0",
           "commit": "118d1575ca2f4271433e62594a0ed4f543dba22a",
           "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
+        },
+        {
+          "version": "0.3.0",
+          "commit": "c539effee54e9a5551ea416faf271402f39503bc",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
         }
       ]
     },
