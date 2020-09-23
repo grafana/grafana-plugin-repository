@@ -4320,6 +4320,11 @@
           "version": "0.5.0",
           "commit": "772a07bfec70308e171d6a742f9ef6e8fac48431",
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
+        },
+        {
+          "version": "0.6.0",
+          "commit": "3f27ca64de03c20e545fc6205fa3e6421b017c69",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
     },
@@ -4336,6 +4341,11 @@
         {
           "version": "0.2.0",
           "commit": "838257d2c353cb71f23c073af75ee3c62261fd96",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel"
+        },
+        {
+          "version": "0.3.0",
+          "commit": "529907892b3012355367b5e2b30f75f73641526e",
           "url": "https://github.com/marcusolsson/grafana-treemap-panel"
         }
       ]
@@ -4369,6 +4379,11 @@
           "version": "1.0.0",
           "commit": "d55ba22cacf8dc4f56426a3d14b4a7c219ef2ceb",
           "url": "https://github.com/marcusolsson/grafana-static-datasource"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "fdab57f9a7cc548713ff01e68114326163d484be",
+          "url": "https://github.com/marcusolsson/grafana-static-datasource"
         }
       ]
     },
@@ -4380,6 +4395,11 @@
         {
           "version": "1.0.0",
           "commit": "bf3e8b02e700707be0aff16b0aa046a6c2c176c7",
+          "url": "https://github.com/marcusolsson/grafana-dynamictext-panel"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "83c5c1b05fc0c8a3096944d16039354f272daf34",
           "url": "https://github.com/marcusolsson/grafana-dynamictext-panel"
         }
       ]
@@ -4402,6 +4422,11 @@
         {
           "version": "0.3.0",
           "commit": "c539effee54e9a5551ea416faf271402f39503bc",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
+        },
+        {
+          "version": "0.3.1",
+          "commit": "053d7457ab330f37581de5057334031026890c9a",
           "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
         }
       ]
