@@ -1,13 +1,13 @@
 {
   "plugins": [
     {
-      "id": "grafana-bidirectional-bar-gauge-panel",
+      "id": "asos-bidirectional-bar-gauge-panel",
       "type": "panel",
       "url": "https://github.com/asos/grafana-bidirectional-bar-gauge-panel",
       "versions": [
         {
-          "version": "0.1.2",
-          "commit": "f4bb4f18f0f30c7a08c975bc017aea44bc599534",
+          "version": "0.1.3",
+          "commit": "69dec97abd757e9e917c58c4b21499eb75a44670",
           "url": "https://github.com/asos/grafana-bidirectional-bar-gauge-panel"
         }
       ]
