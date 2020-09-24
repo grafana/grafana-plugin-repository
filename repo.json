@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "grafana-bidirectional-bar-gauge-panel",
+      "type": "panel",
+      "url": "https://github.com/asos/grafana-bidirectional-bar-gauge-panel",
+      "versions": [
+        {
+          "version": "0.1.2",
+          "commit": "f4bb4f18f0f30c7a08c975bc017aea44bc599534",
+          "url": "https://github.com/asos/grafana-bidirectional-bar-gauge-panel"
+        }
+      ]
+    },
+    {
       "id": "aceiot-svg-panel",
       "type": "panel",
       "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
