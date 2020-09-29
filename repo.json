@@ -4516,7 +4516,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "7403294439f88e23a4d9933328dab744946396cf",
+          "commit": "1ecfedb81307d49eec21f1f37a6b90f6de990ca1",
           "url": "https://github.com/innius/grafana-video-panel"
         }
       ]
