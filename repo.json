@@ -1311,6 +1311,11 @@
           "version": "1.0.4",
           "commit": "095993cd42cd81d562cd635569392592864872d1",
           "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "f26cad57acec99f81fd5798e1ac9ad675cd2a58e",
+          "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
         }
       ]
     },
