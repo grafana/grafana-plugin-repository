@@ -1323,6 +1323,11 @@
           "version": "1.0.4",
           "commit": "095993cd42cd81d562cd635569392592864872d1",
           "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "f26cad57acec99f81fd5798e1ac9ad675cd2a58e",
+          "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
         }
       ]
     },
@@ -4575,6 +4580,18 @@
           "version": "1.0.1",
           "commit": "6d372df203078cb36462af0309c3b92501aa3f23",
           "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
+        }
+      ]
+    },
+    {
+      "id": "innius-video-panel",
+      "type": "panel",
+      "url": "https://github.com/innius/grafana-video-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "d4ce56ea56677143be1a6626068982766489e8d4",
+          "url": "https://github.com/innius/grafana-video-panel"
         }
       ]
     }
