@@ -4590,7 +4590,7 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "e91df0bcee3b96ca47aab9a987698659e3731f19",
+          "commit": "5a195515d8813277e0efcb79d2ed0c1972c263be",
           "url": "https://github.com/innius/grafana-datasource-plugin"
         }
       ]
