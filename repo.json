@@ -4582,6 +4582,18 @@
           "url": "https://github.com/innius/grafana-video-panel"
         }
       ]
+    },
+    {
+      "id": "innius-datasource",
+      "type": "datasource",
+      "url": "https://github.com/innius/grafana-datasource-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "e91df0bcee3b96ca47aab9a987698659e3731f19",
+          "url": "https://github.com/innius/grafana-datasource-plugin"
+        }
+      ]
     }
   ]
 }
