@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "matrixState_panel",
+      "type": "panel",
+      "url": "https://github.com/JoaquinBerrutti/my-grafana-plugin",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "",
+          "url": "https://github.com/JoaquinBerrutti/my-grafana-plugin"
+        }
+      ]
+    },
+    {
       "id": "aceiot-svg-panel",
       "type": "panel",
       "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
