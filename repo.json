@@ -1311,6 +1311,11 @@
           "version": "1.0.4",
           "commit": "095993cd42cd81d562cd635569392592864872d1",
           "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "f26cad57acec99f81fd5798e1ac9ad675cd2a58e",
+          "url": "https://github.com/GridProtectionAlliance/osisoftpi-grafana"
         }
       ]
     },
@@ -4320,6 +4325,11 @@
           "version": "0.5.0",
           "commit": "772a07bfec70308e171d6a742f9ef6e8fac48431",
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
+        },
+        {
+          "version": "0.6.0",
+          "commit": "3f27ca64de03c20e545fc6205fa3e6421b017c69",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
         }
       ]
     },
@@ -4336,6 +4346,11 @@
         {
           "version": "0.2.0",
           "commit": "838257d2c353cb71f23c073af75ee3c62261fd96",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel"
+        },
+        {
+          "version": "0.3.0",
+          "commit": "529907892b3012355367b5e2b30f75f73641526e",
           "url": "https://github.com/marcusolsson/grafana-treemap-panel"
         }
       ]
@@ -4369,6 +4384,11 @@
           "version": "1.0.0",
           "commit": "d55ba22cacf8dc4f56426a3d14b4a7c219ef2ceb",
           "url": "https://github.com/marcusolsson/grafana-static-datasource"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "fdab57f9a7cc548713ff01e68114326163d484be",
+          "url": "https://github.com/marcusolsson/grafana-static-datasource"
         }
       ]
     },
@@ -4381,6 +4401,43 @@
           "version": "1.0.0",
           "commit": "bf3e8b02e700707be0aff16b0aa046a6c2c176c7",
           "url": "https://github.com/marcusolsson/grafana-dynamictext-panel"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "83c5c1b05fc0c8a3096944d16039354f272daf34",
+          "url": "https://github.com/marcusolsson/grafana-dynamictext-panel"
+        }
+      ]
+    },
+    {
+      "id": "marcusolsson-json-datasource",
+      "type": "datasource",
+      "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "ebbc63060b78026a152e87fd1a10d5a6979a65e6",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
+        },
+        {
+          "version": "0.2.0",
+          "commit": "118d1575ca2f4271433e62594a0ed4f543dba22a",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
+        },
+        {
+          "version": "0.3.0",
+          "commit": "c539effee54e9a5551ea416faf271402f39503bc",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
+        },
+        {
+          "version": "0.3.1",
+          "commit": "053d7457ab330f37581de5057334031026890c9a",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
+        },
+        {
+          "version": "0.4.0",
+          "commit": "d03ecc56434ac86ba2032a5f311f17eb22141983",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
         }
       ]
     },
@@ -4418,6 +4475,11 @@
         {
           "version": "2.1.1",
           "commit": "68e400abc134b1e724c055b56074d8b6a5ffd467",
+          "url": "https://github.com/Dalvany/dalvany-image-panel"
+        },
+        {
+          "version": "2.2.0",
+          "commit": "408f6a5ab93bebf41d42ccec3e83f68714d2986b",
           "url": "https://github.com/Dalvany/dalvany-image-panel"
         }
       ]
@@ -4506,6 +4568,18 @@
           "version": "1.0.1",
           "commit": "6d372df203078cb36462af0309c3b92501aa3f23",
           "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
+        }
+      ]
+    },
+    {
+      "id": "innius-video-panel",
+      "type": "panel",
+      "url": "https://github.com/innius/grafana-video-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "d4ce56ea56677143be1a6626068982766489e8d4",
+          "url": "https://github.com/innius/grafana-video-panel"
         }
       ]
     },
