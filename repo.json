@@ -4582,6 +4582,18 @@
           "url": "https://github.com/innius/grafana-video-panel"
         }
       ]
+    },
+    {
+      "id": "criteo-static-variables-datasource",
+      "type": "datasource",
+      "url": "https://github.com/criteo/grafana-static-variables-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "711bbe2db9b12c650ddf2b32796f68879000581c",
+          "url": "https://github.com/criteo/grafana-static-variables-datasource"
+        }
+      ]
     }
   ]
 }
