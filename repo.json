@@ -4523,6 +4523,11 @@
           "version": "0.0.2",
           "commit": "9d23e8bbd16d7796bd0e2f8ecb828995554f3e9f",
           "url": "https://github.com/gapitio/gapit-htmlgraphics-panel"
+        },
+        {
+          "version": "0.0.3",
+          "commit": "51ace35d076c990c79b3ef0f62b14e0a0c32e182",
+          "url": "https://github.com/gapitio/gapit-htmlgraphics-panel"
         }
       ]
     }
