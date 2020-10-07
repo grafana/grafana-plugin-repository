@@ -4582,6 +4582,18 @@
           "url": "https://github.com/innius/grafana-video-panel"
         }
       ]
+    },
+    {
+      "id": "grafana-appcenter-datasource",
+      "type": "datasource",
+      "url": "https://github.com/thalysantana/grafana-appcenter-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "593785be28fd2f592f4c928341fc3f6b5a5188c5",
+          "url": "https://github.com/thalysantana/grafana-appcenter-datasource"
+        }
+      ]
     }
   ]
 }
