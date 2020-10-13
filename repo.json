@@ -4575,6 +4575,18 @@
       ]
     },
     {
+      "id": "williamvenner-timepickerbuttons-panel",
+      "type": "panel",
+      "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons",
+      "versions": [
+        {
+          "version": "2.0.1",
+          "commit": "99241edd3a8f9fd83f11464b5cd0e7724e57eb95",
+          "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons"
+        }
+      ]
+    },
+    {
       "id": "dikshitashirodkar25-sunburst-panel",
       "type": "panel",
       "url": "https://github.com/Dikshita25/sunburst-grafana-plugin",
