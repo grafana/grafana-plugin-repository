@@ -1386,12 +1386,12 @@
         },
         {
           "version": "1.6.4",
-          "commit": "db242e667d97efdec71fb4f3d971fba48c54608b",
+          "commit": "880f130f7920cc0530c0d3f2d5b7f53553b1d9f4",
           "url": "https://github.com/jdbranham/grafana-diagram/tree/grafana-6x"
         },
         {
-          "version": "1.7.0",
-          "commit": "b11f40a0ed95ada65dfab1d6565174eadfa55c0c",
+          "version": "1.7.1",
+          "commit": "b57d65ffa22b79be3644f3462b71a50c90b3e476",
           "url": "https://github.com/jdbranham/grafana-diagram/tree/grafana-7x"
         }
       ]
