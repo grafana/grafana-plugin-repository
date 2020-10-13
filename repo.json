@@ -4265,6 +4265,17 @@
           "version": "1.1.1",
           "commit": "fc0141ffa4c28b5448753892687d7630f011ae6f",
           "url": "https://github.com/grafana/strava-datasource"
+        },
+        {
+          "version": "1.2.0",
+          "commit": "7ce0cf6e75268feaa305514cc4db89816c78022f",
+          "url": "https://github.com/grafana/strava-datasource",
+          "download": {
+            "any": {
+              "url": "https://storage.googleapis.com/integration-artifacts/grafana-strava-datasource/release/1.2.0/any/grafana-strava-datasource-1.2.0.zip",
+              "md5": "f4a05446ef17fb54a979d58c79be19ac"
+            }
+          }
         }
       ]
     },
