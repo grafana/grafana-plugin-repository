@@ -4590,6 +4590,11 @@
           "version": "1.0.0",
           "commit": "d4ce56ea56677143be1a6626068982766489e8d4",
           "url": "https://github.com/innius/grafana-video-panel"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "87879b0db01d13d6be6b637ad6d0e0a47f15bbb4",
+          "url": "https://github.com/innius/grafana-video-panel"
         }
       ]
     }
