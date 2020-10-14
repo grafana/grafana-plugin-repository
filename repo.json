@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "isaozler-paretochart-panel",
+      "type": "panel",
+      "url": "https://github.com/isaozler/pareto-chart",
+      "versions": [
+        {
+          "version": "0.2.5",
+          "commit": "734ce986e7642bfca05ac8ff5114ad983c9f73b2",
+          "url": "https://github.com/isaozler/pareto-chart"
+        }
+      ]
+    },
+    {
       "id": "aceiot-svg-panel",
       "type": "panel",
       "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
