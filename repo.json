@@ -1391,7 +1391,7 @@
         },
         {
           "version": "1.7.1",
-          "commit": "b57d65ffa22b79be3644f3462b71a50c90b3e476",
+          "commit": "029aa247fc06148e8fa23da5153dd2e53834f196",
           "url": "https://github.com/jdbranham/grafana-diagram/tree/grafana-7x"
         }
       ]
