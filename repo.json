@@ -3317,6 +3317,11 @@
           "version": "0.2.1",
           "commit": "a041dbf34e08e97a2ac2a3c448ce63abd0fae606",
           "url": "https://github.com/simPod/grafana-json-datasource"
+        },
+        {
+          "version": "0.2.2",
+          "commit": "dbf5817c50f2f108fdeeff618032c01002a41c91",
+          "url": "https://github.com/simPod/grafana-json-datasource"
         }
       ]
     },
