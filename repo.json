@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "sskgo-perfcurve-panel",
+      "type": "panel",
+      "url": "https://github.com/SSKGo/perfcurve-panel",
+      "versions": [
+        {
+          "version": "1.2.2",
+          "commit": "28ded416349918ce3c1e961cbb1c4765b3dbb7e0",
+          "url": "https://github.com/SSKGo/perfcurve-panel"
+        }
+      ]
+    },
+    {
       "id": "isaozler-paretochart-panel",
       "type": "panel",
       "url": "https://github.com/isaozler/pareto-chart",
