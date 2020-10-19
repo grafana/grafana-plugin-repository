@@ -353,14 +353,6 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
-<<<<<<< master
-          "version": "4.0.0",
-          "url": "https://github.com/alexanderzobnin/grafana-zabbix",
-          "download": {
-            "any": {
-              "url": "https://github.com/alexanderzobnin/grafana-zabbix/releases/download/v4.0.0/grafana-zabbix-4.0.0.zip",
-              "md5": "411888fc2793d7ba69f19bd2a34bf0f1"
-=======
           "version": "4.0.1",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix",
           "commit": "95aee8f0488eb87b0c061f234f815e0e11f6f129",
@@ -379,7 +371,6 @@
             "any": {
               "url": "https://github.com/alexanderzobnin/grafana-zabbix/releases/download/v4.0.0/grafana-zabbix-4.0.0.zip",
               "md5": "4b97e5a38b8d13af4be4f910782dea6a"
->>>>>>> master
             }
           }
         },
@@ -2937,30 +2928,9 @@
           "url": "https://github.com/instana/instana-grafana-datasource"
         },
         {
-<<<<<<< master
           "version": "3.0.0",
           "commit": "e01d51d5876037a10e57c7ceb60a14a868936975",
           "url": "https://github.com/instana/instana-grafana-datasource"
-=======
-          "version": "2.7.4",
-          "commit": "fd17275db0314bf92a4aeba6ef1d7b8bf4ad0391",
-          "url": "https://github.com/instana/instana-grafana-datasource"
-        },
-        {
-          "version": "3.0.0",
-          "commit": "e01d51d5876037a10e57c7ceb60a14a868936975",
-          "url": "https://github.com/instana/instana-grafana-datasource"
-        },
-        {
-          "version": "3.0.1",
-          "commit": "b5c6a5140bf9d9e052f3b2bc9ba35e0cce047226",
-          "url": "https://github.com/instana/instana-grafana-datasource"
-        },
-        {
-          "version": "3.1.0",
-          "commit": "9a254d6d4487b5d23ceaa6a8a3bdcde5c915fce1",
-          "url": "https://github.com/instana/instana-grafana-datasource"
->>>>>>> master
         }
       ]
     },
@@ -3330,14 +3300,11 @@
           "version": "0.3.2",
           "commit": "9a2e4a394ee343de17f931bf64969e5ba4b86e5a",
           "url": "https://github.com/flant/grafana-statusmap"
-<<<<<<< master
-=======
         },
         {
           "version": "0.3.4",
           "commit": "021633670a3deaf85505154bf8b8e961e72cc48f",
           "url": "https://github.com/flant/grafana-statusmap"
->>>>>>> master
         }
       ]
     },
@@ -4357,14 +4324,11 @@
           "version": "0.5.0",
           "commit": "772a07bfec70308e171d6a742f9ef6e8fac48431",
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
-<<<<<<< master
-=======
         },
         {
           "version": "0.6.0",
           "commit": "3f27ca64de03c20e545fc6205fa3e6421b017c69",
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
->>>>>>> master
         }
       ]
     },
@@ -4382,14 +4346,11 @@
           "version": "0.2.0",
           "commit": "838257d2c353cb71f23c073af75ee3c62261fd96",
           "url": "https://github.com/marcusolsson/grafana-treemap-panel"
-<<<<<<< master
-=======
         },
         {
           "version": "0.3.0",
           "commit": "529907892b3012355367b5e2b30f75f73641526e",
           "url": "https://github.com/marcusolsson/grafana-treemap-panel"
->>>>>>> master
         }
       ]
     },
