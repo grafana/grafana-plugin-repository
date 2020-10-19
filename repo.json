@@ -4649,6 +4649,18 @@
           "url": "https://github.com/innius/grafana-video-panel"
         }
       ]
+    },
+    {
+      "id": "verticle-flowhook-datasource",
+      "type": "datasource",
+      "url": "https://github.com/verticle-io/flowhook-datasource",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "commit": "f1991dd781af3b57d5c8d72158c85076c6fa3df6",
+          "url": "https://github.com/verticle-io/flowhook-datasource"
+        }
+      ]
     }
   ]
 }
