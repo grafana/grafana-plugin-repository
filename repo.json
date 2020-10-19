@@ -13,6 +13,42 @@
       ]
     },
     {
+      "id": "isaozler-paretochart-panel",
+      "type": "panel",
+      "url": "https://github.com/isaozler/pareto-chart",
+      "versions": [
+        {
+          "version": "0.2.6",
+          "commit": "ac2226eb71b42e144d6c1046c7defc08b7999c04",
+          "url": "https://github.com/isaozler/pareto-chart"
+        }
+      ]
+    },
+    {
+      "id": "aceiot-svg-panel",
+      "type": "panel",
+      "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
+      "versions": [
+        {
+          "version": "0.0.8",
+          "commit": "690d4ffe0753125b64e52a5f5a88f11bf37ca33f",
+          "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react"
+        }
+      ]
+    },
+    {
+      "id": "novatec-sdg-panel",
+      "type": "panel",
+      "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
+      "versions": [
+        {
+          "version": "2.3.0",
+          "commit": "7d49605338a53314d2dd8bd4508199aca56e2e38",
+          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel"
+        }
+      ]
+    },
+    {
       "id": "btplc-trend-box-panel",
       "type": "panel",
       "url": "https://github.com/BT-OpenSource/bt-grafana-trend-box",
@@ -2928,8 +2964,23 @@
           "url": "https://github.com/instana/instana-grafana-datasource"
         },
         {
+          "version": "2.7.4",
+          "commit": "fd17275db0314bf92a4aeba6ef1d7b8bf4ad0391",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
           "version": "3.0.0",
           "commit": "e01d51d5876037a10e57c7ceb60a14a868936975",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "3.0.1",
+          "commit": "b5c6a5140bf9d9e052f3b2bc9ba35e0cce047226",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "3.1.0",
+          "commit": "9a254d6d4487b5d23ceaa6a8a3bdcde5c915fce1",
           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
@@ -4596,70 +4647,6 @@
           "version": "1.0.1",
           "commit": "87879b0db01d13d6be6b637ad6d0e0a47f15bbb4",
           "url": "https://github.com/innius/grafana-video-panel"
-        }
-      ]
-    },
-    {
-      "id": "redis-datasource",
-      "type": "datasource",
-      "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource",
-      "versions": [
-        {
-          "version": "1.1.0",
-          "commit": "6072bd7cba142bf18d1267f5c98ebe2f3db527eb",
-          "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource"
-        },
-        {
-          "version": "1.1.1",
-          "commit": "0d79ba96fd6febca54d727391781e586230958ba",
-          "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource"
-        }
-      ]
-    },
-    {
-      "id": "clarity89-finnhub-datasource",
-      "type": "datasource",
-      "versions": [
-        {
-          "version": "0.1.0",
-          "commit": "75f163bf69d50763e3263523fdb90554efbf1031",
-          "url": "https://github.com/Clarity-89/grafana-finnhub"
-        }
-      ]
-    },
-    {
-      "id": "factrylabs-untimely-panel",
-      "type": "panel",
-      "url": "https://github.com/factrylabs/untimely-grafana-panel",
-      "versions": [
-        {
-          "version": "0.1.1",
-          "commit": "78fb7a9c1622a632721a14838dc5005f8aabcd90",
-          "url": "https://github.com/factrylabs/untimely-grafana-panel"
-        }
-      ]
-    },
-    {
-      "id": "fifemon-graphql-datasource",
-      "type": "datasource",
-      "url": "https://github.com/fifemon/graphql-datasource",
-      "versions": [
-        {
-          "version": "1.1.3",
-          "commit": "d0c0fbd29b75caa761ce0b55032e4196e55532c1",
-          "url": "https://github.com/fifemon/graphql-datasource"
-        }
-      ]
-    },
-    {
-      "id": "gowee-traceroutemap-panel",
-      "type": "panel",
-      "url": "https://github.com/Gowee/traceroute-map-panel",
-      "versions": [
-        {
-          "version": "0.2.3",
-          "commit": "a59eb13ec63150a1478c325ba976f47bd37b0902",
-          "url": "https://github.com/Gowee/traceroute-map-panel"
         }
       ]
     }
