@@ -1,18 +1,6 @@
 {
   "plugins": [
     {
-      "id": "ganadara135-liregression-panel",
-      "type": "panel",
-      "url": "https://github.com/ganadara135/liregression",
-      "versions": [
-        {
-          "version": "1.0.3",
-          "commit": "6f5f548181c3f090ee7dec92870514be67a0c80e",
-          "url": "https://github.com/ganadara135/liregression"
-        }
-      ]
-    },
-    {
       "id": "isaozler-paretochart-panel",
       "type": "panel",
       "url": "https://github.com/isaozler/pareto-chart",
@@ -4659,6 +4647,18 @@
           "version": "0.1.1",
           "commit": "f1991dd781af3b57d5c8d72158c85076c6fa3df6",
           "url": "https://github.com/verticle-io/flowhook-datasource"
+        }
+      ]
+    },
+    {
+      "id": "ganadara135-liregression-panel",
+      "type": "panel",
+      "url": "https://github.com/ganadara135/liregression",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "commit": "6f5f548181c3f090ee7dec92870514be67a0c80e",
+          "url": "https://github.com/ganadara135/liregression"
         }
       ]
     }
