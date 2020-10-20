@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "sskgo-perfcurve-panel",
+      "type": "panel",
+      "url": "https://github.com/SSKGo/perfcurve-panel",
+      "versions": [
+        {
+          "version": "1.2.2",
+          "commit": "28ded416349918ce3c1e961cbb1c4765b3dbb7e0",
+          "url": "https://github.com/SSKGo/perfcurve-panel"
+        }
+      ]
+    },
+    {
       "id": "isaozler-paretochart-panel",
       "type": "panel",
       "url": "https://github.com/isaozler/pareto-chart",
@@ -4635,18 +4647,6 @@
           "version": "1.0.1",
           "commit": "87879b0db01d13d6be6b637ad6d0e0a47f15bbb4",
           "url": "https://github.com/innius/grafana-video-panel"
-        }
-      ]
-    },
-    {
-      "id": "verticle-flowhook-datasource",
-      "type": "datasource",
-      "url": "https://github.com/verticle-io/flowhook-datasource",
-      "versions": [
-        {
-          "version": "0.1.1",
-          "commit": "f1991dd781af3b57d5c8d72158c85076c6fa3df6",
-          "url": "https://github.com/verticle-io/flowhook-datasource"
         }
       ]
     },
