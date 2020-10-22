@@ -4424,6 +4424,28 @@
           "version": "0.6.0",
           "commit": "3f27ca64de03c20e545fc6205fa3e6421b017c69",
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
+        },
+        {
+          "version": "0.7.0",
+          "commit": "12b6325bcdabc15d20dca1949fc6180fe23b1da1",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel/releases/download/v0.7.0/marcusolsson-hourly-heatmap-panel-0.7.0.zip",
+              "md5": "d0ce180b33ae3132a49a21069db44654"
+            }
+          }
+        },
+        {
+          "version": "0.8.0",
+          "commit": "d29c44ee0ede8487fcc27948173a4849aba867f0",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel/releases/download/v0.8.0/marcusolsson-hourly-heatmap-panel-0.8.0.zip",
+              "md5": "50b92cceb4101f4b14a814f20069c515"
+            }
+          }
         }
       ]
     },
