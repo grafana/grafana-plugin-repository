@@ -6,6 +6,11 @@
       "url": "https://github.com/isaozler/pareto-chart",
       "versions": [
         {
+          "version": "0.2.6",
+          "commit": "ac2226eb71b42e144d6c1046c7defc08b7999c04",
+          "url": "https://github.com/isaozler/pareto-chart"
+        },
+        {
           "version": "0.3.1",
           "commit": "508c68ceaf759e0d202f60c282b57e4ab5385bbb",
           "url": "https://github.com/isaozler/pareto-chart",
