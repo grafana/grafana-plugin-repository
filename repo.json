@@ -9,6 +9,17 @@
           "version": "0.2.6",
           "commit": "ac2226eb71b42e144d6c1046c7defc08b7999c04",
           "url": "https://github.com/isaozler/pareto-chart"
+        },
+        {
+          "version": "0.3.1",
+          "commit": "508c68ceaf759e0d202f60c282b57e4ab5385bbb",
+          "url": "https://github.com/isaozler/pareto-chart",
+          "download": {
+            "any": {
+              "url": "https://github.com/isaozler/pareto-chart/releases/download/v0.3.1/isaozler-paretochart-panel-0.3.1.zip",
+              "md5": "6d0088e518af03247c9e5a7f3c0a581d"
+            }
+          }
         }
       ]
     },
