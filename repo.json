@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "grapekh-thermometer-panel",
+      "type": "panel",
+      "url": "https://github.com/grapekh/grafana-thermometer-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "e91b064f9c0b660bd08eda0948c75fe5aff6ac01",
+          "url": "https://github.com/grapekh/grafana-thermometer-panel"
+        }
+      ]
+    },
+    {
       "id": "isaozler-paretochart-panel",
       "type": "panel",
       "url": "https://github.com/isaozler/pareto-chart",
