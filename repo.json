@@ -4483,6 +4483,28 @@
           "version": "1.0.1",
           "commit": "fdab57f9a7cc548713ff01e68114326163d484be",
           "url": "https://github.com/marcusolsson/grafana-static-datasource"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "716ad97cca2ef685828ea35e99df7f5570d349bc",
+          "url": "https://github.com/marcusolsson/grafana-static-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-static-datasource/releases/download/v1.1.0/marcusolsson-static-datasource-1.1.0.zip",
+              "md5": "71674752ef8d02d8c73a5181d4658d7b"
+            }
+          }
+        },
+        {
+          "version": "1.2.0",
+          "commit": "c052e43915dd85d3de5ff245ca90f7c537c280f7",
+          "url": "https://github.com/marcusolsson/grafana-static-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-static-datasource/releases/download/v1.2.0/marcusolsson-static-datasource-1.2.0.zip",
+              "md5": "8d563b797cde1d12a74e428bf46ddab8"
+            }
+          }
         }
       ]
     },
