@@ -4522,6 +4522,28 @@
           "version": "1.0.1",
           "commit": "83c5c1b05fc0c8a3096944d16039354f272daf34",
           "url": "https://github.com/marcusolsson/grafana-dynamictext-panel"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "ffb557a7789d6c26a76ff229132f4d8135d28004",
+          "url": "https://github.com/marcusolsson/grafana-dynamictext-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-dynamictext-panel/releases/download/v1.1.0/marcusolsson-dynamictext-panel-1.1.0.zip",
+              "md5": "0ece224b3172b63007747aea873f9d96"
+            }
+          }
+        },
+        {
+          "version": "1.2.0",
+          "commit": "71616e6a80ce59febd0f4292fd8697b493b60939",
+          "url": "https://github.com/marcusolsson/grafana-dynamictext-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-dynamictext-panel/releases/download/v1.2.0/marcusolsson-dynamictext-panel-1.2.0.zip",
+              "md5": "c1408de3b3205c5b2093f7601ef0cff5"
+            }
+          }
         }
       ]
     },
