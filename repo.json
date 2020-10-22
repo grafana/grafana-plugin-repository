@@ -4468,6 +4468,39 @@
           "version": "0.3.0",
           "commit": "529907892b3012355367b5e2b30f75f73641526e",
           "url": "https://github.com/marcusolsson/grafana-treemap-panel"
+        },
+        {
+          "version": "0.4.0",
+          "commit": "9de7f1a174414381bfa96f5ba5f97b27dcab8dbc",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-treemap-panel/releases/download/v0.4.0/marcusolsson-treemap-panel-0.4.0.zip",
+              "md5": "db086485ea4a87abcac2d7b5276d491e"
+            }
+          }
+        },
+        {
+          "version": "0.4.1",
+          "commit": "de65c3d69424023bea0ef87c23623731cea4faca",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-treemap-panel/releases/download/v0.4.1/marcusolsson-treemap-panel-0.4.1.zip",
+              "md5": "1d8c4bf7b6682c2a850b261641216da2"
+            }
+          }
+        },
+        {
+          "version": "0.5.0",
+          "commit": "de65c3d69424023bea0ef87c23623731cea4faca",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-treemap-panel/releases/download/v0.5.0/marcusolsson-treemap-panel-0.5.0.zip",
+              "md5": "edd61a4a535e5d13f8787c8c3c6d2689"
+            }
+          }
         }
       ]
     },
