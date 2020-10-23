@@ -2978,6 +2978,11 @@
           "url": "https://github.com/instana/instana-grafana-datasource"
         },
         {
+          "version": "2.7.5",
+          "commit": "1928a31b3f1a6713021e1a570fd008a38faabda3",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
           "version": "3.0.0",
           "commit": "e01d51d5876037a10e57c7ceb60a14a868936975",
           "url": "https://github.com/instana/instana-grafana-datasource"
@@ -2990,6 +2995,11 @@
         {
           "version": "3.1.0",
           "commit": "9a254d6d4487b5d23ceaa6a8a3bdcde5c915fce1",
+          "url": "https://github.com/instana/instana-grafana-datasource"
+        },
+        {
+          "version": "3.1.1",
+          "commit": "28a921144d79b5b770cdd5f269bc4d78def60bf9",
           "url": "https://github.com/instana/instana-grafana-datasource"
         }
       ]
