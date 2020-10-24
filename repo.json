@@ -4546,7 +4546,7 @@
     {
       "id": "redis-datasource",
       "type": "datasource",
-      "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource",
+      "url": "https://github.com/RedisGrafana/grafana-redis-datasource",
       "versions": [
         {
           "version": "1.1.0",
@@ -4566,6 +4566,17 @@
             "any": {
               "url": "https://storage.googleapis.com/plugins-community/redis-datasource/release/1.2.0/redis-datasource-1.2.0.zip",
               "md5": "db046e55c50ae6bd70c04b82516718b9"
+            }
+          }
+        },
+        {
+          "version": "1.2.1",
+          "commit": "da2ef34da72fc8fd7503c53fee7bbd9d85927385",
+          "url": "https://github.com/RedisGrafana/grafana-redis-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-datasource/releases/download/v1.2.1/redis-datasource-1.2.1.zip",
+              "md5": "f40a9ccd55d10ff315faff915c6b277d"
             }
           }
         }
