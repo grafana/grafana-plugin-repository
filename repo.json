@@ -4658,6 +4658,18 @@
           "url": "https://github.com/innius/grafana-video-panel"
         }
       ]
+    },
+    {
+      "id": "redis-app",
+      "type": "app",
+      "url": "https://github.com/RedisGrafana/grafana-redis-app",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "97aff17d24183994eba073fdfe7a41902ecf6aba",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app"
+        }
+      ]
     }
   ]
 }
