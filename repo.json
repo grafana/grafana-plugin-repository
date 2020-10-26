@@ -4556,7 +4556,7 @@
     {
       "id": "redis-datasource",
       "type": "datasource",
-      "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource",
+      "url": "https://github.com/RedisGrafana/grafana-redis-datasource",
       "versions": [
         {
           "version": "1.1.0",
@@ -4576,6 +4576,17 @@
             "any": {
               "url": "https://storage.googleapis.com/plugins-community/redis-datasource/release/1.2.0/redis-datasource-1.2.0.zip",
               "md5": "db046e55c50ae6bd70c04b82516718b9"
+            }
+          }
+        },
+        {
+          "version": "1.2.1",
+          "commit": "da2ef34da72fc8fd7503c53fee7bbd9d85927385",
+          "url": "https://github.com/RedisGrafana/grafana-redis-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-datasource/releases/download/v1.2.1/redis-datasource-1.2.1.zip",
+              "md5": "f40a9ccd55d10ff315faff915c6b277d"
             }
           }
         }
@@ -4666,6 +4677,29 @@
           "version": "1.0.1",
           "commit": "87879b0db01d13d6be6b637ad6d0e0a47f15bbb4",
           "url": "https://github.com/innius/grafana-video-panel"
+        }
+      ]
+    },
+    {
+      "id": "redis-app",
+      "type": "app",
+      "url": "https://github.com/RedisGrafana/grafana-redis-app",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "97aff17d24183994eba073fdfe7a41902ecf6aba",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "598c934bd7fde25d39006ae25f10851cb63a3b97",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-app/releases/download/v1.0.1/redis-app-1.0.1.zip",
+              "md5": "dbc1ec342bd48940a6534f67a3d93780"
+            }
+          }
         }
       ]
     }
