@@ -1,3 +1,5 @@
+/*jshint esversion: 8 */
+
 const _ = require('lodash');
 const chalk = require('chalk');
 const request = require('request-promise-native');
