@@ -789,6 +789,11 @@
       "url": "https://github.com/OpenNMS/opennms-helm",
       "versions": [
         {
+          "version": "6.0.0",
+          "commit": "c93251b9ed0c344452be281b9a95c1fb1bf78ec6",
+          "url": "https://github.com/OpenNMS/opennms-helm"
+        },
+        {
           "version": "5.0.3",
           "commit": "adf709157c0d1db9ba2c46622d6688f76f9d7d93",
           "url": "https://github.com/OpenNMS/opennms-helm"
