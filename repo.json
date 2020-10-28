@@ -9,6 +9,17 @@
           "version": "0.2.6",
           "commit": "ac2226eb71b42e144d6c1046c7defc08b7999c04",
           "url": "https://github.com/isaozler/pareto-chart"
+        },
+        {
+          "version": "0.3.1",
+          "commit": "508c68ceaf759e0d202f60c282b57e4ab5385bbb",
+          "url": "https://github.com/isaozler/pareto-chart",
+          "download": {
+            "any": {
+              "url": "https://github.com/isaozler/pareto-chart/releases/download/v0.3.1/isaozler-paretochart-panel-0.3.1.zip",
+              "md5": "6d0088e518af03247c9e5a7f3c0a581d"
+            }
+          }
         }
       ]
     },
@@ -1400,6 +1411,16 @@
           "version": "1.6.2",
           "commit": "3d1fc8c7e03a52101fb94f80fa25282976ebb86c",
           "url": "https://github.com/jdbranham/grafana-diagram"
+        },
+        {
+          "version": "1.6.4",
+          "commit": "880f130f7920cc0530c0d3f2d5b7f53553b1d9f4",
+          "url": "https://github.com/jdbranham/grafana-diagram/tree/grafana-6x"
+        },
+        {
+          "version": "1.7.1",
+          "commit": "0fc05a0c4183c8b6446143bace97cb14ab8ce3d9",
+          "url": "https://github.com/jdbranham/grafana-diagram/tree/grafana-7x"
         }
       ]
     },
@@ -1425,6 +1446,16 @@
       "type": "panel",
       "url": "https://github.com/briangann/grafana-gauge-panel",
       "versions": [
+        {
+          "version": "0.0.8",
+          "url": "https://github.com/briangann/grafana-gauge-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/briangann/grafana-gauge-panel/releases/download/v0.0.8/briangann-gauge-panel-0.0.8.zip",
+              "md5": "782c973460f330287b7efca5486aa015"
+            }
+          }
+        },
         {
           "version": "0.0.6",
           "commit": "a4531b408d05cb1607c81de310753b62d6e510c0",
@@ -4525,7 +4556,7 @@
     {
       "id": "redis-datasource",
       "type": "datasource",
-      "url": "https://github.com/RedisTimeSeries/grafana-redis-datasource",
+      "url": "https://github.com/RedisGrafana/grafana-redis-datasource",
       "versions": [
         {
           "version": "1.1.0",
@@ -4545,6 +4576,17 @@
             "any": {
               "url": "https://storage.googleapis.com/plugins-community/redis-datasource/release/1.2.0/redis-datasource-1.2.0.zip",
               "md5": "db046e55c50ae6bd70c04b82516718b9"
+            }
+          }
+        },
+        {
+          "version": "1.2.1",
+          "commit": "da2ef34da72fc8fd7503c53fee7bbd9d85927385",
+          "url": "https://github.com/RedisGrafana/grafana-redis-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-datasource/releases/download/v1.2.1/redis-datasource-1.2.1.zip",
+              "md5": "f40a9ccd55d10ff315faff915c6b277d"
             }
           }
         }
@@ -4644,9 +4686,32 @@
       "url": "https://github.com/verticle-io/flowhook-datasource",
       "versions": [
         {
-          "version": "0.1.1",
-          "commit": "f1991dd781af3b57d5c8d72158c85076c6fa3df6",
+          "version": "0.1.2",
+          "commit": "b2a7f892aa4f11754b0034bec554001f3f20bb79",
           "url": "https://github.com/verticle-io/flowhook-datasource"
+        }
+      ]
+    },
+    {
+      "id": "redis-app",
+      "type": "app",
+      "url": "https://github.com/RedisGrafana/grafana-redis-app",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "97aff17d24183994eba073fdfe7a41902ecf6aba",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "598c934bd7fde25d39006ae25f10851cb63a3b97",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-app/releases/download/v1.0.1/redis-app-1.0.1.zip",
+              "md5": "dbc1ec342bd48940a6534f67a3d93780"
+            }
+          }
         }
       ]
     }
