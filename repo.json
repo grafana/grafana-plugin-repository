@@ -2629,6 +2629,33 @@
       ]
     },
     {
+      "id": "frser-sqlite-datasource",
+      "type": "datasource",
+      "url": "https://github.com/fr-ser/grafana-sqlite-datasource",
+      "versions": [
+        {
+          "version": "0.1.5",
+          "url": "https://github.com/fr-ser/grafana-sqlite-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v0.1.5/frser-sqlite-datasource-0.1.5.zip",
+              "md5": "09c6e566f515706b73cf7604adc0a485"
+            }
+          }
+        },
+        {
+          "version": "0.2.2",
+          "url": "https://github.com/fr-ser/grafana-sqlite-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v0.2.2/frser-sqlite-datasource-0.2.2.zip",
+              "md5": "024d6de519e0fab7d0d16a2a29f4dec3"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "instana-datasource",
       "type": "datasource",
       "url": "https://github.com/instana/instana-grafana-datasource",
