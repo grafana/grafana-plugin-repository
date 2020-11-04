@@ -4727,6 +4727,18 @@
           }
         }
       ]
+    },
+    {
+      "id": "bilibala-echarts-panel",
+      "type": "panel",
+      "url": "https://github.com/Billiballa/grafana-echarts",
+      "versions": [
+        {
+          "version": "2.2.3",
+          "commit": "1fe824a265cb2abf7d20dfd286c9b98acd56e9de",
+          "url": "https://github.com/Billiballa/grafana-echarts/releases/tag/v2.2.3"
+        }
+      ]
     }
   ]
 }
