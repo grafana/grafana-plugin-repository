@@ -4424,6 +4424,28 @@
           "version": "0.6.0",
           "commit": "3f27ca64de03c20e545fc6205fa3e6421b017c69",
           "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel"
+        },
+        {
+          "version": "0.7.0",
+          "commit": "12b6325bcdabc15d20dca1949fc6180fe23b1da1",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel/releases/download/v0.7.0/marcusolsson-hourly-heatmap-panel-0.7.0.zip",
+              "md5": "d0ce180b33ae3132a49a21069db44654"
+            }
+          }
+        },
+        {
+          "version": "0.8.0",
+          "commit": "d29c44ee0ede8487fcc27948173a4849aba867f0",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel/releases/download/v0.8.0/marcusolsson-hourly-heatmap-panel-0.8.0.zip",
+              "md5": "50b92cceb4101f4b14a814f20069c515"
+            }
+          }
         }
       ]
     },
@@ -4446,6 +4468,39 @@
           "version": "0.3.0",
           "commit": "529907892b3012355367b5e2b30f75f73641526e",
           "url": "https://github.com/marcusolsson/grafana-treemap-panel"
+        },
+        {
+          "version": "0.4.0",
+          "commit": "9de7f1a174414381bfa96f5ba5f97b27dcab8dbc",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-treemap-panel/releases/download/v0.4.0/marcusolsson-treemap-panel-0.4.0.zip",
+              "md5": "db086485ea4a87abcac2d7b5276d491e"
+            }
+          }
+        },
+        {
+          "version": "0.4.1",
+          "commit": "de65c3d69424023bea0ef87c23623731cea4faca",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-treemap-panel/releases/download/v0.4.1/marcusolsson-treemap-panel-0.4.1.zip",
+              "md5": "1d8c4bf7b6682c2a850b261641216da2"
+            }
+          }
+        },
+        {
+          "version": "0.5.0",
+          "commit": "de65c3d69424023bea0ef87c23623731cea4faca",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-treemap-panel/releases/download/v0.5.0/marcusolsson-treemap-panel-0.5.0.zip",
+              "md5": "edd61a4a535e5d13f8787c8c3c6d2689"
+            }
+          }
         }
       ]
     },
@@ -4483,6 +4538,28 @@
           "version": "1.0.1",
           "commit": "fdab57f9a7cc548713ff01e68114326163d484be",
           "url": "https://github.com/marcusolsson/grafana-static-datasource"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "716ad97cca2ef685828ea35e99df7f5570d349bc",
+          "url": "https://github.com/marcusolsson/grafana-static-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-static-datasource/releases/download/v1.1.0/marcusolsson-static-datasource-1.1.0.zip",
+              "md5": "71674752ef8d02d8c73a5181d4658d7b"
+            }
+          }
+        },
+        {
+          "version": "1.2.0",
+          "commit": "c052e43915dd85d3de5ff245ca90f7c537c280f7",
+          "url": "https://github.com/marcusolsson/grafana-static-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-static-datasource/releases/download/v1.2.0/marcusolsson-static-datasource-1.2.0.zip",
+              "md5": "8d563b797cde1d12a74e428bf46ddab8"
+            }
+          }
         }
       ]
     },
@@ -4500,6 +4577,28 @@
           "version": "1.0.1",
           "commit": "83c5c1b05fc0c8a3096944d16039354f272daf34",
           "url": "https://github.com/marcusolsson/grafana-dynamictext-panel"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "ffb557a7789d6c26a76ff229132f4d8135d28004",
+          "url": "https://github.com/marcusolsson/grafana-dynamictext-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-dynamictext-panel/releases/download/v1.1.0/marcusolsson-dynamictext-panel-1.1.0.zip",
+              "md5": "0ece224b3172b63007747aea873f9d96"
+            }
+          }
+        },
+        {
+          "version": "1.2.0",
+          "commit": "71616e6a80ce59febd0f4292fd8697b493b60939",
+          "url": "https://github.com/marcusolsson/grafana-dynamictext-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-dynamictext-panel/releases/download/v1.2.0/marcusolsson-dynamictext-panel-1.2.0.zip",
+              "md5": "c1408de3b3205c5b2093f7601ef0cff5"
+            }
+          }
         }
       ]
     },
@@ -4532,6 +4631,28 @@
           "version": "0.4.0",
           "commit": "d03ecc56434ac86ba2032a5f311f17eb22141983",
           "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource"
+        },
+        {
+          "version": "0.5.0",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource",
+          "commit": "e1eca648c41dfdb476d6bd9c3ede41ef04d81674",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource/releases/download/v0.5.0/marcusolsson-json-datasource-0.5.0.zip",
+              "md5": "c582b06f993673cdc2035509aab61172"
+            }
+          }
+        },
+        {
+          "version": "0.5.1",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource",
+          "commit": "14524cde68e81d4a1a220456eeaa60ceccb6b2ac",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource/releases/download/v0.5.1/marcusolsson-json-datasource-0.5.1.zip",
+              "md5": "089c8945fd59db1f73b3142d99fa1ffa"
+            }
+          }
         }
       ]
     },
