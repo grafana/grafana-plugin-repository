@@ -4160,6 +4160,11 @@
           "version": "2.0.0",
           "commit": "8fd2758ec4c2562c2dea27b2f9f530cca141cbb4",
           "url": "https://github.com/alexandrainst/alexandra-trackmap-panel"
+        },
+        {
+          "version": "2.1.0",
+          "commit": "9859a67865e55b145c2da2aab581e043c6387aed",
+          "url": "https://github.com/alexandrainst/alexandra-trackmap-panel"
         }
       ]
     },
