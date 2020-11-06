@@ -3296,7 +3296,7 @@
         },
         {
           "version": "1.4.0",
-          "commit": "e67922ca2ee0ca48c60ffccaf8bd823100255af6",
+          "commit": "1333a2a481e1e31b596062aa874273a14e51022c",
           "url": "https://github.com/linksmart/grafana-sensorthings-datasource"
         }
       ]
