@@ -4829,6 +4829,7 @@
           "version": "0.1.0",
           "commit": "39be7b5ff20e0209834719d7f1c0780a23d2b4a2",
           "url": "https://github.com/Azure/GrafanaML"
+        }
     },
     {
       "id": "innius-video-panel",
