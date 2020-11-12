@@ -1,3 +1,5 @@
+/*jshint esversion: 8 */
+
 const _ = require('lodash');
 const chalk = require('chalk');
 const request = require('request-promise-native');
@@ -30,12 +32,21 @@ function lintRepoDiff(diff) {
   _.forEach(diff.diff, (pluginUpdate, pluginId) => {
     _.forEach(pluginUpdate.versions, async versionObj => {
         const url = versionObj.url.trim();
-        const commit = versionObj.commit.trim();
+        let commit = versionObj.commit || null;
+        // commit is not required for zip releases
+        if (commit) {
+          commit = versionObj.commit.trim();
+        }
         const version = versionObj.version;
+        let download = versionObj.download || null;
 
-        const lintPromise = lintPlugin(url, commit, version, pluginId).then(result => {
+        const lintPromise = lintPlugin(url, commit, version, download, pluginId).then(result => {
           console.log(`Linting ${chalk.blue(pluginId)} version ${chalk.blue(versionObj.version)}`);
-          console.log(`${url} ${commit}`);
+          if (commit) {
+            console.log(`${url} ${commit}`);
+          } else {
+            console.log(`${url} (uses download url)`);
+          }
           if (result && result.statusCode > 0) {
             console.error(chalk.yellow(result.status));
             result.warnings.forEach(err => console.error(chalk.yellow(err)));
