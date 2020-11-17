@@ -4853,18 +4853,6 @@
         }
       ]
     },
-    {      
-      "id": "yesoreyeram-infinity-datasource",
-      "type": "datasource",
-      "url": "https://github.com/yesoreyeram/grafana-infinity-datasource",
-      "versions": [
-        {
-          "version": "0.5.0",
-          "commit": "3050aae6c360a147ed38a4119e48e395af23cf4d",
-          "url": "https://github.com/yesoreyeram/grafana-infinity-datasource"
-        }
-       ]
-    },
     {
       "id": "innius-video-panel",
       "type": "panel",
@@ -4879,6 +4867,18 @@
           "version": "1.0.1",
           "commit": "87879b0db01d13d6be6b637ad6d0e0a47f15bbb4",
           "url": "https://github.com/innius/grafana-video-panel"
+        }
+      ]
+    },
+    {
+    "id": "yesoreyeram-infinity-datasource",
+    "type": "datasource",
+    "url": "https://github.com/yesoreyeram/grafana-infinity-datasource",
+    "versions": [
+        {
+            "version": "0.5.0",
+            "commit": "3050aae6c360a147ed38a4119e48e395af23cf4d",
+            "url": "https://github.com/yesoreyeram/grafana-infinity-datasource"
         }
       ]
     },
