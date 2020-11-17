@@ -5395,16 +5395,275 @@
       ]
     },
     {
-      "id": "yesoreyeram-infinity-datasource",
-      "type": "datasource",
-      "url": "https://github.com/yesoreyeram/grafana-infinity-datasource",
+      "id": "innius-video-panel",
+      "type": "panel",
+      "url": "https://github.com/innius/grafana-video-panel",
       "versions": [
         {
-          "version": "0.5.0",
-          "commit": "3050aae6c360a147ed38a4119e48e395af23cf4d",
-          "url": "https://github.com/yesoreyeram/grafana-infinity-datasource"
+          "version": "1.0.0",
+          "commit": "d4ce56ea56677143be1a6626068982766489e8d4",
+          "url": "https://github.com/innius/grafana-video-panel"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "87879b0db01d13d6be6b637ad6d0e0a47f15bbb4",
+          "url": "https://github.com/innius/grafana-video-panel"
+        }
+      ]
+    },
+    {
+      "id": "verticle-flowhook-datasource",
+      "type": "datasource",
+      "url": "https://github.com/verticle-io/flowhook-datasource",
+      "versions": [
+        {
+          "version": "0.1.2",
+          "commit": "b2a7f892aa4f11754b0034bec554001f3f20bb79",
+          "url": "https://github.com/verticle-io/flowhook-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/verticle-io/flowhook-datasource/releases/download/v0.1.2/verticle-flowhook-datasource-0.1.2.zip",
+              "md5": "7a391a15d021733483b3041ec4a83245"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "redis-app",
+      "type": "app",
+      "url": "https://github.com/RedisGrafana/grafana-redis-app",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "97aff17d24183994eba073fdfe7a41902ecf6aba",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app"
+        },
+        {
+          "version": "1.0.1",
+          "commit": "598c934bd7fde25d39006ae25f10851cb63a3b97",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-app/releases/download/v1.0.1/redis-app-1.0.1.zip",
+              "md5": "dbc1ec342bd48940a6534f67a3d93780"
+            }
+          }
+        },
+        {
+          "version": "1.1.0",
+          "commit": "fcdb97702e47f543f6bdf116972e8ec5ec9430ff",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-app/releases/download/v1.1.0/redis-app-1.1.0.zip",
+              "md5": "ca659bafe4230440831f720e335d49ac"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "humio-datasource",
+      "type": "datasource",
+      "url": "https://github.com/humio/humio2grafana",
+      "versions": [
+        {
+          "version": "3.1.1",
+          "url": "https://github.com/humio/humio2grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/humio/humio2grafana/releases/download/v3.1.1/humio.zip",
+              "md5": "593c48f67a2f2d1334b54d013d39cd2b"
+            }
+          }
+        },
+        {
+          "version": "3.2.0",
+          "url": "https://github.com/humio/humio2grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/humio/humio2grafana/releases/download/v3.2.0/humio-datasource.zip",
+              "md5": "bb8fa34a2f0908aeae71efdf12636a51"
+            }
+          }
+        },
+        {
+          "version": "3.2.1",
+          "url": "https://github.com/humio/humio2grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/humio/humio2grafana/releases/download/v3.2.1/humio-datasource.zip",
+              "md5": "2f014c8bf2b6934cdd4384887260d36e"
+            }
+          }
+        },
+        {
+          "version": "3.2.2",
+          "url": "https://github.com/humio/humio2grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/humio/humio2grafana/releases/download/v3.2.2/humio-datasource.zip",
+              "md5": "c383dc21995a2f54704c4ec042ba9a79"
+            }
+          }
+        },
+        {
+          "version": "3.2.3",
+          "url": "https://github.com/humio/humio2grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/humio/humio2grafana/releases/download/v3.2.3/humio-datasource.zip",
+              "md5": "f8532554df9392e33a5742ec59b6e491"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gapit-htmlgraphics-panel",
+      "type": "panel",
+      "url": "https://github.com/gapitio/gapit-htmlgraphics-panel",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "url": "https://github.com/gapitio/gapit-htmlgraphics-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/gapitio/gapit-htmlgraphics-panel/releases/download/v1.1.0/gapit-htmlgraphics-panel-1.1.0.zip",
+              "md5": "46c36f55bd8e6bc2bbe8c230506c5dc2"
+            }
+          }
+        },
+        {
+          "version": "1.2.0",
+          "url": "https://github.com/gapitio/gapit-htmlgraphics-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/gapitio/gapit-htmlgraphics-panel/releases/download/v1.2.0/gapit-htmlgraphics-panel-1.2.0.zip",
+              "md5": "546f08335ccf4f73e38b1d669dc0687e"
+            }
+          }
+        },
+        {
+          "version": "1.3.1",
+          "commit": "385da3cf551631e4c16d3c045e2da420129f13a0",
+          "url": "https://github.com/gapitio/gapit-htmlgraphics-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/gapitio/gapit-htmlgraphics-panel/releases/download/v1.3.1/gapit-htmlgraphics-panel-1.3.1.zip",
+              "md5": "2e650d2ced1a4811f0f030474e9b68b5"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "groonga-datasource",
+      "type": "datasource",
+      "url": "https://github.com/groonga/grafana-datasource-plugin-groonga",
+      "versions": [
+        {
+          "version": "1.1.4",
+          "commit": "d38efc809f84606b9a8343bc9b082733a4a23132",
+          "url": "https://github.com/groonga/grafana-datasource-plugin-groonga",
+          "download": {
+            "any": {
+              "url": "https://github.com/groonga/grafana-datasource-plugin-groonga/releases/download/1.1.4/groonga-datasource-1.1.4.zip",
+              "md5": "f4fb0862c4c9a68f0cb07957117ee4d2"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "meteostat-meteostat-datasource",
+      "type": "datasource",
+      "url": "https://github.com/meteostat/meteostat-grafana",
+      "versions": [
+        {
+          "version": "0.1.5",
+          "commit": "11407e87b4f8377f48f6a051a84e95c126dd8f3e",
+          "url": "https://github.com/meteostat/meteostat-grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/meteostat/meteostat-grafana/releases/download/v0.1.5/meteostat-meteostat-datasource-0.1.5.zip",
+              "md5": "f94d8bf927b47056470fa22a6d783a31"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ae3e-plotly-panel",
+      "type": "panel",
+      "url": "https://github.com/ae3e/ae3e-plotly-panel",
+      "versions": [
+        {
+          "version": "0.3.3",
+          "url": "https://github.com/ae3e/ae3e-plotly-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/ae3e/ae3e-plotly-panel/releases/download/v0.3.3/ae3e-plotly-panel-0.3.3.zip",
+              "md5": "94936b31096de4218a9c31f5ab2ab902"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bilibala-echarts-panel",
+      "type": "panel",
+      "url": "https://github.com/Billiballa/bilibala-echarts-panel",
+      "versions": [
+        {
+          "version": "2.2.4",
+          "commit": "33aa7c32c56932ddc8fbefa179234efe0afd4cb3",
+          "url": "https://github.com/Billiballa/bilibala-echarts-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/Billiballa/bilibala-echarts-panel/releases/download/v2.2.4/bilibala-echarts-panel-2.2.4.zip",
+              "md5": "8b2272d46839aaaf5f5fc1c7e8ac3afa"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "woutervh-mapbox-panel",
+      "type": "panel",
+      "url": "https://github.com/woutervh-/grafana-mapbox",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "68000c9f89dac8f3905bf28f144a4db10bc77467",
+          "url": "https://github.com/woutervh-/grafana-mapbox",
+          "download": {
+            "any": {
+              "url": "https://github.com/woutervh-/grafana-mapbox/releases/download/1.0.0/woutervh-mapbox-panel-1.0.0.zip",
+              "md5": "778b74abc93c39c9fcae286eae37335a"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "thalysantana-appcenter-datasource",
+      "type": "app",
+      "url": "https://github.com/thalysantana/grafana-appcenter-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "3a1dcabd983467be6926ca6fa6e726a0a86d8e7d",
+          "url": "https://github.com/thalysantana/grafana-appcenter-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/thalysantana/grafana-appcenter-datasource/releases/download/v1.0.0/thalysantana-appcenter-datasource-1.0.0.zip",
+              "md5": "c1064d6b2463bbff2588c2d9d51a32ba"
+            }
+          }
         }
       ]
     }
   ]
-  }
+}
