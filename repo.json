@@ -3447,12 +3447,12 @@
           "url": "https://github.com/sbueringer/grafana-consul-datasource"
         },
         {
-          "version": "0.2.0",
+          "version": "0.2.1",
           "url": "https://github.com/sbueringer/grafana-consul-datasource",
           "download": {
             "any": {
-              "url": "https://github.com/sbueringer/grafana-consul-datasource/releases/download/v0.2.0/sbueringer-consul-datasource-0.2.0.zip",
-              "md5": "c1f1af36f47d17846a649f4986013439"
+              "url": "https://github.com/sbueringer/grafana-consul-datasource/releases/download/v0.2.1/sbueringer-consul-datasource-0.2.1.zip",
+              "md5": "acd8d8514d1238fbf6bdfc6806364311"
             }
           }
         }
