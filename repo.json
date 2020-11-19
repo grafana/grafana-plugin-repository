@@ -4688,7 +4688,13 @@
         {
           "version": "0.1.2",
           "commit": "b2a7f892aa4f11754b0034bec554001f3f20bb79",
-          "url": "https://github.com/verticle-io/flowhook-datasource"
+          "url": "https://github.com/verticle-io/flowhook-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/verticle-io/flowhook-datasource/releases/download/v0.1.2/verticle-flowhook-datasource-0.1.2.zip",
+              "md5": "d4ea628861ea1369e332ce38ad22d11a"
+            }
+          }
         }
       ]
     },
