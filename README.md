@@ -20,18 +20,25 @@ To submit a plugin for review:
 
 ## Add a plugin to `repo.json`
 
+To publish a plugin, add a new entry to the `plugins` array in [repo.json](repo.json).
+
 Here's an example of a plugin release:
 
 ```json
 {
-  "id": "alexanderzobnin-zabbix-app",
-  "type": "app",
-  "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+  "id": "briangann-gauge-panel",
+  "type": "panel",
+  "url": "https://github.com/briangann/grafana-gauge-panel",
   "versions": [
     {
-      "version": "3.2.1",
-      "commit": "ad6614eacd2b94eedbd0671b1d1a0f2002ade056",
-      "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+      "version": "0.0.8",
+      "url": "https://github.com/briangann/grafana-gauge-panel",
+      "download": {
+        "any": {
+          "url": "https://github.com/briangann/grafana-gauge-panel/releases/download/v0.0.8/briangann-gauge-panel-0.0.8.zip",
+          "md5": "782c973460f330287b7efca5486aa015"
+        }
+      }
     }
   ]
 }
@@ -44,15 +51,22 @@ Here's an example of a plugin release:
 | `id`       | Plugin ID. Needs to match the plugin ID in `plugin.json` |
 | `type`     | Plugin type, e.g. `panel`, `datasource`, or `app`        |
 | `url`      | URL to the plugin's GitHub project page                  |
-| `versions` | URL to the plugin's GitHub project page                  |
+| `versions` | List of all published versions of the plugin             |
 
 ### Plugin Version Schema
 
-| Property  | Description                                                 |
-|-----------|-------------------------------------------------------------|
-| `version` | Plugin version. Needs to match the version in `plugin.json` |
-| `commit`  | Commit SHA of the version to submit                         |
-| `url`     | URL to the plugin's GitHub project page                     |
+| Property   | Description                                                 |
+|------------|-------------------------------------------------------------|
+| `version`  | Plugin version. Needs to match the version in `plugin.json` |
+| `url`      | URL to the plugin's GitHub project page                     |
+| `download` | Download information.                                       |
+
+### Plugin Download Schema
+
+| Property   | Description                                                      |
+|------------|------------------------------------------------------------------|
+| `url`      | URL to a ZIP archive containing a production build of the plugin |
+| `md5`      | MD5 check sum of the ZIP archive                                 |
 
 ## Resources
 
