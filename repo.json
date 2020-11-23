@@ -1,6 +1,24 @@
 {
   "plugins": [
     {
+      "id": "ccin2p3-riemann-datasource",
+      "type": "datasource",
+      "url": "https://github.com/faxm0dem/grafana-riemann-websocket-datasource",
+      "versions": [
+        {
+          "version": "0.1.3",
+          "commit": "40ad2bedbc3d17176ff18d5a75225b081951c015",
+          "url": "https://github.com/faxm0dem/grafana-riemann-websocket-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/faxm0dem/grafana-riemann-websocket-datasource/releases/download/v0.1.3/ccin2p3-riemann-datasource-0.1.3.zip",
+              "md5": "acc30fa28f10a0b6eee658707a8a347f"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "isaozler-paretochart-panel",
       "type": "panel",
       "url": "https://github.com/isaozler/pareto-chart",
