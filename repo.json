@@ -4719,6 +4719,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "woutervh-mapbox-panel",
+      "type": "panel",
+      "url": "https://github.com/faxm0dem/grafana-riemann-websocket-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "ca598f7ae61a95d48614e5c2d03e8497f33db738",
+          "url": "https://github.com/woutervh-/grafana-mapbox",
+          "download": {
+            "any": {
+              "url": "https://github.com/woutervh-/grafana-mapbox/releases/download/1.0.0/woutervh-mapbox-panel-1.0.0.zip",
+              "md5": "4fbd4415da58b2875d03ba0efc6d34e9"
+            }
+          }
+        }
+      ]
     }
   ]
 }
