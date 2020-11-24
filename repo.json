@@ -4552,6 +4552,16 @@
           "version": "7.0.4",
           "commit": "0bdb76f61219a1ec515118fb49bff869d6867d5f",
           "url": "https://github.com/cloudspout/cloudspout-button-panel/"
+        },
+        {
+          "version": "7.0.23",
+          "url": "https://github.com/cloudspout/cloudspout-button-panel/",
+          "download": {
+            "any": {
+              "url": "https://github.com/cloudspout/cloudspout-button-panel/releases/download/7.0.23/cloudspout-button-panel.zip",
+              "md5": "96f71b9155545e6829be85984357cef7"
+            }
+          }
         }
       ]
     },
