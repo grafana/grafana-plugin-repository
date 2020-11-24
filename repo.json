@@ -4515,12 +4515,12 @@
           "url": "https://github.com/cloudspout/cloudspout-button-panel/"
         },
         {
-          "version": "7.0.22",
+          "version": "7.0.23",
           "url": "https://github.com/cloudspout/cloudspout-button-panel/",
           "download": {
             "any": {
-              "url": "https://github.com/cloudspout/cloudspout-button-panel/releases/download/7.0.22/cloudspout-button-panel.zip",
-              "md5": "2a82a13c394072b674986b88073c9776"
+              "url": "https://github.com/cloudspout/cloudspout-button-panel/releases/download/7.0.23/cloudspout-button-panel.zip",
+              "md5": "96f71b9155545e6829be85984357cef7"
             }
           }
         }
