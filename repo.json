@@ -3636,6 +3636,17 @@
               "md5": "c661fa8d603deed7576c348d4bc8ef88"
             }
           }
+        },
+        {
+          "version": "2.1.1",
+          "commit": "0e5e4add82b6406cdb4c96caed9ed4718bfe2dc9",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/cognitedata/cognite-grafana-datasource/releases/download/v2.1.1/cognitedata-datasource-2.1.1.zip",
+              "md5": "049c6e5ad00140423c2b8a0f96642503"
+            }
+          }
         }
       ]
     },
