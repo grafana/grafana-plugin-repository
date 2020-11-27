@@ -4587,7 +4587,7 @@
           "download": {
             "any": {
               "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource/releases/download/v0.6.2/marcusolsson-json-datasource-0.6.2.zip",
-              "md5": "37f8ee6be2bea94060ce8ee669ef6d23"
+              "md5": "53c8f1f4290dd16d3fc2b971922e2c33"
             }
           }
         },
