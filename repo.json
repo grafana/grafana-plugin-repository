@@ -4295,6 +4295,17 @@
               "md5": "50b92cceb4101f4b14a814f20069c515"
             }
           }
+        },
+        {
+          "version": "0.8.1",
+          "commit": "6a3b59cd41da22aa12c35065cdb40b8d17e6e8fc",
+          "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-hourly-heatmap-panel/releases/download/v0.8.1/marcusolsson-hourly-heatmap-panel-0.8.1.zip",
+              "md5": "39ca79ca977f881832daa914b94cdb8e"
+            }
+          }
         }
       ]
     },
@@ -4361,6 +4372,17 @@
               "md5": "792e1d5bac286385107c171f3946d4ff"
             }
           }
+        },
+        {
+          "version": "0.6.1",
+          "commit": "00368c6fdabef8976d473eb95db2d83f0ab4bfa5",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-treemap-panel/releases/download/v0.6.1/marcusolsson-treemap-panel-0.6.1.zip",
+              "md5": "e6f52beb1daaf81f076786c4175cec6f"
+            }
+          }
         }
       ]
     },
@@ -4420,6 +4442,17 @@
               "md5": "8d563b797cde1d12a74e428bf46ddab8"
             }
           }
+        },
+        {
+          "version": "1.2.1",
+          "commit": "ed73d27da35f537ec7fd10cb97e9ec9bab14ad4c",
+          "url": "https://github.com/marcusolsson/grafana-static-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-static-datasource/releases/download/v1.2.1/marcusolsson-static-datasource-1.2.1.zip",
+              "md5": "ab6f4ae07b4a442fcf46bb4da3e99eae"
+            }
+          }
         }
       ]
     },
@@ -4457,6 +4490,17 @@
             "any": {
               "url": "https://github.com/marcusolsson/grafana-dynamictext-panel/releases/download/v1.2.0/marcusolsson-dynamictext-panel-1.2.0.zip",
               "md5": "c1408de3b3205c5b2093f7601ef0cff5"
+            }
+          }
+        },
+        {
+          "version": "1.2.1",
+          "commit": "a0fcd8e02642d4e14fff7805e41280fda285f912",
+          "url": "https://github.com/marcusolsson/grafana-dynamictext-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-dynamictext-panel/releases/download/v1.2.1/marcusolsson-dynamictext-panel-1.2.1.zip",
+              "md5": "37c3fcfcbe0dcf4c434c068f9ffeabb1"
             }
           }
         }
@@ -4544,6 +4588,17 @@
             "any": {
               "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource/releases/download/v0.6.2/marcusolsson-json-datasource-0.6.2.zip",
               "md5": "37f8ee6be2bea94060ce8ee669ef6d23"
+            }
+          }
+        },
+        {
+          "version": "0.6.3",
+          "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource",
+          "commit": "5bede89f38dee1f0dc5dfce617729eaa883ab23a",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-jsonapi-datasource/releases/download/v0.6.3/marcusolsson-json-datasource-0.6.3.zip",
+              "md5": "a8f52e3371a73aff355bc9cc6ad7a6ef"
             }
           }
         }
