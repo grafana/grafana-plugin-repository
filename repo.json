@@ -4731,12 +4731,18 @@
     {
       "id": "bilibala-echarts-panel",
       "type": "panel",
-      "url": "https://github.com/Billiballa/grafana-echarts",
+      "url": "https://github.com/Billiballa/bilibala-echarts-panel",
       "versions": [
         {
-          "version": "2.2.3",
-          "commit": "1fe824a265cb2abf7d20dfd286c9b98acd56e9de",
-          "url": "https://github.com/Billiballa/grafana-echarts/releases/tag/v2.2.3"
+          "version": "2.2.4",
+          "commit": "33aa7c32c56932ddc8fbefa179234efe0afd4cb3",
+          "url": "https://github.com/Billiballa/bilibala-echarts-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/Billiballa/bilibala-echarts-panel/releases/download/v2.2.4/bilibala-echarts-panel-2.2.4.zip",
+              "md5": "8a98f0e91b3fc084ab9da25b915ca13e"
+            }
+          }
         }
       ]
     }
