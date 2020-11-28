@@ -4605,6 +4605,24 @@
       ]
     },
     {
+      "id": "marcusolsson-csv-datasource",
+      "type": "datasource",
+      "url": "https://github.com/marcusolsson/grafana-csv-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "url": "https://github.com/marcusolsson/grafana-csv-datasource",
+          "commit": "6acc1429a79cd681259cf56f1bc64d7f76a5bfc0",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-csv-datasource/releases/download/v0.1.0/marcusolsson-csv-datasource-0.1.0.zip",
+              "md5": "bffdac3f6887db6a7376d528f8da9a65"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "cloudspout-button-panel",
       "type": "panel",
       "url": "https://github.com/cloudspout/cloudspout-button-panel/",
