@@ -3313,6 +3313,7 @@
         },
         {
           "version": "2.0.0",
+          "commit": "adf8ab66b9c1196dce3eed5e2a7b64efac3f1efc",
           "url": "https://github.com/LucasArona/larona-epict-panel",
           "download": {
             "any": {
