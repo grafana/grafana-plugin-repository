@@ -2096,9 +2096,13 @@
         },
         {
           "version": "2.2.0",
-          "commit": "67e5b7f80cfe5198db9ac8fdabfe2d70c7f2aaa1",
-          "url": "https://github.com/Vertamedia/clickhouse-grafana"
-        }
+          "url": "https://github.com/Vertamedia/clickhouse-grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/Vertamedia/clickhouse-grafana/archive/2.2.0.zip",
+              "md5": "b4a3089dddf134f9e9204c9ce79a9cae"
+            }
+          }        }
       ]
     },
     {
