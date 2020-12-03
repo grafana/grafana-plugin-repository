@@ -4634,6 +4634,24 @@
       ]
     },
     {
+      "id": "marcusolsson-hexmap-panel",
+      "type": "panel",
+      "url": "https://github.com/marcusolsson/grafana-hexmap-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "url": "https://github.com/marcusolsson/grafana-hexmap-panel",
+          "commit": "12d5e015ecf1a80170b10948e1b0cfc0e0d83d30",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-hexmap-panel/releases/download/v0.1.0/marcusolsson-hexmap-panel-0.1.0.zip",
+              "md5": "a879f749470c0b335b4bc2cbadd991e3"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "cloudspout-button-panel",
       "type": "panel",
       "url": "https://github.com/cloudspout/cloudspout-button-panel/",
