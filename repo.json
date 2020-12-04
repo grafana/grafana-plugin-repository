@@ -4698,12 +4698,12 @@
       "url": "https://github.com/gapitio/gapit-htmlgraphics-panel",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.1.0",
           "url": "https://github.com/gapitio/gapit-htmlgraphics-panel",
           "download": {
             "any": {
-              "url": "https://github.com/gapitio/gapit-htmlgraphics-panel/releases/download/v1.0.0/gapit-htmlgraphics-panel-1.0.0.zip",
-              "md5": "63dadfeefcc948c093aaa419bd2fd0e1"
+              "url": "https://github.com/gapitio/gapit-htmlgraphics-panel/releases/download/v1.1.0/gapit-htmlgraphics-panel-1.1.0.zip",
+              "md5": "46c36f55bd8e6bc2bbe8c230506c5dc2"
             }
           }
         }
