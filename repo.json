@@ -1014,6 +1014,16 @@
       "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource",
       "versions": [
         {
+          "version": "0.2.1",
+          "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource/releases/download/v0.2.1/fetzerch-sunandmoon-datasource-0.2.1.zip",
+              "md5": "3de2d94e2b72ae599ec40521f9c27208"
+            }
+          }
+        },
+        {
           "version": "0.2.0",
           "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource",
           "download": {
