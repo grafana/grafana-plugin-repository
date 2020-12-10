@@ -4415,6 +4415,17 @@
               "md5": "e6f52beb1daaf81f076786c4175cec6f"
             }
           }
+        },
+        {
+          "version": "0.7.0",
+          "commit": "012707de1971b459c7463f1d8cadc8b25d4e815c",
+          "url": "https://github.com/marcusolsson/grafana-treemap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-treemap-panel/releases/download/v0.7.0/marcusolsson-treemap-panel-0.7.0.zip",
+              "md5": "faf7d4c51d32c5f2719fa31ffcf26f9a"
+            }
+          }
         }
       ]
     },
