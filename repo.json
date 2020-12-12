@@ -4822,11 +4822,15 @@
     {
       "id": "taosdata-tdengine-datasource",
       "type": "datasource",
+      "url": "https://github.com/taosdata/grafanaplugin",
       "versions": [
           {
             "version": "2.0.0",
-            "commit": "d598db167eb256fe67409b7bb3d0eb7fffc3ff8c",
-            "url": "https://github.com/taosdata/grafanaplugin"
+            "url": "https://github.com/taosdata/grafanaplugin",
+            "download": {
+              "url": "https://github.com/taosdata/grafanaplugin/releases/download/v2.0.0/tdengine-grafana-plugin-v2.0.0.tar.gz",
+              "md5": "67e9d6d0ad2430ef5f427a454bb2cf33"
+            }
           }
       ]
     },
