@@ -2099,8 +2099,8 @@
           "url": "https://github.com/Vertamedia/clickhouse-grafana",
           "download": {
             "any": {
-              "url": "https://github.com/Vertamedia/clickhouse-grafana/archive/2.2.0.zip",
-              "md5": "b4a3089dddf134f9e9204c9ce79a9cae"
+              "url": "https://github.com/Vertamedia/clickhouse-grafana/releases/download/2.2.0/vertamedia-clickhouse-datasource-2.2.0.zip",
+              "md5": "85a73875352667ca1276f107a4c6d246"
             }
           }        }
       ]
