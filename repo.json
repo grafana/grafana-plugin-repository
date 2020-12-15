@@ -2097,6 +2097,7 @@
         {
           "version": "2.2.0",
           "url": "https://github.com/Vertamedia/clickhouse-grafana",
+          "commit": "67e5b7f80cfe5198db9ac8fdabfe2d70c7f2aaa1",
           "download": {
             "any": {
               "url": "https://github.com/Vertamedia/clickhouse-grafana/releases/download/2.2.0/vertamedia-clickhouse-datasource-2.2.0.zip",
