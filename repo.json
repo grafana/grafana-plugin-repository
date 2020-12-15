@@ -3615,7 +3615,7 @@
         },
         {
           "version": "2.0.1",
-          "commit": "756780ef960c21df941467e597e642a47d5a53f0",
+          "commit": "36255f29a909466539fafcd5a9de828c94ef7beb",
           "url": "https://github.com/doitintl/bigquery-grafana"
         }
       ]
