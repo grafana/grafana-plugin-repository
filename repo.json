@@ -1995,6 +1995,16 @@
           "version": "0.1.4",
           "commit": "359ba474dad641f32e89c3492c58b729ea9ecdde",
           "url": "https://github.com/cloudflare/cloudflare-grafana-app"
+        },
+        {
+          "version": "0.2.1",
+          "url": "https://github.com/cloudflare/cloudflare-grafana-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/cloudflare/cloudflare-grafana-app/releases/download/v0.2.1/cloudflare-grafana-app-0.2.1.zip",
+              "md5": "a3bea5f7f86a904cf7463888877a3025"
+            }
+          }
         }
       ]
     },
