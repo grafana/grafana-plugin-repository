@@ -4952,7 +4952,7 @@
             }
           }
         },
-                {
+        {
           "version": "3.2.0",
           "url": "https://github.com/humio/humio2grafana",
           "download": {
@@ -4962,7 +4962,7 @@
             }
           }
         },
-                {
+        {
           "version": "3.2.1",
           "url": "https://github.com/humio/humio2grafana",
           "download": {
