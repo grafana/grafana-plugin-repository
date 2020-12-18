@@ -1,58 +1,75 @@
-# grafana-plugin-repository
+# Grafana Plugin Repository
 
-This repository contains a json file linking to all supported grafana plugins. To submit a plugin to be published on Grafana.net, add your plugin to the repo.json file below.
+This repository lists all officially supported Grafana plugins. Plugins in this repository are listed on [Grafana.com](https://grafana.com/grafana/plugins), and can be [installed](https://grafana.com/docs/grafana/latest/plugins/installation/) locally using [Grafana CLI](https://grafana.com/docs/grafana/latest/administration/cli/#plugins-commands) or by [Grafana Cloud](https://grafana.com/products/cloud/) users.
 
-When submitting a plugin we need the following:
+We review all plugins before they are published. This means that it may take some time before we can review your plugin.
 
-- plugin id
-- type (panel|datasource|app)
-- version
-- git commit hash
-- url to github repo
+Here's a few things you can do to help us review your plugin faster.
 
-Here is an example snippet:
+- Validate your plugin release with [this plugin validator](https://grafana-plugins-web-vgmmyppaka-lz.a.run.app/)
+- Read the [Review Guidelines](http://docs.grafana.org/plugins/developing/plugin-review-guidelines/) before submitting your plugin. These guidelines determine if the plugin is ready to be published or not.
+- If possible, for datasource plugins please provide a description on how to set up a simple test environment. A docker container or simple install script helps speed up the review process a lot.
+
+To submit a plugin for review:
+
+1. Fork this repository
+1. Add your plugin to `repo.json`
+1. Create a pull request
+
+> **Note:** Commercial plugins require a plugin subscription to be published. Commercial plugin subscriptions help us fund continued development of our open source platform and software. See the [terms](https://grafana.com/terms) for more details.
+
+## Add a plugin to `repo.json`
+
+To publish a plugin, add a new entry to the `plugins` array in [repo.json](repo.json).
+
+Here's an example of a plugin release:
+
 ```json
- {
-    "id": "alexanderzobnin-zabbix-app",
-    "type": "app",
-    "url": "https://github.com/alexanderzobnin/grafana-zabbix",
-    "versions": [
-      {
-        "version": "3.2.1",
-        "commit": "ad6614eacd2b94eedbd0671b1d1a0f2002ade056",
-        "url": "https://github.com/alexanderzobnin/grafana-zabbix"
-      },
-      ...
+{
+  "id": "briangann-gauge-panel",
+  "type": "panel",
+  "url": "https://github.com/briangann/grafana-gauge-panel",
+  "versions": [
+    {
+      "version": "0.0.8",
+      "url": "https://github.com/briangann/grafana-gauge-panel",
+      "download": {
+        "any": {
+          "url": "https://github.com/briangann/grafana-gauge-panel/releases/download/v0.0.8/briangann-gauge-panel-0.0.8.zip",
+          "md5": "782c973460f330287b7efca5486aa015"
+        }
+      }
+    }
+  ]
+}
 ```
-## Developing a Plugin
 
-The Developing Plugins section in Grafana docs contains several articles about plugins. Start with these:
+### Plugin Release Schema
 
-- [Development Guide](http://docs.grafana.org/plugins/developing/development/)
-- [Code Styleguide](http://docs.grafana.org/plugins/developing/code-styleguide/)
+| Property   | Description                                              |
+|------------|----------------------------------------------------------|
+| `id`       | Plugin ID. Needs to match the plugin ID in `plugin.json` |
+| `type`     | Plugin type, e.g. `panel`, `datasource`, or `app`        |
+| `url`      | URL to the plugin's GitHub project page                  |
+| `versions` | List of all published versions of the plugin             |
 
+### Plugin Version Schema
 
-# repo.json
+| Property   | Description                                                 |
+|------------|-------------------------------------------------------------|
+| `version`  | Plugin version. Needs to match the version in `plugin.json` |
+| `url`      | URL to the plugin's GitHub project page                     |
+| `download` | Download information.                                       |
 
-| Property | Description |
-| ------------- |-------------|
-| plugins | An array of plugins hosted by grafana net |
-| type | What kind of plugin panel/datasource/app |
-| url | Link to the projects website. |
-| version | Available versions of the plugin. Linking to an github page and exact commit |
+### Plugin Download Schema
 
+| Property   | Description                                                      |
+|------------|------------------------------------------------------------------|
+| `url`      | URL to a ZIP archive containing a production build of the plugin |
+| `md5`      | MD5 check sum of the ZIP archive                                 |
 
-# plugin.json
+## Resources
 
-| Property | Description |
-| ------------- |-------------|
-| id | uniqe name of the plugin. Should not contain whitespaces |
-| type | panel/datasource/app |
-| name | Human readable name of the plugin |
-| info.description | Description of plugin. Used for searching grafana net plugins |
-| info.author | |
-| info.keywords | plugin keywords. Used for search on grafana net|
-| info.logos | link to project logos |
-| info.version | project version of this commit. Must be semver |
-| dependencies.grafanaVersion | Required grafana backend version for this plugin |
-| dependencies.plugins | required plugins for this plugin. |
+- [Plugin Development](https://grafana.com/docs/grafana/latest/developers/plugins/)
+- [Create a plugin release](https://grafana.com/tutorials/build-a-panel-plugin/#8)
+- [plugin.json Schema](https://grafana.com/docs/grafana/latest/developers/plugins/metadata/)
