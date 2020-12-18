@@ -4938,26 +4938,6 @@
       ]
     },
     {
-<<<<<<< HEAD
-      "id": "ae3e-plotly-panel",
-      "type": "panel",
-      "url": "https://github.com/ae3e/ae3e-plotly-panel",
-      "versions": [
-        {
-          "version": "0.2.1",
-          "commit": "c5576cc7559694d62a684ebd501bf7d91540c335",
-          "url": "https://github.com/ae3e/ae3e-plotly-panel"
-        },
-        {
-          "version": "0.3.1",
-          "commit": "a6d306285efeb0d13aa6db958bd0fae6c23e7350",
-          "url": "https://github.com/ae3e/ae3e-plotly-panel"
-        },
-        {
-          "version": "0.3.2",
-          "commit": "e098b944bd4db63ca8ce130bb198897a91dbfafa",
-          "url": "https://github.com/ae3e/ae3e-plotly-panel"
-=======
       "id": "humio-datasource",
       "type": "datasource",
       "url": "https://github.com/humio/humio2grafana",
@@ -4988,7 +4968,23 @@
               "md5": "46c36f55bd8e6bc2bbe8c230506c5dc2"
             }
           }
->>>>>>> upstream/master
+        }
+      ]
+    },
+    {
+      "id": "ae3e-plotly-panel",
+      "type": "panel",
+      "url": "https://github.com/ae3e/ae3e-plotly-panel",
+      "versions": [
+        {
+          "version": "0.3.3",
+          "url": "https://github.com/ae3e/ae3e-plotly-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/ae3e/ae3e-plotly-panel/releases/download/v0.3.3/ae3e-plotly-panel-0.3.3.zip",
+              "md5": "94936b31096de4218a9c31f5ab2ab902"
+            }
+          }
         }
       ]
     }
