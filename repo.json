@@ -4951,6 +4951,26 @@
               "md5": "593c48f67a2f2d1334b54d013d39cd2b"
             }
           }
+        },
+                {
+          "version": "3.2.0",
+          "url": "https://github.com/humio/humio2grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/humio/humio2grafana/releases/download/v3.2.0/humio-datasource.zip",
+              "md5": "bb8fa34a2f0908aeae71efdf12636a51"
+            }
+          }
+        },
+                {
+          "version": "3.2.1",
+          "url": "https://github.com/humio/humio2grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/humio/humio2grafana/releases/download/v3.2.1/humio-datasource.zip",
+              "md5": "2f014c8bf2b6934cdd4384887260d36e"
+            }
+          }
         }
       ]
     },
