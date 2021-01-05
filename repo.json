@@ -2144,9 +2144,10 @@
           "download": {
             "any": {
               "url": "https://github.com/Vertamedia/clickhouse-grafana/releases/download/2.2.0/vertamedia-clickhouse-datasource-2.2.0.zip",
-              "md5": "f2277537425f199aa1682da51ec02fa4"
+              "md5": "db39ab7708c1ef2a08ad0ad98598c3ce"
             }
-          }        }
+          }
+        }
       ]
     },
     {
