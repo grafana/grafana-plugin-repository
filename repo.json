@@ -3618,8 +3618,8 @@
           "url": "https://github.com/doitintl/bigquery-grafana",
           "download": {
             "any": {
-              "url": "https://github.com/doitintl/bigquery-grafana/releases/download/v2.0.1/doitintl-bigquery-datasource-2.0.1.zip",
-              "md5": "4663abf5c8559bb6c2be637dca1b5fdb"
+              "url": "https://github.com/doitintl/bigquery-grafana/releases/download/2.0.1/doitintl-bigquery-datasource-2.0.1.zip",
+              "md5": "3e5d287e8fbd6f59fab01047a662ff6c"
             }
           }
         }
