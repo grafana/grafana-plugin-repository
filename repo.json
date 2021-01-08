@@ -4758,6 +4758,17 @@
               "md5": "cf4b8cde6cc83683a072721410a72338"
             }
           }
+        },
+        {
+          "version": "0.8.0",
+          "url": "https://github.com/marcusolsson/grafana-json-datasource",
+          "commit": "7e195eed36a2d11bf4f011bd1a57be6adfba452e",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-json-datasource/releases/download/v0.8.0/marcusolsson-json-datasource-0.8.0.zip",
+              "md5": "0140035c22d376c017399ace32794ae3"
+            }
+          }
         }
       ]
     },
@@ -5130,17 +5141,17 @@
       "type": "datasource",
       "url": "https://github.com/groonga/grafana-datasource-plugin-groonga",
       "versions": [
-	{
-	  "version": "1.1.4",
-	  "commit": "d38efc809f84606b9a8343bc9b082733a4a23132",
-	  "url": "https://github.com/groonga/grafana-datasource-plugin-groonga",
-	  "download": {
-	    "any": {
-	      "url": "https://github.com/groonga/grafana-datasource-plugin-groonga/releases/download/1.1.4/groonga-datasource-1.1.4.zip",
-	      "md5": "f4fb0862c4c9a68f0cb07957117ee4d2"
-	    }
-	  }
-	}
+        {
+          "version": "1.1.4",
+          "commit": "d38efc809f84606b9a8343bc9b082733a4a23132",
+          "url": "https://github.com/groonga/grafana-datasource-plugin-groonga",
+          "download": {
+            "any": {
+              "url": "https://github.com/groonga/grafana-datasource-plugin-groonga/releases/download/1.1.4/groonga-datasource-1.1.4.zip",
+              "md5": "f4fb0862c4c9a68f0cb07957117ee4d2"
+            }
+          }
+        }
       ]
     }
   ]
