@@ -4831,6 +4831,24 @@
       ]
     },
     {
+      "id": "marcusolsson-gantt-panel",
+      "type": "panel",
+      "url": "https://github.com/marcusolsson/grafana-gantt-panel",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "url": "https://github.com/marcusolsson/grafana-gantt-panel",
+          "commit": "24f9a0506fb9b797ea301d899f9badac8e04485a",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-gantt-panel/releases/download/v0.1.0/marcusolsson-gantt-panel-0.1.0.zip",
+              "md5": "6e437da4f0762ed1b9260f2b65017317"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "cloudspout-button-panel",
       "type": "panel",
       "url": "https://github.com/cloudspout/cloudspout-button-panel/",
