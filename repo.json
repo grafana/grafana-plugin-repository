@@ -4081,7 +4081,13 @@
         {
           "version": "1.5.0",
           "commit": "ee5827537b152e5d783e915b46c137f961e83929",
-          "url": "https://github.com/devopsprodigy/kubegraf"
+          "url": "https://github.com/devopsprodigy/kubegraf",
+          "download" : {
+            "any" : {
+              "url": "https://github.com/devopsprodigy/kubegraf/releases/download/v1.5.0.2/devopsprodigy-kubegraf-app-1.5.0.zip",
+              "md5": "3b43e6b6a0b3f28697c3a2a74b161881"
+            }
+          }
         }
       ]
     },
