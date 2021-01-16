@@ -6,13 +6,13 @@
       "url": "https://github.com/SSKGo/perfcurve-panel",
       "versions": [
         {
-          "version": "1.3.0",
-          "commit": "d4393454b0a648f3b38a1d107656a6c98ea657ea",
+          "version": "1.3.1",
+          "commit": "ee787e3c22672afc48d1bc42ef8f8c9df2024156",
           "url": "https://github.com/SSKGo/perfcurve-panel",
           "download": {
             "any": {
-              "url": "https://github.com/SSKGo/perfcurve-panel/releases/download/v.1.3.0/sskgo-perfcurve-panel-1.3.0.zip",
-              "md5": "8ea6caf00be662e8e10c5389ddba623b"
+              "url": "https://github.com/SSKGo/perfcurve-panel/releases/download/v1.3.1/sskgo-perfcurve-panel-1.3.1.zip",
+              "md5": "4fb0c610e5a1c7ba1d0ca8549fbde2ef"
             }
           }
         }
