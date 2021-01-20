@@ -3493,6 +3493,18 @@
       ]
     },
     {
+      "id": "michaeldmoore-scatter-panel",
+      "type": "panel",
+      "url": "https://github.com/michaeldmoore/michaeldmoore-scatter-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "26906a367e7f4625f694f69443f8cc104aa94ab9",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-scatter-panel"
+        }
+      ]
+    },
+    {
       "id": "scadavis-synoptic-panel",
       "type": "panel",
       "url": "https://github.com/riclolsen/scadavis-synoptic-panel",
