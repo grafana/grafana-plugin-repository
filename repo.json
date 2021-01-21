@@ -4084,8 +4084,8 @@
           "url": "https://github.com/devopsprodigy/kubegraf",
           "download" : {
             "any" : {
-              "url": "https://github.com/devopsprodigy/kubegraf/releases/download/v1.5.0.3/devopsprodigy-kubegraf-app-1.5.0.zip",
-              "md5": "30e532eedaf024921bcdf8b39c2c7066"
+              "url": "https://github.com/devopsprodigy/kubegraf/releases/download/v1.5.0.4/devopsprodigy-kubegraf-app-1.5.0.zip",
+              "md5": "4d35dc47b16af1a152b8dd29d24ff637"
             }
           }
         }
