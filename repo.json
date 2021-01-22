@@ -3674,7 +3674,7 @@
     {
       "id": "pierosavi-imageit-panel",
       "type": "panel",
-      "url": "https://github.com/pierosavi/grafana-imageit",
+      "url": "https://github.com/pierosavi/pierosavi-imageit-panel",
       "versions": [
         {
           "version": "0.0.1",
@@ -3705,6 +3705,17 @@
           "version": "0.1.3",
           "commit": "ae249374a475bb54397107a2f79d794863a53a2b",
           "url": "https://github.com/pierosavi/pierosavi-imageit-panel"
+        },
+        {
+          "version": "1.0.0",
+          "commit": "48d0ea37461ae42530613f4e99aa7cdae03d6a0e",
+          "url": "https://github.com/pierosavi/pierosavi-imageit-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/pierosavi/pierosavi-imageit-panel/releases/download/untagged-7546daf96b75f827a057/pierosavi-imageit-panel-1.0.0.zip",
+              "md5": "4ecd9c44ee51f42dac175a36182cffaa"
+            }
+          }
         }
       ]
     },
