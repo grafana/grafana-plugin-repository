@@ -5192,6 +5192,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "rockset-backend-datasource",
+      "type": "datasource",
+      "url": "https://docs.rockset.com/grafana/",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "commit": "04767acc264e0d4d79722e18faa85549044c77f2",
+          "url": "https://github.com/rockset/rockset-grafana-backend",
+          "download": {
+            "any": {
+              "url": "https://github.com/rockset/rockset-grafana-backend/releases/download/v0.1.1/rockset-grafana-backend.zip",
+              "md5": "35fe07bde8cb5207bcb5d5185299e47e"
+            }
+          }
+        }
+      ]
     }
   ]
 }
