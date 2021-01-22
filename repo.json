@@ -4320,8 +4320,13 @@
         },
         {
           "version": "2.0.0",
-          "commit": "e13c89fb24ec98acccff8043bb8c4d4ff9e6342b",
-          "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws"
+          "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws",
+          "download":{
+            "any": {
+              "url": "https://github.com/AquaQAnalytics/grafana-kdb-datasource-ws/raw/v2.0.0/grafana-kdb-datasource-2.0.0.zip",
+              "md5": "31c4fb81bf104f0a6658aff26a7643b1"
+            }
+          }
         }
       ]
     },
