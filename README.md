@@ -71,6 +71,7 @@ Here's an example of a plugin release:
 ## Resources
 
 - [Plugin Development](https://grafana.com/docs/grafana/latest/developers/plugins/)
-- [Create a plugin release](https://grafana.com/tutorials/build-a-panel-plugin/#8)
+- [Sign a plugin](https://grafana.com/docs/grafana/latest/developers/plugins/sign-a-plugin)
+- [Package a plugin](https://grafana.com/docs/grafana/latest/developers/plugins/package-a-plugin)
 - [plugin.json Schema](https://grafana.com/docs/grafana/latest/developers/plugins/metadata/)
 - [6 tips for improving your Grafana plugin before you publish](https://grafana.com/blog/2021/01/21/6-tips-for-improving-your-grafana-plugin-before-you-publish/)
