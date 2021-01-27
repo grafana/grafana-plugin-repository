@@ -4924,6 +4924,17 @@
               "md5": "6e437da4f0762ed1b9260f2b65017317"
             }
           }
+        },
+        {
+          "version": "0.2.0",
+          "url": "https://github.com/marcusolsson/grafana-gantt-panel",
+          "commit": "1ca26cea2e2adee53a98858776a5fca6c37de6d6",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-gantt-panel/releases/download/v0.2.0/marcusolsson-gantt-panel-0.2.0.zip",
+              "md5": "c946bad459d956b28cc30cf0bda06a77"
+            }
+          }
         }
       ]
     },
