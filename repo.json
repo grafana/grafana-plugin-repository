@@ -3708,12 +3708,12 @@
         },
         {
           "version": "1.0.0",
-          "commit": "48d0ea37461ae42530613f4e99aa7cdae03d6a0e",
+          "commit": "906c488723b21cfa8b80f401f4d2f98be6845498",
           "url": "https://github.com/pierosavi/pierosavi-imageit-panel",
           "download": {
             "any": {
-              "url": "https://github.com/pierosavi/pierosavi-imageit-panel/releases/download/untagged-7546daf96b75f827a057/pierosavi-imageit-panel-1.0.0.zip",
-              "md5": "4ecd9c44ee51f42dac175a36182cffaa"
+              "url": "https://github.com/pierosavi/pierosavi-imageit-panel/releases/download/v1.0.0/pierosavi-imageit-panel-1.0.0.zip",
+              "md5": "54337cc50ee375dba7eb5203174b09cd"
             }
           }
         }
