@@ -4231,8 +4231,8 @@
           "version": "1.5.0",
           "commit": "ee5827537b152e5d783e915b46c137f961e83929",
           "url": "https://github.com/devopsprodigy/kubegraf",
-          "download" : {
-            "any" : {
+          "download": {
+            "any": {
               "url": "https://github.com/devopsprodigy/kubegraf/releases/download/v1.5.0.4/devopsprodigy-kubegraf-app-1.5.0.zip",
               "md5": "4d35dc47b16af1a152b8dd29d24ff637"
             }
@@ -4944,6 +4944,17 @@
             "any": {
               "url": "https://github.com/marcusolsson/grafana-gantt-panel/releases/download/v0.2.0/marcusolsson-gantt-panel-0.2.0.zip",
               "md5": "c946bad459d956b28cc30cf0bda06a77"
+            }
+          }
+        },
+        {
+          "version": "0.3.0",
+          "url": "https://github.com/marcusolsson/grafana-gantt-panel",
+          "commit": "e623ca07e70df4055408ee3e84bad016d6e69316",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-gantt-panel/releases/download/v0.3.0/marcusolsson-gantt-panel-0.3.0.zip",
+              "md5": "91f2da33f142b3b6de37b746d25343d8"
             }
           }
         }
