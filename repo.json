@@ -4666,6 +4666,17 @@
               "md5": "ab6f4ae07b4a442fcf46bb4da3e99eae"
             }
           }
+        },
+        {
+          "version": "1.3.0",
+          "commit": "2d9a1060dea078f8acc2665ae7f7c7da3cc605f7",
+          "url": "https://github.com/marcusolsson/grafana-static-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-static-datasource/releases/download/v1.3.0/marcusolsson-static-datasource-1.3.0.zip",
+              "md5": "d044de4f79756335ce9ff1ac3b59402c"
+            }
+          }
         }
       ]
     },
