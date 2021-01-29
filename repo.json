@@ -33,7 +33,8 @@
               "md5": "acc30fa28f10a0b6eee658707a8a347f"
             }
           }
-        },{
+        },
+        {
           "version": "0.1.4",
           "commit": "c28217ab5e6254dab7834364eddfe62d1aa15f56",
           "url": "https://github.com/faxm0dem/grafana-riemann-websocket-datasource",
@@ -4675,6 +4676,17 @@
             "any": {
               "url": "https://github.com/marcusolsson/grafana-static-datasource/releases/download/v1.3.0/marcusolsson-static-datasource-1.3.0.zip",
               "md5": "d044de4f79756335ce9ff1ac3b59402c"
+            }
+          }
+        },
+        {
+          "version": "1.3.1",
+          "commit": "53c650a0f3e776fb5ee46d2ea8cc418258839a9b",
+          "url": "https://github.com/marcusolsson/grafana-static-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-static-datasource/releases/download/v1.3.1/marcusolsson-static-datasource-1.3.1.zip",
+              "md5": "e9276f3031a8369c4fb7055b0605cd67"
             }
           }
         }
