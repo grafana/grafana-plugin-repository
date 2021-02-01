@@ -4914,6 +4914,17 @@
               "md5": "0140035c22d376c017399ace32794ae3"
             }
           }
+        },
+        {
+          "version": "0.9.1",
+          "url": "https://github.com/marcusolsson/grafana-json-datasource",
+          "commit": "95e0134eb4aba6f1ab0271abb8868d7d4819afbd",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-json-datasource/releases/download/v0.9.1/marcusolsson-json-datasource-0.9.1.zip",
+              "md5": "d68f35c1105f2c2bbc702d2beae95e4c"
+            }
+          }
         }
       ]
     },
