@@ -4914,6 +4914,17 @@
               "md5": "0140035c22d376c017399ace32794ae3"
             }
           }
+        },
+        {
+          "version": "0.9.1",
+          "url": "https://github.com/marcusolsson/grafana-json-datasource",
+          "commit": "95e0134eb4aba6f1ab0271abb8868d7d4819afbd",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-json-datasource/releases/download/v0.9.1/marcusolsson-json-datasource-0.9.1.zip",
+              "md5": "d68f35c1105f2c2bbc702d2beae95e4c"
+            }
+          }
         }
       ]
     },
@@ -5010,6 +5021,17 @@
             "any": {
               "url": "https://github.com/marcusolsson/grafana-gantt-panel/releases/download/v0.3.0/marcusolsson-gantt-panel-0.3.0.zip",
               "md5": "91f2da33f142b3b6de37b746d25343d8"
+            }
+          }
+        },
+        {
+          "version": "0.3.1",
+          "url": "https://github.com/marcusolsson/grafana-gantt-panel",
+          "commit": "bbc3c9a4459172780f92345f95b1f72cc07e498e",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-gantt-panel/releases/download/v0.3.1/marcusolsson-gantt-panel-0.3.1.zip",
+              "md5": "b7ce0c31a986570c0d17f609130a7f5c"
             }
           }
         }
