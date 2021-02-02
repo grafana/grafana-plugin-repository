@@ -2985,7 +2985,18 @@
               "md5": "e80db45883ebe6f45f68f1817d2270f8"
             }
           }
-        }
+        },
+        {
+          "version": "3.1.4",
+          "commit": "daaebb5e108e89ccd5baead57fb27ff9a3583e18",
+          "url": "https://github.com/instana/instana-grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/instana/instana-grafana-datasource/releases/download/v3.1.4/instana-datasource-3.1.4.zip",
+              "md5": "6e4e3c4743cbf677cfcb5cc1c15dd7d8"
+            }
+          }
+        }  
       ]
     },
     {
