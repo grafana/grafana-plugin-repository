@@ -4976,6 +4976,28 @@
               "md5": "370378f0785835c1366144fd545e91d1"
             }
           }
+        },
+        {
+          "version": "0.3.1",
+          "url": "https://github.com/marcusolsson/grafana-csv-datasource",
+          "commit": "b91ffcb165e73dae85bfc2a95b451a1bac16c366",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-csv-datasource/releases/download/v0.3.1/marcusolsson-csv-datasource-0.3.1.zip",
+              "md5": "67d57d244ffba23c45290942cb54d6d7"
+            }
+          }
+        },
+        {
+          "version": "0.3.2",
+          "commit": "19af97a544c7cddb912283d451f2b43c75381992",
+          "url": "https://github.com/marcusolsson/grafana-csv-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-csv-datasource/releases/download/v0.3.2/marcusolsson-csv-datasource-0.3.2.zip",
+              "md5": "0872e38298966ce0e86301fea73db480"
+            }
+          }
         }
       ]
     },
