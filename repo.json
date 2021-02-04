@@ -1,6 +1,24 @@
 {
   "plugins": [
     {
+      "id": "streamr-datasource",
+      "type": "datasource",
+      "url": "https://github.com/sergejmueller/streamr-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "3977a0ae420c930255c22224dc2dcb6f0c0a3ae0",
+          "url": "https://github.com/sergejmueller/streamr-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/sergejmueller/streamr-datasource/releases/download/1.0.0/streamr-datasource-1.0.0.zip",
+              "md5": "538b729b35b1cc258709aa14a6bc8ec5"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "sskgo-perfcurve-panel",
       "type": "panel",
       "url": "https://github.com/SSKGo/perfcurve-panel",
