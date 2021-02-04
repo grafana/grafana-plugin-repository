@@ -5471,8 +5471,8 @@
           "url": "https://github.com/vijayleom/ca-grafana-hierarchy",
           "download": {
             "any": {
-              "url": "https://github.com/vijayleom/ca-grafana-hierarchy/blob/master/target/ca-grafana-hierarchy.zip",
-              "md5": "d0e1176fb426e4071d139bcd205a9c14"
+              "url": "https://github.com/vijayleom/ca-grafana-hierarchy/blob/master/target/ca-grafana-hierarchy-0.0.1.zip",
+              "md5": "fc47afd2a5e0f50f97f849df06c92970"
             }
           }
         }
