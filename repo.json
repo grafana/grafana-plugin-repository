@@ -3105,12 +3105,12 @@
       "versions": [
         {
           "version": "0.0.4",
-          "commit": "0160f550f58c60b790759707cf371608ce2d4816",
+          "commit": "1f765eb1e7b9832324cb7e6256cf48c16516c22e",
           "url": "https://github.com/GoshPosh/grafana-meta-queries",
           "download": {
             "any": {
-              "url": "https://github.com/GoshPosh/grafana-meta-queries/archive/0.0.4.zip",
-              "md5": "c083f5a99110cff158330df8afa51e01"
+              "url": "https://github.com/GoshPosh/grafana-meta-queries/releases/download/0.0.4/goshposh-metaqueries-datasource-0.4.0.zip",
+              "md5": "2b55c5ce0f8b71d7fdc93082c54e619f"
             }
           }
         },
