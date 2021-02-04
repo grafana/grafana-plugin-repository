@@ -5443,6 +5443,23 @@
           }
         }
       ]
+    },
+    {
+      "id": "ae3e-plotly-panel",
+      "type": "panel",
+      "url": "https://github.com/ae3e/ae3e-plotly-panel",
+      "versions": [
+        {
+          "version": "0.3.3",
+          "url": "https://github.com/ae3e/ae3e-plotly-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/ae3e/ae3e-plotly-panel/releases/download/v0.3.3/ae3e-plotly-panel-0.3.3.zip",
+              "md5": "94936b31096de4218a9c31f5ab2ab902"
+            }
+          }
+        }
+      ]
     }
   ]
 }
