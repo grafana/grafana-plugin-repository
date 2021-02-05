@@ -6,13 +6,13 @@
       "url": "https://github.com/sergejmueller/streamr-datasource",
       "versions": [
         {
-          "version": "1.0.0",
-          "commit": "3977a0ae420c930255c22224dc2dcb6f0c0a3ae0",
+          "version": "1.2.2",
+          "commit": "103e43636c9052c29097c533cea0cc1c00e3cb21",
           "url": "https://github.com/sergejmueller/streamr-datasource",
           "download": {
             "any": {
-              "url": "https://github.com/sergejmueller/streamr-datasource/releases/download/1.0.0/streamr-datasource-1.0.0.zip",
-              "md5": "538b729b35b1cc258709aa14a6bc8ec5"
+              "url": "https://github.com/sergejmueller/streamr-datasource/releases/download/1.2.2/streamr-datasource-1.2.2.zip",
+              "md5": "34dd2035786b57cf2a50cda38cb93ee7"
             }
           }
         }
