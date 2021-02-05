@@ -5009,6 +5009,17 @@
               "md5": "0872e38298966ce0e86301fea73db480"
             }
           }
+        },
+        {
+          "version": "0.3.3",
+          "commit": "8fcdf064ecba45928b12dfccc313f87ba0a01fe0",
+          "url": "https://github.com/marcusolsson/grafana-csv-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-csv-datasource/releases/download/v0.3.3/marcusolsson-csv-datasource-0.3.3.zip",
+              "md5": "82940c558eb2c906b0cf4279d7a6d527"
+            }
+          }
         }
       ]
     },
