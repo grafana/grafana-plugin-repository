@@ -2996,7 +2996,7 @@
               "md5": "6e4e3c4743cbf677cfcb5cc1c15dd7d8"
             }
           }
-        }  
+        }
       ]
     },
     {
@@ -5087,6 +5087,17 @@
             "any": {
               "url": "https://github.com/marcusolsson/grafana-gantt-panel/releases/download/v0.3.1/marcusolsson-gantt-panel-0.3.1.zip",
               "md5": "b7ce0c31a986570c0d17f609130a7f5c"
+            }
+          }
+        },
+        {
+          "version": "0.4.0",
+          "commit": "dc78f66037fdead063b1c90c796c608df0751db4",
+          "url": "https://github.com/marcusolsson/grafana-gantt-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-gantt-panel/releases/download/v0.4.0/marcusolsson-gantt-panel-0.4.0.zip",
+              "md5": "b86556cdabb9598d395df3466063fa12"
             }
           }
         }
