@@ -4783,6 +4783,17 @@
               "md5": "f029043b72e1bba7831b123b2492b56f"
             }
           }
+        },
+        {
+          "version": "1.4.0",
+          "commit": "3a4cf797501fcd76e7d6c9c9dc2f07768077c4f9",
+          "url": "https://github.com/marcusolsson/grafana-dynamictext-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-dynamictext-panel/releases/download/v1.4.0/marcusolsson-dynamictext-panel-1.4.0.zip",
+              "md5": "32f441dc824d76dce1f3fc484b906409"
+            }
+          }
         }
       ]
     },
