@@ -5464,15 +5464,15 @@
     {
       "id": "connect-all-hierarchy",
       "type": "panel",
-      "url": "https://github.com/vijayleom/ca-grafana-hierarchy",
+      "url": "https://github.com/connectall/connectall-grafana-hierarchy",
       "versions": [
         {
           "version": "0.0.1",
-          "url": "https://github.com/vijayleom/ca-grafana-hierarchy",
+          "url": "https://github.com/connectall/connectall-grafana-hierarchy",
           "download": {
             "any": {
-              "url": "https://github.com/vijayleom/ca-grafana-hierarchy/blob/master/target/ca-grafana-hierarchy-0.0.1.zip",
-              "md5": "fc47afd2a5e0f50f97f849df06c92970"
+              "url": "https://github.com/connectall/connectall-grafana-hierarchy/blob/master/target/ca-grafana-hierarchy.zip",
+              "md5": "71f57941ea90147bae6a3589dc6d2e70"
             }
           }
         }
