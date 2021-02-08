@@ -4783,6 +4783,17 @@
               "md5": "f029043b72e1bba7831b123b2492b56f"
             }
           }
+        },
+        {
+          "version": "1.4.0",
+          "commit": "3a4cf797501fcd76e7d6c9c9dc2f07768077c4f9",
+          "url": "https://github.com/marcusolsson/grafana-dynamictext-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-dynamictext-panel/releases/download/v1.4.0/marcusolsson-dynamictext-panel-1.4.0.zip",
+              "md5": "32f441dc824d76dce1f3fc484b906409"
+            }
+          }
         }
       ]
     },
@@ -5009,6 +5020,17 @@
               "md5": "0872e38298966ce0e86301fea73db480"
             }
           }
+        },
+        {
+          "version": "0.3.3",
+          "commit": "8fcdf064ecba45928b12dfccc313f87ba0a01fe0",
+          "url": "https://github.com/marcusolsson/grafana-csv-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-csv-datasource/releases/download/v0.3.3/marcusolsson-csv-datasource-0.3.3.zip",
+              "md5": "82940c558eb2c906b0cf4279d7a6d527"
+            }
+          }
         }
       ]
     },
@@ -5076,6 +5098,17 @@
             "any": {
               "url": "https://github.com/marcusolsson/grafana-gantt-panel/releases/download/v0.3.1/marcusolsson-gantt-panel-0.3.1.zip",
               "md5": "b7ce0c31a986570c0d17f609130a7f5c"
+            }
+          }
+        },
+        {
+          "version": "0.4.0",
+          "commit": "dc78f66037fdead063b1c90c796c608df0751db4",
+          "url": "https://github.com/marcusolsson/grafana-gantt-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-gantt-panel/releases/download/v0.4.0/marcusolsson-gantt-panel-0.4.0.zip",
+              "md5": "b86556cdabb9598d395df3466063fa12"
             }
           }
         }
