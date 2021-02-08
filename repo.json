@@ -5493,6 +5493,23 @@
           }
         }
       ]
+    },
+    {
+      "id": "hadesarchitect-cassandra-datasource",
+      "type": "datasource",
+      "url": "https://github.com/HadesArchitect/GrafanaCassandraDatasource",
+      "versions": [
+        {
+          "version": "0.4.2",
+          "url": "https://github.com/HadesArchitect/GrafanaCassandraDatasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/HadesArchitect/GrafanaCassandraDatasource/releases/download/0.4.2/cassandra-datasource-0.4.2.zip",
+              "md5": "e63658303be3f4cc3d40ec385f25094f"
+            }
+          }
+        }
+      ]
     }
   ]
 }
