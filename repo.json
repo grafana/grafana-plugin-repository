@@ -5471,8 +5471,8 @@
           "url": "https://github.com/connectall/connectall-grafana-hierarchy",
           "download": {
             "any": {
-              "url": "https://github.com/connectall/connectall-grafana-hierarchy/blob/master/target/ca-grafana-hierarchy.zip",
-              "md5": "71f57941ea90147bae6a3589dc6d2e70"
+              "url": "https://github.com/connectall/connectall-grafana-hierarchy/releases/download/v1.0.0/connectall-grafana-hierarchy-1.0.0.zip",
+              "md5": "0624698eb9b774d4fbfcf2e82425981a"
             }
           }
         }
