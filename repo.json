@@ -5500,21 +5500,15 @@
       "url": "https://github.com/geeks-r-us/mqtt-panel",
       "versions": [
         {
-          "version": "1.0.5",
-          "commit": "c3300c9e5859151c73884b73e35af86128d20305",
-          "url": "https://github.com/geeks-r-us/mqtt-panel"
-        }
-      ]
-    },
-    {
-      "id": "geeksrus-mqtt-panel",
-      "type": "panel",
-      "url": "https://github.com/geeks-r-us/mqtt-panel",
-      "versions": [
-        {
-          "version": "1.0.5",
-          "commit": "c3300c9e5859151c73884b73e35af86128d20305",
-          "url": "https://github.com/geeks-r-us/mqtt-panel"
+          "version": "1.0.7",
+          "url": "https://github.com/geeks-r-us/mqtt-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/geeks-r-us/mqtt-panel/releases/download/v1.0.7/geeksrus-mqtt-panel-1.0.7.zip",
+              "md5": "3eaba23f0d0e815c1decdc2516e5bd2f"
+            }
+          }
+
         }
       ]
     }
