@@ -5294,8 +5294,8 @@
           "url": "https://github.com/verticle-io/flowhook-datasource",
           "download": {
             "any": {
-              "url": "https://github.com/connectall/connectall-grafana-hierarchy/releases/download/v1.0.0/connectall-grafana-hierarchy.zip",
-              "md5": "4f19b53b214db984575667cebc263e4c"
+              "url": "https://github.com/verticle-io/flowhook-datasource/releases/download/v0.1.2/verticle-flowhook-datasource-0.1.2.zip",
+              "md5": "7a391a15d021733483b3041ec4a83245"
             }
           }
         }
@@ -5471,8 +5471,8 @@
           "url": "https://github.com/connectall/connectall-grafana-hierarchy",
           "download": {
             "any": {
-              "url": "https://github.com/connectall/connectall-grafana-hierarchy/releases/download/v1.0.0/connectall-grafana-hierarchy-v1.0.0.zip",
-              "md5": "52e76faf9d90f81f393e4257a6eeb3f9"
+              "url": "https://github.com/connectall/connectall-grafana-hierarchy/releases/download/1.0.0/cagrafana-hierarchy-panel.zip",
+              "md5": "6049faf5607bc2cbb562207fb1cc9327"
             }
           }
         }
