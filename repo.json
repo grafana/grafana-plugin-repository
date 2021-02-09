@@ -5462,7 +5462,7 @@
       ]
     },
     {
-      "id": "connect-all-hierarchy",
+      "id": "connectall-grafana-hierarchy",
       "type": "panel",
       "url": "https://github.com/connectall/connectall-grafana-hierarchy",
       "versions": [
@@ -5472,7 +5472,7 @@
           "download": {
             "any": {
               "url": "https://github.com/connectall/connectall-grafana-hierarchy/releases/download/v1.0.0/ca-grafana-hierarchy.zip",
-              "md5": "cb1492a280036f0019ef911dade0503e"
+              "md5": "b1f142427a8390a0c45f4af810e1dd03"
             }
           }
         }
