@@ -5121,17 +5121,17 @@
       "versions": [
         {
           "version": "0.1.0",
-          "commit": "c56c39cc39479b10b5d641c10b99551e0afba286",
+          "commit": "8d315887a62fdeb1ea15056dc68015db09d4b5e1",
           "url": "https://github.com/marcusolsson/grafana-calendar-panel",
           "download": {
             "any": {
               "url": "https://github.com/marcusolsson/grafana-calendar-panel/releases/download/v0.1.0/marcusolsson-calendar-panel-0.1.0.zip",
-              "md5": "34378a1bd76a5d081226602dc39c6636"
+              "md5": "d9f811858f015e80ecbe71e230a74da2"
             }
           }
         }
       ]
-    },
+    }
     {
       "id": "cloudspout-button-panel",
       "type": "panel",
