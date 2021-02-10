@@ -5129,6 +5129,17 @@
               "md5": "34378a1bd76a5d081226602dc39c6636"
             }
           }
+        },
+        {
+          "version": "0.1.1",
+          "commit": "2037ec394f95ae75d63fb3742839b1fd087cef67",
+          "url": "https://github.com/marcusolsson/grafana-calendar-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/marcusolsson/grafana-calendar-panel/releases/download/v0.1.1/marcusolsson-calendar-panel-0.1.1.zip",
+              "md5": "3b6614bab156482a6052b007a8e1b22e"
+            }
+          }
         }
       ]
     },
