@@ -5540,6 +5540,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "woutervh-mapbox-panel",
+      "type": "panel",
+      "url": "https://github.com/woutervh-/grafana-mapbox",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "68000c9f89dac8f3905bf28f144a4db10bc77467",
+          "url": "https://github.com/woutervh-/grafana-mapbox",
+          "download": {
+            "any": {
+              "url": "https://github.com/woutervh-/grafana-mapbox/releases/download/1.0.0/woutervh-mapbox-panel-1.0.0.zip",
+              "md5": "778b74abc93c39c9fcae286eae37335a"
+            }
+          }
+        }
+      ]
     }
   ]
 }
