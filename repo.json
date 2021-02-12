@@ -2810,6 +2810,15 @@
           "version": "0.0.8",
           "commit": "7a541804bd0eb9f57797cf6a5dd0b6aa5bdd8ed8",
           "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource"
+        },
+        {
+          "version": "1.0.0",
+          "download": {
+            "any": {
+              "url": "https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource/releases/download/1.0.0/camptocamp-prometheus-alertmanager-datasource-1.0.0.zip",
+              "md5": "740480ba9045c35795fb36db84ba4f06"
+            }
+          }
         }
       ]
     },
