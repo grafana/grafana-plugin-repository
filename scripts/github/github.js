@@ -1,3 +1,5 @@
+/*jshint esversion: 8 */
+
 const request = require('request-promise-native');
 const { GITHUB_API_TOKEN } = process.env;
 
@@ -27,7 +29,7 @@ async function fetchContent(url) {
 }
 
 async function fetchPRFile(owner, repo, pr, filename) {
-  const endpont = `/repos/${owner}/${repo}/pulls/${pr}/files`
+  const endpont = `/repos/${owner}/${repo}/pulls/${pr}/files`;
   const prFiles = await apiRequest(endpont);
   for (const prFile of prFiles) {
     if (prFile.filename === filename) {
