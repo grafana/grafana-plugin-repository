@@ -5612,14 +5612,20 @@
     }
     ,
     {
-      "id": "snuids-grafana-svg-panel",
+      "id": "snuids-svg-panel",
       "type": "panel",
       "url": "https://github.com/snuids/grafana-svg-panel",
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "65aee5698900da36065dab2ddfd9dcd6347ecb33",
-          "url": "https://github.com/snuids/grafana-svg-panel"
+          "commit": "cc848560c33e5f37a64fc69b682363591bb114eb",
+          "url": "https://github.com/snuids/grafana-svg-panel",
+          "download": {
+            "any": {
+              "url": "https://raw.githubusercontent.com/snuids/grafana-svg-panel/master/snuids-svg-panel-1.0.0.zip",
+              "md5": "1dfe91efb2fb04bd3f445691b55e38ed"
+            }
+          }
         }
       ]
     }
