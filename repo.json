@@ -4190,15 +4190,15 @@
           "download": {
             "darwin-amd64": {
               "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.1/plugin-darwin-x64-unknown.zip",
-              "md5": "8c46f04e190716066a2665a2f3358795"
+              "md5": "1ca017f3d008e1b0cc05766b66d7aed5"
             },
             "linux-amd64": {
               "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.1/plugin-linux-x64-glibc.zip",
-              "md5": "45d7a8f31c4cf019793c413831e377e8"
+              "md5": "d9b9a4edf2e705c7ca7b61d26ac16eb8"
             },
             "windows-amd64": {
               "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.1/plugin-win32-x64-unknown.zip",
-              "md5": "b9acc26af81c2ccdfa4288c8b68100d3"
+              "md5": "65504ddc9a2153b7d15af57233dc728a"
             }
           }
         }
