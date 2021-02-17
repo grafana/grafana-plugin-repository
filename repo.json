@@ -100,6 +100,11 @@
       "url": "https://github.com/grafana/worldmap-panel",
       "versions": [
         {
+          "version": "0.3.2",
+          "commit": "171c9e91652eb7928be635bbf0f2d6787e43136c",
+          "url": "https://github.com/grafana/worldmap-panel"
+        },
+        {
           "version": "0.2.0",
           "commit": "5f71ecde1ff92dd2f1e6750faaab282a8d65fbd1",
           "url": "https://github.com/grafana/worldmap-panel"
@@ -496,6 +501,16 @@
       "type": "panel",
       "url": "https://github.com/grafana/piechart-panel",
       "versions": [
+        {
+          "version": "1.6.1",
+          "url": "https://github.com/grafana/piechart-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/grafana/piechart-panel/releases/download/v1.6.1/grafana-piechart-panel-1.6.1.zip",
+              "md5": "35a6f6cf2552aa3963429ac787b623f3"
+            }
+          }
+        },
         {
           "version": "1.3.8",
           "commit": "4f341105936e1e0a5eaa158b711271f992ccec91",
