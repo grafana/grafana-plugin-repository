@@ -2538,18 +2538,6 @@
       ]
     },
     {
-      "id": "jasonlashua-prtg-datasource",
-      "type": "datasource",
-      "url": "https://github.com/neuralfraud/grafana-prtg/jasonlashua-prtg-datasource",
-      "versions": [
-        {
-          "version": "4.0.3",
-          "commit": "330bb263a936d67a0c3d41c07f5d6333635db2ee",
-          "url": "https://github.com/neuralfraud/grafana-prtg/jasonlashua-prtg-datasource"
-        }
-      ]
-    },
-    {
       "id": "skydive-datasource",
       "type": "datasource",
       "url": "https://github.com/skydive-project/skydive-grafana-datasource",
