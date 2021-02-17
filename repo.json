@@ -3468,8 +3468,18 @@
       "url": "https://github.com/grafana/grafana-polystat-panel",
       "versions": [
         {
-          "version": "1.0.14",
-          "commit": "71ee146d6849e6546bde3da084686d168006042a",
+          "version": "1.2.2",
+          "url": "https://github.com/grafana/grafana-polystat-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/grafana/grafana-polystat-panel/releases/download/v1.2.2/grafana-polystat-panel-1.2.2.any.zip",
+              "md5": "e76b1f0bb92de6d136b3d223e9332917"
+            }
+          }
+        },
+        {
+          "version": "1.0.16",
+          "commit": "a1347fb4639829e318fb7f2e69a6985f3dbc4ffc",
           "url": "https://github.com/grafana/grafana-polystat-panel"
         },
         {
@@ -3478,8 +3488,8 @@
           "url": "https://github.com/grafana/grafana-polystat-panel"
         },
         {
-          "version": "1.0.16",
-          "commit": "a1347fb4639829e318fb7f2e69a6985f3dbc4ffc",
+          "version": "1.0.14",
+          "commit": "71ee146d6849e6546bde3da084686d168006042a",
           "url": "https://github.com/grafana/grafana-polystat-panel"
         }
       ]
