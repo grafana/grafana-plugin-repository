@@ -2187,7 +2187,19 @@
               "md5": "db39ab7708c1ef2a08ad0ad98598c3ce"
             }
           }
+        },
+        {
+          "version": "2.2.3",
+          "commit": "cdcba9fb290d53cbc6393a689611f1f025ea2371",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/Vertamedia/clickhouse-grafana/releases/download/v2.2.3/vertamedia-clickhouse-datasource-2.2.3.zip",
+              "md5": "bcebceb6f248194b6cc51fec118bd425"
+            }
+          }
         }
+
       ]
     },
     {
