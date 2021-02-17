@@ -3346,7 +3346,7 @@
         },
         {
           "version": "0.2.3",
-          "url": "https://github.com/simPod/grafana-json-datasource",
+          "url": "https://github.com/simPod/GrafanaJsonDatasource",
           "download": {
             "any": {
               "url": "https://github.com/simPod/GrafanaJsonDatasource/releases/download/v0.2.3/simpod-json-datasource.zip",
