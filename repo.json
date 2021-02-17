@@ -445,6 +445,11 @@
       "url": "https://github.com/grafana/clock-panel",
       "versions": [
         {
+          "version": "1.1.1",
+          "commit": "48a718a3efabfcd110881f7cd03b228053df54b6",
+          "url": "https://github.com/grafana/clock-panel"
+        },
+        {
           "version": "1.0.3",
           "commit": "bb466d0682d58af659b018748d53c0d3b69a8377",
           "url": "https://github.com/grafana/clock-panel"
@@ -2538,18 +2543,6 @@
       ]
     },
     {
-      "id": "jasonlashua-prtg-datasource",
-      "type": "datasource",
-      "url": "https://github.com/neuralfraud/grafana-prtg/jasonlashua-prtg-datasource",
-      "versions": [
-        {
-          "version": "4.0.3",
-          "commit": "330bb263a936d67a0c3d41c07f5d6333635db2ee",
-          "url": "https://github.com/neuralfraud/grafana-prtg/jasonlashua-prtg-datasource"
-        }
-      ]
-    },
-    {
       "id": "skydive-datasource",
       "type": "datasource",
       "url": "https://github.com/skydive-project/skydive-grafana-datasource",
@@ -3358,7 +3351,7 @@
         },
         {
           "version": "0.2.3",
-          "url": "https://github.com/simPod/grafana-json-datasource",
+          "url": "https://github.com/simPod/GrafanaJsonDatasource",
           "download": {
             "any": {
               "url": "https://github.com/simPod/GrafanaJsonDatasource/releases/download/v0.2.3/simpod-json-datasource.zip",
