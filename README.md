@@ -7,6 +7,7 @@ We review all plugins before they are published. This means that it may take som
 Here's a few things you can do to help us review your plugin faster.
 
 - Validate your plugin release with [this plugin validator](https://grafana-plugins-web-vgmmyppaka-lz.a.run.app/)
+- Use the [GitHub workflows](https://github.com/grafana/plugin-workflows) to automate your plugin release
 - Read the [Review Guidelines](http://docs.grafana.org/plugins/developing/plugin-review-guidelines/) before submitting your plugin. These guidelines determine if the plugin is ready to be published or not.
 - If possible, for datasource plugins please provide a description on how to set up a simple test environment. A docker container or simple install script helps speed up the review process a lot.
 
@@ -71,5 +72,7 @@ Here's an example of a plugin release:
 ## Resources
 
 - [Plugin Development](https://grafana.com/docs/grafana/latest/developers/plugins/)
-- [Create a plugin release](https://grafana.com/tutorials/build-a-panel-plugin/#8)
+- [Sign a plugin](https://grafana.com/docs/grafana/latest/developers/plugins/sign-a-plugin)
+- [Package a plugin](https://grafana.com/docs/grafana/latest/developers/plugins/package-a-plugin)
 - [plugin.json Schema](https://grafana.com/docs/grafana/latest/developers/plugins/metadata/)
+- [6 tips for improving your Grafana plugin before you publish](https://grafana.com/blog/2021/01/21/6-tips-for-improving-your-grafana-plugin-before-you-publish/)
