@@ -2464,8 +2464,8 @@
           "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel",
           "download": {
             "any": {
-              "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel/archive/v1.1.0.zip",
-              "md5": "5db2af489a087bba9c0cd490f80a7e45"
+              "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel/releases/download/v1.1.0/michaeldmoore-annunciator-panel-1.1.0.zip",
+              "md5": "2f974f20029a10990a67b7da347b5cd5"
             }
           }
         }
