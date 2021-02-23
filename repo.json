@@ -2234,7 +2234,6 @@
             }
           }
         }
-
       ]
     },
     {
@@ -5660,6 +5659,24 @@
             "any": {
               "url": "https://github.com/thalysantana/grafana-appcenter-datasource/releases/download/v1.0.0/thalysantana-appcenter-datasource-1.0.0.zip",
               "md5": "c1064d6b2463bbff2588c2d9d51a32ba"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "g1eny0ung-chaosmesh-datasource",
+      "type": "datasource",
+      "url": "https://github.com/g1eny0ung/grafana-chaos-mesh-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "316d2ba7c9c1eeabf5b46723f31e268f841243ee",
+          "url": "https://github.com/g1eny0ung/grafana-chaos-mesh-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/g1eny0ung/grafana-chaos-mesh-datasource/releases/download/v0.1.0/g1eny0ung-chaosmesh-datasource-0.1.0.zip",
+              "md5": "67d630b06badcd3458782d515d6007bb"
             }
           }
         }
