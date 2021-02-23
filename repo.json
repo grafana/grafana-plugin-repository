@@ -3503,8 +3503,8 @@
           "url": "https://github.com/michaeldmoore/michaeldmoore-scatter-panel",
           "download": {
             "any": {
-              "url": "https://github.com/michaeldmoore/michaeldmoore-scatter-panel/archive/v1.0.0.zip",
-              "md5": "f021d6bcd3801a43b61d7c5ef2e14ac0"
+              "url": "https://github.com/michaeldmoore/michaeldmoore-scatter-panel/releases/download/v1.0.0/michaeldmoore-scatter-panel-1.0.0.zip",
+              "md5": "3b278c8d1bf4f73e2c553d8c47d55a6f"
             }
           }
         }
