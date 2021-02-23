@@ -3470,13 +3470,13 @@
       "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel",
       "versions": [
         {
-          "version": "1.7.0",
-          "commit": "8b1240b9ef6f750f74b15a3b9ee1f529efe9d0d5",
+          "version": "1.7.1",
+          "commit": "c7b55086685c24d4aba964ed30681387ec7bd67c",
           "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel",
           "download": {
             "any": {
-              "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel/archive/v1.7.0.zip",
-              "md5": "212181962a9835005a3c11ddb28d90d0"
+              "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel/releases/download/v1.7.1/michaeldmoore-multistat-panel-1.7.1.zip",
+              "md5": "b1550875bea82e370fe2cd20752f0de8"
             }
           }
         }
