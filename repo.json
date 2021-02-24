@@ -2234,7 +2234,6 @@
             }
           }
         }
-
       ]
     },
     {
@@ -5660,6 +5659,23 @@
             "any": {
               "url": "https://github.com/thalysantana/grafana-appcenter-datasource/releases/download/v1.0.0/thalysantana-appcenter-datasource-1.0.0.zip",
               "md5": "c1064d6b2463bbff2588c2d9d51a32ba"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "stablenet-datasource",
+      "type": "datasource",
+      "url": "https://github.com/Infosim/stablenet_grafana_datasource",
+      "versions": [
+        {
+          "version": "2.0.3",
+          "url": "https://github.com/Infosim/stablenet_grafana_datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/Infosim/stablenet_grafana_datasource/releases/download/v2.0.3/stablenet-grafana-7.x.x-datasource.zip",
+              "md5": "44ba8f6ff65acb5f224945550aa35b5c"
             }
           }
         }
