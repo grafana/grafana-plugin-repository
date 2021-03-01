@@ -5949,6 +5949,23 @@
           }
         }
       ]
-    }
+    },
+    {
+      "id": "anodot-panel",
+      "type": "panel",
+      "url": "https://github.com/anodot/grafana-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/anodot/grafana-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.0.zip",
+              "md5": "9ec242825fac35848750d0dc05d36cc6"
+            }
+          }
+        }
+      ]
+    },
   ]
 }
