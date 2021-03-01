@@ -5670,13 +5670,13 @@
       "url": "https://github.com/g1eny0ung/grafana-chaos-mesh-datasource",
       "versions": [
         {
-          "version": "0.1.0",
-          "commit": "316d2ba7c9c1eeabf5b46723f31e268f841243ee",
+          "version": "0.1.1",
+          "commit": "e15f6db092a55fee8dfd45d922dd9dc1457f2728",
           "url": "https://github.com/g1eny0ung/grafana-chaos-mesh-datasource",
           "download": {
             "any": {
-              "url": "https://github.com/g1eny0ung/grafana-chaos-mesh-datasource/releases/download/v0.1.0/g1eny0ung-chaosmesh-datasource-0.1.0.zip",
-              "md5": "67d630b06badcd3458782d515d6007bb"
+              "url": "https://github.com/g1eny0ung/grafana-chaos-mesh-datasource/releases/download/v0.1.1/g1eny0ung-chaosmesh-datasource-0.1.1.zip",
+              "md5": "eddf8df0d654a77559dddca1e753ad88"
             }
           }
         }
