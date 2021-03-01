@@ -2234,7 +2234,6 @@
             }
           }
         }
-
       ]
     },
     {
@@ -5660,6 +5659,24 @@
             "any": {
               "url": "https://github.com/thalysantana/grafana-appcenter-datasource/releases/download/v1.0.0/thalysantana-appcenter-datasource-1.0.0.zip",
               "md5": "c1064d6b2463bbff2588c2d9d51a32ba"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "customized-loki-datasource",
+      "type": "datasource",
+      "url": "https://github.com/baurine/customized-loki-ds-plugin",
+      "versions": [
+        {
+          "version": "0.0.9",
+          "commit": "7822f06d01bd1d6591d272e4f82d277b5dbc0975",
+          "url": "https://github.com/baurine/customized-loki-ds-plugin",
+          "download": {
+            "any": {
+              "url": "https://github.com/baurine/customized-loki-ds-plugin/releases/download/v0.0.9/pingcap-customized-loki-0.0.9.zip",
+              "md5": "807e27297f990e5422128c99f62804c8"
             }
           }
         }
