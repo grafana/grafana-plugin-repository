@@ -5967,5 +5967,22 @@
         }
       ]
     },
+    {
+      "id": "anodot-datasource",
+      "type": "panel",
+      "url": "https://github.com/anodot/grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/anodot/grafana-source",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-1.0.0.zip",
+              "md5": "1737cc59212cd81ca4d0660cb2b2c874"
+            }
+          }
+        }
+      ]
+    },
   ]
 }
