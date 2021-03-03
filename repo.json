@@ -3448,6 +3448,17 @@
           "version": "0.3.4",
           "commit": "021633670a3deaf85505154bf8b8e961e72cc48f",
           "url": "https://github.com/flant/grafana-statusmap"
+        },
+        {
+          "version": "0.4.1",
+          "commit": "f90015723a9d63020cb76378972f69e74b3022bb",
+          "url": "https://github.com/flant/grafana-statusmap",
+          "download": {
+            "any": {
+              "url": "https://github.com/flant/grafana-statusmap/releases/download/v0.4.1/flant-statusmap-panel-0.4.1.zip",
+              "md5": "dffb2faa880e3535903bb1486ae3cf98"
+            }
+          }
         }
       ]
     },
