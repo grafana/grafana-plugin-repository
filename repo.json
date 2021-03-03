@@ -5332,6 +5332,16 @@
           "version": "0.1.1",
           "commit": "78fb7a9c1622a632721a14838dc5005f8aabcd90",
           "url": "https://github.com/factrylabs/untimely-grafana-panel"
+        },
+        {
+          "version": "0.2.0",
+          "url": "https://github.com/factrylabs/untimely-grafana-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/factrylabs/untimely-grafana-panel/releases/download/v0.2.0/factry-untimely-panel-0.2.0.zip",
+              "md5": "f38e46f1a29ab861da1af8aead35511f"
+            }
+          }
         }
       ]
     },
