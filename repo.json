@@ -15,6 +15,17 @@
               "md5": "4fb0c610e5a1c7ba1d0ca8549fbde2ef"
             }
           }
+        },
+        {
+          "version": "1.4.0",
+          "commit": "9f3e86b2c6d59677e75ad4c357cdea3947231e09",
+          "url": "https://github.com/SSKGo/perfcurve-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/SSKGo/perfcurve-panel/releases/download/v1.4.0/sskgo-perfcurve-panel-1.4.0.zip",
+              "md5": "fb59cf8f264050da9e5ac42a1f8ed829"
+            }
+          }
         }
       ]
     },
