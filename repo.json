@@ -3887,6 +3887,17 @@
               "md5": "7d5f25ca49991baaf0cbd58aa81ee1a8"
             }
           }
+        },
+        {
+          "version": "1.0.2",
+          "commit": "36d2247193616a66d074c2490c5ba23652c711b4",
+          "url": "https://github.com/pierosavi/pierosavi-imageit-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/pierosavi/pierosavi-imageit-panel/releases/download/v1.0.2/pierosavi-imageit-panel-1.0.2.zip",
+              "md5": "e5c5abcdffa4bfc11504c997a825c37b"
+            }
+          }
         }
       ]
     },
