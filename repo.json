@@ -3233,6 +3233,17 @@
       "url": "https://github.com/GoshPosh/grafana-meta-queries",
       "versions": [
         {
+          "version": "0.0.5",
+          "commit": "c389802f8f1e79013b9806f48ea14810b963874a",
+          "url": "https://github.com/GoshPosh/grafana-meta-queries",
+          "download": {
+            "any": {
+              "url": "https://github.com/GoshPosh/grafana-meta-queries/releases/download/0.0.5/goshposh-metaqueries-datasource-0.5.0.zip",
+              "md5": "81f1d755b58f346e0bac6e9e659dde52"
+            }
+          }
+        },
+        {
           "version": "0.0.4",
           "commit": "a1f808b2bbfeb4aee1cde0731812d3b61d204b0d",
           "url": "https://github.com/GoshPosh/grafana-meta-queries",
