@@ -2590,6 +2590,17 @@
           "version": "1.0.5",
           "commit": "3796550c2d733b777f85f1536b086b1ade33b75b",
           "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
+        },
+        {
+          "version": "1.1.0",
+          "commit": "43d1cf3a687ec1f2e59e52044f96ef66d4a85960",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel/releases/download/v1.1.0/michaeldmoore-annunciator-panel-1.1.0.zip",
+              "md5": "2f974f20029a10990a67b7da347b5cd5"
+            }
+          }
         }
       ]
     },
