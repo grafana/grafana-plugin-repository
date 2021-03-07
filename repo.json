@@ -5618,12 +5618,12 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "cc848560c33e5f37a64fc69b682363591bb114eb",
+          "commit": "70f60874555cab4c090c3620b219c219eb7cf537",
           "url": "https://github.com/snuids/grafana-svg-panel",
           "download": {
             "any": {
               "url": "https://raw.githubusercontent.com/snuids/grafana-svg-panel/master/snuids-svg-panel-1.0.0.zip",
-              "md5": "1dfe91efb2fb04bd3f445691b55e38ed"
+              "md5": "eafcf02cde3911f8b82a8261f1b96beb"
             }
           }
         }
