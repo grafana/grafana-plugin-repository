@@ -15,6 +15,17 @@
               "md5": "4fb0c610e5a1c7ba1d0ca8549fbde2ef"
             }
           }
+        },
+        {
+          "version": "1.4.0",
+          "commit": "9f3e86b2c6d59677e75ad4c357cdea3947231e09",
+          "url": "https://github.com/SSKGo/perfcurve-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/SSKGo/perfcurve-panel/releases/download/v1.4.0/sskgo-perfcurve-panel-1.4.0.zip",
+              "md5": "fb59cf8f264050da9e5ac42a1f8ed829"
+            }
+          }
         }
       ]
     },
@@ -99,6 +110,11 @@
       "type": "panel",
       "url": "https://github.com/grafana/worldmap-panel",
       "versions": [
+        {
+          "version": "0.3.2",
+          "commit": "171c9e91652eb7928be635bbf0f2d6787e43136c",
+          "url": "https://github.com/grafana/worldmap-panel"
+        },
         {
           "version": "0.2.0",
           "commit": "5f71ecde1ff92dd2f1e6750faaab282a8d65fbd1",
@@ -201,6 +217,17 @@
       "type": "app",
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
+        {
+          "version": "4.1.3",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+          "commit": "8ef3dc9b9366482728d3bdf0871c15651f29197a",
+          "download": {
+            "any": {
+              "url": "https://github.com/alexanderzobnin/grafana-zabbix/releases/download/v4.1.3/alexanderzobnin-zabbix-app-4.1.3.zip",
+              "md5": "80119f71233350a16f633fa58bc610f0"
+            }
+          }
+        },
         {
           "version": "4.1.2",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix",
@@ -445,6 +472,11 @@
       "url": "https://github.com/grafana/clock-panel",
       "versions": [
         {
+          "version": "1.1.1",
+          "commit": "48a718a3efabfcd110881f7cd03b228053df54b6",
+          "url": "https://github.com/grafana/clock-panel"
+        },
+        {
           "version": "1.0.3",
           "commit": "bb466d0682d58af659b018748d53c0d3b69a8377",
           "url": "https://github.com/grafana/clock-panel"
@@ -491,6 +523,16 @@
       "type": "panel",
       "url": "https://github.com/grafana/piechart-panel",
       "versions": [
+        {
+          "version": "1.6.1",
+          "url": "https://github.com/grafana/piechart-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/grafana/piechart-panel/releases/download/v1.6.1/grafana-piechart-panel-1.6.1.zip",
+              "md5": "35a6f6cf2552aa3963429ac787b623f3"
+            }
+          }
+        },
         {
           "version": "1.3.8",
           "commit": "4f341105936e1e0a5eaa158b711271f992ccec91",
@@ -615,6 +657,11 @@
       "url": "https://github.com/grafana/simple-json-datasource",
       "versions": [
         {
+          "version": "1.4.1",
+          "commit": "d5b4eb0a8f6328c423650276c40f820871e24221",
+          "url": "https://github.com/grafana/simple-json-datasource"
+        },
+        {
           "version": "1.4.0",
           "commit": "69e5ba882fc920ed3da0484b1c9992a65732a385",
           "url": "https://github.com/grafana/simple-json-datasource"
@@ -718,6 +765,16 @@
       "type": "app",
       "url": "https://github.com/raintank/worldping-app",
       "versions": [
+        {
+          "version": "1.2.9",
+          "url": "https://github.com/raintank/worldping-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/raintank/worldping-app/releases/download/v1.2.9/raintank-worldping-app-1.2.9.zip",
+              "md5": "cff5aec0261b2368547761edb35d1ae9"
+            }
+          }
+        },
         {
           "version": "1.2.6",
           "commit": "b88a0d6c5000c25b2f082806524ff0e2fcf1765a",
@@ -2057,6 +2114,16 @@
           "version": "0.1.4",
           "commit": "359ba474dad641f32e89c3492c58b729ea9ecdde",
           "url": "https://github.com/cloudflare/cloudflare-grafana-app"
+        },
+        {
+          "version": "0.2.1",
+          "url": "https://github.com/cloudflare/cloudflare-grafana-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/cloudflare/cloudflare-grafana-app/releases/download/v0.2.1/cloudflare-grafana-app-0.2.1.zip",
+              "md5": "a3bea5f7f86a904cf7463888877a3025"
+            }
+          }
         }
       ]
     },
@@ -2187,7 +2254,19 @@
               "md5": "db39ab7708c1ef2a08ad0ad98598c3ce"
             }
           }
+        },
+        {
+          "version": "2.2.3",
+          "commit": "cdcba9fb290d53cbc6393a689611f1f025ea2371",
+          "url": "https://github.com/Vertamedia/clickhouse-grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/Vertamedia/clickhouse-grafana/releases/download/v2.2.3/vertamedia-clickhouse-datasource-2.2.3.zip",
+              "md5": "bcebceb6f248194b6cc51fec118bd425"
+            }
+          }
         }
+
       ]
     },
     {
@@ -2522,18 +2601,17 @@
           "version": "1.0.5",
           "commit": "3796550c2d733b777f85f1536b086b1ade33b75b",
           "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel"
-        }
-      ]
-    },
-    {
-      "id": "jasonlashua-prtg-datasource",
-      "type": "datasource",
-      "url": "https://github.com/neuralfraud/grafana-prtg/jasonlashua-prtg-datasource",
-      "versions": [
+        },
         {
-          "version": "4.0.3",
-          "commit": "330bb263a936d67a0c3d41c07f5d6333635db2ee",
-          "url": "https://github.com/neuralfraud/grafana-prtg/jasonlashua-prtg-datasource"
+          "version": "1.1.0",
+          "commit": "43d1cf3a687ec1f2e59e52044f96ef66d4a85960",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/michaeldmoore/michaeldmoore-annunciator-panel/releases/download/v1.1.0/michaeldmoore-annunciator-panel-1.1.0.zip",
+              "md5": "2f974f20029a10990a67b7da347b5cd5"
+            }
+          }
         }
       ]
     },
@@ -2996,6 +3074,17 @@
               "md5": "6e4e3c4743cbf677cfcb5cc1c15dd7d8"
             }
           }
+        },
+        {
+          "version": "3.2.0",
+          "commit": "693ab9151fb01f835183af1a70e3cef92d879f0c",
+          "url": "https://github.com/instana/instana-grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/instana/instana-grafana-datasource/releases/download/v3.2.0/instana-datasource-3.2.0.zip",
+              "md5": "961cf44ff5ee92d25f4c723a5c1d332b"
+            }
+          }
         }
       ]
     },
@@ -3176,6 +3265,28 @@
       "url": "https://github.com/GoshPosh/grafana-meta-queries",
       "versions": [
         {
+          "version": "0.0.5",
+          "commit": "c389802f8f1e79013b9806f48ea14810b963874a",
+          "url": "https://github.com/GoshPosh/grafana-meta-queries",
+          "download": {
+            "any": {
+              "url": "https://github.com/GoshPosh/grafana-meta-queries/releases/download/0.0.5/goshposh-metaqueries-datasource-0.5.0.zip",
+              "md5": "81f1d755b58f346e0bac6e9e659dde52"
+            }
+          }
+        },
+        {
+          "version": "0.0.4",
+          "commit": "a1f808b2bbfeb4aee1cde0731812d3b61d204b0d",
+          "url": "https://github.com/GoshPosh/grafana-meta-queries",
+          "download": {
+            "any": {
+              "url": "https://github.com/GoshPosh/grafana-meta-queries/releases/download/0.0.4/goshposh-metaqueries-datasource-0.4.0.zip",
+              "md5": "061546c4ffdbe6b5217168a3c4c63268"
+            }
+          }
+        },
+        {
           "version": "0.0.3",
           "commit": "cae59ffef31ca83fa0973c04ecec5d4420ba6205",
           "url": "https://github.com/GoshPosh/grafana-meta-queries"
@@ -3346,7 +3457,7 @@
         },
         {
           "version": "0.2.3",
-          "url": "https://github.com/simPod/grafana-json-datasource",
+          "url": "https://github.com/simPod/GrafanaJsonDatasource",
           "download": {
             "any": {
               "url": "https://github.com/simPod/GrafanaJsonDatasource/releases/download/v0.2.3/simpod-json-datasource.zip",
@@ -3380,6 +3491,17 @@
           "version": "0.3.4",
           "commit": "021633670a3deaf85505154bf8b8e961e72cc48f",
           "url": "https://github.com/flant/grafana-statusmap"
+        },
+        {
+          "version": "0.4.1",
+          "commit": "f90015723a9d63020cb76378972f69e74b3022bb",
+          "url": "https://github.com/flant/grafana-statusmap",
+          "download": {
+            "any": {
+              "url": "https://github.com/flant/grafana-statusmap/releases/download/v0.4.1/flant-statusmap-panel-0.4.1.zip",
+              "md5": "dffb2faa880e3535903bb1486ae3cf98"
+            }
+          }
         }
       ]
     },
@@ -3433,8 +3555,18 @@
       "url": "https://github.com/grafana/grafana-polystat-panel",
       "versions": [
         {
-          "version": "1.0.14",
-          "commit": "71ee146d6849e6546bde3da084686d168006042a",
+          "version": "1.2.2",
+          "url": "https://github.com/grafana/grafana-polystat-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/grafana/grafana-polystat-panel/releases/download/v1.2.2/grafana-polystat-panel-1.2.2.any.zip",
+              "md5": "e76b1f0bb92de6d136b3d223e9332917"
+            }
+          }
+        },
+        {
+          "version": "1.0.16",
+          "commit": "a1347fb4639829e318fb7f2e69a6985f3dbc4ffc",
           "url": "https://github.com/grafana/grafana-polystat-panel"
         },
         {
@@ -3443,8 +3575,8 @@
           "url": "https://github.com/grafana/grafana-polystat-panel"
         },
         {
-          "version": "1.0.16",
-          "commit": "a1347fb4639829e318fb7f2e69a6985f3dbc4ffc",
+          "version": "1.0.14",
+          "commit": "71ee146d6849e6546bde3da084686d168006042a",
           "url": "https://github.com/grafana/grafana-polystat-panel"
         }
       ]
@@ -3481,6 +3613,16 @@
             "any": {
               "url": "https://github.com/LucasArona/larona-epict-panel/releases/download/v2.0.0/larona-epict-panel-2.0.0.zip",
               "md5": "1e41d5cbf751075b03639e917b6c68b3"
+            }
+          }
+        },
+        {
+          "version": "2.0.1",
+          "url": "https://github.com/LucasArona/larona-epict-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/LucasArona/larona-epict-panel/releases/download/v2.0.1/larona-epict-panel-2.0.1.zip",
+              "md5": "f978400a2dba45782c31161615a2f9dc"
             }
           }
         }
@@ -3550,6 +3692,35 @@
           "version": "1.4.1",
           "commit": "eb7c20fe699a0cbb84a6e37a8039ec7bfca9afb8",
           "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel"
+        },
+        {
+          "version": "1.7.1",
+          "commit": "c7b55086685c24d4aba964ed30681387ec7bd67c",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel/releases/download/v1.7.1/michaeldmoore-multistat-panel-1.7.1.zip",
+              "md5": "b1550875bea82e370fe2cd20752f0de8"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "michaeldmoore-scatter-panel",
+      "type": "panel",
+      "url": "https://github.com/michaeldmoore/michaeldmoore-scatter-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "cb7dc09d9b46a691ef7b6eb7c32bd57a73fb44b0",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-scatter-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/michaeldmoore/michaeldmoore-scatter-panel/releases/download/v1.0.0/michaeldmoore-scatter-panel-1.0.0.zip",
+              "md5": "3b278c8d1bf4f73e2c553d8c47d55a6f"
+            }
+          }
         }
       ]
     },
@@ -3788,6 +3959,17 @@
               "md5": "7d5f25ca49991baaf0cbd58aa81ee1a8"
             }
           }
+        },
+        {
+          "version": "1.0.2",
+          "commit": "36d2247193616a66d074c2490c5ba23652c711b4",
+          "url": "https://github.com/pierosavi/pierosavi-imageit-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/pierosavi/pierosavi-imageit-panel/releases/download/v1.0.2/pierosavi-imageit-panel-1.0.2.zip",
+              "md5": "e5c5abcdffa4bfc11504c997a825c37b"
+            }
+          }
         }
       ]
     },
@@ -3916,6 +4098,16 @@
           "version": "1.0.8",
           "commit": "d244fe87186d4ec2bffbe3fe0fb1c331fc63b60e",
           "url": "https://github.com/doitintl/bigquery-grafana"
+        },
+        {
+          "version": "2.0.1",
+          "url": "https://github.com/doitintl/bigquery-grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/doitintl/bigquery-grafana/releases/download/2.0.1/doitintl-bigquery-datasource-2.0.1.zip",
+              "md5": "55c3c09bb929cd41d0a43d6d5d8f2d37"
+            }
+          }
         }
       ]
     },
@@ -4180,15 +4372,15 @@
           "download": {
             "darwin-amd64": {
               "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.1/plugin-darwin-x64-unknown.zip",
-              "md5": "8c46f04e190716066a2665a2f3358795"
+              "md5": "1ca017f3d008e1b0cc05766b66d7aed5"
             },
             "linux-amd64": {
               "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.1/plugin-linux-x64-glibc.zip",
-              "md5": "45d7a8f31c4cf019793c413831e377e8"
+              "md5": "d9b9a4edf2e705c7ca7b61d26ac16eb8"
             },
             "windows-amd64": {
               "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.0.1/plugin-win32-x64-unknown.zip",
-              "md5": "b9acc26af81c2ccdfa4288c8b68100d3"
+              "md5": "65504ddc9a2153b7d15af57233dc728a"
             }
           }
         }
@@ -4279,6 +4471,17 @@
             "any": {
               "url": "https://github.com/devopsprodigy/kubegraf/releases/download/v1.5.0.4/devopsprodigy-kubegraf-app-1.5.0.zip",
               "md5": "4d35dc47b16af1a152b8dd29d24ff637"
+            }
+          }
+        },
+        {
+          "version": "1.5.1",
+          "commit": "045461bc19f88539c13b80fbef47eeed57439fd0",
+          "url": "https://github.com/devopsprodigy/kubegraf",
+          "download": {
+            "any": {
+              "url": "https://github.com/devopsprodigy/kubegraf/releases/download/v1.5.1/devopsprodigy-kubegraf-app-1.5.1.zip",
+              "md5": "3a886fdd8f713398125e4bf6818cc24c"
             }
           }
         }
@@ -5277,6 +5480,16 @@
           "version": "0.1.1",
           "commit": "78fb7a9c1622a632721a14838dc5005f8aabcd90",
           "url": "https://github.com/factrylabs/untimely-grafana-panel"
+        },
+        {
+          "version": "0.2.0",
+          "url": "https://github.com/factrylabs/untimely-grafana-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/factrylabs/untimely-grafana-panel/releases/download/v0.2.0/factry-untimely-panel-0.2.0.zip",
+              "md5": "f38e46f1a29ab861da1af8aead35511f"
+            }
+          }
         }
       ]
     },
@@ -5609,8 +5822,7 @@
           }
         }
       ]
-    }
-    ,
+    },
     {
       "id": "snuids-svg-panel",
       "type": "panel",
