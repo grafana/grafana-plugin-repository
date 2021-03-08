@@ -5822,6 +5822,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "akamai-edgedns-datasource",
+      "type": "datasource",
+      "url": "https://github.com/akamai/edgedns-grafana-datasource-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "31635b966cf5c3d68c408a6b9bd0b06529a1acb3",
+          "url": "https://github.com/akamai/edgedns-grafana-datasource-plugin",
+          "download": {
+            "any": {
+              "url": "https://github.com/akamai/edgedns-grafana-datasource-plugin/releases/download/v1.0.0/akamai-edgedns-datasource-1.0.0.zip",
+              "md5": "c19c313ecf411783dd0ec229bbd59e24"
+            }
+          }
+        }
+      ]
     }
   ]
 }
