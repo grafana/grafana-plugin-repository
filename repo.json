@@ -1,6 +1,24 @@
 {
   "plugins": [
     {
+      "id": "vistamart-datasource",
+      "type": "datasource",
+      "url": "https://github.com/infovista/vistamart-datasource",
+      "versions": [
+        {
+          "version": "2021.03.0",
+          "commit": "ad7947af1fcbb67fbc53bcfc608750044de10d82",
+          "url": "https://github.com/infovista/vistamart-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/infovista/vistamart-datasource/releases/download/v2021.03.0/vistamart-datasource-2021.03.0.zip",
+              "md5": "b2c7c08f9dd4e26a652e94652a41ae2c"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "sskgo-perfcurve-panel",
       "type": "panel",
       "url": "https://github.com/SSKGo/perfcurve-panel",
