@@ -6,13 +6,13 @@
       "url": "https://github.com/infovista/vistamart-datasource",
       "versions": [
         {
-          "version": "2021.03.0",
-          "commit": "ad7947af1fcbb67fbc53bcfc608750044de10d82",
+          "version": "2021.3.0",
+          "commit": "c35eef479d6374acfd0c819d23c0df616f8afb1c",
           "url": "https://github.com/infovista/vistamart-datasource",
           "download": {
             "any": {
-              "url": "https://github.com/infovista/vistamart-datasource/releases/download/v2021.03.0/vistamart-datasource-2021.03.0.zip",
-              "md5": "b2c7c08f9dd4e26a652e94652a41ae2c"
+              "url": "https://github.com/infovista/vistamart-datasource/releases/download/v2021.3.0/vistamart-datasource-2021.3.0.zip",
+              "md5": "a376dfee0fc3a1d0051db94b1a0acef2"
             }
           }
         }
