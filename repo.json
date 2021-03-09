@@ -4510,8 +4510,8 @@
           "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
           "download": {
             "any": {
-              "url": "https://github.com/chaos-mesh/chaos-mesh-datasource/releases/download/v0.2.0/yeya24-chaosmesh-datasource-0.1.3.zip",
-              "md5": "be74ba39c0da7a48335932728f7160f2"
+              "url": "https://github.com/chaos-mesh/chaos-mesh-datasource/releases/download/v0.2.0/yeya24-chaosmesh-datasource-0.2.0.zip",
+              "md5": "e3bed489808a13721d9701ebe651d55a"
             }
           }
         }
