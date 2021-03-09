@@ -4505,9 +4505,15 @@
       "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
       "versions": [
         {
-          "version": "0.1.2",
-          "commit": "d3c31654725fad4efdee98dee5825093763e43a0",
-          "url": "https://github.com/chaos-mesh/chaos-mesh-datasource"
+          "version": "0.2.0",
+          "commit": "4b3c874dbf83fa16a22595b19e37e56bd3c0e8fc",
+          "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/chaos-mesh/chaos-mesh-datasource/releases/download/v0.2.0/yeya24-chaosmesh-datasource-0.1.3.zip",
+              "md5": "be74ba39c0da7a48335932728f7160f2"
+            }
+          }
         }
       ]
     },
@@ -5659,24 +5665,6 @@
             "any": {
               "url": "https://github.com/thalysantana/grafana-appcenter-datasource/releases/download/v1.0.0/thalysantana-appcenter-datasource-1.0.0.zip",
               "md5": "c1064d6b2463bbff2588c2d9d51a32ba"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "g1eny0ung-chaosmesh-datasource",
-      "type": "datasource",
-      "url": "https://github.com/g1eny0ung/grafana-chaos-mesh-datasource",
-      "versions": [
-        {
-          "version": "0.1.2",
-          "commit": "9f2b823232d2282aec1b526895c9498042e4d9e0",
-          "url": "https://github.com/g1eny0ung/grafana-chaos-mesh-datasource",
-          "download": {
-            "any": {
-              "url": "https://github.com/g1eny0ung/grafana-chaos-mesh-datasource/releases/download/v0.1.2/g1eny0ung-chaosmesh-datasource-0.1.2.zip",
-              "md5": "2b3536540a638522698f0ba99d0ba299"
             }
           }
         }
