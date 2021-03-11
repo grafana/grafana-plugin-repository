@@ -1,4 +1,6 @@
 #!/usr/bin/env node
+/*jshint esversion: 8 */
+
 const fs = require('fs');
 const path = require('path');
 const _ = require('lodash');
@@ -13,7 +15,7 @@ async function main(options) {
   try {
     pluginsRepo = getRepo();
   } catch(err) {
-    console.error(chalk.red('Error processing repo.json'))
+    console.error(chalk.red('Error processing repo.json'));
     console.error(err);
     process.exit(1);
   }
@@ -51,11 +53,12 @@ async function main(options) {
 
     let commit = version.commit;
     let url = version.url;
+    let download = version.download || null;
 
     // console.log(`Linting plugin ${chalk.blue(plugin.id)}`);
     console.log(`Linting ${chalk.blue(plugin.id)} version ${chalk.blue(version.version)}`);
     try {
-      const lintResult = await lintPlugin(url, commit, version.version, plugin.id);
+      const lintResult = await lintPlugin(url, commit, version.version, download, plugin.id);
       if (lintResult) {
         if (lintResult && lintResult.statusCode > 0) {
           console.error(chalk.yellow(lintResult.status));

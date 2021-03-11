@@ -14,7 +14,7 @@ if (process.argv.length > 5) {
 
 console.log(`${pluginUrl} : ${commit}`);
 
-return lintPlugin(pluginUrl, commit, version, pluginId).then(result => {
+return lintPlugin(pluginUrl, commit, version, download, pluginId).then(result => {
   // console.debug(result);
   if (result && result.statusCode > 0) {
     console.error(chalk.yellow(result.status));
