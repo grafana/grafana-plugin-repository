@@ -5833,6 +5833,23 @@
           }
         }
       ]
+    },
+    {
+      "id": "xiaolin-antv-g6-panel",
+      "type": "panel",
+      "url": "https://github.com/XiaoLin1995/antv-g6-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/XiaoLin1995/antv-g6-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/XiaoLin1995/antv-g6-panel/releases/download/1.0.0/xiaolin-antv-g6-panel-1.0.0.zip",
+              "md5": "5c632131b1ab6501d4a0ef5ac0952140"
+            }
+          }
+        }
+      ]
     }
   ]
 }
