@@ -4688,8 +4688,13 @@
         },
         {
           "version": "1.1.4",
-          "commit": "73748f63e4cb67b94fbb2698eca1c959c05caeb4",
-          "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel"
+          "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel/releases/download/1.1.4/magnesium-wordcloud-panel-1.1.4.zip",
+              "md5": "38b9b8a02f7ee5c534771c40b11a4d70"
+            }
+          }
         }
       ]
     },
