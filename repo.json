@@ -2277,7 +2277,6 @@
             }
           }
         }
-
       ]
     },
     {
@@ -5829,6 +5828,23 @@
             "any": {
               "url": "https://github.com/thalysantana/grafana-appcenter-datasource/releases/download/v1.0.0/thalysantana-appcenter-datasource-1.0.0.zip",
               "md5": "c1064d6b2463bbff2588c2d9d51a32ba"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "blackcowmoo-googleanalytics-datasource",
+      "type": "datasource",
+      "url": "https://github.com/blackcowmoo/Grafana-Google-Analytics-DataSource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "url": "https://github.com/blackcowmoo/Grafana-Google-Analytics-DataSource",
+          "download": {
+            "any": {
+              "url": "https://github.com/blackcowmoo/Grafana-Google-Analytics-DataSource/releases/download/v0.1.0/blackcowmoo-googleanalytics-datasource-0.1.0.zip",
+              "md5": "c00d401564c3aa8090ad9d04289b283c"
             }
           }
         }
