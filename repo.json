@@ -5839,12 +5839,12 @@
       "url": "https://github.com/blackcowmoo/Grafana-Google-Analytics-DataSource",
       "versions": [
         {
-          "version": "0.1.0",
+          "version": "0.1.1",
           "url": "https://github.com/blackcowmoo/Grafana-Google-Analytics-DataSource",
           "download": {
             "any": {
-              "url": "https://github.com/blackcowmoo/Grafana-Google-Analytics-DataSource/releases/download/v0.1.0/blackcowmoo-googleanalytics-datasource-0.1.0.zip",
-              "md5": "c00d401564c3aa8090ad9d04289b283c"
+              "url": "https://github.com/blackcowmoo/Grafana-Google-Analytics-DataSource/releases/download/v0.1.1/blackcowmoo-googleanalytics-datasource-0.1.1.zip",
+              "md5": "dff7b2d88ce3a215bbe462f8385343ed"
             }
           }
         }
