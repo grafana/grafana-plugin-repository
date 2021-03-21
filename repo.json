@@ -4587,13 +4587,13 @@
       "url": "https://github.com/flaminggoat/map-track-3-d",
       "versions": [
         {
-          "version": "0.1.6",
-          "commit": "729b5b3b7a3fda013d5f1a7cf4e5d6d073dd4889",
+          "version": "0.1.8",
+          "commit": "53c6efb110970ec59e0883978ad95f96a3f46fd1",
           "url": "https://github.com/flaminggoat/map-track-3-d",
           "download": {
             "any": {
-              "url": "https://github.com/flaminggoat/map-track-3-d/releases/download/untagged-5842cb9c45528ace5b8b/flaminggoat-maptrack3d-panel-0.1.6.zip",
-              "md5": "a2235002bb6385db76c31a0d2b9f9d0d"
+              "url": "https://github.com/flaminggoat/map-track-3-d/releases/download/v0.1.8/flaminggoat-maptrack3d-panel-0.1.8.zip",
+              "md5": "11edc5c807e71a0fdde8bfee7b98e837"
             }
           }
         }
