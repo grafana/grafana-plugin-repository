@@ -5574,6 +5574,24 @@
       ]
     },
     {
+      "id": "flaminggoat-maptrack3d-panel",
+      "type": "panel",
+      "url": "https://github.com/flaminggoat/map-track-3-d",
+      "versions": [
+        {
+          "version": "0.1.8",
+          "commit": "53c6efb110970ec59e0883978ad95f96a3f46fd1",
+          "url": "https://github.com/flaminggoat/map-track-3-d",
+          "download": {
+            "any": {
+              "url": "https://github.com/flaminggoat/map-track-3-d/releases/download/v0.1.8/flaminggoat-maptrack3d-panel-0.1.8.zip",
+              "md5": "11edc5c807e71a0fdde8bfee7b98e837"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "innius-video-panel",
       "type": "panel",
       "url": "https://github.com/innius/grafana-video-panel",
