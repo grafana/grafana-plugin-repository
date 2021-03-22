@@ -5539,8 +5539,13 @@
         },
         {
           "version": "0.3.0",
-          "commit": "277af7e5e38c8669eb75361c5b4cfa799b75741e",
-          "url": "https://github.com/Gowee/traceroute-map-panel"
+          "url": "https://github.com/Gowee/traceroute-map-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/Gowee/traceroute-map-panel/releases/download/v0.3.0-3/dist-v0.3.0-3.zip",
+              "md5": "ad55c08fd0b6248f0c6a0f923c69dc8b"
+            }
+          }
         }
       ]
     },
