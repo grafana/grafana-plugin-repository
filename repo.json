@@ -2277,7 +2277,6 @@
             }
           }
         }
-
       ]
     },
     {
@@ -2843,6 +2842,16 @@
             "any": {
               "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v0.2.7/frser-sqlite-datasource-0.2.7.zip",
               "md5": "642de2cd91b2bf2ac24e2b1b4e055950"
+            }
+          }
+        },
+        {
+          "version": "1.0.1",
+          "url": "https://github.com/fr-ser/grafana-sqlite-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v1.0.1/frser-sqlite-datasource-1.0.1.zip",
+              "md5": "776aaf3fbfe3dd9f532dbd1a5e80981a"
             }
           }
         }
