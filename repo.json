@@ -5835,6 +5835,24 @@
       ]
     },
     {
+      "id": "snuids-svg-panel",
+      "type": "panel",
+      "url": "https://github.com/snuids/grafana-svg-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "70f60874555cab4c090c3620b219c219eb7cf537",
+          "url": "https://github.com/snuids/grafana-svg-panel",
+          "download": {
+            "any": {
+              "url": "https://raw.githubusercontent.com/snuids/grafana-svg-panel/master/snuids-svg-panel-1.0.0.zip",
+              "md5": "eafcf02cde3911f8b82a8261f1b96beb"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "xiaolinzhu-antvg6-panel",
       "type": "panel",
       "url": "https://github.com/XiaoLin1995/antv-g6-panel",
