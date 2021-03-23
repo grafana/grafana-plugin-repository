@@ -5861,6 +5861,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "bmchelix-ade-datasource",
+      "type": "datasource",
+      "url": "https://github.com/bmcsoftware/bmchelix-datasource",
+      "versions": [
+        {
+          "version": "21.02",
+          "commit": "c20c9e7edcf916516979946237594d7e7aae9286",
+          "url": "https://github.com/bmcsoftware/bmchelix-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/bmcsoftware/bmchelix-datasource/releases/download/v21.02/bmchelix-ade-datasource-v21.02.zip",
+              "md5": "87b94a37a10a51d59c78453994c1fc92"
+            }
+          }
+        }
+      ]
     }
   ]
 }
