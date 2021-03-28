@@ -5448,6 +5448,17 @@
           "version": "2.2.0",
           "commit": "408f6a5ab93bebf41d42ccec3e83f68714d2986b",
           "url": "https://github.com/Dalvany/dalvany-image-panel"
+        },
+        {
+          "version": "2.3.0",
+          "commit": "d01f08747febc1b7b375bd65e40fe4ee5fcf4a89",
+          "url": "https://github.com/Dalvany/dalvany-image-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/Dalvany/dalvany-image-panel/releases/download/v2.3.0/dalvany-image-panel-2.3.0.zip",
+              "md5": "6bf81a625b825a594c946762c7054feb"
+            }
+          }
         }
       ]
     },
