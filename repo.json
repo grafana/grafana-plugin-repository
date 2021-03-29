@@ -2277,7 +2277,6 @@
             }
           }
         }
-
       ]
     },
     {
@@ -2843,6 +2842,16 @@
             "any": {
               "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v0.2.7/frser-sqlite-datasource-0.2.7.zip",
               "md5": "642de2cd91b2bf2ac24e2b1b4e055950"
+            }
+          }
+        },
+        {
+          "version": "1.0.1",
+          "url": "https://github.com/fr-ser/grafana-sqlite-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v1.0.1/frser-sqlite-datasource-1.0.1.zip",
+              "md5": "776aaf3fbfe3dd9f532dbd1a5e80981a"
             }
           }
         }
@@ -3475,6 +3484,16 @@
               "md5": "c4990fcb0a5fb976acb70f6ae33ece71"
             }
           }
+        },
+        {
+          "version": "0.2.4",
+          "url": "https://github.com/simPod/GrafanaJsonDatasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/simPod/GrafanaJsonDatasource/releases/download/v0.2.4/simpod-json-datasource.zip",
+              "md5": "7cb517eb289f5e96ce8b8d59adfc070d"
+            }
+          }
         }
       ]
     },
@@ -4035,6 +4054,17 @@
               "md5": "049c6e5ad00140423c2b8a0f96642503"
             }
           }
+        },
+        {
+          "version": "2.2.0",
+          "commit": "1a686484ad2e9f75c87691bc4903c0520bbca4a0",
+          "url": "https://github.com/cognitedata/cognite-grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/cognitedata/cognite-grafana-datasource/releases/download/v2.2.0/cognitedata-datasource-2.2.0.zip",
+              "md5": "3d744164de2cf59266be0777a9395afb"
+            }
+          }
         }
       ]
     },
@@ -4493,6 +4523,17 @@
             "any": {
               "url": "https://github.com/devopsprodigy/kubegraf/releases/download/v1.5.1/devopsprodigy-kubegraf-app-1.5.1.zip",
               "md5": "3a886fdd8f713398125e4bf6818cc24c"
+            }
+          }
+        },
+        {
+          "version": "1.5.2",
+          "commit": "e243afc0c6d6b5dbf85c141558f23812cdf7d103",
+          "url": "https://github.com/devopsprodigy/kubegraf",
+          "download": {
+            "any": {
+              "url": "https://github.com/devopsprodigy/kubegraf/releases/download/v1.5.2/devopsprodigy-kubegraf-app-1.5.2.zip",
+              "md5": "b6621a4fa9890f1382cb5d112ba40450"
             }
           }
         }
@@ -5542,6 +5583,17 @@
               "md5": "fa82a90a78a225512c33561a178c34c0"
             }
           }
+        },
+        {
+          "version": "1.3.0",
+          "commit": "994dface7e59d454c2b02219bdf07ed13ce6deab",
+          "url": "https://github.com/fifemon/graphql-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fifemon/graphql-datasource/releases/download/v1.3.0/fifemon-graphql-datasource-1.3.0.zip",
+              "md5": "ac3a065fb9b6ffec42533e58fd3aaa3b"
+            }
+          }
         }
       ]
     },
@@ -5578,6 +5630,24 @@
           "version": "1.0.1",
           "commit": "6d372df203078cb36462af0309c3b92501aa3f23",
           "url": "https://github.com/Dikshita25/sunburst-grafana-plugin"
+        }
+      ]
+    },
+    {
+      "id": "flaminggoat-maptrack3d-panel",
+      "type": "panel",
+      "url": "https://github.com/flaminggoat/map-track-3-d",
+      "versions": [
+        {
+          "version": "0.1.8",
+          "commit": "53c6efb110970ec59e0883978ad95f96a3f46fd1",
+          "url": "https://github.com/flaminggoat/map-track-3-d",
+          "download": {
+            "any": {
+              "url": "https://github.com/flaminggoat/map-track-3-d/releases/download/v0.1.8/flaminggoat-maptrack3d-panel-0.1.8.zip",
+              "md5": "11edc5c807e71a0fdde8bfee7b98e837"
+            }
+          }
         }
       ]
     },
@@ -5847,6 +5917,24 @@
             "any": {
               "url": "https://github.com/thalysantana/grafana-appcenter-datasource/releases/download/v1.0.0/thalysantana-appcenter-datasource-1.0.0.zip",
               "md5": "c1064d6b2463bbff2588c2d9d51a32ba"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "snuids-svg-panel",
+      "type": "panel",
+      "url": "https://github.com/snuids/grafana-svg-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "70f60874555cab4c090c3620b219c219eb7cf537",
+          "url": "https://github.com/snuids/grafana-svg-panel",
+          "download": {
+            "any": {
+              "url": "https://raw.githubusercontent.com/snuids/grafana-svg-panel/master/snuids-svg-panel-1.0.0.zip",
+              "md5": "eafcf02cde3911f8b82a8261f1b96beb"
             }
           }
         }
