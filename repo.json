@@ -5756,6 +5756,16 @@
               "md5": "f8532554df9392e33a5742ec59b6e491"
             }
           }
+        },
+        {
+          "version": "3.2.4",
+          "url": "https://github.com/humio/humio2grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/humio/humio2grafana/releases/download/v3.2.4/humio-datasource.zip",
+              "md5": "2e3d273df957c4b0e35d00b85c6e2efa"
+            }
+          }
         }
       ]
     },
