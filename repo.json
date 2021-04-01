@@ -5181,6 +5181,16 @@
               "md5": "ee69d7555e36b97213e5f67a4a92d428"
             }
           }
+        },
+        {
+          "version": "1.0.4",
+          "url": "https://github.com/auxmoney/grafana-waterfall-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/auxmoney/grafana-waterfall-panel/releases/download/v1.0.4/auxmoney-waterfall-panel-1.0.4.zip",
+              "md5": "e90cbe4a8b4479eb21a133a9a0021566"
+            }
+          }
         }
       ]
     },
