@@ -5921,6 +5921,23 @@
           }
         }
       ]
+    },
+    {
+      "id": "pandorafms-datasource",
+      "type": "datasource",
+      "url": "https://github.com/projects-pandorafms/pandorafms-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "url": "https://github.com/projects-pandorafms/pandorafms-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/projects-pandorafms/pandorafms-datasource/releases/download/1.0/pandorafms-datasource.zip",
+              "md5": "ea390f4414b784966d8337680afc391a"
+            }
+          }
+        }
+      ]
     }
   ]
 }
