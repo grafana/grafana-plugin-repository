@@ -5822,6 +5822,17 @@
               "md5": "2e650d2ced1a4811f0f030474e9b68b5"
             }
           }
+        },
+        {
+          "version": "1.3.2",
+          "commit": "8aab763e7fd082c51cd8fcefe8725c4d9b5652b6",
+          "url": "https://github.com/gapitio/gapit-htmlgraphics-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/gapitio/gapit-htmlgraphics-panel/releases/download/v1.3.2/gapit-htmlgraphics-panel-1.3.2.zip",
+              "md5": "4a889703fb169c8573a845685413bcf5"
+            }
+          }
         }
       ]
     },
