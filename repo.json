@@ -25,7 +25,7 @@
             }
           }
         }
-        
+
       ]
     },
     {
@@ -5961,7 +5961,7 @@
           "download": {
             "any": {
               "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.0.zip",
-              "md5": "76cbd3e0fb2babec19c84cf488cd4d66"
+              "md5": "32a8639d842205b3167818837142027c"
             }
           }
         }
@@ -5978,7 +5978,7 @@
           "download": {
             "any": {
               "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-1.0.0.zip",
-              "md5": "1737cc59212cd81ca4d0660cb2b2c874"
+              "md5": "cee96d3b741c4430568f6219e561ff4b"
             }
           }
         }
