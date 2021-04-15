@@ -25,7 +25,7 @@
             }
           }
         }
-        
+
       ]
     },
     {
@@ -5945,6 +5945,40 @@
             "any": {
               "url": "https://raw.githubusercontent.com/snuids/grafana-svg-panel/master/snuids-svg-panel-1.0.0.zip",
               "md5": "eafcf02cde3911f8b82a8261f1b96beb"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "anodot-panel",
+      "type": "panel",
+      "url": "https://github.com/anodot/grafana-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/anodot/grafana-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.0.zip",
+              "md5": "cdee4b59d3967d02b3124ce1ace56157"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "anodot-datasource",
+      "type": "panel",
+      "url": "https://github.com/anodot/grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/anodot/grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-1.0.0.zip",
+              "md5": "7d4ecd9f4080453062b2560aed735567"
             }
           }
         }
