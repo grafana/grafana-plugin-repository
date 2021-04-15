@@ -4505,13 +4505,13 @@
       "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
       "versions": [
         {
-          "version": "0.2.1",
-          "commit": "6640fcebed0bbbd95ae8a4ba11e8c0d298b2700a",
+          "version": "0.2.2",
+          "commit": "a9b355d2c1c3188f7a5e177478cba02adef345fc",
           "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
           "download": {
             "any": {
-              "url": "https://github.com/chaos-mesh/chaos-mesh-datasource/releases/download/v0.2.1/yeya24-chaosmesh-datasource-0.2.1.zip",
-              "md5": "62f268dd633de72b685283c7f1475ce0"
+              "url": "https://github.com/chaos-mesh/chaos-mesh-datasource/releases/download/v0.2.2/yeya24-chaosmesh-datasource-0.2.2.zip",
+              "md5": "38baa3beb252421034bcf111abb4eaff"
             }
           }
         }
