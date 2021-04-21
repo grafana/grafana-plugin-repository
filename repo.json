@@ -5993,6 +5993,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "lightstep-metrics-datasource",
+      "type": "datasource",
+      "url": "https://github.com/lightstep/lightstep-metrics-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "0fcb490db6f61e3ee2a052dcd3b96374a81c6b11",
+          "url": "https://github.com/lightstep/lightstep-metrics-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/lightstep/lightstep-metrics-datasource/releases/download/v1.0.1/lightstep-metrics-datasource-1.0.1.zip",
+              "md5": "bd89bebbcaa3e35059f3b18693fcdc77"
+            }
+          }
+        }
+      ]
     }
   ]
 }
