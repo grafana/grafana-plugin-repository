@@ -6,7 +6,8 @@ We review all plugins before they are published. This means that it may take som
 
 Here's a few things you can do to help us review your plugin faster.
 
-- Validate your plugin release with [this plugin validator](https://grafana-plugins-web-vgmmyppaka-lz.a.run.app/)
+- Validate your plugin release with [this plugin validator](http://plugin-validator.grafana.net)
+- Use the [GitHub workflows](https://github.com/grafana/plugin-workflows) to automate your plugin release
 - Read the [Review Guidelines](http://docs.grafana.org/plugins/developing/plugin-review-guidelines/) before submitting your plugin. These guidelines determine if the plugin is ready to be published or not.
 - If possible, for datasource plugins please provide a description on how to set up a simple test environment. A docker container or simple install script helps speed up the review process a lot.
 
@@ -20,18 +21,25 @@ To submit a plugin for review:
 
 ## Add a plugin to `repo.json`
 
+To publish a plugin, add a new entry to the `plugins` array in [repo.json](repo.json).
+
 Here's an example of a plugin release:
 
 ```json
 {
-  "id": "alexanderzobnin-zabbix-app",
-  "type": "app",
-  "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+  "id": "briangann-gauge-panel",
+  "type": "panel",
+  "url": "https://github.com/briangann/grafana-gauge-panel",
   "versions": [
     {
-      "version": "3.2.1",
-      "commit": "ad6614eacd2b94eedbd0671b1d1a0f2002ade056",
-      "url": "https://github.com/alexanderzobnin/grafana-zabbix"
+      "version": "0.0.8",
+      "url": "https://github.com/briangann/grafana-gauge-panel",
+      "download": {
+        "any": {
+          "url": "https://github.com/briangann/grafana-gauge-panel/releases/download/v0.0.8/briangann-gauge-panel-0.0.8.zip",
+          "md5": "782c973460f330287b7efca5486aa015"
+        }
+      }
     }
   ]
 }
@@ -44,18 +52,27 @@ Here's an example of a plugin release:
 | `id`       | Plugin ID. Needs to match the plugin ID in `plugin.json` |
 | `type`     | Plugin type, e.g. `panel`, `datasource`, or `app`        |
 | `url`      | URL to the plugin's GitHub project page                  |
-| `versions` | URL to the plugin's GitHub project page                  |
+| `versions` | List of all published versions of the plugin             |
 
 ### Plugin Version Schema
 
-| Property  | Description                                                 |
-|-----------|-------------------------------------------------------------|
-| `version` | Plugin version. Needs to match the version in `plugin.json` |
-| `commit`  | Commit SHA of the version to submit                         |
-| `url`     | URL to the plugin's GitHub project page                     |
+| Property   | Description                                                 |
+|------------|-------------------------------------------------------------|
+| `version`  | Plugin version. Needs to match the version in `plugin.json` |
+| `url`      | URL to the plugin's GitHub project page                     |
+| `download` | Download information.                                       |
+
+### Plugin Download Schema
+
+| Property   | Description                                                      |
+|------------|------------------------------------------------------------------|
+| `url`      | URL to a ZIP archive containing a production build of the plugin |
+| `md5`      | MD5 check sum of the ZIP archive                                 |
 
 ## Resources
 
 - [Plugin Development](https://grafana.com/docs/grafana/latest/developers/plugins/)
-- [Create a plugin release](https://grafana.com/tutorials/build-a-panel-plugin/#8)
+- [Sign a plugin](https://grafana.com/docs/grafana/latest/developers/plugins/sign-a-plugin)
+- [Package a plugin](https://grafana.com/docs/grafana/latest/developers/plugins/package-a-plugin)
 - [plugin.json Schema](https://grafana.com/docs/grafana/latest/developers/plugins/metadata/)
+- [6 tips for improving your Grafana plugin before you publish](https://grafana.com/blog/2021/01/21/6-tips-for-improving-your-grafana-plugin-before-you-publish/)
