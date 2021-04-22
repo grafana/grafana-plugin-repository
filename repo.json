@@ -1446,6 +1446,16 @@
       "url": "https://github.com/briangann/grafana-gauge-panel",
       "versions": [
         {
+          "version": "0.0.9",
+          "url": "https://github.com/briangann/grafana-gauge-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/briangann/grafana-gauge-panel/releases/download/v0.0.9/briangann-gauge-panel-0.0.9.zip",
+              "md5": "5f7c93482a2eaca04eb11917478ffcf6"
+            }
+          }
+        },
+        {
           "version": "0.0.8",
           "url": "https://github.com/briangann/grafana-gauge-panel",
           "download": {
