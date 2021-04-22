@@ -1423,8 +1423,13 @@
         },
         {
           "version": "1.7.2",
-          "commit": "3aabb7b06a66f1b4893f897e403c8ef845c0a441",
-          "url": "https://github.com/jdbranham/grafana-diagram/tree/grafana-7x"
+          "url": "https://github.com/jdbranham/grafana-diagram/tree/grafana-7x",
+          "download": {
+            "any": {
+              "url": "https://github.com/jdbranham/grafana-diagram/releases/download/v1.7.2/jdbranham-diagram-panel-1.7.2.zip",
+              "md5": "cc79be831520d6c91ba0a6af855b6ef0"
+            }
+          }
         }
       ]
     },
