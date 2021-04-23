@@ -3911,6 +3911,17 @@
           "version": "2.1.0",
           "commit": "8648728f9c818193a26d5561e2134b3d4eb4f6d7",
           "url": "https://github.com/pR0Ps/grafana-trackmap-panel"
+        },
+        {
+          "version": "2.1.2",
+          "commit": "974b0d29078696c2990c96f502e6bddca78c80df",
+          "url": "https://github.com/pR0Ps/grafana-trackmap-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/pR0Ps/grafana-trackmap-panel/releases/download/v2.1.2/pr0ps-trackmap-panel-2.1.2.zip",
+              "md5": "5d158bf707c061c3bc0d98f549bd9bc6"
+            }
+          }
         }
       ]
     },
