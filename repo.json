@@ -6021,6 +6021,23 @@
           }
         }
       ]
+    },
+    {
+      "id": "netsage-slope-graph-panel",
+      "type": "panel",
+      "url": "https://github.com/netsage-project/react-slope-graph",
+      "versions": [
+        {
+          "version": "0.0.1",
+          "url": "https://github.com/netsage-project/react-slope-graph",
+          "download": {
+            "any": {
+              "url": "https://github.com/netsage-project/react-slope-graph/archive/refs/tags/0.0.1.zip",
+              "md5": "d18ff8306f0fd9dc1a11551827794fa6"
+            }
+          }
+        }
+      ]
     }
   ]
 }
