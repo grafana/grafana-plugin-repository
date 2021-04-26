@@ -5521,6 +5521,23 @@
       ]
     },
     {
+      "id": "auxmoney-waterfall-panel",
+      "type": "panel",
+      "url": "https://github.com/auxmoney/grafana-waterfall-panel",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "url": "https://github.com/auxmoney/grafana-waterfall-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/auxmoney/grafana-waterfall-panel/releases/download/v1.0.4/auxmoney-waterfall-panel-1.0.4.zip",
+              "md5": "e90cbe4a8b4479eb21a133a9a0021566"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "redis-datasource",
       "type": "datasource",
       "url": "https://github.com/RedisGrafana/grafana-redis-datasource",
