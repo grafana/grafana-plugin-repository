@@ -130,9 +130,15 @@
           "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react"
         },
         {
-          "version": "0.0.9",
-          "commit": "1473c1b6e77fd6eecf4a5da9b8b57e7fe3a58434",
-          "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react"
+          "version": "0.0.10",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+          "commit": "13a99ae0e7b0199d131d47e48f77799e4d6bd6a8",
+          "download": {
+            "any": {
+              "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react/releases/download/v0.0.10-alpha/Plugin.zip",
+              "md5": "46f14170a4b1972156a6cd064ccd464b"
+            }
+          }
         }
       ]
     },
