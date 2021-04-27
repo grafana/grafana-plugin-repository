@@ -6041,12 +6041,12 @@
       "url": "https://github.com/anodot/grafana-datasource",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.0.1",
           "url": "https://github.com/anodot/grafana-datasource",
           "download": {
             "any": {
-              "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-1.0.0.zip",
-              "md5": "13056917de9a0e9af570079cbef33316"
+              "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-1.0.1.zip",
+              "md5": "a1575395aef3f11409878c435caceb59"
             }
           }
         }
