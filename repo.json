@@ -5943,6 +5943,16 @@
               "md5": "94936b31096de4218a9c31f5ab2ab902"
             }
           }
+        },
+        {
+          "version": "0.4.0",
+          "url": "https://github.com/ae3e/ae3e-plotly-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/ae3e/ae3e-plotly-panel/releases/download/v0.4.0/ae3e-plotly-panel-0.4.0.zip",
+              "md5": "bafad6c9c14711f9c72624df398127a2"
+            }
+          }
         }
       ]
     },
