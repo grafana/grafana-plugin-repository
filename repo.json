@@ -34,6 +34,16 @@
               "md5": "930e2d16f0ac9d703b12cfc7a0172ee3"
             }
           }
+        },
+        {
+          "version": "2.1.0",
+          "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app/releases/download/2.1.0/tencentcloud-monitor-app-2.1.0.zip",
+              "md5": "a0a877b1c762d7249d4aef42f92f784a"
+            }
+          }
         }
 
       ]
