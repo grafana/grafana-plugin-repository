@@ -6047,7 +6047,7 @@
     },
     {
       "id": "anodot-datasource",
-      "type": "panel",
+      "type": "datasource",
       "url": "https://github.com/anodot/grafana-datasource",
       "versions": [
         {
