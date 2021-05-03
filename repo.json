@@ -1,6 +1,35 @@
 {
   "plugins": [
     {
+      "id": "streamr-datasource",
+      "type": "datasource",
+      "url": "https://github.com/sergejmueller/streamr-datasource",
+      "versions": [
+        {
+          "version": "1.4.0",
+          "commit": "28eeca4f2eb0000d8923a0d19fcf5bfe158c50fc",
+          "url": "https://github.com/sergejmueller/streamr-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/sergejmueller/streamr-datasource/releases/download/1.4.0/streamr-datasource-1.4.0.zip",
+              "md5": "621c0e82ea805eb3f5c99c4648b4b8c4"
+            }
+          }
+        },
+        {
+          "version": "1.5.0",
+          "commit": "4ec6a1ce232e92b4531dfa1f60ed0669e5c39321",
+          "url": "https://github.com/sergejmueller/streamr-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/sergejmueller/streamr-datasource/releases/download/1.5.0/streamr-datasource-1.5.0.zip",
+              "md5": "e0409092fce329b5fa30abd0a3964f9a"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "tencentcloud-monitor-app",
       "type": "app",
       "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app",
