@@ -2912,6 +2912,36 @@
               "md5": "776aaf3fbfe3dd9f532dbd1a5e80981a"
             }
           }
+        },
+        {
+          "version": "1.0.3",
+          "url": "https://github.com/fr-ser/grafana-sqlite-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v1.0.3/frser-sqlite-datasource-1.0.3.zip",
+              "md5": "80838d4cd63d6995a0fa63bd168aa928"
+            }
+          }
+        },
+        {
+          "version": "1.1.0",
+          "url": "https://github.com/fr-ser/grafana-sqlite-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v1.1.0/frser-sqlite-datasource-1.1.0.zip",
+              "md5": "a644537c69b62e9a9f1561b99f8decdd"
+            }
+          }
+        },
+        {
+          "version": "1.2.0",
+          "url": "https://github.com/fr-ser/grafana-sqlite-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v1.2.0/frser-sqlite-datasource-1.2.0.zip",
+              "md5": "c078be8a503f81237c83b93299773c9d"
+            }
+          }
         }
       ]
     },
