@@ -5978,6 +5978,17 @@
               "md5": "f94d8bf927b47056470fa22a6d783a31"
             }
           }
+        },
+        {
+          "version": "0.1.6",
+          "commit": "cce7825cf17b45cc3a2726040f2fedc67df24034",
+          "url": "https://github.com/meteostat/meteostat-grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/meteostat/meteostat-grafana/releases/download/v0.1.6/meteostat-meteostat-datasource-0.1.6.zip",
+              "md5": "34ecc1404dbd91b37241bdadfc231481"
+            }
+          }
         }
       ]
     },
