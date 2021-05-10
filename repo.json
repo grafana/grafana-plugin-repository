@@ -45,7 +45,6 @@
             }
           }
         }
-
       ]
     },
     {
@@ -5654,6 +5653,17 @@
             "any": {
               "url": "https://github.com/RedisGrafana/grafana-redis-datasource/releases/download/v1.3.1/redis-datasource-1.3.1.zip",
               "md5": "7a36a13966c11cf12316422361376cc0"
+            }
+          }
+        },
+        {
+          "version": "1.4.0",
+          "commit": "ed63cae45ec81eaf8929d65ae2a7f25a299ee58c",
+          "url": "https://github.com/RedisGrafana/grafana-redis-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-datasource/releases/download/v1.4.0/redis-datasource-1.4.0.zip",
+              "md5": "ac25cebeea24806123adea98fdf64892"
             }
           }
         }
