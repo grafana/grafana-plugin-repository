@@ -3753,6 +3753,16 @@
               "md5": "f978400a2dba45782c31161615a2f9dc"
             }
           }
+        },
+        {
+          "version": "2.0.3",
+          "url": "https://github.com/LucasArona/larona-epict-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/LucasArona/larona-epict-panel/releases/download/v2.0.3/larona-epict-panel-2.0.3.zip",
+              "md5": "e22513271e3c031d44ad5870491261fd"
+            }
+          }
         }
       ]
     },
