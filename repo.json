@@ -6131,6 +6131,35 @@
           }
         }
       ]
+    },
+    {
+      "id": "yesoreyeram-infinity-datasource",
+      "type": "datasource",
+      "url": "https://github.com/yesoreyeram/grafana-infinity-datasource",
+      "versions": [
+        {
+          "version": "0.6.0",
+          "commit": "de516a6e3c3aa1a1035ade6069f31a0a47ba7312",
+          "url": "https://github.com/yesoreyeram/grafana-infinity-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/yesoreyeram/grafana-infinity-datasource/releases/download/v0.6.0/yesoreyeram-infinity-datasource-0.6.0.zip",
+              "md5": "91a1545e9ed8ba60e6d7e19db3c31067"
+            }
+          }
+        },
+        {
+          "version": "0.6.1",
+          "commit": "1f332edfb03304ac31b2d4e05f22315bc07e3554",
+          "url": "https://github.com/yesoreyeram/grafana-infinity-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/yesoreyeram/grafana-infinity-datasource/releases/download/v0.6.1/yesoreyeram-infinity-datasource-0.6.1.zip",
+              "md5": "b8b6e1469f1479a4f48e576b59681852"
+            }
+          }
+        }
+      ]
     }
   ]
 }
