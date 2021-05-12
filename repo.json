@@ -4553,6 +4553,25 @@
               "md5": "65504ddc9a2153b7d15af57233dc728a"
             }
           }
+        },
+        {
+          "version": "2.1.0",
+          "commit": "8a00bb2c10c49f94151f4aa456ae393162e3e08e",
+          "url": "https://github.com/grafana/grafana-image-renderer",
+          "download": {
+            "darwin-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.1.0/plugin-darwin-x64-unknown.zip",
+              "md5": "7e250629b01c2645d941c898fdeed35d"
+            },
+            "linux-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.1.0/plugin-linux-x64-glibc.zip",
+              "md5": "c33d286517d0d50c6118c1c650175283"
+            },
+            "windows-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v2.1.0/plugin-win32-x64-unknown.zip",
+              "md5": "299df0fffbf8f2b38bac026752714345"
+            }
+          }
         }
       ]
     },
@@ -4855,6 +4874,24 @@
           "version": "1.1.3",
           "commit": "e188d5ffacb4f266d2f92f50a9bbe8701f10926d",
           "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel"
+        },
+        {
+          "id": "magnesium-wordcloud-panel",
+          "type": "panel",
+          "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel",
+          "versions": [
+            {
+              "version": "1.2.4",
+              "commit": "359a0a1f4c869f1ff5dff45e77e70fcb73544ecf",
+              "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel",
+              "download": {
+                "any": {
+                  "url": "https://github.com/raulsperoni/magnesium-wordcloud-panel/releases/download/v1.2.4/magnesium-wordcloud-panel-1.2.4.zip",
+                  "md5": "51a24506b3a21499bf35f45325a49466"
+                }
+              }
+            }
+          ]
         }
       ]
     },
@@ -6114,12 +6151,22 @@
               "md5": "cdee4b59d3967d02b3124ce1ace56157"
             }
           }
+        },
+        {
+          "version": "1.0.1",
+          "url": "https://github.com/anodot/grafana-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.1.zip",
+              "md5": "f5add742c5f760b7e5ed767479e7f7c6"
+            }
+          }
         }
       ]
     },
     {
       "id": "anodot-datasource",
-      "type": "panel",
+      "type": "datasource",
       "url": "https://github.com/anodot/grafana-datasource",
       "versions": [
         {
@@ -6129,6 +6176,16 @@
             "any": {
               "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-1.0.0.zip",
               "md5": "13056917de9a0e9af570079cbef33316"
+            }
+          }
+        },
+        {
+          "version": "1.0.1",
+          "url": "https://github.com/anodot/grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-1.0.1.zip",
+              "md5": "dabfe80110c22ee7ae781273798eb92f"
             }
           }
         }
@@ -6194,6 +6251,23 @@
             "any": {
               "url": "https://github.com/RedisGrafana/grafana-redis-explorer/releases/download/v1.1.0/redis-explorer-app-1.1.0.zip",
               "md5": "511422fc8d50e06c1308dae99d065802"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "hadesarchitect-cassandra-datasource",
+      "type": "datasource",
+      "url": "https://github.com/HadesArchitect/GrafanaCassandraDatasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/HadesArchitect/GrafanaCassandraDatasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/HadesArchitect/GrafanaCassandraDatasource/releases/download/1.0.0/cassandra-datasource-1.0.0.zip",
+              "md5": "32b9e40212cff3b9a3f58658b7072568"
             }
           }
         }
