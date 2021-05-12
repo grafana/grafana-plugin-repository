@@ -6239,6 +6239,24 @@
       ]
     },
     {
+      "id": "redis-explorer-app",
+      "type": "app",
+      "url": "https://github.com/RedisGrafana/grafana-redis-explorer",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "commit": "df4766e23c4455b4858e64223d10532a8e8b8560",
+          "url": "https://github.com/RedisGrafana/grafana-redis-explorer",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-explorer/releases/download/v1.1.0/redis-explorer-app-1.1.0.zip",
+              "md5": "511422fc8d50e06c1308dae99d065802"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "hadesarchitect-cassandra-datasource",
       "type": "datasource",
       "url": "https://github.com/HadesArchitect/GrafanaCassandraDatasource",
