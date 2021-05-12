@@ -5893,6 +5893,17 @@
               "md5": "ca659bafe4230440831f720e335d49ac"
             }
           }
+        },
+        {
+          "version": "1.2.0",
+          "commit": "611261873963d4a6dd8bd55334bafeafaefdca3a",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-app/releases/download/v1.2.0/redis-app-1.2.0.zip",
+              "md5": "b9ef34794a5e38af5b0c40c60811e2a1"
+            }
+          }
         }
       ]
     },
