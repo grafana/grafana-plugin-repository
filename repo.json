@@ -763,9 +763,14 @@
       "url": "https://github.com/OpenNMS/opennms-helm",
       "versions": [
         {
-          "version": "7.0.0",
-          "commit": "b475d03da94d1eadb4361ec8f7c7868eec43dfff",
-          "url": "https://github.com/OpenNMS/opennms-helm"
+          "version": "7.1.0",
+          "url": "https://github.com/OpenNMS/opennms-helm",
+	  "download": {
+             "any": {
+               "url": "https://github.com/OpenNMS/opennms-helm/releases/download/v7.1.0/opennms-helm-app-7.1.0.zip",
+               "md5": "2282a6f9362fb90d3a61295f60c8d31a"
+             }
+	  }
         },
         {
           "version": "6.0.0",
