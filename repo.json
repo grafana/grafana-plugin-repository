@@ -6315,6 +6315,24 @@
       ]
     },
     {
+      "id": "bmchelix-ade-datasource",
+      "type": "datasource",
+      "url": "https://github.com/bmcsoftware/bmchelix-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "13c2d647189433e00da27d79f4c56e15759c1b40",
+          "url": "https://github.com/bmcsoftware/bmchelix-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/bmcsoftware/bmchelix-datasource/releases/download/v1.0.0/bmchelix-ade-datasource-v1.0.0.zip",
+              "md5": "8575e8d53de5ec3af44e7f68c2a9f8c4"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "opsramp-metrics-datasource",
       "type": "datasource",
       "url": "https://github.com/opsramp/opsramp-metrics-datasource",
