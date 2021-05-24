@@ -6276,6 +6276,17 @@
               "md5": "b8b6e1469f1479a4f48e576b59681852"
             }
           }
+        },
+        {
+            "version": "0.7.0",
+            "commit": "56b77e534ae79b82cecb7f2cc718fc0efb69b3d4",
+            "url": "https://github.com/yesoreyeram/grafana-infinity-datasource",
+            "download": {
+                "any": {
+                "url": "https://github.com/yesoreyeram/grafana-infinity-datasource/releases/download/v0.7.0/yesoreyeram-infinity-datasource-0.7.0.zip",
+                "md5": "8f27b7cf1904bf86b117f0fd0662f5dd"
+                }
+            }
         }
       ]
     },
