@@ -1,6 +1,22 @@
 {
   "plugins": [
-    {
+ {
+      "id": "sebastiangunreben-cdf-plugin",
+      "type": "app",
+      "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
+      "versions": [
+        {
+          "version": "0.0.2",
+          "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
+          "download": {
+            "any": {
+              "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin/releases/tag/v0.0.2",
+              "md5": "797b54a0a23afea1a9e14c530ca1d150"
+            }
+          }
+        }
+      ]
+    },   {
       "id": "tencentcloud-monitor-app",
       "type": "app",
       "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app",
