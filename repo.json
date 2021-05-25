@@ -6314,7 +6314,7 @@
         }
       ]
     },
-        {
+    {
       "id": "bmchelix-ade-datasource",
       "type": "datasource",
       "url": "https://github.com/bmcsoftware/bmchelix-datasource",
@@ -6327,6 +6327,24 @@
             "any": {
               "url": "https://github.com/bmcsoftware/bmchelix-datasource/releases/download/v1.0.0/bmchelix-ade-datasource-v1.0.0.zip",
               "md5": "8575e8d53de5ec3af44e7f68c2a9f8c4"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "itrs-geneos-datasource",
+      "type": "datasource",
+      "url": "https://github.com/ITRS-Group/grafana-geneos-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "8ab8aeeb1093118290ab1afc27b43b4828db54dd",
+          "url": "https://github.com/ITRS-Group/grafana-geneos-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/ITRS-Group/grafana-geneos-datasource/releases/download/v1.0.0/itrs-geneos-datasource-1.0.0.zip",
+              "md5": "d60e61e7dc7a955cabc1909f54df735e"
             }
           }
         }
