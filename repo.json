@@ -7,7 +7,7 @@
       "versions": [
         {
           "version": "0.1.0",
-          "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
+          "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin/releases/tag/v0.1.0",
           "download": {
             "any": {
               "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin/releases/download/v0.1.0/sebastiangunreben-cdf-panel-0.1.0.zip",
