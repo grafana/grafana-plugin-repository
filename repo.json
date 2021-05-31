@@ -6,12 +6,12 @@
       "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
       "versions": [
         {
-          "version": "0.0.3",
+          "version": "0.1.0",
           "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
           "download": {
             "any": {
-              "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin/releases/download/v0.0.3/sebastiangunreben-cdf-panel-0.0.3.zip",
-              "md5": "b2c90f0876df1e00862954c54450dafe"
+              "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin/releases/download/v0.1.0/sebastiangunreben-cdf-panel-0.1.0.zip",
+              "md5": "1c896a8cc8f7fb34e3edb1c3c1c9566a"
             }
           }
         }
