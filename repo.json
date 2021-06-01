@@ -3881,7 +3881,18 @@
               "md5": "b1550875bea82e370fe2cd20752f0de8"
             }
           }
-        }
+        },
+        {
+          "version": "1.7.2",
+          "commit": "464ba6f95895308537a6cc268c5e0d76e8c1dbc3",
+          "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/michaeldmoore/michaeldmoore-multistat-panel/releases/download/v1.7.2/michaeldmoore-multistat-panel-1.7.2.zip",
+              "md5": "e3858295a0cc0fb1be76cf0ba34474bf"
+            }
+          }
+        }        
       ]
     },
     {
