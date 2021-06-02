@@ -3903,7 +3903,7 @@
               "md5": "e3858295a0cc0fb1be76cf0ba34474bf"
             }
           }
-        }        
+        }
       ]
     },
     {
@@ -6422,6 +6422,42 @@
             "any": {
               "url": "https://github.com/bmcsoftware/bmchelix-datasource/releases/download/v1.0.1/bmchelix-ade-datasource-V1.0.1.zip",
               "md5": "b14861008657f496fe8135977174667d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "pyroscope-panel",
+      "type": "panel",
+      "url": "https://github.com/pyroscope-io/grafana-panel-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "a8e6b9e577a64fb712a0cb129ac472d1c53cead9",
+          "url": "https://github.com/pyroscope-io/grafana-panel-plugin",
+          "download": {
+            "any": {
+              "url": "https://github.com/pyroscope-io/grafana-panel-plugin/releases/download/v1.0.0/pyroscope-panel-1.0.0.zip",
+              "md5": "27a33b0bb59dea40d20ccdf654d92148"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "pyroscope-datasource",
+      "type": "datasource",
+      "url": "https://github.com/pyroscope-io/grafana-datasource-plugin",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "d6abc84d7a7a0cfd4450ed91827f11af93bfc035",
+          "url": "https://github.com/pyroscope-io/grafana-datasource-plugin",
+          "download": {
+            "any": {
+              "url": "https://github.com/pyroscope-io/grafana-datasource-plugin/releases/download/v1.0.0/pyroscope-datasource-1.0.0.zip",
+              "md5": "f40ad1683a1261f93206c76d730388ad"
             }
           }
         }
