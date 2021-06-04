@@ -5693,7 +5693,7 @@
           "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons",
           "download": {
             "any": {
-              "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons/releases/download/untagged-aacc7940b7d10070a5b4/williamvenner-timepickerbuttons-panel-4.1.1.zip",
+              "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons/releases/download/v4.1.1/williamvenner-timepickerbuttons-panel-4.1.1.zip",
               "md5": "9d15e2c6d651a57cd3f98ecab229823e"
             }
           }
