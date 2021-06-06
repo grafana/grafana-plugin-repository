@@ -6338,7 +6338,7 @@
           "download": {
             "any": {
               "url": "https://github.com/rajsameer/vertica-datasource/releases/download/v1.0.7/rajsameer-vertica-datasource-1.0.7.zip",
-              "md5": "c4cd09361ad4092800882356722c23bb"
+              "md5": "c4cd09361ad4092800882356722c23bb"  
             }
           }
         }
