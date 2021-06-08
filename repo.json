@@ -6476,6 +6476,8 @@
           }
         }
       ]
+    },
+    {
       "id": "volkovlabs-image-panel",
       "type": "panel",
       "url": "https://github.com/VolkovLabs/grafana-image-panel",
