@@ -6448,7 +6448,7 @@
         }
       ]
     },
-        {
+    {
       "id": "bmchelix-ade-datasource",
       "type": "datasource",
       "url": "https://github.com/bmcsoftware/bmchelix-datasource",
