@@ -6489,7 +6489,7 @@
             "any": {
               "url": "https://github.com/srclosson/opcua-datasource/releases/download/v1.1.1/opcua-datasource-1.1.1.zip",
               "md5": "cea44c88675eb41dbaf92e092fdbf654"
-            }
+            } 
           }
         }
       ]
