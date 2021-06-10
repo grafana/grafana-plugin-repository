@@ -6483,13 +6483,13 @@
       "url": "https://github.com/srclosson/opcua-datasource/",
       "versions": [
         {
-          "version": "1.1.1",
+          "version": "1.1.2",
           "url": "https://github.com/srclosson/opcua-datasource/",
           "download": {
             "any": {
-              "url": "https://github.com/srclosson/opcua-datasource/releases/download/v1.1.1/opcua-datasource-1.1.1.zip",
-              "md5": "cea44c88675eb41dbaf92e092fdbf654"
-            } 
+              "url": "https://github.com/srclosson/opcua-datasource/releases/download/v1.1.2/opcua-datasource-1.1.2.zip",
+              "md5": "670f01df51f02ff2c66e6a6bb81c2fee"
+            }
           }
         }
       ]
