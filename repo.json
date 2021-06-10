@@ -4694,6 +4694,25 @@
               "md5": "2171f542ab951d19de6f8e0f19ea34a0"
             }
           }
+        },
+        {
+          "version": "3.0.1",
+          "commit": "7a34f24eac6c731f0da40a3f1f5798547cc7556d",
+          "url": "https://github.com/grafana/grafana-image-renderer",
+          "download": {
+            "darwin-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.0.1/plugin-darwin-x64-unknown.zip",
+              "md5": "a5deeafc46263696c0ef3f86cb7b12c9"
+            },
+            "linux-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.0.1/plugin-linux-x64-glibc.zip",
+              "md5": "69711e70d975153473f3e9df2bb30270"
+            },
+            "windows-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.0.1/plugin-win32-x64-unknown.zip",
+              "md5": "17d2ae3560068d015f5b80d6ae3ce29f"
+            }
+          }
         }
       ]
     },
