@@ -6478,6 +6478,24 @@
       ]
     },
     {
+      "id": "volkovlabs-image-panel",
+      "type": "panel",
+      "url": "https://github.com/VolkovLabs/grafana-image-panel",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "7627e552c46dcd0710f0408ba993f5257be0587e",
+          "url": "https://github.com/VolkovLabs/grafana-image-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/VolkovLabs/grafana-image-panel/releases/download/v1.0.1/volkovlabs-image-panel-1.0.1.zip",
+              "md5": "c9770dbc434bf4cc1e7d2134dfc99b1a"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "opcua-datasource",
       "type": "datasource",
       "url": "https://github.com/srclosson/opcua-datasource/",
