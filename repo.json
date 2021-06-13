@@ -1,6 +1,35 @@
 {
   "plugins": [
     {
+      "id": "streamr-datasource",
+      "type": "datasource",
+      "url": "https://github.com/sergejmueller/streamr-datasource",
+      "versions": [
+        {
+          "version": "1.4.0",
+          "commit": "28eeca4f2eb0000d8923a0d19fcf5bfe158c50fc",
+          "url": "https://github.com/sergejmueller/streamr-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/sergejmueller/streamr-datasource/releases/download/1.4.0/streamr-datasource-1.4.0.zip",
+              "md5": "621c0e82ea805eb3f5c99c4648b4b8c4"
+            }
+          }
+        },
+        {
+          "version": "1.5.0",
+          "commit": "4ec6a1ce232e92b4531dfa1f60ed0669e5c39321",
+          "url": "https://github.com/sergejmueller/streamr-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/sergejmueller/streamr-datasource/releases/download/1.5.0/streamr-datasource-1.5.0.zip",
+              "md5": "e0409092fce329b5fa30abd0a3964f9a"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "tencentcloud-monitor-app",
       "type": "app",
       "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app",
@@ -4675,6 +4704,44 @@
               "md5": "94a250196fd0e13b734334c2c46e114f"
             }
           }
+        },
+        {
+          "version": "3.0.0",
+          "commit": "8491418fe53090abde5f59ad0ca3413f91e798d5",
+          "url": "https://github.com/grafana/grafana-image-renderer",
+          "download": {
+            "darwin-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.0.0/plugin-darwin-x64-unknown.zip",
+              "md5": "f111ef722eca2c2a27486744bb4ce162"
+            },
+            "linux-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.0.0/plugin-linux-x64-glibc.zip",
+              "md5": "4931eb9df50113d492e3e1507a780f13"
+            },
+            "windows-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.0.0/plugin-win32-x64-unknown.zip",
+              "md5": "2171f542ab951d19de6f8e0f19ea34a0"
+            }
+          }
+        },
+        {
+          "version": "3.0.1",
+          "commit": "7a34f24eac6c731f0da40a3f1f5798547cc7556d",
+          "url": "https://github.com/grafana/grafana-image-renderer",
+          "download": {
+            "darwin-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.0.1/plugin-darwin-x64-unknown.zip",
+              "md5": "a5deeafc46263696c0ef3f86cb7b12c9"
+            },
+            "linux-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.0.1/plugin-linux-x64-glibc.zip",
+              "md5": "69711e70d975153473f3e9df2bb30270"
+            },
+            "windows-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.0.1/plugin-win32-x64-unknown.zip",
+              "md5": "17d2ae3560068d015f5b80d6ae3ce29f"
+            }
+          }
         }
       ]
     },
@@ -6197,6 +6264,16 @@
               "md5": "94936b31096de4218a9c31f5ab2ab902"
             }
           }
+        },
+        {
+          "version": "0.4.0",
+          "url": "https://github.com/ae3e/ae3e-plotly-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/ae3e/ae3e-plotly-panel/releases/download/v0.4.0/ae3e-plotly-panel-0.4.0.zip",
+              "md5": "bafad6c9c14711f9c72624df398127a2"
+            }
+          }
         }
       ]
     },
@@ -6443,6 +6520,24 @@
             "any": {
               "url": "https://github.com/bmcsoftware/bmchelix-datasource/releases/download/v1.0.1/bmchelix-ade-datasource-V1.0.1.zip",
               "md5": "b14861008657f496fe8135977174667d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "volkovlabs-image-panel",
+      "type": "panel",
+      "url": "https://github.com/VolkovLabs/grafana-image-panel",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "7627e552c46dcd0710f0408ba993f5257be0587e",
+          "url": "https://github.com/VolkovLabs/grafana-image-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/VolkovLabs/grafana-image-panel/releases/download/v1.0.1/volkovlabs-image-panel-1.0.1.zip",
+              "md5": "c9770dbc434bf4cc1e7d2134dfc99b1a"
             }
           }
         }
