@@ -6418,6 +6418,17 @@
               "md5": "61e022b9bf6f2afb2311f983be4a53cb"
             }
           }
+        },
+        {
+          "version": "1.0.7",
+          "commit": "162321f24be088e2b7a1502bd8cd60b67ea84aae",
+          "url": "https://github.com/rajsameer/vertica-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/rajsameer/vertica-datasource/releases/download/v1.0.7/rajsameer-vertica-datasource-1.0.7.zip",
+              "md5": "0d3d44a83b69e78d6d2ca7925df6f8f3"
+            }
+          }
         }
       ]
     },
