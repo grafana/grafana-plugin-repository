@@ -6484,12 +6484,12 @@
       "versions": [
         {
           "version": "1.0.0",
-          "commit": "a8e6b9e577a64fb712a0cb129ac472d1c53cead9",
+          "commit": "d05ea18ed3cc5ba518052ea7258c324b85b5a9d6",
           "url": "https://github.com/pyroscope-io/grafana-panel-plugin",
           "download": {
             "any": {
               "url": "https://github.com/pyroscope-io/grafana-panel-plugin/releases/download/v1.0.0/pyroscope-panel-1.0.0.zip",
-              "md5": "27a33b0bb59dea40d20ccdf654d92148"
+              "md5": "f986fbfc5189602b844b4fffc79272b4"
             }
           }
         }
