@@ -6400,6 +6400,16 @@
               "md5": "dabfe80110c22ee7ae781273798eb92f"
             }
           }
+        },
+        {
+          "version": "1.0.2",
+          "url": "https://github.com/anodot/grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-1.0.2.zip",
+              "md5": "b956db345daafabc616e9299c562fcc7"
+            }
+          }
         }
       ]
     },
