@@ -6599,6 +6599,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "walshydev-uptime-panel",
+      "type": "panel",
+      "url": "https://github.com/WalshyDev/Uptime-Panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "88d8a509ab31ba4f65368a2a890fbb4b398f930e",
+          "url": "https://github.com/WalshyDev/Uptime-Panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/WalshyDev/Uptime-Panel/releases/download/v0.1.0/walshydev-uptime-0.1.0.zip",
+              "md5": "0d165e56cbc493d39eac425fa8bed7c1"
+            }
+          }
+        }
+      ]
     }
   ]
 }
