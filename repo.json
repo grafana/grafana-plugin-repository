@@ -6606,13 +6606,13 @@
       "url": "https://github.com/WalshyDev/Uptime-Panel",
       "versions": [
         {
-          "version": "0.1.0",
-          "commit": "23279fad9b04e740d0aed6e94dac7de93bd64085",
+          "version": "0.1.1",
+          "commit": "74833b93a1e049674b2234175cfde9e8ad5ce057",
           "url": "https://github.com/WalshyDev/Uptime-Panel",
           "download": {
             "any": {
-              "url": "https://github.com/WalshyDev/Uptime-Panel/releases/download/v0.1.0/walshydev-uptime-0.1.0.zip",
-              "md5": "3f440036be82148d388bef314a774209"
+              "url": "https://github.com/WalshyDev/Uptime-Panel/releases/download/v0.1.1/walshydev-uptime-panel-0.1.1.zip",
+              "md5": "29c6f31faef106ac430dc1c57c43a04d"
             }
           }
         }
