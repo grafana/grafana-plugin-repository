@@ -6597,6 +6597,17 @@
               "md5": "c9770dbc434bf4cc1e7d2134dfc99b1a"
             }
           }
+        },
+        {
+          "version": "2.0.0",
+          "commit": "694523b8fbda3500e3110bb37bbfef6bd0a693b5",
+          "url": "https://github.com/VolkovLabs/grafana-image-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/VolkovLabs/grafana-image-panel/releases/download/v2.0.0/volkovlabs-image-panel-2.0.0.zip",
+              "md5": "25fa95780b68370aefa5fe2c4612ffcb"
+            }
+          }
         }
       ]
     }
