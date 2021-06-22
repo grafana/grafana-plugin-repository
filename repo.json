@@ -4964,6 +4964,11 @@
           "version": "0.2.2",
           "commit": "1b334b8b0bd3b07909623dbdbdf560d969be0328",
           "url": "https://github.com/thiagoarrais/grafana-matomo-tracking-panel"
+        },
+        {
+          "version": "0.2.3",
+          "commit": "2fc7824192673e57d4e13e7b9cff57fab2490c33",
+          "url": "https://github.com/thiagoarrais/grafana-matomo-tracking-panel"
         }
       ]
     },
