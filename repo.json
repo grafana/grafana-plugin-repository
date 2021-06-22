@@ -6599,6 +6599,17 @@
           }
         }
       ]
+    },
+    {
+      "id": "im-comparion-panel",
+      "type": "panel",
+      "url": "https://github.com/IntegrationMatters/im-comparison-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/IntegrationMatters/im-comparison-panel"
+        }
+      ]
     }
   ]
 }
