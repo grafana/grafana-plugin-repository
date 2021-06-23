@@ -3752,6 +3752,11 @@
           "version": "2.2.0",
           "commit": "86f588ef709d820170fa71d8fd9c8a6cc9ef7d93",
           "url": "https://github.com/ovh/ovh-warp10-datasource"
+        },
+        {
+          "version": "2.3.0",
+          "commit": "686f03e46c071c3083720430f40d7bee0887e889",
+          "url": "https://github.com/ovh/ovh-warp10-datasource"
         }
       ]
     },
