@@ -6639,7 +6639,7 @@
           "download": {
             "any": {
               "url": "https://github.com/Danburit/AirBitIoTWorkspace/releases/download/v0.2.5/airbit-workspace-datasource.zip",
-              "md5": "86CF29FF2B340A7DD91E42730FFAF0D3"
+              "md5": "86cf29ff2b340a7dd91e42730ffaf0d3"
             }
           }
         }
