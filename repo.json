@@ -1479,6 +1479,17 @@
               "md5": "cc79be831520d6c91ba0a6af855b6ef0"
             }
           }
+        },
+        {
+          "version": "1.7.3",
+          "commit": "d96ec15c0934d77726e46dec5e78cd65076fcf26",
+          "url": "https://github.com/jdbranham/grafana-diagram",
+          "download": {
+            "any": {
+              "url": "https://github.com/jdbranham/grafana-diagram/releases/download/v1.7.3/jdbranham-diagram-panel-1.7.3.zip",
+              "md5": "4884311f5b58f029c30fd9529c936f7a"
+            }
+          }
         }
       ]
     },
