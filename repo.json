@@ -6527,7 +6527,7 @@
         }
       ]
     },
-        {
+    {
       "id": "bmchelix-ade-datasource",
       "type": "datasource",
       "url": "https://github.com/bmcsoftware/bmchelix-datasource",
@@ -6623,6 +6623,23 @@
             "any": {
               "url": "https://github.com/teamviewer/grafana-teamviewer-datasource/releases/download/v1.0.1/teamviewer-datasource-1.0.1.zip",
               "md5": "d253acb797fa35ca4a0763d70621af37"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "airbit-workspace-datasource",
+      "type": "datasource",
+      "url": "https://github.com/Danburit/AirBitIoTWorkspace",
+      "versions": [
+        {
+          "version": "0.2.5",
+          "url": "https://github.com/Danburit/AirBitIoTWorkspace",
+          "download": {
+            "any": {
+              "url": "https://github.com/Danburit/AirBitIoTWorkspace/releases/download/v0.2.5/airbit-workspace-datasource.zip",
+              "md5": "A78111C1F8E0C1CBBC78C6809C2EC70D"
             }
           }
         }
