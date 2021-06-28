@@ -166,6 +166,17 @@
           "version": "0.0.8",
           "commit": "690d4ffe0753125b64e52a5f5a88f11bf37ca33f",
           "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react"
+        },
+        {
+          "version": "0.0.10",
+          "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
+          "commit": "13a99ae0e7b0199d131d47e48f77799e4d6bd6a8",
+          "download": {
+            "any": {
+              "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react/releases/download/v0.0.10-alpha/Plugin.zip",
+              "md5": "46f14170a4b1972156a6cd064ccd464b"
+            }
+          }
         }
       ]
     },
