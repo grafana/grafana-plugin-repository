@@ -157,6 +157,8 @@
         }
       ]
     },
+    { FOR VERTICA
+    },
     {
       "id": "aceiot-svg-panel",
       "type": "panel",
