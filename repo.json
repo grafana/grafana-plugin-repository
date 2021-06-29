@@ -1,6 +1,24 @@
 {
   "plugins": [
     {
+      "id": "shaymoshe-mapbox-panel",
+      "type": "panel",
+      "url": "https://github.com/ShayMoshe/grafana-mapbox-panel-plugin",
+      "versions": [
+        {
+          "version": "1.2.5",
+          "commit": "e000762338c34c620d78ce4d246cc087b5c6743c",
+          "url": "https://github.com/ShayMoshe/grafana-mapbox-panel-plugin",
+          "download": {
+            "any": {
+              "url": "https://github.com/ShayMoshe/grafana-mapbox-panel-plugin/releases/download/1.2.5/shaymoshe-mapbox-panel.1.25.zip",
+              "md5": "6ead04fc57984e1eb71f4d1f1b6583e0"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "streamr-datasource",
       "type": "datasource",
       "url": "https://github.com/sergejmueller/streamr-datasource",
