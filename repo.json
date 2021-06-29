@@ -6549,6 +6549,16 @@
       "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
       "versions": [
         {
+          "version": "0.1.4",
+          "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/tag/v0.1.4",
+          "download": {
+            "any": {
+              "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/download/v0.1.4/sebastiangunreben-cdf-panel-0.1.4.zip",
+              "md5": "085dc9217cd01c62330133f740e4a6a0"
+            }
+          }
+        },
+        {
           "version": "0.1.2",
           "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin/releases/tag/v0.1.2",
           "download": {
