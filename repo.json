@@ -6659,6 +6659,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "dovidgef-rollbar-datasource",
+      "type": "datasource",
+      "url": "https://github.com/dovidgef/grafana-rollbar",
+      "versions": [
+        {
+          "version": "0.0.11",
+          "commit": "da6264034b77784eea48f7abe7167c614d0991cc",
+          "url": "https://github.com/dovidgef/grafana-rollbar",
+          "download": {
+            "any": {
+              "url": "https://github.com/dovidgef/grafana-rollbar/releases/download/v0.0.11/dovidgef-rollbar-datasource-0.0.11.zip",
+              "md5": "cb8903f415e6b1ffb67c87a5fdf9a5a5"
+            }
+          }
+        }
+      ]
     }
   ]
 }
