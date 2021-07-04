@@ -166,6 +166,17 @@
           "version": "0.0.8",
           "commit": "690d4ffe0753125b64e52a5f5a88f11bf37ca33f",
           "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react"
+        },
+        {
+          "version": "0.0.10",
+          "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
+          "commit": "13a99ae0e7b0199d131d47e48f77799e4d6bd6a8",
+          "download": {
+            "any": {
+              "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react/releases/download/v0.0.10-alpha/Plugin.zip",
+              "md5": "46f14170a4b1972156a6cd064ccd464b"
+            }
+          }
         }
       ]
     },
@@ -1477,6 +1488,17 @@
             "any": {
               "url": "https://github.com/jdbranham/grafana-diagram/releases/download/v1.7.2/jdbranham-diagram-panel-1.7.2.zip",
               "md5": "cc79be831520d6c91ba0a6af855b6ef0"
+            }
+          }
+        },
+        {
+          "version": "1.7.3",
+          "commit": "d96ec15c0934d77726e46dec5e78cd65076fcf26",
+          "url": "https://github.com/jdbranham/grafana-diagram",
+          "download": {
+            "any": {
+              "url": "https://github.com/jdbranham/grafana-diagram/releases/download/v1.7.3/jdbranham-diagram-panel-1.7.3.zip",
+              "md5": "4884311f5b58f029c30fd9529c936f7a"
             }
           }
         }
@@ -3021,6 +3043,16 @@
               "md5": "c078be8a503f81237c83b93299773c9d"
             }
           }
+        },
+        {
+          "version": "2.0.0",
+          "url": "https://github.com/fr-ser/grafana-sqlite-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v2.0.0/frser-sqlite-datasource-2.0.0.zip",
+              "md5": "e7ea9f43d8ba3400e194338c540ec4b1"
+            }
+          }
         }
       ]
     },
@@ -4389,6 +4421,16 @@
             "any": {
               "url": "https://github.com/doitintl/bigquery-grafana/releases/download/2.0.1/doitintl-bigquery-datasource-2.0.1.zip",
               "md5": "55c3c09bb929cd41d0a43d6d5d8f2d37"
+            }
+          }
+        },
+        {
+          "version": "2.0.2",
+          "url": "https://github.com/doitintl/bigquery-grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/doitintl/bigquery-grafana/releases/download/2.0.2/doitintl-bigquery-datasource-2.0.2.zip",
+              "md5": "a7c1ee373582e2264004408d0de17a4b"
             }
           }
         }
@@ -6595,6 +6637,24 @@
             "any": {
               "url": "https://github.com/VolkovLabs/grafana-image-panel/releases/download/v1.0.1/volkovlabs-image-panel-1.0.1.zip",
               "md5": "c9770dbc434bf4cc1e7d2134dfc99b1a"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "teamviewer-datasource",
+      "type": "datasource",
+      "url": "https://github.com/teamviewer/grafana-teamviewer-datasource",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "commit": "baa247b65a1ef87486dc9c5dd5d8ac81d8ea679e",
+          "url": "https://github.com/teamviewer/grafana-teamviewer-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/teamviewer/grafana-teamviewer-datasource/releases/download/v1.0.1/teamviewer-datasource-1.0.1.zip",
+              "md5": "d253acb797fa35ca4a0763d70621af37"
             }
           }
         }
