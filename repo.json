@@ -6617,7 +6617,13 @@
       "versions": [
         {
           "version": "1.0.0",
-          "url": "https://github.com/IntegrationMatters/im-comparison-panel"
+          "url": "https://github.com/IntegrationMatters/im-comparison-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/IntegrationMatters/im-comparison-panel/raw/master/im-comparison-panel.zip",
+              "md5": "d26767b93e0940250e24b1055d028ed8"
+            }
+          }
         }
       ]
     },
