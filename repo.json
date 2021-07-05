@@ -141,6 +141,17 @@
               "md5": "52f4d2f2a49451cc02832c35521ce2ef"
             }
           }
+        },
+        {
+          "version": "0.1.5",
+          "commit": "38430fdd74ee541b35113531f5b646b2bbeaaa7a",
+          "url": "https://github.com/faxm0dem/grafana-riemann-websocket-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/faxm0dem/grafana-riemann-websocket-datasource/releases/download/v0.1.5/ccin2p3-riemann-datasource-0.1.5.zip",
+              "md5": "48e77ba849658460a7be2782fb1039df"
+            }
+          }
         }
       ]
     },
