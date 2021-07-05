@@ -6425,6 +6425,16 @@
               "md5": "f5add742c5f760b7e5ed767479e7f7c6"
             }
           }
+        },
+        {
+          "version": "1.0.2",
+          "url": "https://github.com/anodot/grafana-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.2.zip",
+              "md5": "576309b243ad4c1a884f1f33f87c7930"
+            }
+          }
         }
       ]
     },
