@@ -4472,7 +4472,6 @@
           "download": {
             "any": {
               "url": "https://github.com/doitintl/bigquery-grafana/releases/download/2.0.2/doitintl-bigquery-datasource-2.0.2.zip",
-
               "md5": "a7c1ee373582e2264004408d0de17a4b"
             }
           }
@@ -6729,8 +6728,8 @@
       ]
     },
  {
-      "id": "sebastiangunreben-cdf-plugin",
-      "type": "app",
+      "id": "sebastiangunreben-cdf-panel",
+      "type": "panel",
       "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
       "versions": [
         {
