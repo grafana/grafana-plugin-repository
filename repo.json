@@ -6738,6 +6738,23 @@
         }
       ]
     },
+ {
+      "id": "sebastiangunreben-cdf-panel",
+      "type": "panel",
+      "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
+      "versions": [
+        {
+          "version": "0.2.0",
+          "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/tag/v0.2.0",
+          "download": {
+            "any": {
+              "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/download/v0.2.0/sebastiangunreben-cdf-panel-0.2.0.zip",
+              "md5": "c42fcf2b9f8f1590c30a875c504e3420"
+            }
+          }
+        }
+        ]
+},
     {
       "id": "teamviewer-datasource",
       "type": "datasource",
