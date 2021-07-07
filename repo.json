@@ -6642,6 +6642,17 @@
               "md5": "511422fc8d50e06c1308dae99d065802"
             }
           }
+        },
+        {
+          "version": "2.0.0",
+          "commit": "a8bc61f858fc8f1617d0eac70339906792a45124",
+          "url": "https://github.com/RedisGrafana/grafana-redis-explorer",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-explorer/releases/download/v2.0.0/redis-explorer-app-2.0.0.zip",
+              "md5": "2a760946a6fc6be59f4f312c8a4bba31"
+            }
+          }
         }
       ]
     },
