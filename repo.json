@@ -6823,6 +6823,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "grafadruid-druid-datasource",
+      "type": "datasource",
+      "url": "https://github.com/grafadruid/druid-grafana",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "commit": "de548433038f9f819782bb629830d528f3f8d5dc",
+          "url": "https://github.com/grafadruid/druid-grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/grafadruid/druid-grafana/releases/download/v1.2.0/grafadruid-druid-datasource-1.2.0.zip",
+              "md5": "ee7baf7c61c64ebeccc785faa7d5ec6f"
+            }
+          }
+        }
+      ]
     }    
   ]
 }
