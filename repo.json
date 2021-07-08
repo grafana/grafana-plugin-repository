@@ -5879,6 +5879,17 @@
           "version": "2.2.0",
           "commit": "408f6a5ab93bebf41d42ccec3e83f68714d2986b",
           "url": "https://github.com/Dalvany/dalvany-image-panel"
+        },
+        {
+          "version": "2.3.0",
+          "commit": "6abaf62c9f2fdd5b551a4490e64ae563f4626aa6",
+          "url": "https://github.com/Dalvany/dalvany-image-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/Dalvany/dalvany-image-panel/releases/download/v2.3.0/dalvany-image-panel-2.3.0.zip",
+              "md5": "6b8e5fdb43639c9e4193214f4dffa356"
+            }
+          }
         }
       ]
     },
@@ -6210,6 +6221,17 @@
             "any": {
               "url": "https://github.com/RedisGrafana/grafana-redis-app/releases/download/v2.0.0/redis-app-2.0.0.zip",
               "md5": "ce3cf2b50a8a9b673bbd4823183e1683"
+            }
+          }
+        },
+        {
+          "version": "2.0.1",
+          "commit": "3cafb6de92978a8a76570e7aaec4f6a388c7c33e",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-app/releases/download/v2.0.1/redis-app-2.0.1.zip",
+              "md5": "1f15042fd1ee52b9ac3b63eb91de90cb"
             }
           }
         }
@@ -6624,6 +6646,17 @@
               "md5": "511422fc8d50e06c1308dae99d065802"
             }
           }
+        },
+        {
+          "version": "2.0.0",
+          "commit": "a8bc61f858fc8f1617d0eac70339906792a45124",
+          "url": "https://github.com/RedisGrafana/grafana-redis-explorer",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-explorer/releases/download/v2.0.0/redis-explorer-app-2.0.0.zip",
+              "md5": "2a760946a6fc6be59f4f312c8a4bba31"
+            }
+          }
         }
       ]
     },
@@ -6738,6 +6771,23 @@
         }
       ]
     },
+ {
+      "id": "sebastiangunreben-cdf-panel",
+      "type": "panel",
+      "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
+      "versions": [
+        {
+          "version": "0.2.0",
+          "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/tag/v0.2.0",
+          "download": {
+            "any": {
+              "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/download/v0.2.0/sebastiangunreben-cdf-panel-0.2.0.zip",
+              "md5": "c42fcf2b9f8f1590c30a875c504e3420"
+            }
+          }
+        }
+        ]
+},
     {
       "id": "teamviewer-datasource",
       "type": "datasource",
@@ -6766,6 +6816,24 @@
           }
         }
       ]
-    }
+    },
+    {
+      "id": "innius-grpc-datasource",
+      "type": "datasource",
+      "url": "https://github.com/innius/grafana-simple-grpc-datasource",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "commit": "8de81e04eb27c2460e2c3337b0ad56d52252690d",
+          "url": "https://github.com/innius/grafana-simple-grpc-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/innius/grafana-simple-grpc-datasource/releases/download/v1.0.2/innius-grpc-datasource-1.0.2.zip",
+              "md5": "1fdfb86c320b1abdb261d1d5389aa158"
+            }
+          }
+        }
+      ]
+    }    
   ]
 }
