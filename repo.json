@@ -6130,23 +6130,13 @@
       "url": "https://github.com/innius/grafana-video-panel",
       "versions": [
         {
-          "version": "1.0.0",
-          "commit": "d4ce56ea56677143be1a6626068982766489e8d4",
-          "url": "https://github.com/innius/grafana-video-panel"
-        },
-        {
-          "version": "1.0.1",
-          "commit": "87879b0db01d13d6be6b637ad6d0e0a47f15bbb4",
-          "url": "https://github.com/innius/grafana-video-panel"
-        },
-        {
-          "version": "1.0.2",
-          "commit": "138a87f0a7f5ebe74a3b1ca7977e8cc8fea734d4",
+          "version": "1.0.3",
+          "commit": "ef13257e7ba86a733a3c54fae024aaa38ad8a2e7",
           "url": "https://github.com/innius/grafana-video-panel",
           "download": {
             "any": {
-              "url": "https://github.com/innius/grafana-video-panel/releases/download/v1.0.2/innius-video-panel-v1.0.2.zip",
-              "md5": "170370fa4b67051505072d571b26361c"
+              "url": "https://github.com/innius/grafana-video-panel/releases/download/v1.0.3/innius-video-panel-1.0.3.zip",
+              "md5": "4089e0f516349ea18b1bb9757b183278"
             }
           }
         }
