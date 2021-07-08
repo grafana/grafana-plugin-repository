@@ -6823,6 +6823,24 @@
           }
         }
       ]
-    }
+    },
+    {
+      "id": "innius-grpc-datasource",
+      "type": "datasource",
+      "url": "https://github.com/innius/grafana-simple-grpc-datasource",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "commit": "8de81e04eb27c2460e2c3337b0ad56d52252690d",
+          "url": "https://github.com/innius/grafana-simple-grpc-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/innius/grafana-simple-grpc-datasource/releases/download/v1.0.2/innius-grpc-datasource-1.0.2.zip",
+              "md5": "1fdfb86c320b1abdb261d1d5389aa158"
+            }
+          }
+        }
+      ]
+    }    
   ]
 }
