@@ -6616,12 +6616,12 @@
       "url": "https://github.com/IntegrationMatters/im-comparison-panel",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.1.0",
           "url": "https://github.com/IntegrationMatters/im-comparison-panel",
           "download": {
             "any": {
               "url": "https://github.com/IntegrationMatters/im-comparison-panel/raw/master/im-comparison-panel.zip",
-              "md5": "d26767b93e0940250e24b1055d028ed8"
+              "md5": "536e556f56f25d72940c40d682d9a00f"
             }
           }
         }
