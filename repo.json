@@ -6849,12 +6849,12 @@
       "versions": [
         {
           "version": "1.2.0",
-          "commit": "de548433038f9f819782bb629830d528f3f8d5dc",
+          "commit": "2e92d79d453efeb6080da15e33b86aae76723968",
           "url": "https://github.com/grafadruid/druid-grafana",
           "download": {
             "any": {
               "url": "https://github.com/grafadruid/druid-grafana/releases/download/v1.2.0/grafadruid-druid-datasource-1.2.0.zip",
-              "md5": "ee7baf7c61c64ebeccc785faa7d5ec6f"
+              "md5": "2a7f35dae47f6d7a9c4f7a6fb1fc96c8"
             }
           }
         }
