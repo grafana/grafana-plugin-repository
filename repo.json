@@ -6597,16 +6597,16 @@
       "url": "https://github.com/performancecopilot/grafana-pcp",
       "versions": [
         {
-          "version": "3.0.3",
-          "commit": "9c4d1339e9efee6491d418913094bbb7b45eadd5",
+          "version": "3.1.0",
+          "commit": "ed42761b5305d1c1c65d95cfc67d80a99fbde9d4",
           "url": "https://github.com/performancecopilot/grafana-pcp",
           "download": {
             "any": {
-              "url": "https://github.com/performancecopilot/grafana-pcp/releases/download/v3.0.3/performancecopilot-pcp-app-3.0.3.zip",
-              "md5": "a103e0031fe02f5845a2ebc51aa083e3"
-	    }
-	  }
-	}
+              "url": "https://github.com/performancecopilot/grafana-pcp/releases/download/v3.1.0/performancecopilot-pcp-app-3.1.0.zip",
+              "md5": "d28483dee7b6408a37492955ad6785bf"
+            }
+          }
+        }
       ]
     },
     {
