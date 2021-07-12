@@ -6149,6 +6149,17 @@
               "md5": "b74ecafa04f2a1bdb89f1100ceb06031"
             }
           }
+        },
+        {
+          "version": "1.0.5",
+          "commit": "ef02b4568b3279ca8f205555ed15cb2251b4bf0c",
+          "url": "https://github.com/innius/grafana-video-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/innius/grafana-video-panel/releases/download/v1.0.5/innius-video-panel-1.0.5.zip",
+              "md5": "54a9d833b6a63e2a0d330f02faa2753c"
+            }
+          }
         }
       ]
     },
