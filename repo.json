@@ -6091,6 +6091,17 @@
           "version": "2.0.1",
           "commit": "99241edd3a8f9fd83f11464b5cd0e7724e57eb95",
           "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons"
+        },
+        {
+          "version": "4.1.1",
+          "commit": "e2ca5465efc7d7e5823b70b64225ac256ce6b743",
+          "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons",
+          "download": {
+            "any": {
+              "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons/releases/download/v4.1.1/williamvenner-timepickerbuttons-panel-4.1.1.zip",
+              "md5": "9d15e2c6d651a57cd3f98ecab229823e"
+            }
+          }
         }
       ]
     },
