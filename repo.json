@@ -83,6 +83,16 @@
               "md5": "406f39bfab69e5d7eaff0260ab6f6fb4"
             }
           }
+        },
+        {
+          "version": "2.2.1",
+          "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app/releases/download/2.2.1/tencentcloud-monitor-app-2.2.1.zip",
+              "md5": "869e0f59b98eadca3ad76ed69377865a"
+            }
+          }
         }
       ]
     },
@@ -6793,7 +6803,7 @@
         }
       ]
     },
- {
+    {
       "id": "sebastiangunreben-cdf-panel",
       "type": "panel",
       "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
@@ -6808,8 +6818,8 @@
             }
           }
         }
-        ]
-},
+      ]
+    },
     {
       "id": "teamviewer-datasource",
       "type": "datasource",
@@ -6874,6 +6884,6 @@
           }
         }
       ]
-    }    
+    }
   ]
 }
