@@ -141,6 +141,17 @@
               "md5": "52f4d2f2a49451cc02832c35521ce2ef"
             }
           }
+        },
+        {
+          "version": "0.1.5",
+          "commit": "38430fdd74ee541b35113531f5b646b2bbeaaa7a",
+          "url": "https://github.com/faxm0dem/grafana-riemann-websocket-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/faxm0dem/grafana-riemann-websocket-datasource/releases/download/v0.1.5/ccin2p3-riemann-datasource-0.1.5.zip",
+              "md5": "48e77ba849658460a7be2782fb1039df"
+            }
+          }
         }
       ]
     },
@@ -176,6 +187,17 @@
           "version": "0.0.8",
           "commit": "690d4ffe0753125b64e52a5f5a88f11bf37ca33f",
           "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react"
+        },
+        {
+          "version": "0.0.10",
+          "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
+          "commit": "13a99ae0e7b0199d131d47e48f77799e4d6bd6a8",
+          "download": {
+            "any": {
+              "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react/releases/download/v0.0.10-alpha/Plugin.zip",
+              "md5": "46f14170a4b1972156a6cd064ccd464b"
+            }
+          }
         }
       ]
     },
@@ -3884,6 +3906,16 @@
               "md5": "e22513271e3c031d44ad5870491261fd"
             }
           }
+        },
+        {
+          "version": "2.0.4",
+          "url": "https://github.com/LucasArona/larona-epict-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/LucasArona/larona-epict-panel/releases/download/2.0.4/larona-epict-panel-2.0.4.zip",
+              "md5": "72a90d3128abafc054ce14f3cbb6d869"
+            }
+          }
         }
       ]
     },
@@ -4262,6 +4294,17 @@
               "md5": "b80d59a6f50916c2e586bff57ce98395"
             }
           }
+        },
+        {
+          "version": "1.0.4",
+          "commit": "6ffa4d5215ccef77ad97e551d75eeb62bc189a80",
+          "url": "https://github.com/pierosavi/pierosavi-imageit-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/pierosavi/pierosavi-imageit-panel/releases/download/v1.0.4/pierosavi-imageit-panel-1.0.4.zip",
+              "md5": "df2a07fe5be8b602dcd67c1078dc3721"
+            }
+          }
         }
       ]
     },
@@ -4429,7 +4472,7 @@
           "download": {
             "any": {
               "url": "https://github.com/doitintl/bigquery-grafana/releases/download/2.0.2/doitintl-bigquery-datasource-2.0.2.zip",
-              "md5": "ff967b1ba0bdc7a31d9153da7eddd243"
+              "md5": "a7c1ee373582e2264004408d0de17a4b"
             }
           }
         }
@@ -5005,6 +5048,17 @@
           "version": "0.2.2",
           "commit": "1b334b8b0bd3b07909623dbdbdf560d969be0328",
           "url": "https://github.com/thiagoarrais/grafana-matomo-tracking-panel"
+        },
+        {
+          "version": "0.2.3",
+          "commit": "2fc7824192673e57d4e13e7b9cff57fab2490c33",
+          "url": "https://github.com/thiagoarrais/grafana-matomo-tracking-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/thiagoarrais/grafana-matomo-tracking-panel/releases/download/v0.2.3/thiagoarrais-matomotracking-panel-0.2.3.zip",
+              "md5": "bb6cf41db03a6ab7e4f36aa237a2ddb5"
+            }
+          }
         }
       ]
     },
@@ -5836,6 +5890,17 @@
           "version": "2.2.0",
           "commit": "408f6a5ab93bebf41d42ccec3e83f68714d2986b",
           "url": "https://github.com/Dalvany/dalvany-image-panel"
+        },
+        {
+          "version": "2.3.0",
+          "commit": "6abaf62c9f2fdd5b551a4490e64ae563f4626aa6",
+          "url": "https://github.com/Dalvany/dalvany-image-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/Dalvany/dalvany-image-panel/releases/download/v2.3.0/dalvany-image-panel-2.3.0.zip",
+              "md5": "6b8e5fdb43639c9e4193214f4dffa356"
+            }
+          }
         }
       ]
     },
@@ -5923,6 +5988,17 @@
             "any": {
               "url": "https://github.com/RedisGrafana/grafana-redis-datasource/releases/download/v1.4.0/redis-datasource-1.4.0.zip",
               "md5": "ac25cebeea24806123adea98fdf64892"
+            }
+          }
+        },
+        {
+          "version": "1.5.0",
+          "commit": "772f0c714de229535d1111cc11e64de3bc070d9f",
+          "url": "https://github.com/RedisGrafana/grafana-redis-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-datasource/releases/download/v1.5.0/redis-datasource-1.5.0.zip",
+              "md5": "264f5f776d5f0cf50ea1417ffe4b1bc6"
             }
           }
         }
@@ -6026,6 +6102,17 @@
           "version": "2.0.1",
           "commit": "99241edd3a8f9fd83f11464b5cd0e7724e57eb95",
           "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons"
+        },
+        {
+          "version": "4.1.1",
+          "commit": "e2ca5465efc7d7e5823b70b64225ac256ce6b743",
+          "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons",
+          "download": {
+            "any": {
+              "url": "https://github.com/WilliamVenner/grafana-timepicker-buttons/releases/download/v4.1.1/williamvenner-timepickerbuttons-panel-4.1.1.zip",
+              "md5": "9d15e2c6d651a57cd3f98ecab229823e"
+            }
+          }
         }
       ]
     },
@@ -6073,6 +6160,17 @@
           "version": "1.0.1",
           "commit": "87879b0db01d13d6be6b637ad6d0e0a47f15bbb4",
           "url": "https://github.com/innius/grafana-video-panel"
+        },
+        {
+          "version": "1.0.4",
+          "commit": "8480ad2c613f8d9988b903c7695bb4fc131d736d",
+          "url": "https://github.com/innius/grafana-video-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/innius/grafana-video-panel/releases/download/v1.0.4/innius-video-panel-1.0.4.zip",
+              "md5": "b74ecafa04f2a1bdb89f1100ceb06031"
+            }
+          }
         }
       ]
     },
@@ -6134,6 +6232,28 @@
             "any": {
               "url": "https://github.com/RedisGrafana/grafana-redis-app/releases/download/v1.2.0/redis-app-1.2.0.zip",
               "md5": "b9ef34794a5e38af5b0c40c60811e2a1"
+            }
+          }
+        },
+        {
+          "version": "2.0.0",
+          "commit": "3b944105fc03e3c9b8c37072dffb7605c2edd210",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-app/releases/download/v2.0.0/redis-app-2.0.0.zip",
+              "md5": "ce3cf2b50a8a9b673bbd4823183e1683"
+            }
+          }
+        },
+        {
+          "version": "2.0.1",
+          "commit": "3cafb6de92978a8a76570e7aaec4f6a388c7c33e",
+          "url": "https://github.com/RedisGrafana/grafana-redis-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-app/releases/download/v2.0.1/redis-app-2.0.1.zip",
+              "md5": "1f15042fd1ee52b9ac3b63eb91de90cb"
             }
           }
         }
@@ -6414,6 +6534,16 @@
               "md5": "f5add742c5f760b7e5ed767479e7f7c6"
             }
           }
+        },
+        {
+          "version": "1.0.2",
+          "url": "https://github.com/anodot/grafana-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.2.zip",
+              "md5": "576309b243ad4c1a884f1f33f87c7930"
+            }
+          }
         }
       ]
     },
@@ -6538,6 +6668,17 @@
               "md5": "511422fc8d50e06c1308dae99d065802"
             }
           }
+        },
+        {
+          "version": "2.0.0",
+          "commit": "a8bc61f858fc8f1617d0eac70339906792a45124",
+          "url": "https://github.com/RedisGrafana/grafana-redis-explorer",
+          "download": {
+            "any": {
+              "url": "https://github.com/RedisGrafana/grafana-redis-explorer/releases/download/v2.0.0/redis-explorer-app-2.0.0.zip",
+              "md5": "2a760946a6fc6be59f4f312c8a4bba31"
+            }
+          }
         }
       ]
     },
@@ -6638,9 +6779,37 @@
               "md5": "c9770dbc434bf4cc1e7d2134dfc99b1a"
             }
           }
+        },
+        {
+          "version": "2.0.0",
+          "commit": "694523b8fbda3500e3110bb37bbfef6bd0a693b5",
+          "url": "https://github.com/VolkovLabs/grafana-image-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/VolkovLabs/grafana-image-panel/releases/download/v2.0.0/volkovlabs-image-panel-2.0.0.zip",
+              "md5": "25fa95780b68370aefa5fe2c4612ffcb"
+            }
+          }
         }
       ]
     },
+ {
+      "id": "sebastiangunreben-cdf-panel",
+      "type": "panel",
+      "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
+      "versions": [
+        {
+          "version": "0.2.0",
+          "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/tag/v0.2.0",
+          "download": {
+            "any": {
+              "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/download/v0.2.0/sebastiangunreben-cdf-panel-0.2.0.zip",
+              "md5": "c42fcf2b9f8f1590c30a875c504e3420"
+            }
+          }
+        }
+        ]
+},
     {
       "id": "teamviewer-datasource",
       "type": "datasource",
@@ -6656,8 +6825,55 @@
               "md5": "d253acb797fa35ca4a0763d70621af37"
             }
           }
+        },
+        {
+          "version": "1.0.2",
+          "commit": "69dda723c27840b2c06eb911844d052710a68a09",
+          "url": "https://github.com/teamviewer/grafana-teamviewer-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/teamviewer/grafana-teamviewer-datasource/releases/download/v1.0.2/teamviewer-datasource-1.0.2.zip",
+              "md5": "dc3e553254924bb675336e1fe7a99fc2"
+            }
+          }
         }
       ]
-    }
+    },
+    {
+      "id": "innius-grpc-datasource",
+      "type": "datasource",
+      "url": "https://github.com/innius/grafana-simple-grpc-datasource",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "commit": "8de81e04eb27c2460e2c3337b0ad56d52252690d",
+          "url": "https://github.com/innius/grafana-simple-grpc-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/innius/grafana-simple-grpc-datasource/releases/download/v1.0.2/innius-grpc-datasource-1.0.2.zip",
+              "md5": "1fdfb86c320b1abdb261d1d5389aa158"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "grafadruid-druid-datasource",
+      "type": "datasource",
+      "url": "https://github.com/grafadruid/druid-grafana",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "commit": "2e92d79d453efeb6080da15e33b86aae76723968",
+          "url": "https://github.com/grafadruid/druid-grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/grafadruid/druid-grafana/releases/download/v1.2.0/grafadruid-druid-datasource-1.2.0.zip",
+              "md5": "2a7f35dae47f6d7a9c4f7a6fb1fc96c8"
+            }
+          }
+        }
+      ]
+    }    
   ]
 }
