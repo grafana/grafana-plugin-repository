@@ -6599,6 +6599,23 @@
           }
         }
       ]
+    },
+    {
+      "id": "integrationmatters-donut-panel",
+      "type": "panel",
+      "url": "https://github.com/IntegrationMatters/integrationmatters-donut-panel",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/IntegrationMatters/integrationmatters-donut-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/IntegrationMatters/integrationmatters-donut-panel/raw/master/integrationmatters-donut-panel.zip",
+              "md5": "98a43fddf4de81112fd2eedf9d756cbc"
+            }
+          }
+        }
+      ]
     }
   ]
 }
