@@ -6848,6 +6848,23 @@
       ]
     },
     {
+      "id": "integrationmatters-history-panel",
+      "type": "panel",
+      "url": "https://github.com/IntegrationMatters/integrationmatters-history-panel",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "url": "https://github.com/IntegrationMatters/integrationmatters-history-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/IntegrationMatters/integrationmatters-history-panel/raw/master/integrationmatters-history-panel.zip",
+              "md5": "3828fa0b375f1173e4d125d4b48020f6"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "teamviewer-datasource",
       "type": "datasource",
       "url": "https://github.com/teamviewer/grafana-teamviewer-datasource",
