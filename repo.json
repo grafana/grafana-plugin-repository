@@ -6821,6 +6821,23 @@
         ]
 },
     {
+      "id": "integrationmatters-comparison-panel",
+      "type": "panel",
+      "url": "https://github.com/IntegrationMatters/integrationmatters-comparison-panel",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "url": "https://github.com/IntegrationMatters/integrationmatters-comparison-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/IntegrationMatters/integrationmatters-comparison-panel/raw/master/integrationmatters-comparison-panel.zip",
+              "md5": "dd8ec70190d057cb6f654329c7a0566f"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "teamviewer-datasource",
       "type": "datasource",
       "url": "https://github.com/teamviewer/grafana-teamviewer-datasource",
