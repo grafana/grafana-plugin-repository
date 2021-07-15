@@ -157,8 +157,6 @@
         }
       ]
     },
-    { FOR VERTICA
-    },
     {
       "id": "aceiot-svg-panel",
       "type": "panel",
@@ -689,6 +687,18 @@
           "version": "0.0.1",
           "commit": "0edb6374cc3ab128b6b9994a9f76a8c32109fd95",
           "url": "https://github.com/srotya/sidewinder-grafana/"
+        }
+      ]
+    },
+    { 
+      "id": "vertica-grafana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/vertica/vertica-grafana-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "dc4606169d1e1fb48a2d1559e82d7a776692ad6e",
+          "url": "https://github.com/vertica/vertica-grafana-datasource"
         }
       ]
     },
