@@ -83,6 +83,16 @@
               "md5": "406f39bfab69e5d7eaff0260ab6f6fb4"
             }
           }
+        },
+        {
+          "version": "2.2.1",
+          "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app/releases/download/2.2.1/tencentcloud-monitor-app-2.2.1.zip",
+              "md5": "869e0f59b98eadca3ad76ed69377865a"
+            }
+          }
         }
       ]
     },
@@ -6630,6 +6640,17 @@
               "md5": "0d3d44a83b69e78d6d2ca7925df6f8f3"
             }
           }
+        },
+        {
+          "version": "1.0.8",
+          "commit": "7c3d05ba4e17b5bcfec78d34ab50a27a32017b7c",
+          "url": "https://github.com/rajsameer/vertica-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/rajsameer/vertica-datasource/releases/download/v1.0.8/rajsameer-vertica-datasource-1.0.8.zip",
+              "md5": "a0a3b7234575f53d62a3be033daf032b"
+            }
+          }
         }
       ]
     },
@@ -6763,6 +6784,17 @@
               "md5": "f986fbfc5189602b844b4fffc79272b4"
             }
           }
+        },
+        {
+          "version": "1.0.1",
+          "commit": "274de3b2faaaedc0098eb6fd782c5dce5bc6cc12",
+          "url": "https://github.com/pyroscope-io/grafana-panel-plugin",
+          "download": {
+            "any": {
+              "url": "https://github.com/pyroscope-io/grafana-panel-plugin/releases/download/v1.0.1/pyroscope-panel-1.0.1.zip",
+              "md5": "cb4ed6d9f99c47c7761de8c872bb113a"
+            }
+          }
         }
       ]
     },
@@ -6813,7 +6845,7 @@
         }
       ]
     },
- {
+    {
       "id": "sebastiangunreben-cdf-panel",
       "type": "panel",
       "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
@@ -6828,8 +6860,25 @@
             }
           }
         }
-        ]
-},
+      ]
+    },
+    {
+      "id": "integrationmatters-comparison-panel",
+      "type": "panel",
+      "url": "https://github.com/IntegrationMatters/integrationmatters-comparison-panel",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "url": "https://github.com/IntegrationMatters/integrationmatters-comparison-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/IntegrationMatters/integrationmatters-comparison-panel/raw/master/integrationmatters-comparison-panel.zip",
+              "md5": "dd8ec70190d057cb6f654329c7a0566f"
+            }
+          }
+        }
+      ]
+    },
     {
       "id": "teamviewer-datasource",
       "type": "datasource",
