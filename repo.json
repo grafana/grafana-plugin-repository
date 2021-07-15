@@ -6564,6 +6564,16 @@
               "md5": "576309b243ad4c1a884f1f33f87c7930"
             }
           }
+        },
+        {
+          "version": "1.0.3",
+          "url": "https://github.com/anodot/grafana-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.3.zip",
+              "md5": "739af5648b3892b36fc26d2ffb979a59"
+            }
+          }
         }
       ]
     },
@@ -6603,12 +6613,12 @@
           }
         },
         {
-          "version": "1.0.3",
+          "version": "2.0.1",
           "url": "https://github.com/anodot/grafana-datasource",
           "download": {
             "any": {
-              "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-1.0.3.zip",
-              "md5": "c07a9af580f5fcafa2da44735dbe36b0"
+              "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-2.0.1.zip",
+              "md5": "a305419758191f09ddcf025643122287"
             }
           }
         }
