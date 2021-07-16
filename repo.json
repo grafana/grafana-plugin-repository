@@ -6933,6 +6933,24 @@
           }
         }
       ]
-    }
+    },
+    {
+      "id": "denniskniep-neo4j-datasource",
+      "type": "datasource",
+      "url": "https://github.com/denniskniep/grafana-datasource-plugin-neo4j",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "d402a4fe36b9dc33aecacfa8bbbbbcbb9ba60be1",
+          "url": "https://github.com/denniskniep/grafana-datasource-plugin-neo4j",
+          "download": {
+            "any": {
+              "url": "https://github.com/denniskniep/grafana-datasource-plugin-neo4j/releases/download/v1.0.0/denniskniep-neo4j-datasource-1.0.0.zip",
+              "md5": "f7ea4439ce5ecde38dc3e7acf177c222"
+            }
+          }
+        }
+      ]
+    }    
   ]
 }
