@@ -6935,7 +6935,7 @@
       ]
     },
     {
-      "id": "valiton-mongodb-atlas-datasource",
+      "id": "valiton-mongodbatlas-datasource",
       "type": "datasource",
       "url": "https://github.com/valiton/grafana-mongodb-atlas-datasource",
       "versions": [
