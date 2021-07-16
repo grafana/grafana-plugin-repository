@@ -6933,6 +6933,23 @@
           }
         }
       ]
+    },
+    {
+      "id": "valiton-mongodb-atlas-datasource",
+      "type": "datasource",
+      "url": "https://github.com/valiton/grafana-mongodb-atlas-datasource",
+      "versions": [
+        {
+          "version": "3.0.0",
+          "url": "https://github.com/valiton/grafana-mongodb-atlas-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/valiton/grafana-mongodb-atlas-datasource/releases/download/v3.0.0/valiton-mongodb-atlas-datasource.zip",
+              "md5": "a3c3d78371ddcd55ea303803e06f1437"
+            }
+          }
+        }
+      ]
     }
   ]
 }
