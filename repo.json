@@ -6870,6 +6870,23 @@
       ]
     },
     {
+      "id": "integrationmatters-spot-panel",
+      "type": "panel",
+      "url": "https://github.com/IntegrationMatters/integrationmatters-spot-panel",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "url": "https://github.com/IntegrationMatters/integrationmatters-spot-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/IntegrationMatters/integrationmatters-spot-panel/raw/master/integrationmatters-spot-panel.zip",
+              "md5": "655f200aeb4d4cc5dc685f4ba1202252"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "teamviewer-datasource",
       "type": "datasource",
       "url": "https://github.com/teamviewer/grafana-teamviewer-datasource",
