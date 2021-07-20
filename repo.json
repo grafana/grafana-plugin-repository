@@ -6870,6 +6870,23 @@
       ]
     },
     {
+      "id": "integrationmatters-ratio-panel",
+      "type": "panel",
+      "url": "https://github.com/IntegrationMatters/integrationmatters-ratio-panel",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "url": "https://github.com/IntegrationMatters/integrationmatters-ratio-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/IntegrationMatters/integrationmatters-ratio-panel/raw/master/integrationmatters-ratio-panel.zip",
+              "md5": "026c0d39addb382dc34cf1b4eaf7932d"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "teamviewer-datasource",
       "type": "datasource",
       "url": "https://github.com/teamviewer/grafana-teamviewer-datasource",
