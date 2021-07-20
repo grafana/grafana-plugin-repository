@@ -5140,13 +5140,18 @@
       "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
       "versions": [
         {
+          "version": "0.1.2",
+          "commit": "d3c31654725fad4efdee98dee5825093763e43a0",
+          "url": "https://github.com/chaos-mesh/chaos-mesh-datasource"
+        },
+        {
           "version": "0.2.2",
           "commit": "a9b355d2c1c3188f7a5e177478cba02adef345fc",
           "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
           "download": {
             "any": {
               "url": "https://github.com/chaos-mesh/chaos-mesh-datasource/releases/download/v0.2.2/yeya24-chaosmesh-datasource-0.2.2.zip",
-              "md5": "38baa3beb252421034bcf111abb4eaff"
+              "md5": "bbb9916adbb4006c15fe911aff161863"
             }
           }
         }
