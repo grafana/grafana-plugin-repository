@@ -6939,6 +6939,23 @@
           }
         }
       ]
+    },
+    {
+      "id": "mtanda-aws-athena-datasource",
+      "type": "datasource",
+      "url": "https://github.com/mtanda/grafana-aws-athena-datasource",
+      "versions": [
+        {
+          "version": "2.2.7",
+          "url": "https://github.com/mtanda/grafana-aws-athena-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/mtanda/grafana-aws-athena-datasource/releases/download/2.2.7/grafana-aws-athena-datasource-2.2.7.zip",
+              "md5": "503e7e995aa512e0206e1496ef2d23f3"
+            }
+          }
+        }
+      ]
     }
   ]
 }
