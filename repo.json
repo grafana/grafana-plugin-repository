@@ -6950,7 +6950,7 @@
           "url": "https://github.com/pixie-labs/grafana-plugin",
           "download": {
             "any": {
-              "url": "https://github.com/pixie-labs/grafana-plugin/releases/download/untagged-5076e6c8808ec901844f/pixie-pixie-datasource-0.0.1.zip",
+              "url": "https://github.com/pixie-labs/grafana-plugin/releases/download/v0.0.1/pixie-pixie-datasource-0.0.1.zip",
               "md5": "d4226fea6257812b0a445854d4107ee0"
             }
           }
