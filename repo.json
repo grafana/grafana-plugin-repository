@@ -6985,7 +6985,7 @@
           "url": "https://github.com/netsage-project/netsage-sankey-panel",
           "download": {
             "any": {
-              "url": "https://github.com/netsage-project/netsage-sankey-panel/releases/download/untagged-a665dbbdec7a00947666/netsage-sankey-panel-0.0.1.zip",
+              "url": "https://github.com/netsage-project/netsage-sankey-panel/releases/download/v0.0.1/netsage-sankey-panel-0.0.1.zip",
               "md5": "6a0742881b8673c81b3c9201757069ff"
             }
           }
