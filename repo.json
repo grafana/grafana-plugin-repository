@@ -702,7 +702,7 @@
           "download": {
             "any": {
               "url": "https://github.com/vertica/vertica-grafana-datasource/releases/download/v2.0.0/vertica-grafana-datasource-2.0.0.zip",
-              "md5": "eff440f17920fc644b5be90e73670b49"
+              "md5": "fc59acf699889be484b56d37ca269f00"
             }
           }
         },
