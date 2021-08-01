@@ -7004,12 +7004,7 @@
 					"version": "1.0.0",
 					"commit": "7f0f0243cdfe0cb50ac27a6f040f4c51c367ca98",
 					"url": "https://github.com/Broadcom/broadcomcdd-datasource",
-					"download": {
-						"any": {
-							"url": "",
-							"md5": ""
-						}
-					}
+
 				}
 			]
 		}
