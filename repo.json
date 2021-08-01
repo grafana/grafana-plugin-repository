@@ -6998,7 +6998,7 @@
     {
 			"id": "broadcomcdd-datasource",
 			"type": "datasource",
-			"url": "https://github.com/Broadcom/broadcomcdd-datasource",	
+			"url": "https://github.com/broadcom/broadcomcdd-datasource",	
 			"versions": [
 				{
 					"version": "1.0.0",
