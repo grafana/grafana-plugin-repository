@@ -6577,7 +6577,7 @@
           "download": {
             "any": {
               "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.3.zip",
-              "md5": "9b46af0a810957ab6a07c65c2ceaccc7"
+              "md5": "a33026be36030601250bebc9fd1e3235"
             }
           }
         }
@@ -6625,6 +6625,16 @@
             "any": {
               "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-2.0.1.zip",
               "md5": "d211c754009a1d1095bbfc2e55dd5026"
+            }
+          }
+        },
+        {
+          "version": "2.0.2",
+          "url": "https://github.com/anodot/grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-2.0.2.zip",
+              "md5": "31a249626d7765bcf108f6ce54065531"
             }
           }
         }
