@@ -6549,6 +6549,17 @@
               "md5": "c1064d6b2463bbff2588c2d9d51a32ba"
             }
           }
+        },
+        {
+          "version": "1.0.1",
+          "commit": "7f88e6f6d3542d75050927b680f3fd1b8579f598",
+          "url": "https://github.com/thalysantana/grafana-appcenter-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/thalysantana/grafana-appcenter-datasource/releases/download/v1.0.1/thalysantana-appcenter-datasource-1.0.1.zip",
+              "md5": "c7746091534bd1a96010db867c962942"
+            }
+          }
         }
       ]
     },
