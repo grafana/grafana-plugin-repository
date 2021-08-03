@@ -7059,6 +7059,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "netsage-slopegraph-panel",
+      "type": "panel",
+      "url": "https://github.com/netsage-project/netsage-slopegraph-panel/",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "003896aeb17cf2e10db85af6f3b5362c592c579c",
+          "url": "https://github.com/netsage-project/netsage-slopegraph-panel/",
+          "download": {
+            "any": {
+              "url": "https://github.com/netsage-project/netsage-slopegraph-panel/releases/download/v1.0.0/netsage-slopegraph-panel-1.0.0.zip",
+              "md5": "32fae827ca68631195eca1c63d69193c"
+            }
+          }
+        }
+      ]
     }
   ]
 }
