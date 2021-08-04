@@ -7059,6 +7059,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "itrs-hub-datasource",
+      "type": "datasource",
+      "url": "https://github.com/ITRS-Group/grafana-geneos-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "77f4c091e337eeb82fa15c3085910591d67a5e92",
+          "url": "https://github.com/ITRS-Group/grafana-geneos-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/ITRS-Group/grafana-geneos-datasource/releases/download/v1.0.0/itrs-hub-datasource-1.0.0.zip",
+              "md5": "29517809dd1cc64e1caac2dda22854c2"
+            }
+          }
+        }
+      ]
     }
   ]
 }
