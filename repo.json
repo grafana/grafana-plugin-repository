@@ -7077,6 +7077,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "kentik-connect-app",
+      "type": "app",
+      "url": "https://github.com/kentik/kentik-grafana-app",
+      "versions": [
+        {
+          "version": "1.5.0",
+          "commit": "80700653974ad9186eb4372fbc6cbd6f8d7feaae",
+          "url": "https://github.com/kentik/kentik-grafana-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/kentik/kentik-grafana-app/releases/download/v1.5.0/kentik-connect-app-1.5.0.zip",
+              "md5": "9054b0b2476476f7f99363b4690a2df8"
+            }
+          }
+        }
+      ]
     }
   ]
 }
