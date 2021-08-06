@@ -7077,6 +7077,23 @@
           }
         }
       ]
-    }
+    },
+    {
+      "id": "dineshms-tablearrays-panel",
+      "type": "panel",
+      "url": "https://github.com/vmware-labs/panel-plug-ins-for-grafana",
+      "versions": [
+        { 
+          "version": "1.0.0",
+          "url": "https://github.com/vmware-labs/panel-plug-ins-for-grafana",
+          "download": {
+            "any": {
+              "url": "https://github.com/vmware-labs/panel-plug-ins-for-grafana/blob/main/downloads/v1.0.0/dineshms-tablearrays-panel.zip",
+              "md5": "1df4e536865d9c57e1c4e745ee84e867"
+           }
+         }
+       }
+     ]
+   }
   ]
 }
