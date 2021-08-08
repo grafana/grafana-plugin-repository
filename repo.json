@@ -733,6 +733,29 @@
       ]
     },
     {
+      "id": "vertica-grafana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/vertica/vertica-grafana-datasource",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "commit": "2dbe2a332b26fe97b08b0173cd8fd69c564c305c",
+          "url": "https://github.com/vertica/vertica-grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/vertica/vertica-grafana-datasource/releases/download/v2.0.0/vertica-grafana-datasource-2.0.0.zip",
+              "md5": "fc59acf699889be484b56d37ca269f00"
+            }
+          }
+        },
+        {
+          "version": "1.0.0",
+          "commit": "dc4606169d1e1fb48a2d1559e82d7a776692ad6e",
+          "url": "https://github.com/vertica/vertica-grafana-datasource"
+        }
+      ]
+    },
+    {
       "id": "grafana-kairosdb-datasource",
       "type": "datasource",
       "url": "https://github.com/grafana/kairosdb-datasource",
@@ -6160,6 +6183,17 @@
       "url": "https://github.com/flaminggoat/map-track-3-d",
       "versions": [
         {
+          "version": "0.1.9",
+          "commit": "05188cf25518863cd2e4475d49c3a32ec947e40e",
+          "url": "https://github.com/flaminggoat/map-track-3-d",
+          "download": {
+            "any": {
+              "url": "https://github.com/flaminggoat/map-track-3-d/releases/download/v0.1.9/flaminggoat-maptrack3d-panel-0.1.9.zip",
+              "md5": "8ede19b69a39cffadb025ebab5cea0e9"
+            }
+          }
+        },
+        {
           "version": "0.1.8",
           "commit": "53c6efb110970ec59e0883978ad95f96a3f46fd1",
           "url": "https://github.com/flaminggoat/map-track-3-d",
@@ -6515,6 +6549,17 @@
               "md5": "c1064d6b2463bbff2588c2d9d51a32ba"
             }
           }
+        },
+        {
+          "version": "1.0.1",
+          "commit": "7f88e6f6d3542d75050927b680f3fd1b8579f598",
+          "url": "https://github.com/thalysantana/grafana-appcenter-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/thalysantana/grafana-appcenter-datasource/releases/download/v1.0.1/thalysantana-appcenter-datasource-1.0.1.zip",
+              "md5": "c7746091534bd1a96010db867c962942"
+            }
+          }
         }
       ]
     },
@@ -6577,7 +6622,17 @@
           "download": {
             "any": {
               "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.3.zip",
-              "md5": "8760d2ee5799618cf9951f2941e0d751"
+              "md5": "a33026be36030601250bebc9fd1e3235"
+            }
+          }
+        },
+        {
+          "version": "1.0.4",
+          "url": "https://github.com/anodot/grafana-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.4.zip",
+              "md5": "cf469e7c7e31e4d502baabece19ec947"
             }
           }
         }
@@ -6624,7 +6679,17 @@
           "download": {
             "any": {
               "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-2.0.1.zip",
-              "md5": "b9fd8f837ac01f46906fcbb2e41801c1"
+              "md5": "d211c754009a1d1095bbfc2e55dd5026"
+            }
+          }
+        },
+        {
+          "version": "2.0.2",
+          "url": "https://github.com/anodot/grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-datasource/raw/main/anodot-datasource-2.0.2.zip",
+              "md5": "31a249626d7765bcf108f6ce54065531"
             }
           }
         }
@@ -6996,16 +7061,34 @@
       ]
     },
     {
-			"id": "broadcomcdd-datasource",
-			"type": "datasource",
-			"url": "https://github.com/broadcom/broadcomcdd-datasource",	
-			"versions": [
-				{
-					"version": "1.0.0",
-					"commit": "d147de676f82be65206251c38cf24618a429f653",
-					"url": "https://github.com/Broadcom/broadcomcdd-datasource"
-				}
-			]
-		}
-  ] 
+      "id": "itrs-hub-datasource",
+      "type": "datasource",
+      "url": "https://github.com/ITRS-Group/grafana-geneos-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "77f4c091e337eeb82fa15c3085910591d67a5e92",
+          "url": "https://github.com/ITRS-Group/grafana-geneos-datasource",
+          "download": {
+            "any": {
+              "url": "https://storage.googleapis.com/plugins-community/itrs-hub-datasource/release/1.0.0/itrs-hub-datasource-1.0.0.zip",
+              "md5": "29517809dd1cc64e1caac2dda22854c2"
+            }
+          }
+        }
+      ]
+    },
+  {
+    "id": "broadcomcdd-datasource",
+    "type": "datasource",
+    "url": "https://github.com/broadcom/broadcomcdd-datasource",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "commit": "d147de676f82be65206251c38cf24618a429f653",
+        "url": "https://github.com/Broadcom/broadcomcdd-datasource"
+      }
+    ]
+  }
+  ]
 }
