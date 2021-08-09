@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "oci-metrics-datasource",
+      "type": "datasource",
+      "url": "https://github.com/oracle/oci-grafana-metrics",
+      "versions": [
+        {
+          "version": "2.2.4",
+          "commit": "bd541204bd558fc0f514124c2115dee266e42377",
+          "url": "https://github.com/oracle/oci-grafana-metrics",
+          "download": {
+            "any": {
+              "url": "https://github.com/oracle/oci-grafana-metrics/releases/download/v2.2.4/oci-metrics-datasource-2.2.4.zip",
+              "md5": "d37c3d03656f84cb67537cf2f36f5912"
+            }
+          }
+        }]
+      },
+    {
       "id": "streamr-datasource",
       "type": "datasource",
       "url": "https://github.com/sergejmueller/streamr-datasource",
@@ -4971,18 +4988,6 @@
               "md5": "b6621a4fa9890f1382cb5d112ba40450"
             }
           }
-        }
-      ]
-    },
-    {
-      "id": "oci-datasource",
-      "type": "app",
-      "url": "https://github.com/oracle/oci-grafana-plugin",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "commit": "785b1cc0a2109f626bd66d7a3bcc453a0d975118",
-          "url": "https://github.com/oracle/oci-grafana-plugin"
         }
       ]
     },
