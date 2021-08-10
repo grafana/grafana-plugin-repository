@@ -3349,12 +3349,12 @@
         },
         {
           "version": "3.3.1",
-          "commit": "d3647bb4ade4c0617b480164aeb60c95ff9052af",
+          "commit": "fe467abbb6f77e95cba09ebf843ac516ee75dd85",
           "url": "https://github.com/instana/instana-grafana-datasource",
           "download": {
             "any": {
               "url": "https://github.com/instana/instana-grafana-datasource/releases/download/v3.3.1/instana-datasource-3.3.1.zip",
-              "md5": "2b0581be973eb2c30d669490d4503340"
+              "md5": "d12748315b5384a1c10c3126e72c55ff"
             }
           }
         }
