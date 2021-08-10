@@ -336,6 +336,17 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "4.2.0",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+          "commit": "33899b11715791886cb231318406f06c0376de0b",
+          "download": {
+            "any": {
+              "url": "https://github.com/alexanderzobnin/grafana-zabbix/releases/download/v4.2.0/alexanderzobnin-zabbix-app-4.2.0.zip",
+              "md5": "ca7141e72e5b44b4274b263133437737"
+            }
+          }
+        },
+        {
           "version": "4.1.5",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix",
           "commit": "54d46f81bb635d45fb182bc751ea994e7ea85cee",
@@ -732,7 +743,7 @@
         }
       ]
     },
-    { 
+    {
       "id": "vertica-grafana-datasource",
       "type": "datasource",
       "url": "https://github.com/vertica/vertica-grafana-datasource",
