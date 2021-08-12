@@ -7099,6 +7099,24 @@
           }
         }
       ]
+    },
+    {
+      "id": "eatong-grafana-biz",
+      "type": "panel",
+      "url": "https://github.com/eaTong/eatong-grafana-biz",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "77f4c091e337eeb82fa15c3085910591d67a5e92",
+          "url": "https://github.com/ITRS-Group/grafana-geneos-datasource",
+          "download": {
+            "any": {
+              "url": "https://beta.yunzhizhuang.com/static/eatong-grafana-biz/dist.zip",
+              "md5": "c00109c5e26ca363cbac75acce8c90a7"
+            }
+          }
+        }
+      ]
     }
   ]
 }
