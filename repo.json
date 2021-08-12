@@ -6981,12 +6981,12 @@
       "url": "https://github.com/netsage-project/netsage-sankey-panel",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.0.1",
           "url": "https://github.com/netsage-project/netsage-sankey-panel",
           "download": {
             "any": {
-              "url": "https://github.com/netsage-project/netsage-sankey-panel/releases/download/v1.0.0/netsage-sankey-panel-1.0.0.zip",
-              "md5": "6f2b363f6ebffc5aadd7105056550317"
+              "url": "https://github.com/netsage-project/netsage-sankey-panel/releases/download/v1.0.1/netsage-sankey-panel-1.0.1.zip",
+              "md5": "352bb4640d329b3b36708ae53b293493"
             }
           }
         }
