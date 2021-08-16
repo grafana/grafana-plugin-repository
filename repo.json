@@ -336,6 +336,28 @@
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
         {
+          "version": "4.2.1",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+          "commit": "95afc7460d112ea2467cf67866a3ae6e519972dc",
+          "download": {
+            "any": {
+              "url": "https://github.com/alexanderzobnin/grafana-zabbix/releases/download/v4.2.1/alexanderzobnin-zabbix-app-4.2.1.zip",
+              "md5": "ac687a9830b38cb63387cf48c7d8c5e4"
+            }
+          }
+        },
+        {
+          "version": "4.2.0",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+          "commit": "33899b11715791886cb231318406f06c0376de0b",
+          "download": {
+            "any": {
+              "url": "https://github.com/alexanderzobnin/grafana-zabbix/releases/download/v4.2.0/alexanderzobnin-zabbix-app-4.2.0.zip",
+              "md5": "ca7141e72e5b44b4274b263133437737"
+            }
+          }
+        },
+        {
           "version": "4.1.5",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix",
           "commit": "54d46f81bb635d45fb182bc751ea994e7ea85cee",
@@ -4336,6 +4358,17 @@
             "any": {
               "url": "https://github.com/pierosavi/pierosavi-imageit-panel/releases/download/v1.0.4/pierosavi-imageit-panel-1.0.4.zip",
               "md5": "df2a07fe5be8b602dcd67c1078dc3721"
+            }
+          }
+        },
+        {
+          "version": "1.0.5",
+          "commit": "00326cd6d23f29249485c5b41442e0380f75e1ab",
+          "url": "https://github.com/pierosavi/pierosavi-imageit-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/pierosavi/pierosavi-imageit-panel/releases/download/v1.0.5/pierosavi-imageit-panel-1.0.5.zip",
+              "md5": "7c7acf5f929d97c296075c624df5083e"
             }
           }
         }
