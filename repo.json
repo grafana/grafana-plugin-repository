@@ -225,6 +225,17 @@
               "md5": "46f14170a4b1972156a6cd064ccd464b"
             }
           }
+        },
+        {
+          "version": "0.0.11",
+          "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
+          "commit": "6d77f92c102d3a5e0fadaa2f17c98fb23e4a6ca4",
+          "download": {
+            "any": {
+              "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react/releases/download/v0.0.11-alpha/Plugin.zip",
+              "md5": "daa101a5f3dda00233ce8bd5d65eeb44"
+            }
+          }
         }
       ]
     },
