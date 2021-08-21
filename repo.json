@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "oci-metrics-datasource",
+      "type": "datasource",
+      "url": "https://github.com/oracle/oci-grafana-metrics",
+      "versions": [
+        {
+          "version": "2.2.4",
+          "commit": "bd541204bd558fc0f514124c2115dee266e42377",
+          "url": "https://github.com/oracle/oci-grafana-metrics",
+          "download": {
+            "any": {
+              "url": "https://github.com/oracle/oci-grafana-metrics/releases/download/v2.2.4/oci-metrics-datasource-2.2.4.zip",
+              "md5": "d37c3d03656f84cb67537cf2f36f5912"
+            }
+          }
+        }]
+      },
+    {
       "id": "streamr-datasource",
       "type": "datasource",
       "url": "https://github.com/sergejmueller/streamr-datasource",
@@ -335,6 +352,28 @@
       "type": "app",
       "url": "https://github.com/alexanderzobnin/grafana-zabbix",
       "versions": [
+        {
+          "version": "4.2.1",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+          "commit": "95afc7460d112ea2467cf67866a3ae6e519972dc",
+          "download": {
+            "any": {
+              "url": "https://github.com/alexanderzobnin/grafana-zabbix/releases/download/v4.2.1/alexanderzobnin-zabbix-app-4.2.1.zip",
+              "md5": "ac687a9830b38cb63387cf48c7d8c5e4"
+            }
+          }
+        },
+        {
+          "version": "4.2.0",
+          "url": "https://github.com/alexanderzobnin/grafana-zabbix",
+          "commit": "33899b11715791886cb231318406f06c0376de0b",
+          "download": {
+            "any": {
+              "url": "https://github.com/alexanderzobnin/grafana-zabbix/releases/download/v4.2.0/alexanderzobnin-zabbix-app-4.2.0.zip",
+              "md5": "ca7141e72e5b44b4274b263133437737"
+            }
+          }
+        },
         {
           "version": "4.1.5",
           "url": "https://github.com/alexanderzobnin/grafana-zabbix",
@@ -729,6 +768,29 @@
           "version": "0.0.1",
           "commit": "0edb6374cc3ab128b6b9994a9f76a8c32109fd95",
           "url": "https://github.com/srotya/sidewinder-grafana/"
+        }
+      ]
+    },
+    {
+      "id": "vertica-grafana-datasource",
+      "type": "datasource",
+      "url": "https://github.com/vertica/vertica-grafana-datasource",
+      "versions": [
+        {
+          "version": "2.0.0",
+          "commit": "2dbe2a332b26fe97b08b0173cd8fd69c564c305c",
+          "url": "https://github.com/vertica/vertica-grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/vertica/vertica-grafana-datasource/releases/download/v2.0.0/vertica-grafana-datasource-2.0.0.zip",
+              "md5": "fc59acf699889be484b56d37ca269f00"
+            }
+          }
+        },
+        {
+          "version": "1.0.0",
+          "commit": "dc4606169d1e1fb48a2d1559e82d7a776692ad6e",
+          "url": "https://github.com/vertica/vertica-grafana-datasource"
         }
       ]
     },
@@ -3346,6 +3408,17 @@
               "md5": "4ac7c80f149f0a492657f4aa8d7a2130"
             }
           }
+        },
+        {
+          "version": "3.3.1",
+          "commit": "fe467abbb6f77e95cba09ebf843ac516ee75dd85",
+          "url": "https://github.com/instana/instana-grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/instana/instana-grafana-datasource/releases/download/v3.3.1/instana-datasource-3.3.1.zip",
+              "md5": "d12748315b5384a1c10c3126e72c55ff"
+            }
+          }
         }
       ]
     },
@@ -4315,6 +4388,17 @@
               "md5": "df2a07fe5be8b602dcd67c1078dc3721"
             }
           }
+        },
+        {
+          "version": "1.0.5",
+          "commit": "00326cd6d23f29249485c5b41442e0380f75e1ab",
+          "url": "https://github.com/pierosavi/pierosavi-imageit-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/pierosavi/pierosavi-imageit-panel/releases/download/v1.0.5/pierosavi-imageit-panel-1.0.5.zip",
+              "md5": "7c7acf5f929d97c296075c624df5083e"
+            }
+          }
         }
       ]
     },
@@ -4948,18 +5032,6 @@
               "md5": "b6621a4fa9890f1382cb5d112ba40450"
             }
           }
-        }
-      ]
-    },
-    {
-      "id": "oci-datasource",
-      "type": "app",
-      "url": "https://github.com/oracle/oci-grafana-plugin",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "commit": "785b1cc0a2109f626bd66d7a3bcc453a0d975118",
-          "url": "https://github.com/oracle/oci-grafana-plugin"
         }
       ]
     },
@@ -6160,6 +6232,17 @@
       "url": "https://github.com/flaminggoat/map-track-3-d",
       "versions": [
         {
+          "version": "0.1.9",
+          "commit": "05188cf25518863cd2e4475d49c3a32ec947e40e",
+          "url": "https://github.com/flaminggoat/map-track-3-d",
+          "download": {
+            "any": {
+              "url": "https://github.com/flaminggoat/map-track-3-d/releases/download/v0.1.9/flaminggoat-maptrack3d-panel-0.1.9.zip",
+              "md5": "8ede19b69a39cffadb025ebab5cea0e9"
+            }
+          }
+        },
+        {
           "version": "0.1.8",
           "commit": "53c6efb110970ec59e0883978ad95f96a3f46fd1",
           "url": "https://github.com/flaminggoat/map-track-3-d",
@@ -6513,6 +6596,17 @@
             "any": {
               "url": "https://github.com/thalysantana/grafana-appcenter-datasource/releases/download/v1.0.0/thalysantana-appcenter-datasource-1.0.0.zip",
               "md5": "c1064d6b2463bbff2588c2d9d51a32ba"
+            }
+          }
+        },
+        {
+          "version": "1.0.1",
+          "commit": "7f88e6f6d3542d75050927b680f3fd1b8579f598",
+          "url": "https://github.com/thalysantana/grafana-appcenter-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/thalysantana/grafana-appcenter-datasource/releases/download/v1.0.1/thalysantana-appcenter-datasource-1.0.1.zip",
+              "md5": "c7746091534bd1a96010db867c962942"
             }
           }
         }
@@ -7010,6 +7104,24 @@
             "any": {
               "url": "https://github.com/lightstep/lightstep-metrics-datasource/releases/download/v1.0.0/lightstep-metrics-datasource-1.0.0.zip",
               "md5": "5d31d0ba8225037f374da8af9bc8133d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "itrs-hub-datasource",
+      "type": "datasource",
+      "url": "https://github.com/ITRS-Group/grafana-geneos-datasource",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "commit": "77f4c091e337eeb82fa15c3085910591d67a5e92",
+          "url": "https://github.com/ITRS-Group/grafana-geneos-datasource",
+          "download": {
+            "any": {
+              "url": "https://storage.googleapis.com/plugins-community/itrs-hub-datasource/release/1.0.0/itrs-hub-datasource-1.0.0.zip",
+              "md5": "29517809dd1cc64e1caac2dda22854c2"
             }
           }
         }
