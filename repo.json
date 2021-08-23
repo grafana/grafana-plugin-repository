@@ -7135,7 +7135,13 @@
       {
         "version": "1.0.0",
         "commit": "d147de676f82be65206251c38cf24618a429f653",
-        "url": "https://github.com/Broadcom/broadcomcdd-datasource"
+        "url": "https://github.com/Broadcom/broadcomcdd-datasource",
+        "download": {
+          "any": {
+            "url": "https://github.com/Broadcom/broadcomcdd-datasource/archive/refs/tags/0.1.zip",
+            "md5": "e563d15d7d9f1d45e2851c6233ecef1e"
+          }
+        }
       }
     ]
   }
