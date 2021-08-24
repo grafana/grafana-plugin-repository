@@ -7133,13 +7133,13 @@
       "url": "https://github.com/iLert/grafana-ilert",
       "versions": [
         {
-          "version": "1.0.6",
-          "commit": "89ee347064999ef6dd0e07c445937caa8e4a8151",
+          "version": "1.0.9",
+          "commit": "df72696e29cd868812e8799382a4070882896cb8",
           "url": "https://github.com/iLert/grafana-ilert",
           "download": {
             "any": {
-              "url": "https://github.com/iLert/grafana-ilert/releases/download/v1.0.6/ilert-grafana-datasource-1.0.6.zip",
-              "md5": "62b1ee11791d7dd18bb2701199b7057f"
+              "url": "https://github.com/iLert/grafana-ilert/releases/download/v1.0.9/ilert-grafana-datasource-1.0.9.zip",
+              "md5": "fc7513ca83a9888cfe58f97e0282e3a5"
             }
           }
         }
