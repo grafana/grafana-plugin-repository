@@ -4,7 +4,7 @@ We created this repository in 2016 to accept plugin submissions from the Grafana
 
 We're excited to announce that you can now [submit your plugin](#submit-your-plugin) and [maintain your plugin](#maintain-your-plugin) directly from your Grafana Cloud account!
 
-This also means that we're starting the process of deprecating this repository. Here's how it'll affect you:
+This also means that we're starting the process of deprecating this repository. Here's how it affects you:
 
 - If your pull request has been triaged by us already and is waiting for review, you don't need to do anything. We'll continue to review the remaining plugin submissions in the pipeline.
 - If you'd like, you can migrate your current plugin submission by submitting it through the new submission flow. Let us know that you'd like to use the new flow by updating your pull request. Please keep the pull request open to keep your position in the review queue.
