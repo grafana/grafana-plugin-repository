@@ -18,7 +18,7 @@ Before you submit your plugin, we ask that you read our [guidelines](#guidelines
 
 <img width="808" alt="Screenshot 2021-08-25 at 12 31 32@2x" src="https://user-images.githubusercontent.com/8396880/130775117-b7839641-b418-4ae8-8a25-16f7a4929599.png">
 
-1. [Log in](https://grafana.com/auth/sign-in) to your Grafana Cloud account.
+1. [Sign in](https://grafana.com/auth/sign-in) to your Grafana Cloud account.
 1. In the left menu, click **My Plugins** under **Org settings**.
 1. Click **Submit Plugin**.
 1. Enter the information requested by the form.
