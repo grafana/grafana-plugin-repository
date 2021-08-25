@@ -14,7 +14,7 @@ If you have any questions, [create a new issue](https://github.com/grafana/grafa
 
 ## Submit your plugin
 
-Before you submit your plugin, we ask that you read our [Guidelines](#guidelines) and [Frequently Asked Questions](#faq).
+Before you submit your plugin, we ask that you read our [guidelines](#guidelines) and [frequently asked questions](#faq).
 
 <img width="808" alt="Screenshot 2021-08-25 at 12 31 32@2x" src="https://user-images.githubusercontent.com/8396880/130775117-b7839641-b418-4ae8-8a25-16f7a4929599.png">
 
