@@ -1,78 +1,57 @@
-# Grafana Plugin Repository
+# Community plugins
 
-This repository lists all officially supported Grafana plugins. Plugins in this repository are listed on [Grafana.com](https://grafana.com/grafana/plugins), and can be [installed](https://grafana.com/docs/grafana/latest/plugins/installation/) locally using [Grafana CLI](https://grafana.com/docs/grafana/latest/administration/cli/#plugins-commands) or by [Grafana Cloud](https://grafana.com/products/cloud/) users.
+We created this repository in 2016 to accept plugin submissions from the Grafana community. 5 years and more than 150 published plugins later, it's clear that community plugins have been instrumental in the success of Grafana. We'd like to make the process of submitting plugins even easier.
 
-We review all plugins before they are published. This means that it may take some time before we can review your plugin.
+We're excited to announce that you can now [submit your plugin](#submit-your-plugin) and [maintain your plugin](#maintain-your-plugin) directly from your Grafana Cloud account!
 
-Here's a few things you can do to help us review your plugin faster.
+This also means that we're starting the process of deprecating this repository. Here's how it'll affect you:
 
-- Validate your plugin release with [this plugin validator](http://plugin-validator.grafana.net)
-- Use the [GitHub workflows](https://github.com/grafana/plugin-workflows) to automate your plugin release
-- Read the [Review Guidelines](http://docs.grafana.org/plugins/developing/plugin-review-guidelines/) before submitting your plugin. These guidelines determine if the plugin is ready to be published or not.
-- If possible, for datasource plugins please provide a description on how to set up a simple test environment. A docker container or simple install script helps speed up the review process a lot.
+- If your pull request has been triaged by us already and is waiting for review, you don't need to do anything. We'll continue to review the remaining plugin submissions in the pipeline.
+- If you'd like, you can migrate your current plugin submission by submitting it through the new submission flow. Let us know that you'd like to use the new flow by updating your pull request. Please keep the pull request open to keep your position in the review queue.
+- If you're submitting a new plugin or an update to an existing plugin, please use the new submission flow. We won't accept any new plugin submissions on this repository.
 
-To submit a plugin for review:
+If you have any questions, [create a new issue](https://github.com/grafana/grafana-plugin-repository/issues/new), or send an email to  `plugin-reviews@grafana.com`.
 
-1. Fork this repository
-1. Add your plugin to `repo.json`
-1. Create a pull request
+## Submit your plugin
 
-> **Note:** Commercial plugins require a plugin subscription to be published. Commercial plugin subscriptions help us fund continued development of our open source platform and software. See the [terms](https://grafana.com/terms) for more details.
+Before you submit your plugin, we ask that you read our [Guidelines](#guidelines) and [Frequently Asked Questions](#faq).
 
-## Add a plugin to `repo.json`
+1. [Log in](https://grafana.com/auth/sign-in) to your Grafana Cloud account.
+1. In the left menu, click **My Plugins** under **Org settings**.
+1. Click **Submit Plugin**.
+1. Enter the information requested by the form.
+	- **OS & Architecture:** 
+		- Select **Single** if your plugin archive contains binaries for multiple architectures.
+		- Select **Multiple** if you'd like to submit separate plugin archives for each architecture. This can lead to faster downloads since users can select the specific architecture they want to install the plugin on.
+	- **URL:** A URL that points to a ZIP archive of your packaged plugin.
+	- **MD5:** The MD5 hash of the plugin specified by the **URL**.
+	- The remaining questions help us determine the [signature level](https://grafana.com/docs/grafana/latest/plugins/plugin-signatures/#plugin-signature-levels) for your plugin.
+1. Click **Submit**.
 
-To publish a plugin, add a new entry to the `plugins` array in [repo.json](repo.json).
+<img width="808" alt="Screenshot 2021-08-25 at 12 31 32@2x" src="https://user-images.githubusercontent.com/8396880/130775117-b7839641-b418-4ae8-8a25-16f7a4929599.png">
 
-Here's an example of a plugin release:
+## Maintain your plugin
 
-```json
-{
-  "id": "briangann-gauge-panel",
-  "type": "panel",
-  "url": "https://github.com/briangann/grafana-gauge-panel",
-  "versions": [
-    {
-      "version": "0.0.8",
-      "url": "https://github.com/briangann/grafana-gauge-panel",
-      "download": {
-        "any": {
-          "url": "https://github.com/briangann/grafana-gauge-panel/releases/download/v0.0.8/briangann-gauge-panel-0.0.8.zip",
-          "md5": "782c973460f330287b7efca5486aa015"
-        }
-      }
-    }
-  ]
-}
-```
+To submit an update for an already published plugin:
 
-### Plugin Release Schema
+1. [Log in](https://grafana.com/auth/sign-in) to your Grafana Cloud account.
+1. In the left menu, click **My Plugins** under **Org settings**.
+1. Click **Submit Update** for the plugin you want to update.
+1. Enter the information requested by the form.
+	- **OS & Architecture:** 
+		- Select **Single** if your plugin archive contains binaries for multiple architectures.
+		- Select **Multiple** if you'd like to submit separate plugin archives for each architecture. This can lead to faster downloads since users can select the specific architecture they want to install the plugin on.
+	- **URL:** A URL that points to a ZIP archive of your packaged plugin.
+	- **MD5:** The MD5 hash of the plugin specified by the **URL**.
+1. Click **Submit**.
 
-| Property   | Description                                              |
-|------------|----------------------------------------------------------|
-| `id`       | Plugin ID. Needs to match the plugin ID in `plugin.json` |
-| `type`     | Plugin type, e.g. `panel`, `datasource`, or `app`        |
-| `url`      | URL to the plugin's GitHub project page                  |
-| `versions` | List of all published versions of the plugin             |
+## Guidelines
 
-### Plugin Version Schema
+To speed up the time it takes to review your plugin:
 
-| Property   | Description                                                 |
-|------------|-------------------------------------------------------------|
-| `version`  | Plugin version. Needs to match the version in `plugin.json` |
-| `url`      | URL to the plugin's GitHub project page                     |
-| `download` | Download information.                                       |
+- Check that your plugin is ready for review using the [plugin validator](https://plugin-validator.grafana.net).
+- Read our [6 tips for improving your Grafana plugin before you publish](https://grafana.com/blog/2021/01/21/6-tips-for-improving-your-grafana-plugin-before-you-publish/)
 
-### Plugin Download Schema
+## FAQ
 
-| Property   | Description                                                      |
-|------------|------------------------------------------------------------------|
-| `url`      | URL to a ZIP archive containing a production build of the plugin |
-| `md5`      | MD5 check sum of the ZIP archive                                 |
-
-## Resources
-
-- [Plugin Development](https://grafana.com/docs/grafana/latest/developers/plugins/)
-- [Sign a plugin](https://grafana.com/docs/grafana/latest/developers/plugins/sign-a-plugin)
-- [Package a plugin](https://grafana.com/docs/grafana/latest/developers/plugins/package-a-plugin)
-- [plugin.json Schema](https://grafana.com/docs/grafana/latest/developers/plugins/metadata/)
-- [6 tips for improving your Grafana plugin before you publish](https://grafana.com/blog/2021/01/21/6-tips-for-improving-your-grafana-plugin-before-you-publish/)
+- **Do I need to submit a private plugin?:** No. Please only submit plugins that you wish to make publicly available for the Grafana community.
