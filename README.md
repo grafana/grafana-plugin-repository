@@ -30,7 +30,7 @@ Before you submit your plugin, we ask that you read our [guidelines](#guidelines
 	- The remaining questions help us determine the [signature level](https://grafana.com/docs/grafana/latest/plugins/plugin-signatures/#plugin-signature-levels) for your plugin.
 1. Click **Submit**.
 
-After you have submitted your plugin, we run an automated validation of your plugin to make sure it adheres to our guidelines. Once your submission passes the validation, it's placed in a review queue. 
+After you have submitted your plugin, we run an automated validation to make sure it adheres to our guidelines. Once your submission passes the validation, it's placed in a review queue. 
 
 All submissions are manually inspected by a plugin reviewer. For every new plugin, we perform a manual review that includes the following checks:
 
