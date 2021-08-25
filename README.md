@@ -24,7 +24,7 @@ Before you submit your plugin, we ask that you read our [guidelines](#guidelines
 1. Enter the information requested by the form.
 	- **OS & Architecture:** 
 		- Select **Single** if your plugin archive contains binaries for multiple architectures.
-		- Select **Multiple** if you'd like to submit separate plugin archives for each architecture. This can lead to faster downloads since users can select the specific architecture they want to install the plugin on.
+		- Select **Multiple** if you'd like to submit separate plugin archives for each architecture. This can lead to faster downloads since users can select the specific architecture on which they want to install the plugin.
 	- **URL:** A URL that points to a ZIP archive of your packaged plugin.
 	- **MD5:** The MD5 hash of the plugin specified by the **URL**.
 	- The remaining questions help us determine the [signature level](https://grafana.com/docs/grafana/latest/plugins/plugin-signatures/#plugin-signature-levels) for your plugin.
