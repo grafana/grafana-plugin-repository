@@ -16,6 +16,8 @@ If you have any questions, [create a new issue](https://github.com/grafana/grafa
 
 Before you submit your plugin, we ask that you read our [Guidelines](#guidelines) and [Frequently Asked Questions](#faq).
 
+<img width="808" alt="Screenshot 2021-08-25 at 12 31 32@2x" src="https://user-images.githubusercontent.com/8396880/130775117-b7839641-b418-4ae8-8a25-16f7a4929599.png">
+
 1. [Log in](https://grafana.com/auth/sign-in) to your Grafana Cloud account.
 1. In the left menu, click **My Plugins** under **Org settings**.
 1. Click **Submit Plugin**.
@@ -28,7 +30,12 @@ Before you submit your plugin, we ask that you read our [Guidelines](#guidelines
 	- The remaining questions help us determine the [signature level](https://grafana.com/docs/grafana/latest/plugins/plugin-signatures/#plugin-signature-levels) for your plugin.
 1. Click **Submit**.
 
-<img width="808" alt="Screenshot 2021-08-25 at 12 31 32@2x" src="https://user-images.githubusercontent.com/8396880/130775117-b7839641-b418-4ae8-8a25-16f7a4929599.png">
+After you have submitted your plugin, we run an automated validation of your plugin to make sure it adheres to our guidelines. Once your submission passes the validation, it's placed in a review queue. 
+
+All submissions are manually inspected by a plugin reviewer. For every new plugin, we perform a manual review that includes the following checks:
+
+- **Code review:** For quality and security purposes, we review the source code for the plugin. If you're unable to make the source code publicly available, let us know in a comment on your plugin submission.
+- **Tests:** We install your plugin on one of our Grafana instances to test it for basic use. For more advanced plugins, we may ask you to assist us in configuring a test environment for the plugin. This test environment will be used whenever you submit an plugin update.
 
 ## Maintain your plugin
 
@@ -55,3 +62,4 @@ To speed up the time it takes to review your plugin:
 ## FAQ
 
 - **Do I need to submit a private plugin?:** No. Please only submit plugins that you wish to make publicly available for the Grafana community.
+- **How long does it take to review my submission?:** We're constantly working on improving the time it takes to review a plugin. While we can't guarantee how long it'll take to review your submission, many plugins are reviewed within a few weeks from when they are submitted.
