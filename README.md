@@ -1,6 +1,6 @@
 # Community plugins
 
-We created this repository in 2016 to accept plugin submissions from the Grafana community. 5 years and more than 150 published plugins later, it's clear that community plugins have been instrumental in the success of Grafana. We'd like to make the process of submitting plugins even easier.
+We originally created this repository years ago to accept plugin submissions from the Grafana community. With more than 150 plugins now published, it has become obvious that the community plugins are instrumental in Grafana's success. Due to this, we've make the process of submitting plugins easier.
 
 We're excited to announce that you can now [submit your plugin](#submit-your-plugin) and [maintain your plugin](#maintain-your-plugin) directly from your Grafana Cloud account!
 
