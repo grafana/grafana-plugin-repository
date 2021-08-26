@@ -2,7 +2,7 @@
 
 We originally created this repository years ago to accept plugin submissions from the Grafana community. With more than 150 plugins now published, it has become obvious that the community plugins are instrumental in Grafana's success. Due to this, we've make the process of submitting plugins easier.
 
-We're excited to announce that you can now [submit your plugin](#submit-your-plugin) and [maintain your plugin](#maintain-your-plugin) directly from your Grafana Cloud account!
+You can now [submit](#submit-your-plugin) and [maintain your plugin](#maintain-your-plugin) directly from your Grafana Cloud account!
 
 This also means that we're starting the process of deprecating this repository. Here's how it affects you:
 
