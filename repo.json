@@ -15,8 +15,9 @@
               "md5": "d37c3d03656f84cb67537cf2f36f5912"
             }
           }
-        }]
-      },
+        }
+      ]
+    },
     {
       "id": "streamr-datasource",
       "type": "datasource",
@@ -108,6 +109,16 @@
             "any": {
               "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app/releases/download/2.2.1/tencentcloud-monitor-app-2.2.1.zip",
               "md5": "869e0f59b98eadca3ad76ed69377865a"
+            }
+          }
+        },
+        {
+          "version": "2.2.2",
+          "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app",
+          "download": {
+            "any": {
+              "url": "https://github.com/TencentCloud/tencentcloud-monitor-grafana-app/releases/download/2.2.2/tencentcloud-monitor-app-2.2.2.zip",
+              "md5": "148e2e72b59a0377bf62d3cd8584c6d2"
             }
           }
         }
