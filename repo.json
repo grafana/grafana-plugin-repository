@@ -132,6 +132,16 @@
               "md5": "9f77075a3c3905a7bd4dfdb8721dabfd"
             }
           }
+        },
+        {
+          "version": "4.0.3",
+          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
+          "download": { 
+            "any": {
+              "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel/releases/download/v4.0.3/novatec-sdg-panel.zip",
+              "md5": "054e0f2d1087b2253624d137656ca029"
+            }
+          }
         }
       ]
     },
