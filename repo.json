@@ -99,47 +99,12 @@
       "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
       "versions": [
         {
-          "version": "2.3.0",
-          "commit": "7d49605338a53314d2dd8bd4508199aca56e2e38",
-          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel"
-        },
-        {
-          "version": "4.0.0",
-          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
-          "download": { 
-            "any": {
-              "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel/releases/download/v4.0.0/novatec-sdg-panel.zip",
-              "md5": "79c9626b94d4b6a3d69803f44d5d9ee8"
-            }
-          }
-        },
-        {
-          "version": "4.0.1",
-          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
-          "download": { 
-            "any": {
-              "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel/releases/download/v4.0.1/novatec-sdg-panel.zip",
-              "md5": "a02bcb5a26f45c471392c3922b07a6df"
-            }
-          }
-        },
-        {
-          "version": "4.0.2",
-          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
-          "download": { 
-            "any": {
-              "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel/releases/download/v4.0.2/novatec-sdg-panel.zip",
-              "md5": "9f77075a3c3905a7bd4dfdb8721dabfd"
-            }
-          }
-        },
-        {
           "version": "4.0.3",
           "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
           "download": { 
             "any": {
               "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel/releases/download/v4.0.3/novatec-sdg-panel.zip",
-              "md5": "054e0f2d1087b2253624d137656ca029"
+              "md5": "4ed62779da80c170f78d7c00826e6849"
             }
           }
         }
