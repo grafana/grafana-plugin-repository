@@ -245,9 +245,14 @@
       "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
       "versions": [
         {
-          "version": "2.3.0",
-          "commit": "7d49605338a53314d2dd8bd4508199aca56e2e38",
-          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel"
+          "version": "4.0.3",
+          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
+          "download": { 
+            "any": {
+              "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel/releases/download/v4.0.3/novatec-sdg-panel.zip",
+              "md5": "4ed62779da80c170f78d7c00826e6849"
+            }
+          }
         }
       ]
     },
