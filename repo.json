@@ -3840,6 +3840,16 @@
               "md5": "ab4a4573a0a768aa11af04f075d0b4d8"
             }
           }
+        },
+        {
+          "version": "0.2.6",
+          "url": "https://github.com/simPod/GrafanaJsonDatasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/simPod/GrafanaJsonDatasource/releases/download/v0.2.6/simpod-json-datasource.zip",
+              "md5": "19c1337518a0587f5c1244ee27eb4feb"
+            }
+          }
         }
       ]
     },
