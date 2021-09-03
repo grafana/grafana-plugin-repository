@@ -696,6 +696,17 @@
       "url": "https://github.com/vertica/vertica-grafana-datasource",
       "versions": [
         {
+          "version": "2.0.1",
+          "commit": "683c92a5b1dc64b3b1ec129fcc8d3cfeec598079",
+          "url": "https://github.com/vertica/vertica-grafana-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/vertica/vertica-grafana-datasource/releases/download/v2.0.1/vertica-grafana-datasource-2.0.1.zip",
+              "md5": "e1b256c560a04ef8d30a6c3b817a2c6e"
+            }
+          }
+        },
+        {
           "version": "2.0.0",
           "commit": "2dbe2a332b26fe97b08b0173cd8fd69c564c305c",
           "url": "https://github.com/vertica/vertica-grafana-datasource",
