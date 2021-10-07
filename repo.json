@@ -257,6 +257,7 @@
       "versions": [
         {
           "version": "4.0.3",
+
           "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
           "download": { 
             "any": {
@@ -264,6 +265,7 @@
               "md5": "4ed62779da80c170f78d7c00826e6849"
             }
           }
+
         }
       ]
     },
@@ -5290,6 +5292,7 @@
       "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
       "versions": [
         {
+
           "version": "0.2.2",
           "commit": "a9b355d2c1c3188f7a5e177478cba02adef345fc",
           "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
@@ -7095,6 +7098,23 @@
         }
       ]
     },
+ {
+      "id": "sebastiangunreben-cdf-panel",
+      "type": "panel",
+      "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
+      "versions": [
+        {
+          "version": "0.2.2",
+          "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/tag/v0.2.2",
+          "download": {
+            "any": {
+              "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/download/v0.2.2/sebastiangunreben-cdf-panel-0.2.2.zip",
+              "md5": "74fc9b456f4010e38075ca4896cc3a1e"
+            }
+          }
+        }
+        ]
+},
     {
       "id": "sebastiangunreben-cdf-panel",
       "type": "panel",
