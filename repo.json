@@ -5184,6 +5184,15 @@
           }
         },
         {
+          "version": "2.1.0",
+          "commit": "570882679dc37ac6f4e997e0ed3ad6062767a494",
+          "url": "https://github.com/MacroPower/macropower-analytics-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/MacroPower/macropower-analytics-panel/releases/download/v2.1.0/macropower-analytics-panel-2.1.0.zip",
+              "md5": "430e8094ca501d32c0dd46f09a53f912"
+        },
+        {
           "version": "2.0.1",
           "commit": "18be95e87933686c94ef5fafa1b87609edbe4a7e",
           "url": "https://github.com/MacroPower/macropower-analytics-panel",
