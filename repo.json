@@ -7313,13 +7313,13 @@
       "url": "https://github.com/kumahq/kuma-grafana-datasource",
       "versions": [
         {
-          "version": "0.0.3",
-          "commit": "a8ef6eb0b71ca1c45a2600ef5eab5b47c0909b39",
+          "version": "0.0.4",
+          "commit": "3f25e05e492aefed327ad84a00778f0ca3c281a2",
           "url": "https://github.com/kumahq/kuma-grafana-datasource",
           "download": {
             "any": {
-              "url": "https://github.com/kumahq/kuma-grafana-datasource/releases/download/v0.0.3/kumahq-kuma-datasource-0.0.3.zip",
-              "md5": "348dff9c6a2543a0aca2a064c8526ff5"
+              "url": "https://github.com/kumahq/kuma-grafana-datasource/releases/download/v0.0.4/kumahq-kuma-datasource-0.0.4.zip",
+              "md5": "05df593cd1e1db856a023178a26ed754"
             }
           }
         }
