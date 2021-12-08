@@ -62,4 +62,4 @@ To speed up the time it takes to review your plugin:
 ## FAQ
 
 - **Do I need to submit a private plugin?:** No. Please only submit plugins that you wish to make publicly available for the Grafana community.
-- **How long does it take to review my submission?:** We're constantly working on improving the time it takes to review a plugin. While we can't guarantee how long it'll take to review your submission, many plugins are reviewed within a few weeks from when they are submitted.
+- **How long does it take to review my submission?:** We're not able to give an estimate at this time, though we're constantly working on improving the time it takes to review a plugin. 
